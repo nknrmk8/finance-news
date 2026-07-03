@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T22:09:13.679754+09:00",
+ "generated_at": "2026-07-03T22:12:31.138636+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -36,15 +36,9 @@
   {
    "name": "金融庁",
    "category": "公的機関"
-  },
-  {
-   "name": "経済産業省",
-   "category": "公的機関"
   }
  ],
- "errors": [
-  "経済産業省: The read operation timed out"
- ],
+ "errors": [],
  "items": [
   {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
@@ -149,14 +143,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T20:25:44+09:00"
-  },
-  {
-   "title": "米国産米輸入、７５％増達成　トランプ関税合意―農水省",
-   "link": "https://www.jiji.com/jc/article?k=2026070301046&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-03T19:49:00+09:00"
   },
   {
    "title": "米ファンド傘下の田辺ファーマ、製造子会社を後発薬の東和薬品に売却",
