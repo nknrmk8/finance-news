@@ -38,8 +38,8 @@ FEEDS = [
      "category": "公的機関", "keyword_filter": False},
     {"name": "金融庁", "url": "https://www.fsa.go.jp/fsaNewsListAll_rss2.xml",
      "category": "公的機関", "keyword_filter": False},
-    {"name": "経済産業省", "url": "https://www.meti.go.jp/ml_index_release_atom.xml",
-     "category": "公的機関", "keyword_filter": False},
+    # 経済産業省 (meti.go.jp) は海外IPからタイムアウトするため除外
+    # (GitHub Actions のランナーは米国にあり毎回取得失敗する)
 ]
 
 # 金融・経済関連の判定キーワード
