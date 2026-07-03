@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T22:12:31.138636+09:00",
+ "generated_at": "2026-07-03T23:04:40.667632+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -11,6 +11,10 @@
   },
   {
    "name": "時事通信",
+   "category": "報道機関"
+  },
+  {
+   "name": "ロイター",
    "category": "報道機関"
   },
   {
@@ -41,52 +45,20 @@
  "errors": [],
  "items": [
   {
-   "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-   "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-   "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-04T02:00:00+09:00"
-  },
-  {
-   "title": "NISA口座の利用状況に関する調査結果（令和７年12月末時点）について公表しました。",
-   "link": "https://www.fsa.go.jp/policy/nisa/20260703.html",
-   "summary": "ＮＩＳＡ・ＮＩＳＡ（旧制度）・ジュニアＮＩＳＡ口座の利用状況に関する調査結果を公表しました。",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-04T02:00:00+09:00"
-  },
-  {
-   "title": "その他,「貸金業利用者に関する調査・研究」調査結果について公表しました。",
-   "link": "https://www.fsa.go.jp/common/about/research/20260703/20260703.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-04T02:00:00+09:00"
-  },
-  {
-   "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/shouken/20260703/20260703.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-04T01:00:00+09:00"
-  },
-  {
-   "title": "「マネー・ローンダリング等及び金融犯罪対策の取組と課題（2026年７月）」について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/260703/20260703.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-04T00:30:00+09:00"
-  },
-  {
-   "title": "売れてても廃業? ラーメン店苦境",
-   "link": "https://news.yahoo.co.jp/pickup/6586630?source=rss",
+   "title": "サーティワン×どう森 品切れ謝罪",
+   "link": "https://news.yahoo.co.jp/pickup/6586633?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
-   "published": "2026-07-03T21:52:42+09:00"
+   "published": "2026-07-03T22:39:09+09:00"
+  },
+  {
+   "title": "トヨタ自動車 株主数が5年で2.5倍",
+   "link": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-03T22:25:15+09:00"
   },
   {
    "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
@@ -153,6 +125,14 @@
    "published": "2026-07-03T19:36:16+09:00"
   },
   {
+   "title": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajVvd3h6bEl0dW1lRjFhdm5qNFNaMHAxM2FCTFNIbEdGWjVpZUIwcG93cHZBMDN4UXQxU29GeFdkTTNxZ3daNm9NcmJIcWhDdWlDZkFOdlFwMG80UTRzSjU5SWRoQlFjVTM5dHpaM0puWE9mXzFxZzNTd3ZXVUN5MQ?oc=5",
+   "summary": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T19:20:20+09:00"
+  },
+  {
    "title": "国の税収、過去最多84兆円　9兆円の大幅増で高まる「還元」圧力",
    "link": "https://www.asahi.com/articles/ASV733D6NV73ULFA01FM.html?ref=rss",
    "summary": "",
@@ -190,14 +170,6 @@
    "summary": "政治ジャーナリストの青山和弘が、政党や各界の論客をゲストに招き、日本の政治を深掘りする「青山和弘の政治の見方」。今回のゲストは、中道改革連合・広報委員長の伊佐進一氏（前編）です。【タイムテーブル】…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
-   "published": "2026-07-03T19:00:00+09:00"
-  },
-  {
-   "title": "財務局等の英文名称の変更について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260701/20260701.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
    "published": "2026-07-03T19:00:00+09:00"
   },
   {
@@ -345,6 +317,30 @@
    "published": "2026-07-03T17:00:00+09:00"
   },
   {
+   "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+   "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+   "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-03T17:00:00+09:00"
+  },
+  {
+   "title": "NISA口座の利用状況に関する調査結果（令和７年12月末時点）について公表しました。",
+   "link": "https://www.fsa.go.jp/policy/nisa/20260703.html",
+   "summary": "ＮＩＳＡ・ＮＩＳＡ（旧制度）・ジュニアＮＩＳＡ口座の利用状況に関する調査結果を公表しました。",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-03T17:00:00+09:00"
+  },
+  {
+   "title": "その他,「貸金業利用者に関する調査・研究」調査結果について公表しました。",
+   "link": "https://www.fsa.go.jp/common/about/research/20260703/20260703.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-03T17:00:00+09:00"
+  },
+  {
    "title": "在留資格の厳格化 カレー店を直撃",
    "link": "https://news.yahoo.co.jp/pickup/6586593?source=rss",
    "summary": "",
@@ -399,6 +395,30 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-03T16:01:00+09:00"
+  },
+  {
+   "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/shouken/20260703/20260703.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-03T16:00:00+09:00"
+  },
+  {
+   "title": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlJfZkFROUtQZ0JFOEFyNWF6N3hlLVotS2hzRjN5aXBUNW92SnRUT1BTcTRYcnptbEZMeG9NcVRHbWtHckpLdW1WWVZ3SlpLS3hpRGNzbUZRcWZnbFZyRDBJMjN3N3dwU2lOTW9TUHZTZGhLbGltaUVSZWpXeGFheg?oc=5",
+   "summary": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T15:58:00+09:00"
+  },
+  {
+   "title": "「マネー・ローンダリング等及び金融犯罪対策の取組と課題（2026年７月）」について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/260703/20260703.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-03T15:30:00+09:00"
   },
   {
    "title": "電通G、電通総研の「非公開化も選択肢」　投資家が親子上場を問題視",
@@ -465,6 +485,14 @@
    "published": "2026-07-03T14:31:49+09:00"
   },
   {
+   "title": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGhlUXZJazNuLWp4cTA3T2hPTEpIWG01TS1oUkxIQ01CcERna0dJVzZpZTBHSDJrVGhzOHVDWlNLTW53Q1VJT2JNTzJiVFpzem9xU0JJN0E0cHRHc25ZS2YxOHRaeV81bUExd0NVWTJrNTZYNWdMTENfOXp6bkdHUkVORFVqUQ?oc=5",
+   "summary": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T14:31:00+09:00"
+  },
+  {
    "title": "羽生結弦も惹かれた｢絶望の哲学者｣シオランの名言がネガティブなのに現代人に刺さる理由 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/949815?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "羽生結弦氏が言及したことがきっかけとなり､静かなブームを呼んでいる｢反出生の思想家｣エミール･シオラン。その名言は､ありとあらゆるタイプの｢ダメ人間｣がありとあらゆる場面で頼れるものでもある。絶望し…",
@@ -521,6 +549,14 @@
    "published": "2026-07-03T13:50:00+09:00"
   },
   {
+   "title": "ＥＵ、中国の市場シェア拡大が経済成長に悪影響＝ゴールドマン",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmVsd3R2TVNOd180V0MzYnRfMFlSNHU1cnVHOUxqZXhsdkZ4VVh6VVM0bkl5MlNhOVI4V1FsWHB5eFVQMFBob1dhUDdLNGNhYXE5Zm1RTG56WTJnMi01Q0liUkJoVVFGalQxZ3VLMUx6LWdiNUUyUkh1ZUpXcnM2Yw?oc=5",
+   "summary": "ＥＵ、中国の市場シェア拡大が経済成長に悪影響＝ゴールドマン&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T13:36:00+09:00"
+  },
+  {
    "title": "CopilotやChatGPTを入れても使われない､日本企業2500社が追加導入した｢Genspark｣に社員が流れた理由 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/949749?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "多くの日本企業がAIツールを導入するものの､使いこなせていない現実に直面している。そんな中､社員の\"本当に使えるAI\"として法人導入が急増するGenspark。その特徴や驚異的な成長の理由､AI活用…",
@@ -551,6 +587,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-03T13:00:00+09:00"
+  },
+  {
+   "title": "加アルバータから太平洋沿岸に原油輸送管新設へ、アジア向け強化",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUt0bmhzVmxyRGJzVE90ZGtlOTY1YXZFYkpvNTA3WFZKVUo0X0RHdk1EWkZ1cVpkS3ZDTVhwMUtmb2xnVGRqTlBaYm9Db1c2WEpVaGJzTkZVNnpSdHR0UEZ1S3lMQnB0ZnFkWEZqQmlPbnJTOHJuR0dLTjMwNEZYTWd2YmUwUQ?oc=5",
+   "summary": "加アルバータから太平洋沿岸に原油輸送管新設へ、アジア向け強化&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T12:53:00+09:00"
   },
   {
    "title": "子供の話をすると､まさに\"おじいちゃん\"の顔に…元･娘婿のサイモンが見届けたアントニオ猪木の《安らかな最期》 | ライフ | 東洋経済オンライン",
@@ -625,12 +669,12 @@
    "published": "2026-07-03T10:20:00+09:00"
   },
   {
-   "title": "長期金利一時2.81% 97年5月以来",
-   "link": "https://news.yahoo.co.jp/pickup/6586552?source=rss",
+   "title": "財務局等の英文名称の変更について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/sonota/20260701/20260701.html",
    "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-03T09:24:49+09:00"
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-03T10:00:00+09:00"
   },
   {
    "title": "日銀当座預金増減要因（7月見込み）",
@@ -697,6 +741,14 @@
    "published": "2026-07-03T06:55:34+09:00"
   },
   {
+   "title": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGI3UTFKalROZVhJOW5OM3FDdVMzUkRlc3NpWnlHZWZlLW1hOGVEQ3FlRk9ORlRJYlVIWDRKU2M4RUFWWEYtV2c2U0RSQko3c0NfVktJemJCanNpYjVMNDA3WHRSV1RYbmFQWTAyQTh4QzRGRW1IWFA1eHJpczlUYw?oc=5",
+   "summary": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T06:30:08+09:00"
+  },
+  {
    "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167731000.html",
    "summary": "2日のニューヨーク株式市場ではアメリカのFRB＝連邦準備制度理事会が早期の利上げに踏み切るとの観測が後退したことで買い注文が広がり、ダウ平均株価は前日から600ドル近く値上がりして最高値を更新しました。",
@@ -705,44 +757,28 @@
    "published": "2026-07-03T06:09:57+09:00"
   },
   {
-   "title": "「スタートアップ企業等への成長資金供給等に関する懇談会」（第８回）の開催について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/startup/index.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-03T02:00:00+09:00"
+   "title": "ＮＹ外為市場＝円急伸、一時160円台 米雇用統計受けＦＲＢ利上げ観測後退",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1faWVVSkNtaDN1OEJIeTFuRUxEZXJSSU9Sdi1xOGhFZ2t5SnZoRDFqY3d0OXBFOFdwaGE5OWFWdGNvSWNsN2kwNWx5aFg0N0hJNVk2bWduNURYYlZlMjlJN2pHczVORzlsbjIwUmI4eDV0dF9yWm5LVw?oc=5",
+   "summary": "ＮＹ外為市場＝円急伸、一時160円台 米雇用統計受けＦＲＢ利上げ観測後退&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T06:02:11+09:00"
   },
   {
-   "title": "企業会計審議会第２回サステナビリティ情報保証部会の議事次第について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20260703.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-03T02:00:00+09:00"
+   "title": "米6月雇用5.7万人増、予想大幅に下回る 労働参加率約5年ぶり低水準",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFF3empNTFI5RGdNTE1vOE5fU0ppUmFoRUJ2bXV2Y3VoVGNKTnJfSE1RZFpHOUEwMXZ4Uk1jV0J2OUx4U0p5YUZBNzFPQkhHTkRuejVGRjlzc0MtdGhuVTNuQnEtWlF4WTNiUGg3dURVLWxaNVNYcnFxQk5NX2Nvag?oc=5",
+   "summary": "米6月雇用5.7万人増、予想大幅に下回る 労働参加率約5年ぶり低水準&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T03:58:58+09:00"
   },
   {
-   "title": "国際関係,インド国際金融サービスセンター庁との協力枠組みに係る書簡交換（EOL）について公表しました。",
-   "link": "https://www.fsa.go.jp/inter/etc/20260626/20260626.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-03T02:00:00+09:00"
-  },
-  {
-   "title": "その他,「昭和100年」関連施策　特設ページを更新しました。",
-   "link": "https://www.fsa.go.jp/kouhou/showa100nen/index.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-02T22:00:00+09:00"
-  },
-  {
-   "title": "調達,入札公告等を更新しました。",
-   "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-02T20:00:00+09:00"
+   "title": "コメントは控える＝為替で三村財務官",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBueEpzaW5heFJrNlhJRnRoRjI1S29JNzRQc1NxNVdtclQyMkg4N2dsWFRQWVpIOHlLVHp3Q09QeW1yeFJDbFQ0S2NlRVhKRHJZUmczNm9zOFlfU2RvaFdXTm50WDBPMXo2V05oX2wyRmpWWEo5eDZSYQ?oc=5",
+   "summary": "コメントは控える＝為替で三村財務官&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-02T18:53:19+09:00"
   },
   {
    "title": "どこまでが配慮で、どこからが“過保護”なのか　ホワハラが生まれる職場の境界線",
@@ -769,6 +805,46 @@
    "published": "2026-07-02T17:00:00+09:00"
   },
   {
+   "title": "「スタートアップ企業等への成長資金供給等に関する懇談会」（第８回）の開催について公表しました。",
+   "link": "https://www.fsa.go.jp/singi/startup/index.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-02T17:00:00+09:00"
+  },
+  {
+   "title": "企業会計審議会第２回サステナビリティ情報保証部会の議事次第について公表しました。",
+   "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20260703.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-02T17:00:00+09:00"
+  },
+  {
+   "title": "国際関係,インド国際金融サービスセンター庁との協力枠組みに係る書簡交換（EOL）について公表しました。",
+   "link": "https://www.fsa.go.jp/inter/etc/20260626/20260626.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-02T17:00:00+09:00"
+  },
+  {
+   "title": "コメントできない＝ドル／円急落で財務省為替市場課",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkdlVjNF9vNnlfeEdleUlkX1NUM0tmWGpranpNd0tiRVo3cm5Wcmh3eDk0U2FrX1hNazZCZzhZM1pLWHM5QjVaenFrNzk2aFIzc1hadjQ0YlNPZE9rYWRNaTJIcHFZN2J6Yk5GV0w3SktVeHRhSzlNWQ?oc=5",
+   "summary": "コメントできない＝ドル／円急落で財務省為替市場課&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-02T16:49:43+09:00"
+  },
+  {
+   "title": "コラム：「構造的円安」変質か、説明できない円の弱さの要因を探る＝山田修輔氏",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmFBekFDbkExLTlIaVpkNXZESDdicGtEbzBJMnhtRU5VdHJEbGZ3TnVPcTVRZnpaZ0ZxemE4Q09CYW1kRnUxUnlDcXVmejJqRUFKLUpqOVMxNEkwRXcxbkE3MUZpRUdnNG5KQjBzSmR3THN6U1I5aUp4YzdVd09QaDM5dFFHc0Rl?oc=5",
+   "summary": "コラム：「構造的円安」変質か、説明できない円の弱さの要因を探る＝山田修輔氏&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-02T16:35:32+09:00"
+  },
+  {
    "title": "外食産業が“1000円の壁”で苦戦してるのに、なぜ「丸亀製麺」は勝ち続けるのか　唯一無二のチェーンに成長できたワケ",
    "link": "https://www.itmedia.co.jp/business/articles/2607/02/news016.html",
    "summary": "うどん業界にとどまらず、外食全般で見ても圧倒的な存在感を発揮している丸亀製麺。なぜ同チェーンは、ここまで消費者からの支持を集め続けているのか。そして一方で、香川県では店舗網を広げられていないのか。",
@@ -777,12 +853,60 @@
    "published": "2026-07-02T16:15:00+09:00"
   },
   {
+   "title": "スーパー・マイクロ従業員2人拘束 ＡＩサーバー中国不正輸出疑惑",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSThvbHVweGg5MXZvQXRUMUFuVl9VaHZHVlRiNTdyeDBGaE5BWE5wcmFEbzB6WE1YN2ExNjRHZThUZG02Sk1NUmNFRWExaloyLU1zZWg2ZEI3Z01jTThmeVFBaDJueGtYeUxaS3pOcm4wR2RHZEpFeEw3UzFDT1AyemFHbHo0WXRnTEpzdg?oc=5",
+   "summary": "スーパー・マイクロ従業員2人拘束 ＡＩサーバー中国不正輸出疑惑&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-02T16:13:43+09:00"
+  },
+  {
+   "title": "日経平均は4日ぶり反落、ＡＩ関連株安で 出遅れ銘柄には買いも",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQVlyQ1FyY2FpTV9uckVieGNVNENvQ2hDcF9HbnF1Nm85NjdoeDV1a0ZuQ0w4TWswQVNhV2VGejVHV2pNMjVrWWNzTE1qNlFpWXpDa09scE10eDV4aTFCbkl6ZUpzMWtRSXZDZUpPcnMzVU5iNXUtaERIb0p2RFB4cw?oc=5",
+   "summary": "日経平均は4日ぶり反落、ＡＩ関連株安で 出遅れ銘柄には買いも&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-02T15:58:00+09:00"
+  },
+  {
+   "title": "日銀、今後も緩やかなペースで利上げ続けるべき＝永浜諮問会議議員",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2NHSVRZUlhOYmRXWGQwSjZsb3BJeTlQLWNleklIa25jMXV4MmZJRkxla3hhZEd6NG4xOWFLOV9KWWZMZDZBbUlBQUhOUk1kTm9odlZYTDJ0cEpwQlVHTHFRcXdBQUpZNmwxN2dBYW5URTJ4TTk5VGJGcWlTaExjV1B3RUZXRWs1OGtz?oc=5",
+   "summary": "日銀、今後も緩やかなペースで利上げ続けるべき＝永浜諮問会議議員&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-02T15:41:00+09:00"
+  },
+  {
+   "title": "韓国、為替巡り日本などと緊密に意思疎通＝財政経済次官",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ejh4Rk1MeERFMU12cVFZOVRfSndmZ1h3MjVlVGdBbU13dkJXdGtqMmRtTHVUUk9oRW1vVE8wQW9Bam53R3c2bm8tdldFZjRDRVRSMmVXSk9oa0doZWdHTndSNVJJajYtV0FldTB5T18yTnhVUHhUUQ?oc=5",
+   "summary": "韓国、為替巡り日本などと緊密に意思疎通＝財政経済次官&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-02T15:34:00+09:00"
+  },
+  {
+   "title": "その他,「昭和100年」関連施策　特設ページを更新しました。",
+   "link": "https://www.fsa.go.jp/kouhou/showa100nen/index.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-02T13:00:00+09:00"
+  },
+  {
    "title": "議事要旨（第11回中央銀行デジタル通貨に関する連絡協議会）",
    "link": "http://www.boj.or.jp/paym/digital/dig260702a.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-07-02T12:00:00+09:00"
+  },
+  {
+   "title": "調達,入札公告等を更新しました。",
+   "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-02T11:00:00+09:00"
   },
   {
    "title": "営業毎旬報告（6月30日現在）",
@@ -830,7 +954,7 @@
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
-   "published": "2026-07-02T02:00:00+09:00"
+   "published": "2026-07-01T17:00:00+09:00"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月30日）について掲載しました。",
@@ -838,7 +962,7 @@
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
-   "published": "2026-07-02T02:00:00+09:00"
+   "published": "2026-07-01T17:00:00+09:00"
   },
   {
    "title": "人事異動（令和８年６月30日付及び令和８年７月１日付）について公表しました。",
@@ -846,15 +970,7 @@
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
-   "published": "2026-07-02T00:00:00+09:00"
-  },
-  {
-   "title": "日本IFIARネットワーク第10回総会議事次第・議事要旨について公表しました。",
-   "link": "https://www.fsa.go.jp/ifiar/20260701.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-01T23:00:00+09:00"
+   "published": "2026-07-01T15:00:00+09:00"
   },
   {
    "title": "【記者会見】佐藤審議委員（6月30日分）",
@@ -863,6 +979,14 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-07-01T14:05:00+09:00"
+  },
+  {
+   "title": "日本IFIARネットワーク第10回総会議事次第・議事要旨について公表しました。",
+   "link": "https://www.fsa.go.jp/ifiar/20260701.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-01T14:00:00+09:00"
   },
   {
    "title": "日銀当座預金増減要因と金融調節（6月実績）",
@@ -879,14 +1003,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-07-01T10:00:00+09:00"
-  },
-  {
-   "title": "短観（6月）＜概要、要旨＞",
-   "link": "http://www.boj.or.jp/statistics/tk/tankan06a.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-07-01T08:50:00+09:00"
   }
  ]
 }

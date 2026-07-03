@@ -26,6 +26,11 @@ FEEDS = [
      "category": "報道機関", "keyword_filter": False},
     {"name": "時事通信", "url": "https://www.jiji.com/rss/ranking.rdf",
      "category": "報道機関", "keyword_filter": True},
+    # ロイターは公式RSSを廃止済みのため、Google News RSS 経由で
+    # jp.reuters.com の記事のみを取得する(リンク先はロイター本体の記事)
+    {"name": "ロイター",
+     "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+     "category": "報道機関", "keyword_filter": True, "strip_suffix": " - Reuters"},
     {"name": "東洋経済オンライン", "url": "https://toyokeizai.net/list/feed/rss",
      "category": "経済専門メディア", "keyword_filter": True},
     {"name": "ITmedia ビジネス", "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml",
@@ -138,6 +143,9 @@ def fetch_feed(feed: dict, now: datetime) -> list[dict]:
         link = item_link(el)
         if not title or not link:
             continue
+        suffix = feed.get("strip_suffix")
+        if suffix and title.endswith(suffix):
+            title = title[: -len(suffix)].rstrip()
         summary = strip_html(
             child_text(el, "description") or child_text(el, "summary"))[:200]
         if feed["keyword_filter"] and not is_finance_related(title + summary):
@@ -153,9 +161,9 @@ def fetch_feed(feed: dict, now: datetime) -> list[dict]:
             "category": feed["category"],
             "published": published.isoformat() if published else None,
         })
-        if len(items) >= MAX_PER_SOURCE:
-            break
-    return items
+    # フィードによっては日付順に並んでいないため、新しい順に揃えてから上限を適用
+    items.sort(key=lambda x: x["published"] or "", reverse=True)
+    return items[:MAX_PER_SOURCE]
 
 
 def main() -> None:
