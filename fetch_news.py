@@ -116,8 +116,15 @@ def is_finance_related(text: str) -> bool:
 def fetch_feed(feed: dict, now: datetime) -> list[dict]:
     req = urllib.request.Request(
         feed["url"], headers={"User-Agent": "Mozilla/5.0 (finance-news-collector)"})
-    with urllib.request.urlopen(req, timeout=30) as res:
-        root = ET.fromstring(res.read())
+    # 海外IPからだと応答が遅いサイトがあるため、失敗時は1回リトライする
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as res:
+                root = ET.fromstring(res.read())
+            break
+        except Exception:
+            if attempt == 1:
+                raise
 
     if local_name(root.tag) == "html":
         raise ValueError("RSSではなくHTMLページが返されました(フィード廃止の可能性)")
