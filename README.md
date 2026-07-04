@@ -8,10 +8,14 @@
 ## 仕組み
 
 ```
-GitHub Actions (毎時15分)
+GitHub Actions (15分ごと)
   └─ fetch_news.py が公式RSSを収集・厳選
        └─ docs/data.json を更新してコミット
             └─ GitHub Pages (docs/) に自動反映
+
+ページを開いた時 (ブラウザ側)
+  ├─ 最新の data.json を取得(キャッシュ無効化済み)
+  └─ NHK経済のRSSを直接取得してマージ(CORS対応のため即時反映できる)
 ```
 
 ## 収集元(厳選済み)

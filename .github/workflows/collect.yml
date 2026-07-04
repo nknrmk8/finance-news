@@ -2,7 +2,7 @@ name: ニュース自動収集
 
 on:
   schedule:
-    - cron: "15 * * * *"  # 毎時15分(UTC)に実行
+    - cron: "*/15 * * * *"  # 15分ごとに実行(混雑時は数分遅延することがある)
   workflow_dispatch:       # 手動実行も可能
 
 permissions:

@@ -47,7 +47,18 @@
     border-bottom: 1px solid var(--border);
     padding: calc(10px + env(safe-area-inset-top)) 14px 8px;
   }
+  .titlebar { display: flex; align-items: center; justify-content: space-between; }
   h1 { font-size: 17px; margin: 0 0 2px; }
+  #reload {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--chip-bg);
+    color: var(--text);
+    font-size: 12.5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  #reload:active { opacity: .6; }
   #updated { font-size: 11.5px; color: var(--muted); }
   #chips {
     display: flex;
@@ -118,7 +129,10 @@
 </head>
 <body>
 <header>
-  <h1>📈 金融・経済ニュース</h1>
+  <div class="titlebar">
+    <h1>📈 金融・経済ニュース</h1>
+    <button id="reload" aria-label="最新の情報に更新">🔄 更新</button>
+  </div>
   <div id="updated">読み込み中…</div>
   <div id="chips"></div>
 </header>
@@ -128,12 +142,13 @@
 </main>
 <footer>
   大手報道機関・経済専門メディア・公的機関の公式RSSのみから自動収集しています。<br>
-  1時間ごとに自動更新 / タップで元記事を開きます
+  15分ごとに自動収集 + ページを開いた時に最新情報を取得 / タップで元記事を開きます
 </footer>
 <script>
 const CATEGORIES = ["すべて", "報道機関", "経済専門メディア", "編集部厳選", "公的機関"];
 let items = [];
 let active = "すべて";
+let generatedAt = null;
 
 function relTime(iso) {
   if (!iso) return "";
@@ -179,21 +194,61 @@ function renderChips() {
   }
 }
 
+function normTitle(t) {
+  return (t || "").replace(/[\s　、。・「」『』【】()（）:：!！?？…-]/g, "");
+}
+
+// NHK経済はCORS対応のため、ページを開いた瞬間にブラウザから直接
+// 最新記事を取得してマージする(他ソースはCORS非対応のため15分ごとの自動収集分)
+async function mergeLiveNHK() {
+  try {
+    const res = await fetch("https://www3.nhk.or.jp/rss/news/cat5.xml?t=" + Date.now());
+    const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
+    const known = new Set(items.map(i => normTitle(i.title)));
+    const since = generatedAt ? new Date(generatedAt) : null;
+    const fresh = [];
+    for (const el of xml.querySelectorAll("item")) {
+      const title = el.querySelector("title")?.textContent?.trim();
+      const link = el.querySelector("link")?.textContent?.trim();
+      if (!title || !link || known.has(normTitle(title))) continue;
+      const pub = el.querySelector("pubDate")?.textContent;
+      // 前回の自動収集より後に出た記事だけを速報として追加する
+      if (!pub || !since || new Date(pub) <= since) continue;
+      fresh.push({
+        title, link,
+        summary: el.querySelector("description")?.textContent?.trim() || "",
+        source: "NHK 経済", category: "報道機関",
+        published: pub ? new Date(pub).toISOString() : null,
+      });
+    }
+    if (fresh.length) {
+      items = [...fresh, ...items].sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+      render();
+    }
+  } catch (e) { /* ライブ取得失敗時は収集済みデータのみ表示 */ }
+}
+
 async function load() {
   try {
-    const res = await fetch("data.json?t=" + Date.now());
+    const res = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
     const data = await res.json();
     items = data.items || [];
+    generatedAt = data.generated_at;
     const t = new Date(data.generated_at);
     document.getElementById("updated").textContent =
       "最終更新: " + t.toLocaleString("ja-JP", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" }) +
       " / " + items.length + "件";
     render();
+    await mergeLiveNHK();
   } catch (e) {
     document.getElementById("status").textContent = "データの読み込みに失敗しました";
   }
 }
 
+document.getElementById("reload").onclick = () => {
+  document.getElementById("updated").textContent = "更新中…";
+  load();
+};
 renderChips();
 load();
 // 画面を開き直したとき(タブ復帰)に最新データを再取得
