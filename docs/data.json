@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T04:57:24.367921+09:00",
+ "generated_at": "2026-07-06T05:51:41.508194+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -42,10 +42,72 @@
    "category": "公的機関"
   }
  ],
- "errors": [
-  "ロイター: HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "宇宙ベンチャーのアストロスケールHDは半年で株価4倍超から一転急落…その背景にある3つの要因 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/950067?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "宇宙デブリ除去技術や防衛関連で注目を浴びるアストロスケールホールディングスの株価が､急騰後に急落という乱高下を見せています。その背景と今後の注目ポイントを解説します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T05:40:00+09:00"
+  },
+  {
+   "title": "あなたの職場にもいる｢優秀なのに職場を壊す人｣の正体　\"ブリリアント･ジャーク\"をなぜ企業は野放しにするのか | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/949521?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢仕事はできるけれど､一緒に働きたくない｣｢あの人さえいなければ､いいチームなのに｣……。そんな人物が､あなたの職場にもいるかもしれない。優秀な成果を出しながら､静かにチームを壊していく｢ブリリアン…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T05:30:00+09:00"
+  },
+  {
+   "title": "脅威のSNS認知→購買誘導で急拡大･韓国コスメ――高品質で強い日本勢､戦う前から不利を強いられる危機感 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/948043?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "日本の化粧品輸出額を2033年までに4倍へ――業界の動きが加速しつつあります。とはいえ､韓国のKビューティーとの競争や規制の壁など､課題は山積みのようです。日本勢の勝ち筋について､業界のキーマンに聞…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T05:30:00+09:00"
+  },
+  {
+   "title": "元金融マンがアパレル企業を救済､令和時代に生まれた新たな\"再生屋\"の正体…アッシュ･ペー･フランスなど5社を次々買収 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/950111?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "コロナ禍の収束後も続くアパレル業界の厳しい淘汰。円安やコスト高､人手不足などが経営を直撃し､著名ブランドさえも再編の波に揺れています。そうした中､再建支援の新たな担い手も。アパレル企業の経営をどう立…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T05:20:00+09:00"
+  },
+  {
+   "title": "血管炎治療薬で多数の死亡例､キッセイ薬品が直面する\"ジレンマ\"･･･欧米で承認撤回の動きも､開発元から｢詳細明かされず｣ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/950242?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ライセンス導入医薬品の安全性や有効性が揺らぐとき､どこまで主体的に対応できるのか——。難病治療薬｢タブネオス｣のデータ改ざん疑惑､重篤な副作用多発を受け､欧米で承認撤回に向けた動きが急展開する中､日…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T05:10:00+09:00"
+  },
+  {
+   "title": "資料をシュレッダー、外で隠蔽　金融庁、ウリ信組元役員ら刑事告発へ",
+   "link": "https://www.asahi.com/articles/ASV7321L8V73ULFA01LM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-06T05:00:00+09:00"
+  },
+  {
+   "title": "【独占】ビットバンク廣末社長が激白｢SBIグループ傘下入り｣の真意･･･大再編の号砲か､｢圧勝できる可能性が高まる｣ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/950233?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "国内暗号資産業界における大きな転換点となるのか。SBIグループによるビットバンクの買収は､新たな金融技術時代の幕開けを象徴します。なぜ独立路線から一転し､SBI傘下入りを決断したのか､その背景と今後…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T05:00:00+09:00"
+  },
+  {
+   "title": "不動産会社も敬遠した広大な\"廃墟\"が｢子どものアートの森｣に変身——理想の買い手を見つけた空き家マッチングの力 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/949763?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "廃墟になった家屋だけではなく雑木林や竹林まで…。相続したものの管理できず､困り果てていた物件が新たな担い手と出会って芸術と自然体験の拠点へと生まれ変わりました。多くの写真と共に､変貌の様子をレポート…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T05:00:00+09:00"
+  },
   {
    "title": "シェフが6人いる｢レストラン列車｣驚きの乗車体験　秋田内陸縦貫鉄道の｢ごっつお玉手箱列車｣ | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/950147?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -199,44 +261,12 @@
    "published": "2026-07-05T10:30:00+09:00"
   },
   {
-   "title": "60代から髪が急に老ける人が見落とす\"頭皮ケア\"､｢毎日シャンプーが60代の髪を傷める？｣意外な落とし穴 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/948939?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "60代になると心身の変化とともに､髪や頭皮のトラブルも多様化します。正しいシャンプーの選び方やマッサージ習慣で､年齢を重ねても美しい髪を目指しませんか？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-05T10:00:00+09:00"
-  },
-  {
-   "title": "｢\"鷹で団地\"の害鳥対策?!｣　鳩やカラスを撃退､糞害やゴミ荒らしが激減　｢鷹匠｣の放鷹に密着してみた | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950093?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "緑豊かな大規模団地を悩ませる鳥の糞害。その驚きの解決策として､鷹を放ち被害を減らす｢放鷹｣が導入されています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-05T09:30:00+09:00"
-  },
-  {
-   "title": "かつては｢父親の単独親権｣だった？　30年前に共同親権を導入した台湾の弁護士が明かす\"リアル\"な実態　日本は今春施行 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950162?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "今回紹介するのは､台湾の共同親権と家事支援の現状。制度だけでなく､それを支える仕組みの重要性とは？家族の新しいかたちを探ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-05T09:00:00+09:00"
-  },
-  {
    "title": "“夕日ビール”はなぜ蘇ったのか　シェア1割、アサヒ大逆転の舞台裏",
    "link": "https://www.itmedia.co.jp/business/articles/2607/05/news002.html",
    "summary": "「苦味が強いほど良い」とされた時代に、アサヒビールは消費者の声に耳を傾けた。その結果生まれたのがスーパードライだ。業界3位からの復活劇を、大阪商人の精神とともに振り返る。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-05T09:00:00+09:00"
-  },
-  {
-   "title": "｢今月､26年勤めた外資系企業を解雇された｣東大物理学科卒の50代男性が振り返る過去と見据えるこれから | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/949675?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "東京大学理科2類合格､外資系資産運用会社で26年超のキャリアを歩んだ玉井英行さん。その華やかな経歴の裏には､いくつかの大きな挫折がありました。彼がその経験から得た学びと､いま思う\"人生の意味\"とは何…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-05T08:30:00+09:00"
   },
   {
    "title": "乳幼児用ベッドガードで窒息死　生後18カ月未満には絶対使用しない",
@@ -252,30 +282,6 @@
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
-   "published": "2026-07-05T08:00:00+09:00"
-  },
-  {
-   "title": "1ドル162円突破の｢異常な円安｣はなぜ止まらない？ 原因が｢ホルムズ危機｣でも｢高圧財政｣でも変わらない\"唯一の解決策\"  | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950245?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "現在の日本で円安が止まらない原因の1つはホルムズ危機だ。ただ､原因はそれだけでない。高市政権の｢高圧財政｣政策が将来の財政運営に対する懸念を増大させ､円安をもたらしている可能性も否定できない。いずれ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-05T08:00:00+09:00"
-  },
-  {
-   "title": "｢明らかに父親ではない男が…｣緊急避妊薬の薬局販売で\"子どもへの性暴力\"が見えなくなる危うさ､産婦人科医が懸念 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/949976?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "緊急避妊薬（アフターピル）の薬局での販売解禁は､女性にとって予期せぬ妊娠リスクから自分を守る手段の一つとして期待されています。一方､性暴力や性搾取､特に子どもが被害者になっている深刻な事態が見えにく…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-05T08:00:00+09:00"
-  },
-  {
-   "title": "ドコモの夏野氏と衝突したことも､｢P.I.M.｣はIPOとM&Aの両にらみだったが最終的にヤフーに54億円で売却した | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/948844?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "今やインターネットのインフラとなったLINEヤフー。業界を30年以上見てきて､このほど著書『7つの激変』を上梓した前会長の川邊健太郎氏の証言を､全3回に分けてお届けします。今回はその1回目。ネットの…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
    "published": "2026-07-05T08:00:00+09:00"
   },
   {
@@ -359,14 +365,6 @@
    "published": "2026-07-04T08:00:00+09:00"
   },
   {
-   "title": "消費減税、取りまとめ不透明に　与野党から異論、国会空転も逆風",
-   "link": "https://www.jiji.com/jc/article?k=2026070301007&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-04T07:04:00+09:00"
-  },
-  {
    "title": "家族の遺言、見たいのにすぐ見られず　法務局の制度に遺族が戸惑い",
    "link": "https://www.asahi.com/articles/ASV6Y4CVDV6YOIPE00JM.html?ref=rss",
    "summary": "",
@@ -423,6 +421,14 @@
    "published": "2026-07-04T00:30:00+09:00"
   },
   {
+   "title": "イラン、日本企業と原油販売再開に向け協議開始＝関係筋",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aY21mb2xscXNCa0hnMG01TlNyYVJoTzlUdnc5VFpTUlRTbXpqaHdzdXZGVTRubkJDa0RLZnV0Mmk5aDRqOWJva0ZBeE01RmszZ0V6ZlhjOVRkSjhJWG9mWkFxZUZPQUlfR3JqZnFRX2h4WWU3UV81Vkpn?oc=5",
+   "summary": "イラン、日本企業と原油販売再開に向け協議開始＝関係筋&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T23:00:10+09:00"
+  },
+  {
    "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
    "summary": "日中関係が悪化する中、関西の経済界の代表団が、ことし10月に中国を訪問する方向で調整を進めていることが関係者への取材で分かりました。中国政府の幹部などと会談したいとしていますが、具体的な成果が得られるのかは不透明で、調整の状況を見極めながら最終的に判断する見通しです。",
@@ -453,6 +459,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T20:25:44+09:00"
+  },
+  {
+   "title": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajVvd3h6bEl0dW1lRjFhdm5qNFNaMHAxM2FCTFNIbEdGWjVpZUIwcG93cHZBMDN4UXQxU29GeFdkTTNxZ3daNm9NcmJIcWhDdWlDZkFOdlFwMG80UTRzSjU5SWRoQlFjVTM5dHpaM0puWE9mXzFxZzNTd3ZXVUN5MQ?oc=5",
+   "summary": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T19:20:20+09:00"
   },
   {
    "title": "春闘 最終集計 平均賃上げ率が3年連続5％超 連合",
@@ -551,6 +565,14 @@
    "published": "2026-07-03T16:01:00+09:00"
   },
   {
+   "title": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlJfZkFROUtQZ0JFOEFyNWF6N3hlLVotS2hzRjN5aXBUNW92SnRUT1BTcTRYcnptbEZMeG9NcVRHbWtHckpLdW1WWVZ3SlpLS3hpRGNzbUZRcWZnbFZyRDBJMjN3N3dwU2lOTW9TUHZTZGhLbGltaUVSZWpXeGFheg?oc=5",
+   "summary": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T15:59:42+09:00"
+  },
+  {
    "title": "第544回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
    "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2009.htm",
    "summary": "",
@@ -607,6 +629,14 @@
    "published": "2026-07-03T14:31:49+09:00"
   },
   {
+   "title": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGhlUXZJazNuLWp4cTA3T2hPTEpIWG01TS1oUkxIQ01CcERna0dJVzZpZTBHSDJrVGhzOHVDWlNLTW53Q1VJT2JNTzJiVFpzem9xU0JJN0E0cHRHc25ZS2YxOHRaeV81bUExd0NVWTJrNTZYNWdMTENfOXp6bkdHUkVORFVqUQ?oc=5",
+   "summary": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T14:31:00+09:00"
+  },
+  {
    "title": "金融政策決定会合議事録等の公表日時について",
    "link": "http://www.boj.or.jp/about/organization/policyboard/pb260703a.htm",
    "summary": "",
@@ -645,6 +675,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T12:28:28+09:00"
+  },
+  {
+   "title": "午前の日経平均は反発、出遅れ銘柄の物色先行 ＡＩ株は下げ渋りも",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEZfODh5Vm1hcG9LN25GSk1vSnQyeEhmS1NwRXZ6RjBYcHlaQTBTTEEzUTR5YW82SVUtTE8teGRvcm5vNGtBUmpMU08zQzh3b3BQUlNKUU02aDFKSFU3QkwtY1RVOXdIemVHbGNyMEtES1pBZ3FyblFWenlxV1c4TA?oc=5",
+   "summary": "午前の日経平均は反発、出遅れ銘柄の物色先行 ＡＩ株は下げ渋りも&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T12:11:00+09:00"
   },
   {
    "title": "中部電力 浜岡原発めぐる不正 赤澤経産相“厳正に対処”",
@@ -733,6 +771,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T06:55:34+09:00"
+  },
+  {
+   "title": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGI3UTFKalROZVhJOW5OM3FDdVMzUkRlc3NpWnlHZWZlLW1hOGVEQ3FlRk9ORlRJYlVIWDRKU2M4RUFWWEYtV2c2U0RSQko3c0NfVktJemJCanNpYjVMNDA3WHRSV1RYbmFQWTAyQTh4QzRGRW1IWFA1eHJpczlUYw?oc=5",
+   "summary": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-03T06:30:08+09:00"
   }
  ]
 }
