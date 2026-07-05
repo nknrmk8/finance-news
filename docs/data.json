@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T01:40:00.644165+09:00",
+ "generated_at": "2026-07-06T02:42:17.012574+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -42,7 +42,9 @@
    "category": "公的機関"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
    "title": "英石油大手 山形の洋上風力撤退か",
@@ -357,6 +359,14 @@
    "published": "2026-07-04T08:00:00+09:00"
   },
   {
+   "title": "消費減税、取りまとめ不透明に　与野党から異論、国会空転も逆風",
+   "link": "https://www.jiji.com/jc/article?k=2026070301007&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-04T07:04:00+09:00"
+  },
+  {
    "title": "家族の遺言、見たいのにすぐ見られず　法務局の制度に遺族が戸惑い",
    "link": "https://www.asahi.com/articles/ASV6Y4CVDV6YOIPE00JM.html?ref=rss",
    "summary": "",
@@ -443,14 +453,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T20:25:44+09:00"
-  },
-  {
-   "title": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajVvd3h6bEl0dW1lRjFhdm5qNFNaMHAxM2FCTFNIbEdGWjVpZUIwcG93cHZBMDN4UXQxU29GeFdkTTNxZ3daNm9NcmJIcWhDdWlDZkFOdlFwMG80UTRzSjU5SWRoQlFjVTM5dHpaM0puWE9mXzFxZzNTd3ZXVUN5MQ?oc=5",
-   "summary": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T19:20:20+09:00"
   },
   {
    "title": "春闘 最終集計 平均賃上げ率が3年連続5％超 連合",
@@ -549,14 +551,6 @@
    "published": "2026-07-03T16:01:00+09:00"
   },
   {
-   "title": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlJfZkFROUtQZ0JFOEFyNWF6N3hlLVotS2hzRjN5aXBUNW92SnRUT1BTcTRYcnptbEZMeG9NcVRHbWtHckpLdW1WWVZ3SlpLS3hpRGNzbUZRcWZnbFZyRDBJMjN3N3dwU2lOTW9TUHZTZGhLbGltaUVSZWpXeGFheg?oc=5",
-   "summary": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T15:59:42+09:00"
-  },
-  {
    "title": "第544回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
    "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2009.htm",
    "summary": "",
@@ -613,22 +607,6 @@
    "published": "2026-07-03T14:31:49+09:00"
   },
   {
-   "title": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGhlUXZJazNuLWp4cTA3T2hPTEpIWG01TS1oUkxIQ01CcERna0dJVzZpZTBHSDJrVGhzOHVDWlNLTW53Q1VJT2JNTzJiVFpzem9xU0JJN0E0cHRHc25ZS2YxOHRaeV81bUExd0NVWTJrNTZYNWdMTENfOXp6bkdHUkVORFVqUQ?oc=5",
-   "summary": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T14:31:00+09:00"
-  },
-  {
-   "title": "日銀版需給ギャップ、1―3月期は＋0.53％ 17四半期連続のプラス",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXpzVHNjSXc4SmUzandwY1ZxbTRLbHExaFM5cjJWUUpGQ1BsRzBKOWZ0ZFhmNUJsOEw1MHNETkY2ZXlqYU5Id2I4eUY4LWYxNG9ZRk9kUnJTZXR2b0ZiVWdVSGJwRk5OS2VydnJZaTB2NWYtNjBZVHZXZXpDLUhGcHNveGZkRkJ0LXNJ?oc=5",
-   "summary": "日銀版需給ギャップ、1―3月期は＋0.53％ 17四半期連続のプラス&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T14:25:44+09:00"
-  },
-  {
    "title": "金融政策決定会合議事録等の公表日時について",
    "link": "http://www.boj.or.jp/about/organization/policyboard/pb260703a.htm",
    "summary": "",
@@ -667,14 +645,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T12:28:28+09:00"
-  },
-  {
-   "title": "午前の日経平均は反発、出遅れ銘柄の物色先行 ＡＩ株は下げ渋りも",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEZfODh5Vm1hcG9LN25GSk1vSnQyeEhmS1NwRXZ6RjBYcHlaQTBTTEEzUTR5YW82SVUtTE8teGRvcm5vNGtBUmpMU08zQzh3b3BQUlNKUU02aDFKSFU3QkwtY1RVOXdIemVHbGNyMEtES1pBZ3FyblFWenlxV1c4TA?oc=5",
-   "summary": "午前の日経平均は反発、出遅れ銘柄の物色先行 ＡＩ株は下げ渋りも&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T12:11:00+09:00"
   },
   {
    "title": "中部電力 浜岡原発めぐる不正 赤澤経産相“厳正に対処”",
@@ -763,62 +733,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T06:55:34+09:00"
-  },
-  {
-   "title": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGI3UTFKalROZVhJOW5OM3FDdVMzUkRlc3NpWnlHZWZlLW1hOGVEQ3FlRk9ORlRJYlVIWDRKU2M4RUFWWEYtV2c2U0RSQko3c0NfVktJemJCanNpYjVMNDA3WHRSV1RYbmFQWTAyQTh4QzRGRW1IWFA1eHJpczlUYw?oc=5",
-   "summary": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T06:30:08+09:00"
-  },
-  {
-   "title": "ＮＹ外為市場＝円急伸、一時160円台 米雇用統計受けＦＲＢ利上げ観測後退",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1faWVVSkNtaDN1OEJIeTFuRUxEZXJSSU9Sdi1xOGhFZ2t5SnZoRDFqY3d0OXBFOFdwaGE5OWFWdGNvSWNsN2kwNWx5aFg0N0hJNVk2bWduNURYYlZlMjlJN2pHczVORzlsbjIwUmI4eDV0dF9yWm5LVw?oc=5",
-   "summary": "ＮＹ外為市場＝円急伸、一時160円台 米雇用統計受けＦＲＢ利上げ観測後退&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T06:02:11+09:00"
-  },
-  {
-   "title": "米6月雇用5.7万人増、予想大幅に下回る 労働参加率約5年ぶり低水準",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFF3empNTFI5RGdNTE1vOE5fU0ppUmFoRUJ2bXV2Y3VoVGNKTnJfSE1RZFpHOUEwMXZ4Uk1jV0J2OUx4U0p5YUZBNzFPQkhHTkRuejVGRjlzc0MtdGhuVTNuQnEtWlF4WTNiUGg3dURVLWxaNVNYcnFxQk5NX2Nvag?oc=5",
-   "summary": "米6月雇用5.7万人増、予想大幅に下回る 労働参加率約5年ぶり低水準&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T03:58:58+09:00"
-  },
-  {
-   "title": "アングル：労働力人口減でＦＲＢ内の成長論争再燃も 「悪い失業率低下」受け",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVYwQzlhTjRfRmh0T3VIOWpYYVdsNlFENGtDR1ZqbHhBb1Ywb2RwNHI4MWNucEEzNUNqYnNyTVk4eVRUOHRmckpOY2JOd0Q3ZWtpLXZOU1JSWXZsUnlRM2R6cnItam9FdG1USVNrY05ycGN1Y3FMamZVdW9KdlkyTw?oc=5",
-   "summary": "アングル：労働力人口減でＦＲＢ内の成長論争再燃も 「悪い失業率低下」受け&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T02:13:43+09:00"
-  },
-  {
-   "title": "「スタートアップ企業等への成長資金供給等に関する懇談会」（第８回）の開催について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/startup/index.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-03T02:00:00+09:00"
-  },
-  {
-   "title": "企業会計審議会第２回サステナビリティ情報保証部会の議事次第について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20260703.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-03T02:00:00+09:00"
-  },
-  {
-   "title": "国際関係,インド国際金融サービスセンター庁との協力枠組みに係る書簡交換（EOL）について公表しました。",
-   "link": "https://www.fsa.go.jp/inter/etc/20260626/20260626.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-03T02:00:00+09:00"
   }
  ]
 }
