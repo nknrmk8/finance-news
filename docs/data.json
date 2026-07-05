@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T03:43:28.205333+09:00",
+ "generated_at": "2026-07-06T04:57:24.367921+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -42,8 +42,18 @@
    "category": "公的機関"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
+  {
+   "title": "シェフが6人いる｢レストラン列車｣驚きの乗車体験　秋田内陸縦貫鉄道の｢ごっつお玉手箱列車｣ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/950147?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "秋田内陸縦貫鉄道を走る｢ごっつお玉手箱列車｣は､地元農家のお母さんたちの手作り料理を味わいながら､美しい原風景を巡る冬限定の体験型レストラン列車です。一皿ごとに込められた温もりと､駅ごとに届けられる…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-06T04:30:00+09:00"
+  },
   {
    "title": "英石油大手 山形の洋上風力撤退か",
    "link": "https://news.yahoo.co.jp/pickup/6586863?source=rss",
@@ -269,14 +279,6 @@
    "published": "2026-07-05T08:00:00+09:00"
   },
   {
-   "title": "｢リスペクトがない｣｢声優陣が蔑ろにされてる｣との声も…福田雄一監督により16年ぶり映画化｢ケロロ軍曹｣大炎上の訳 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950205?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "TVアニメ『ケロロ軍曹』20周年で公開された待望の劇場版が､ファンの期待を大きく裏切りSNSを中心に炎上中。その理由はーー。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-05T07:30:00+09:00"
-  },
-  {
    "title": "箸袋の余白に「全財産を妻に」これ有効？　落語で語る遺言のすすめ",
    "link": "https://www.asahi.com/articles/ASV6Y4F6DV6YOIPE01BM.html?ref=rss",
    "summary": "",
@@ -357,6 +359,14 @@
    "published": "2026-07-04T08:00:00+09:00"
   },
   {
+   "title": "消費減税、取りまとめ不透明に　与野党から異論、国会空転も逆風",
+   "link": "https://www.jiji.com/jc/article?k=2026070301007&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-04T07:04:00+09:00"
+  },
+  {
    "title": "家族の遺言、見たいのにすぐ見られず　法務局の制度に遺族が戸惑い",
    "link": "https://www.asahi.com/articles/ASV6Y4CVDV6YOIPE00JM.html?ref=rss",
    "summary": "",
@@ -413,14 +423,6 @@
    "published": "2026-07-04T00:30:00+09:00"
   },
   {
-   "title": "イラン、日本企業と原油販売再開に向け協議開始＝関係筋",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aY21mb2xscXNCa0hnMG01TlNyYVJoTzlUdnc5VFpTUlRTbXpqaHdzdXZGVTRubkJDa0RLZnV0Mmk5aDRqOWJva0ZBeE01RmszZ0V6ZlhjOVRkSjhJWG9mWkFxZUZPQUlfR3JqZnFRX2h4WWU3UV81Vkpn?oc=5",
-   "summary": "イラン、日本企業と原油販売再開に向け協議開始＝関係筋&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T23:00:10+09:00"
-  },
-  {
    "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
    "summary": "日中関係が悪化する中、関西の経済界の代表団が、ことし10月に中国を訪問する方向で調整を進めていることが関係者への取材で分かりました。中国政府の幹部などと会談したいとしていますが、具体的な成果が得られるのかは不透明で、調整の状況を見極めながら最終的に判断する見通しです。",
@@ -451,14 +453,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T20:25:44+09:00"
-  },
-  {
-   "title": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajVvd3h6bEl0dW1lRjFhdm5qNFNaMHAxM2FCTFNIbEdGWjVpZUIwcG93cHZBMDN4UXQxU29GeFdkTTNxZ3daNm9NcmJIcWhDdWlDZkFOdlFwMG80UTRzSjU5SWRoQlFjVTM5dHpaM0puWE9mXzFxZzNTd3ZXVUN5MQ?oc=5",
-   "summary": "ロシア、日本からジェット燃料輸入か 韓国沖で瀬取りと関係者&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T19:20:20+09:00"
   },
   {
    "title": "春闘 最終集計 平均賃上げ率が3年連続5％超 連合",
@@ -557,14 +551,6 @@
    "published": "2026-07-03T16:01:00+09:00"
   },
   {
-   "title": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlJfZkFROUtQZ0JFOEFyNWF6N3hlLVotS2hzRjN5aXBUNW92SnRUT1BTcTRYcnptbEZMeG9NcVRHbWtHckpLdW1WWVZ3SlpLS3hpRGNzbUZRcWZnbFZyRDBJMjN3N3dwU2lOTW9TUHZTZGhLbGltaUVSZWpXeGFheg?oc=5",
-   "summary": "日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T15:59:42+09:00"
-  },
-  {
    "title": "第544回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
    "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2009.htm",
    "summary": "",
@@ -621,22 +607,6 @@
    "published": "2026-07-03T14:31:49+09:00"
   },
   {
-   "title": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGhlUXZJazNuLWp4cTA3T2hPTEpIWG01TS1oUkxIQ01CcERna0dJVzZpZTBHSDJrVGhzOHVDWlNLTW53Q1VJT2JNTzJiVFpzem9xU0JJN0E0cHRHc25ZS2YxOHRaeV81bUExd0NVWTJrNTZYNWdMTENfOXp6bkdHUkVORFVqUQ?oc=5",
-   "summary": "ハンガリー閣僚、環境汚染のＥＶ電池企業に工場閉鎖を警告&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T14:31:00+09:00"
-  },
-  {
-   "title": "日銀版需給ギャップ、1―3月期は＋0.53％ 17四半期連続のプラス",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXpzVHNjSXc4SmUzandwY1ZxbTRLbHExaFM5cjJWUUpGQ1BsRzBKOWZ0ZFhmNUJsOEw1MHNETkY2ZXlqYU5Id2I4eUY4LWYxNG9ZRk9kUnJTZXR2b0ZiVWdVSGJwRk5OS2VydnJZaTB2NWYtNjBZVHZXZXpDLUhGcHNveGZkRkJ0LXNJ?oc=5",
-   "summary": "日銀版需給ギャップ、1―3月期は＋0.53％ 17四半期連続のプラス&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T14:25:44+09:00"
-  },
-  {
    "title": "金融政策決定会合議事録等の公表日時について",
    "link": "http://www.boj.or.jp/about/organization/policyboard/pb260703a.htm",
    "summary": "",
@@ -675,14 +645,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T12:28:28+09:00"
-  },
-  {
-   "title": "午前の日経平均は反発、出遅れ銘柄の物色先行 ＡＩ株は下げ渋りも",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEZfODh5Vm1hcG9LN25GSk1vSnQyeEhmS1NwRXZ6RjBYcHlaQTBTTEEzUTR5YW82SVUtTE8teGRvcm5vNGtBUmpMU08zQzh3b3BQUlNKUU02aDFKSFU3QkwtY1RVOXdIemVHbGNyMEtES1pBZ3FyblFWenlxV1c4TA?oc=5",
-   "summary": "午前の日経平均は反発、出遅れ銘柄の物色先行 ＡＩ株は下げ渋りも&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T12:11:00+09:00"
   },
   {
    "title": "中部電力 浜岡原発めぐる不正 赤澤経産相“厳正に対処”",
@@ -771,22 +733,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-03T06:55:34+09:00"
-  },
-  {
-   "title": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGI3UTFKalROZVhJOW5OM3FDdVMzUkRlc3NpWnlHZWZlLW1hOGVEQ3FlRk9ORlRJYlVIWDRKU2M4RUFWWEYtV2c2U0RSQko3c0NfVktJemJCanNpYjVMNDA3WHRSV1RYbmFQWTAyQTh4QzRGRW1IWFA1eHJpczlUYw?oc=5",
-   "summary": "米国株式市場＝ダウ最高値、雇用統計受け利上げ観測後退 ナスダックは下落&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T06:30:08+09:00"
-  },
-  {
-   "title": "ＮＹ外為市場＝円急伸、一時160円台 米雇用統計受けＦＲＢ利上げ観測後退",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1faWVVSkNtaDN1OEJIeTFuRUxEZXJSSU9Sdi1xOGhFZ2t5SnZoRDFqY3d0OXBFOFdwaGE5OWFWdGNvSWNsN2kwNWx5aFg0N0hJNVk2bWduNURYYlZlMjlJN2pHczVORzlsbjIwUmI4eDV0dF9yWm5LVw?oc=5",
-   "summary": "ＮＹ外為市場＝円急伸、一時160円台 米雇用統計受けＦＲＢ利上げ観測後退&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-03T06:02:11+09:00"
   }
  ]
 }
