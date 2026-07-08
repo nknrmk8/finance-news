@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T00:21:38.398958+09:00",
+ "generated_at": "2026-07-09T01:54:27.672958+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -45,12 +45,28 @@
  "errors": [],
  "items": [
   {
+   "title": "NY株式市場 ダウ一時800ドル超値下がり",
+   "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
+   "summary": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-09T01:27:19+09:00"
+  },
+  {
    "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
    "link": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-09T01:00:00+09:00"
+  },
+  {
+   "title": "熱気の陰で批判も　経済苦境下で「国葬優先」―イラン",
+   "link": "https://www.jiji.com/jc/article?k=2026070700821&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-09T00:20:00+09:00"
   },
   {
    "title": "「財務諸表等の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の一部を改正する件」及び「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の一部を改正する件」の公布及びパブリックコメントの結果について公表しました。",
@@ -469,14 +485,6 @@
    "published": "2026-07-08T13:30:00+09:00"
   },
   {
-   "title": "【きょうのおはBiz 7月8日(水)】障害者雇用 どう向き合う",
-   "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171591000.html",
-   "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-08T13:09:54+09:00"
-  },
-  {
    "title": "イントレプレナー（社内起業家）への挑戦はキャリアにもプラスになる。先人47人に学ぶ成長のジャーニー | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/946543?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "今､日本の伝統的企業で求められているのは､企業の内部にいながら起業家のように新規事業に挑戦するイントレプレナー（社内起業家）です。新刊『イントレプレナー（社内起業家）の教科書　新規事業を成功に導く5…",
@@ -781,6 +789,14 @@
    "published": "2026-07-08T05:29:00+09:00"
   },
   {
+   "title": "米1年先インフレ期待3.7％、23年9月以来の高水準＝ＮＹ連銀調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOTVLZ1NONmJ0Y05JTXFUcWcwc1llZTF5MVJBU0szWUR5bGwtM3ljZXJpajl1bF85QjVVaUxrY0hkNFZiaUlUT0ZTWEhvS3lpNFlVOGdWM2dKTXVwcTFrdGQxTm1hQWE1ZUdoeVRhLVgzVDVsZnNKSmQ3ZmJQTjc4LQ?oc=5",
+   "summary": "米1年先インフレ期待3.7％、23年9月以来の高水準＝ＮＹ連銀調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-08T02:01:43+09:00"
+  },
+  {
    "title": "「犯罪による収益の移転防止に関する法律施行令第十七条の二及び第十七条の三の規定に基づき国又は地域を指定する件の一部を改正する件（案）」に対するパブリックコメントの結果等について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260707-2/20260707-2.html",
    "summary": "",
@@ -853,14 +869,6 @@
    "published": "2026-07-07T14:00:00+09:00"
   },
   {
-   "title": "骨太原案、市場解釈は「誤解」 現時点で変更考えず＝城内経財相 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1QxY2tfZGNsV3hMMEVpMzVIVm10aVRVQUJ2U3loQTVMU3VldnZOV2FIeHUyMW9kVkhmMjdjMHUzQ3g3RFNvSFJvV1FraGxhU0hyU2ZSMEVOUVE1SUg4VklDUGk1eXRzandYQnVubzZGVjZSNjdDcDh6YU1HQlc3dQ?oc=5",
-   "summary": "骨太原案、市場解釈は「誤解」 現時点で変更考えず＝城内経財相&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-07T10:47:00+09:00"
-  },
-  {
    "title": "マネタリーベースと日本銀行の取引（6月）",
    "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2606.pdf",
    "summary": "",
@@ -923,14 +931,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-07T00:00:00+09:00"
-  },
-  {
-   "title": "高市首相「陳述書提出」で釈明　典範改正、将来の議論縛らず―参院決算委",
-   "link": "https://www.jiji.com/jc/article?k=2026070600573&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-06T19:00:00+09:00"
   }
  ]
 }
