@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T02:40:46.619433+09:00",
+ "generated_at": "2026-07-13T03:33:55.017429+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -357,14 +357,6 @@
    "published": "2026-07-11T06:13:35+09:00"
   },
   {
-   "title": "ＮＹ外為市場＝円上昇、年金基金巡る財務相発言が支援 中東情勢も注視",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ockZpV2l4ZDZRU3FWY2ZjZWJVRHdIek9IbVV1dkdMU0thWmFVWGowRXZqbjJMTFJGQlo3cDlCbjJnYi12QWQ4X01hZnkzZENYVHBhbzJVU0tJREx6Q0VUb0FQbi1oaXMtUkRQenJQVkNjWGVYUHVhNA?oc=5",
-   "summary": "ＮＹ外為市場＝円上昇、年金基金巡る財務相発言が支援 中東情勢も注視&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-11T06:01:16+09:00"
-  },
-  {
    "title": "他人のインスタ投稿写真、無断でAI合成できる？メタ新機能に批判",
    "link": "https://www.asahi.com/articles/ASV7B2QXQV7BUHBI018M.html?ref=rss",
    "summary": "",
@@ -598,7 +590,7 @@
   },
   {
    "title": "フェイルの発生状況（6月）",
-   "link": "https://www.boj.or.jp/statistics/set/bffail/sjgb2606.pdf",
+   "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2606.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -614,7 +606,7 @@
   },
   {
    "title": "（日銀レビュー）高粒度データを用いた大手行の外貨預金の顧客動態・預金スプレッドの考察",
-   "link": "https://www.boj.or.jp/research/wps_rev/rev_2026/rev26j10.htm",
+   "link": "http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j10.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -709,6 +701,14 @@
    "published": "2026-07-10T10:52:00+09:00"
   },
   {
+   "title": "「骨太」の修文調整、金融政策は日銀に委ねられるべき＝片山財務相",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjlxUG9yY1I2bmtIN1QwOEtIa3RYY3I0NkJMOEs3TXdMUm1Cc1BZU3hyU2dZTXFTZFlzLTFJZUM2dy0wTmNaQmlSNDRtcVItcURETDJNTnVpT1ZKVFJ2RGxxU1NKU3RxMzFlR05VNVdQMk4zNENkOUpnY3VpOGdsQWJaem1CbnBhRThj?oc=5",
+   "summary": "「骨太」の修文調整、金融政策は日銀に委ねられるべき＝片山財務相&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-10T10:49:00+09:00"
+  },
+  {
    "title": "国庫短期証券（第1395回）の発行予定額等",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260710.htm",
    "summary": "",
@@ -766,7 +766,7 @@
   },
   {
    "title": "企業物価指数（6月）",
-   "link": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2606.pdf",
+   "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2606.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
