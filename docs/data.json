@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T08:09:44.724498+09:00",
+ "generated_at": "2026-07-14T09:03:36.902577+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -42,8 +42,18 @@
    "category": "公的機関"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
+  {
+   "title": "ニトリは年間167.8時間…！従業員の教育研修にじっくり時間をかける会社ランキング | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951159?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "人材不足が深刻化する中､企業が従業員育成にどれほど注力しているかご存じでしょうか。本記事では､従業員1人当たりの年間教育研修時間が長い企業をランキング形式で紹介。研修費用や独自の育成制度にも触れ､注…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-14T08:30:00+09:00"
+  },
   {
    "title": "休職代行広がり 公務員ら駆け込み",
    "link": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
@@ -59,14 +69,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-14T08:00:00+09:00"
-  },
-  {
-   "title": "今日の株式見通し＝弱含み、米株安重し 韓国株引き続き注視",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjRDY0VvY1RzRnRsYUpJNUkzRXI1VnMyZ2VROC0yUDJfTnBmQ29zUWZyNGs0Tjg2Y3lHNlBHMXRkZHFFelZQYVBodzhaM054TmlxRWtFWUs5eDhsNUQ5Z1p6WGFhYkp5QXg2RFYzb3JUZ2haVVJlYUJTcXFaNkVIZA?oc=5",
-   "summary": "今日の株式見通し＝弱含み、米株安重し 韓国株引き続き注視&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-14T07:53:44+09:00"
   },
   {
    "title": "本気で｢子どもに食べさせたくない｣2大NG\"アイス\"身近な人気商品も⋯｢食の安全｣の専門家がやさしく解説〈再配信〉 | ライフ | 東洋経済オンライン",
@@ -109,7 +111,7 @@
    "published": "2026-07-14T07:29:58+09:00"
   },
   {
-   "title": "NY原油、一時10％上昇　米国の対イラン海上封鎖の再開表明受け",
+   "title": "NY原油、一時10%上昇　米国の対イラン海上封鎖の再開表明受け",
    "link": "https://www.asahi.com/articles/ASV7F77CZV7FUHBI005M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
@@ -123,6 +125,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-14T07:06:02+09:00"
+  },
+  {
+   "title": "金利上昇、奨学金返済に重み　若者の将来設計に影響も―専門家「社会全体の問題」",
+   "link": "https://www.jiji.com/jc/article?k=2026071300497&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-14T07:05:00+09:00"
   },
   {
    "title": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
@@ -141,20 +151,12 @@
    "published": "2026-07-14T07:00:00+09:00"
   },
   {
-   "title": "近く利上げの可能性も　インフレ予想超えなら―米ＦＲＢ理事",
-   "link": "https://www.jiji.com/jc/article?k=2026071400157&g=int&m=rss",
+   "title": "防衛産業で対日協力　「共同生産」にも言及―アゼルバイジャン大統領",
+   "link": "https://www.jiji.com/jc/article?k=2026071400188&g=int&m=rss",
    "summary": "",
    "source": "時事通信",
    "category": "報道機関",
-   "published": "2026-07-14T06:46:00+09:00"
-  },
-  {
-   "title": "ＮＹ原油、７８ドル台　１カ月ぶり高値",
-   "link": "https://www.jiji.com/jc/article?k=2026071400147&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-14T06:44:00+09:00"
+   "published": "2026-07-14T06:49:00+09:00"
   },
   {
    "title": "1歳6カ月の双子を乗せた自転車が転倒､\"血まみれ\"に…子どもを乗せられる｢3輪自転車｣を開発したママ起業家の奮闘 | ライフ | 東洋経済オンライン",
@@ -171,22 +173,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-14T06:30:00+09:00"
-  },
-  {
-   "title": "米国株式市場＝反落、イラン情勢巡る懸念でリスク選好後退 ハイテク株安",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTE5VX25wbFN1MzRQQnZGMmZKY3UxYnMwN3o5TmNkck1nRy1UR3gxdkVvZzdfVnpJVk40em5wSURlRkpqRzE2U0otT2o3d1I3XzdhanNNY242YnJkRk9iTzdFYWRvT2g3Q0xjRElwVWFpVFB0bXhyaHZpZWNQdEg4Zg?oc=5",
-   "summary": "米国株式市場＝反落、イラン情勢巡る懸念でリスク選好後退 ハイテク株安&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-14T06:21:25+09:00"
-  },
-  {
-   "title": "米１２州、ワーナー買収阻止へ提訴　映画・テレビの「価格上昇招く」",
-   "link": "https://www.jiji.com/jc/article?k=2026071400161&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-14T06:01:00+09:00"
   },
   {
    "title": "郵政めぐる法改正はなぜ実現したのか　キーマンの落選と改革派の変心",
@@ -301,22 +287,6 @@
    "published": "2026-07-14T05:02:25+09:00"
   },
   {
-   "title": "全東信が\"負債1100億円超\"で｢今年最大の倒産｣…政府が\"異例の呼びかけ\"へ　金融機関や｢夜の街｣への影響を詳しく解説 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951324?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "クレジットカード決済代行大手｢全東信｣の破産は､今年最大規模の倒産となり､全国の小規模飲食店などに深刻な影響を与えています。いったい､何が起きているのでしょうか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-14T05:00:00+09:00"
-  },
-  {
-   "title": "ウォラーＦＲＢ理事、「近い将来」利上げの可能性 インフレ高止まりなら",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEdHTjRTTl90cTlJQ3BMTnZVY2RTVzZPbE5YR0Y1MktwckpEalJ6aVlCSnAxeFVTZEdwUWo4NUtuU2lMUWlYMW5BOGIxeG5pVnFEdDhqaWNvVTNadFhTSTdmbzlVR3FQZllPS1dpVi1TbVpzWEFsajFkSlJ5RU9XTw?oc=5",
-   "summary": "ウォラーＦＲＢ理事、「近い将来」利上げの可能性 インフレ高止まりなら&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-14T04:17:35+09:00"
-  },
-  {
    "title": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20260713.html",
    "summary": "",
@@ -347,14 +317,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-13T23:18:23+09:00"
-  },
-  {
-   "title": "ＥＵと日本など十数カ国、ガザ復興支援へ10億ドルのイニシアチブ立ち上げ",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb28wb0d1OW5PWmdLVm9teVRIZ1RmZXBuMDRCRGNHM1cyeDV3aVNlM0s5QUdhcXNOU0JOaFBwamJCLWpOM0MyZFpIQVNCNnQ3UTMzbWN1SldmeWdCYXFGYlZfN0VVSjJ4dXJCWjZQVkNxVExNUnp1dg?oc=5",
-   "summary": "ＥＵと日本など十数カ国、ガザ復興支援へ10億ドルのイニシアチブ立ち上げ&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T22:59:43+09:00"
   },
   {
    "title": "韓国株価8％超の大幅な下落 売買を一時的に中断する措置も",
@@ -405,36 +367,12 @@
    "published": "2026-07-13T20:20:12+09:00"
   },
   {
-   "title": "アジア株式市場サマリー：引け（13日）",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkhlUWNtemQ5Ym5jVU9zTVJJZHdxZ1paNFo3eEc4RHByck9TaHRnV0FVY1A3SnpWRkdHbVZjenJuZm43eGdHOWg0bmp0RE1qWDFlNjJqSkhpSVdKcnBaVGpiUXlyZ1ZYcng2WHVrXzByTndobGxlX0lRbUtkWE5FVA?oc=5",
-   "summary": "アジア株式市場サマリー：引け（13日）&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T19:38:49+09:00"
-  },
-  {
-   "title": "世界のＩＰＯ、6月は前年比9倍の1082億ドル スペースＸが寄与＝ＬＳＥＧ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXdQSUl0M0lhNTdYbUVnaF9oNFU5MG5BdW03dUZ1S2ZhZjQ4TGdnTkxnTG4wX3VjbnJkX2MzQ2JyQ1hQOVVwMjMwbEg3UDB3SktDLXdYRWNNcDVtTEc1ZXFiLW9DeU91Z0dJY3k3aGI4bFNZUlBlNkpJU2FfbWUtcQ?oc=5",
-   "summary": "世界のＩＰＯ、6月は前年比9倍の1082億ドル スペースＸが寄与＝ＬＳＥＧ&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T19:06:05+09:00"
-  },
-  {
    "title": "給付付き税額控除、実務負担に懸念　芦屋市長「国の下請けではない」",
    "link": "https://www.asahi.com/articles/ASV7F2HMJV7FPLFA001M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-13T19:03:36+09:00"
-  },
-  {
-   "title": "世界のＭ＆Ａ、6月は前年比67％増の6097億ドル 米欧けん引＝ＬＳＥＧ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODI3MjFtSTNuYjNINzBaa0xRbWZ0Q1NnWklXQnkyOUlkRDF6N1JxblZycDU2RWJMREdSSUM3QjdrTDczTVNOb21ZcDlsQmw0RGNFSmlCYXZvOWRTNGpiTkZRano5R2FwdDVpSW5JaU1NVTkxeXMxamhPWF9YMjA3Nw?oc=5",
-   "summary": "世界のＭ＆Ａ、6月は前年比67％増の6097億ドル 米欧けん引＝ＬＳＥＧ&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T18:58:07+09:00"
   },
   {
    "title": "｢LINE｣ゲーム機能で610万人の個人ID誤送信　不正利用なし",
@@ -485,44 +423,12 @@
    "published": "2026-07-13T17:00:00+09:00"
   },
   {
-   "title": "ドル一時161円後半、目立った材料なく下振れした後持ち直す",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZWXk4c0h6QXJ4eVJqbkR1TWx2a0JwLUU0TlRhbWhPYmNwbzJwMUpQWXVaZEhjNWZ0bldjWW9rUHBYQ3Fic3BkbVdyOFFpclJtZnRNZUJRaXlJZ3R2SzA5ZnBvazBlc04xY0VrYnFQTUlIMUw2Mjd2Sg?oc=5",
-   "summary": "ドル一時161円後半、目立った材料なく下振れした後持ち直す&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T16:53:43+09:00"
-  },
-  {
    "title": "株価 一時1900円余の大幅な値下がり イラン情勢で警戒感広がる",
    "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
    "summary": "週明け13日の東京株式市場、AIや半導体関連の銘柄を中心に売り注文が出て、日経平均株価は、一時、1900円余りの大幅な値下がりとなりました。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-13T16:43:57+09:00"
-  },
-  {
-   "title": "日経平均は3日ぶり反落、半導体株に利益確定売り ポジション調整も",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnJPYXpPcTZ1czI3aDg2R0Fob2VIcTlDOGIwV0s2ZGdFcW9KdXhaYkVWWXRoX1NDcE1NZG1rakpZN0F6TDA0alpBb2I5Tm42LVJKNDBVcTF5RzJ5YXE5cl95dDFnZ0l3OGExbXBkUTVkUmo3N09fLWhVcGhWb1VMOQ?oc=5",
-   "summary": "日経平均は3日ぶり反落、半導体株に利益確定売り ポジション調整も&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T16:41:05+09:00"
-  },
-  {
-   "title": "韓国27年度予算案、過去最大800兆ウォン超へ ＡＩブームで",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zLXZrTUVkSzUyRExJb2VVX25jLVdUanNMVnctS2hTdVk1WHp3Nk85ZHdzaHVHVXdCTDlxbkV2OXJXRFkxLXVQZTRzek9fdHpRUEdFNmYxRjFuNmQ5VXBVY0hqQXhCd0U5eUxPQllpY1djMENHZlUxMg?oc=5",
-   "summary": "韓国27年度予算案、過去最大800兆ウォン超へ ＡＩブームで&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T16:21:44+09:00"
-  },
-  {
-   "title": "米投資ファンドのダルトン、トーセイ株を買い増し 6.07％",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NNUhxdFNqZDN1UTBjZXRVajI3NGY2cTBFQzFmYjRUNTJaQ1BQWGJabEhEZm01a3lMWkpmaENIVVpvVTM1M1JCLUM0VEV4R3pQOWRJblFVREJaZXJEc2pzZF9UOWxySVlMT1FZTk9CNTBTeFdFVnc?oc=5",
-   "summary": "米投資ファンドのダルトン、トーセイ株を買い増し 6.07％&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T16:17:18+09:00"
   },
   {
    "title": "人事異動(令和8年7月13日)",
@@ -541,30 +447,6 @@
    "published": "2026-07-13T15:00:00+09:00"
   },
   {
-   "title": "ＧＰＩＦの国内投資強化策、政府は資産構成割合の変更想定せず＝関係者",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wY0JGU1hTQVNqaml6d3JoWklhQmxYVGMzWGpjekRVQXcyRXdicEVkcmNncFRiTnZPUHhhRlFLeW5qYlhGWUlqNWVsYktnODZUOXVsc3NKTEg3MVllTG43TE9LV1FoNjVmNkdLR3lORjQxTVhrZjZCMQ?oc=5",
-   "summary": "ＧＰＩＦの国内投資強化策、政府は資産構成割合の変更想定せず＝関係者&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T14:54:00+09:00"
-  },
-  {
-   "title": "軽油価格が急騰、ロシアの禁輸で供給逼迫 世界経済への影響懸念",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeXZFcHV5RjVXTTR4VjVHblIzb2l1TXVmRTREUG5BQ2V4YjZzSDNCV3ZmaDFJaXFTcVZKWElvVkZEYUZCOFJMRkdSR1lkRjhiaUx2OEpRdUNYbHJjSExldGI0Z0lPb2NiUnFNWDJDSGxWR0ZIeXpZMERB?oc=5",
-   "summary": "軽油価格が急騰、ロシアの禁輸で供給逼迫 世界経済への影響懸念&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T14:25:00+09:00"
-  },
-  {
-   "title": "米ガソリン平均価格、週間0.06ドル上昇 5月中旬以来最大",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fQVhSSVd2LUsyLTV3eDNRbTI5QjNySnN5VmQ4R3l1T0lsdHZGU2dxNWdmM0lUYU5wSkhMTTk5ajEzbEFvSnhtSDlTYlFfQTNVUFhSdlNtT3JqcF9pYWZseGlaR1l4WFU2NEUtc2tkUEE1blN1aW1sVVdR?oc=5",
-   "summary": "米ガソリン平均価格、週間0.06ドル上昇 5月中旬以来最大&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T14:04:00+09:00"
-  },
-  {
    "title": "【きょうのおはBiz 7月13日(月)】過熱するコンビニ衣料品",
    "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175481000.html",
    "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
@@ -579,14 +461,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-13T12:39:16+09:00"
-  },
-  {
-   "title": "韓国株が5％超安、ＡＩ懸念でＳＫハイニックスなど半導体に売り",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1saThtN1dGUng0Z3MtNzNqNlI3WXNKSG85Ri0tNWFVaVVzWVJVUUlzYTFOUHpEbkFDdmg0Q3pESDNPdmI1dWExMi1wdS1KRXIwWWJ0cG1yTDQ2LUNlU0FNVDFZQ2tFVnpsTExJWkltRmJlSGJWcF9heA?oc=5",
-   "summary": "韓国株が5％超安、ＡＩ懸念でＳＫハイニックスなど半導体に売り&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-13T12:30:00+09:00"
   },
   {
    "title": "トイレ・ユニットバスだけではない…　TOTOの意外な「稼ぎ頭」",
@@ -747,14 +621,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-12T06:00:00+09:00"
-  },
-  {
-   "title": "韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達",
-   "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
-   "summary": "韓国の半導体大手「SKハイニックス」は10日、アメリカのナスダック市場に上場しました。これによって会社は日本円でおよそ4兆3000億円を調達し、AI需要が高まるなかで今後、生産施設の建設などに充てる計画です。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-11T08:48:40+09:00"
   }
  ]
 }
