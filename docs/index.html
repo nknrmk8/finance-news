@@ -104,6 +104,22 @@
   .b-経済専門メディア { background: var(--badge-media); }
   .b-編集部厳選 { background: var(--badge-curated); }
   .b-公的機関 { background: var(--badge-gov); }
+  .b-海外金融 { background: #be123c; }
+  .orig {
+    font-size: 11.5px;
+    color: var(--muted);
+    line-height: 1.4;
+    margin: 4px 0 0;
+  }
+  .trbtn {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 4px 12px;
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    color: var(--accent);
+    font-size: 12px;
+  }
   .src { font-size: 12px; color: var(--muted); }
   .time { font-size: 12px; color: var(--muted); margin-left: auto; white-space: nowrap; }
   .title { font-size: 15px; font-weight: 600; line-height: 1.45; margin: 0; }
@@ -145,7 +161,7 @@
   15分ごとに自動収集 + ページを開いた時に最新情報を取得 / タップで元記事を開きます
 </footer>
 <script>
-const CATEGORIES = ["すべて", "報道機関", "経済専門メディア", "編集部厳選", "公的機関"];
+const CATEGORIES = ["すべて", "報道機関", "経済専門メディア", "海外金融", "編集部厳選", "公的機関"];
 let items = [];
 let active = "すべて";
 let generatedAt = null;
@@ -178,7 +194,9 @@ function render() {
         <span class="time">${relTime(i.published)}</span>
       </div>
       <p class="title">${esc(i.title)}</p>
+      ${i.title_orig ? `<p class="orig">${esc(i.title_orig)}</p>` : ""}
       ${i.summary ? `<p class="summary">${esc(i.summary)}</p>` : ""}
+      ${i.lang === "en" ? `<span class="trbtn" data-url="${esc(translateUrl(i.link))}">🌐 日本語で読む</span>` : ""}
     </a>`).join("");
 }
 
@@ -193,6 +211,28 @@ function renderChips() {
     box.appendChild(btn);
   }
 }
+
+// 記事全文をGoogle翻訳のプロキシ(translate.goog)経由で日本語表示するURLを作る
+function translateUrl(link) {
+  try {
+    const u = new URL(link);
+    u.hostname = u.hostname.replace(/-/g, "--").replace(/\./g, "-") + ".translate.goog";
+    u.searchParams.set("_x_tr_sl", "auto");
+    u.searchParams.set("_x_tr_tl", "ja");
+    u.searchParams.set("_x_tr_hl", "ja");
+    return u.toString();
+  } catch (e) { return link; }
+}
+
+// 「日本語で読む」ボタン: カード全体のリンクとは別に翻訳版を開く
+document.getElementById("list").addEventListener("click", (e) => {
+  const btn = e.target.closest(".trbtn");
+  if (btn) {
+    e.preventDefault();
+    e.stopPropagation();
+    window.open(btn.dataset.url, "_blank", "noopener");
+  }
+});
 
 function normTitle(t) {
   return (t || "").replace(/[\s　、。・「」『』【】()（）:：!！?？…-]/g, "");
