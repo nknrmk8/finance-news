@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
- "generated_at": "2026-07-15T22:10:56.331575+09:00",
-=======
- "generated_at": "2026-07-15T22:52:34.196223+09:00",
->>>>>>> Stashed changes
+ "generated_at": "2026-07-15T22:59:00.161329+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -65,22 +61,16 @@
  "errors": [],
  "items": [
   {
-<<<<<<< Updated upstream
-   "title": "石油連盟会長 “中東産油国のパイプライン増強へ支援検討”",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177871000.html",
-   "summary": "石油元売り各社で作る「石油連盟」の木藤会長は15日の定例会見で、ホルムズ海峡を通らないルートでの原油調達を拡大するため、中東の産油国が取り組むパイプラインの増強への支援を日本政府とともに検討する考えを示しました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T22:05:37+09:00"
+   "title": "米国の天然ガス先物は序盤の取引で小幅下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-down-in-early-trading-17fd161f?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物は、ターミナルメンテナンスによるソフトLNG原料ガスの流入が夏の冷房需要を満たすための需要を部分的に相殺したため、小幅安となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-15T22:55:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Edge Down in Early Trading"
   },
   {
-   "title": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177751000.html",
-   "summary": "冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社はサイバー攻撃を受けたと公表しました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T20:58:18+09:00"
-=======
    "title": "今日の市場でのウォーレン・バフェット氏：「誰もがギャンブルを好む中、価値観を見つけるのは難しい」",
    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
    "summary": "同投資家は株式市場を厳しく批判しており、株式市場は長期的な投資ではなく、投機的な取引によってますます定義されつつあると述べている。",
@@ -269,16 +259,6 @@
    "title_orig": "New York Fed President Williams says inflation has peaked, rates 'well positioned'"
   },
   {
-   "title": "JPモルガン、ブラックロック、ゴールドマンが株式と国債をトークン化へ",
-   "link": "https://www.wsj.com/finance/investing/jpmorgan-blackrock-and-goldman-to-tokenize-stocks-treasurys-0a776ba7?mod=rss_markets_main",
-   "summary": "貿易処理業者DTCCは、資産をデジタルトークンに変換するための試験運用をウォール街の企業と開始している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-15T21:30:00+09:00",
-   "lang": "en",
-   "title_orig": "JPMorgan, BlackRock and Goldman to Tokenize Stocks, Treasurys"
-  },
-  {
    "title": "バフェット氏、トランプ大統領がケビン・ウォーシュ氏をFRB議長に選んだのは「良い選択だった」と語る",
    "link": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
    "summary": "ウォーレン・バフェット氏は、ケビン・ウォーシュFRB議長が最善の仕事をしてくれると信じている。",
@@ -367,6 +347,14 @@
    "title_orig": "Buffett describes Gates’s relationship with Epstein as ‘distasteful’"
   },
   {
+   "title": "調達,入札公告等を更新しました。",
+   "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-15T20:00:00+09:00"
+  },
+  {
    "title": "重視するのは「脱ホルムズ」　石油連盟会長、中東原油はなお「重要」",
    "link": "https://www.asahi.com/articles/ASV7H3DJ5V7HULFA01CM.html?ref=rss",
    "summary": "",
@@ -422,6 +410,22 @@
    "summary": "高市政権発足後、初となる経済財政運営と改革の基本方針、通称「骨太の方針」が７月に閣議決定される見通しだ。国の借金が約1100兆円にものぼる中、政権が掲げるのは「責任ある積極財政」。今後の成長に向けて…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
+   "published": "2026-07-15T19:00:00+09:00"
+  },
+  {
+   "title": "その他,金融仲介機能の発揮に向けたプログレスレポートについて公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260715/20260715.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-15T19:00:00+09:00"
+  },
+  {
+   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月10日）について掲載しました。",
+   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20260710-1.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
    "published": "2026-07-15T19:00:00+09:00"
   },
   {
@@ -807,439 +811,8 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-15T11:00:00+09:00"
->>>>>>> Stashed changes
   },
   {
-   "title": "調達,入札公告等を更新しました。",
-   "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-<<<<<<< Updated upstream
-   "published": "2026-07-15T20:00:00+09:00"
-  },
-  {
-   "title": "重視するのは「脱ホルムズ」　石油連盟会長、中東原油はなお「重要」",
-   "link": "https://www.asahi.com/articles/ASV7H3DJ5V7HULFA01CM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T19:25:00+09:00"
-  },
-  {
-   "title": "ニチレイ障害 サイバー攻撃が原因",
-   "link": "https://news.yahoo.co.jp/pickup/6588070?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-15T19:15:56+09:00"
-  },
-  {
-   "title": "ニチレイのシステム障害　くら寿司、井村屋、スーパーにも影響拡大",
-   "link": "https://www.asahi.com/articles/ASV7H24YCV7HULFA00YM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T19:13:02+09:00"
-  },
-  {
-   "title": "中国、4~6月期GDPは4.3%増　前期から減速、消費の低迷続く",
-   "link": "https://www.asahi.com/articles/ASV7G2TVSV7GUHBI019M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T19:11:01+09:00"
-  },
-  {
-   "title": "中国メモリー大手ＣＸＭＴのＩＰＯ、投資家は「評価額10倍」期待 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81NUExaWNmY0kwRE1vek9VZ052Q3AxaU1kTWduUnd6cFI5RTU2ejE3OWxsTXdSeUVYU2RCTjB2RWhnbG1feWZVdlpXT0VHY0h4S2VFUmhySVFYUEtnVjVCYXA1dWpBU0NQdHVVNGFYY1l3TERRdEViVA?oc=5",
-   "summary": "中国メモリー大手ＣＸＭＴのＩＰＯ、投資家は「評価額10倍」期待&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T19:03:46+09:00"
-  },
-  {
-   "title": "【今さら聞けない骨太の方針】“高市カラー”で初の大方針／金利上昇で市場が警戒？／責任ある積極財政の中身／半導体・AIなど17分野の投資効果／悪い円安、インフレへの備え | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951678?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "高市政権発足後、初となる経済財政運営と改革の基本方針、通称「骨太の方針」が７月に閣議決定される見通しだ。国の借金が約1100兆円にものぼる中、政権が掲げるのは「責任ある積極財政」。今後の成長に向けて…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T19:00:00+09:00"
-  },
-  {
-   "title": "その他,金融仲介機能の発揮に向けたプログレスレポートについて公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260715/20260715.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-15T19:00:00+09:00"
-  },
-  {
-   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月10日）について掲載しました。",
-   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20260710-1.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-15T19:00:00+09:00"
-  },
-  {
-   "title": "原油価格が2％上昇、イラン革命防衛隊が全輸出回廊の閉鎖警告 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95cERRdW1DdjgyZktPSjhTUV9xSFBEczJ5QkNLV3ZmZFJFOE5hU3V6LTJfeDVPMEpiQ3pMcXJlRXd3VGN6T1h3NURpLURCWHRNQzdsakVEVmI4dFo1NGNQWXZkaVRRNXlQdjctbkI2QVRpdW9LNzM2Zm53?oc=5",
-   "summary": "原油価格が2％上昇、イラン革命防衛隊が全輸出回廊の閉鎖警告&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T18:55:44+09:00"
-  },
-  {
-   "title": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177231000.html",
-   "summary": "北陸新幹線の新大阪までの延伸ルートを議論する与党の委員会は、福井県小浜市から京都駅の西側にある桂川駅付近を経由するルートが望ましいとする報告をまとめました。物価の上昇が続く中、建設費は当初の想定よりも大幅に膨らみ、およそ5兆5000億円にのぼる見通しです。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T18:44:54+09:00"
-  },
-  {
-   "title": "円相場 ドルに対して小幅な値動き",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177701000.html",
-   "summary": "15日の東京外国為替市場、円相場はドルに対して小幅な値動きとなりました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T18:25:24+09:00"
-  },
-  {
-   "title": "上半期の訪日客は5年ぶり減少 専門家「今後は“成熟期”へ」",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177481000.html",
-   "summary": "先月までの半年間に日本を訪れた外国人旅行者は2108万人余りと去年の同じ時期より2％減って、上半期としては5年ぶりの減少となりました。日中関係の悪化で中国からの観光客が減ったほか、中東情勢に伴って航空便が減ったことが影響した形です。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T18:13:58+09:00"
-  },
-  {
-   "title": "中国 GDP 4～6月は前年同期比＋4.3％ 景気の減速傾向鮮明に",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177331000.html",
-   "summary": "中国のことし4月から先月までのGDP＝国内総生産の伸び率は去年の同じ時期と比べてプラス4.3％となりました。コロナ禍の2022年10月から12月以来の低い水準で、個人消費や投資が振るわず景気の減速傾向が鮮明になっています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T18:13:16+09:00"
-  },
-  {
-   "title": "メキシコ産原油が日本到着へ、ホルムズ封鎖後初　喜望峰経由で70日",
-   "link": "https://www.asahi.com/articles/ASV7H2RJSV7HSFVU3TWM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T18:12:38+09:00"
-  },
-  {
-   "title": "自維、握手でポーズも表情は明暗　北陸新幹線延伸計画でルート合意",
-   "link": "https://www.asahi.com/articles/ASV7H2TS1V7HULFA00FM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T18:10:00+09:00"
-  },
-  {
-   "title": "令和７年度財政融資資金運用報告書の提出等を行いました",
-   "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/press_release/zaitouhoukoku_r07.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-15T17:15:00+09:00"
-  },
-  {
-   "title": "サントリーとアサヒの社長、消費減税に反対　2年後に戻せるのか…",
-   "link": "https://www.asahi.com/articles/ASV7G3SMQV7GULFA02VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T17:00:00+09:00"
-  },
-  {
-   "title": "東京・八重洲で進む大規模開発　期待と不安「路地裏横丁を残したい」",
-   "link": "https://www.asahi.com/articles/ASV7G40XHV7GOXIE04SM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T17:00:00+09:00"
-  },
-  {
-   "title": "長期金利がマイナスに　思わぬ副作用、黒田日銀はさらなる「奇策」へ",
-   "link": "https://www.asahi.com/articles/ASV7H11QKV7HULFA00FM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T17:00:00+09:00"
-  },
-  {
-   "title": "ガソリン補助金、2カ月ぶりの増額に　米イランの攻撃応酬で原油高騰",
-   "link": "https://www.asahi.com/articles/ASV7H2F5FV7HULFA00PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T17:00:00+09:00"
-  },
-  {
-   "title": "「債務管理リポート2026」を一部訂正しました",
-   "link": "https://www.mof.go.jp/insideLink/20260714231019.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-15T17:00:00+09:00"
-  },
-  {
-   "title": "過労・ストレスの労災、4年連続増加　精神障害の原因、パワハラ最多",
-   "link": "https://www.asahi.com/articles/ASV7H1CC2V7HULFA004M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:50:00+09:00"
-  },
-  {
-   "title": "株価 値上がり 半導体の需要拡大の見方から関連銘柄値上がり",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177371000.html",
-   "summary": "15日の東京株式市場、今後も半導体需要は拡大するという見方から、関連する銘柄を中心に買い注文が広がって、日経平均株価は、1000円以上、値上がりしました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:48:24+09:00"
-  },
-  {
-   "title": "経産省、イスラエル半導体企業に1600億円助成　富山や新潟で生産",
-   "link": "https://www.asahi.com/articles/ASV7H2FPQV7HULFA00PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:42:24+09:00"
-  },
-  {
-   "title": "ガソリン全国平均169.9円 政府補助金で170円水準続く",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177531000.html",
-   "summary": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は、7月13日時点の全国平均で1リットルあたり169.9円と、前の週と同じでした。政府の激変緩和措置による補助金で170円程度の水準が続いています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:39:26+09:00"
-  },
-  {
-   "title": "上半期の訪日客2108万人、コロナ禍以来の前年割れ　中国が大幅減",
-   "link": "https://www.asahi.com/articles/ASV7H2BZPV7HULFA00WM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:18:17+09:00"
-  },
-  {
-   "title": "きょうのおはBiz 7月15日(水) AIで支えるスーパーマーケット",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177281000.html",
-   "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:12:34+09:00"
-  },
-  {
-   "title": "新宿コパボウル 9月末に閉店へ",
-   "link": "https://news.yahoo.co.jp/pickup/6588038?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-15T16:11:41+09:00"
-  },
-  {
-   "title": "暗号資産を「金融商品」に位置づける改正金融商品取引法が成立",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177471000.html",
-   "summary": "ビットコインなどの暗号資産を投資対象とする人が増える中、暗号資産を「金融商品」として位置づける金融商品取引法の改正案が15日に開かれた参議院本会議で可決・成立しました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:06:22+09:00"
-  },
-  {
-   "title": "TDK、AI時代に「パーフェクトマッチ」　DCの電力問題も勝機",
-   "link": "https://www.asahi.com/articles/ASV7G32KYV7GULFA02JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T16:00:00+09:00"
-  },
-  {
-   "title": "高市首相の悲願｢消費減税｣に垣間見える国民の本音…公約死守か､国債金利･超円安への配慮か | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950904?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "高市首相が掲げた食料品の消費減税が､1％税率と給付による｢実質ゼロ｣で現実味を帯びつつあります。しかし､5兆円超の財政支出や供給制約による減税効果の限定､財政悪化への不安､そして本音と建前が交錯する…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T16:00:00+09:00"
-  },
-  {
-   "title": "孫正義氏「2040年に人型ロボット10億台」　AI時代の未来予測",
-   "link": "https://www.asahi.com/articles/ASV7H240YV7HULFA00SM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T15:49:42+09:00"
-  },
-  {
-   "title": "食料品の消費減税、7月いっぱいかけてでもしっかり議論してほしい＝党首討論で高市首相 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1teWwwdHVvTjdhZUdBUHI1SnN1TTFpTGh3bkYzTVE5Z1pHbmc3RU9JYlhJYi1VRExOb0ZSSjlJTHRsVmoxVEI0d19NVl9DbDA3dl9lalFobHBvQTVkUnJQcHdpQVlob1czbzZKOGh5YlNQR1NHVmZOeHYtWFkyZw?oc=5",
-   "summary": "食料品の消費減税、7月いっぱいかけてでもしっかり議論してほしい＝党首討論で高市首相&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T15:48:00+09:00"
-  },
-  {
-   "title": "世界スマホ3位シャオミ､スマホ･家電･EVをつなぐ巨大エコシステムは車をどう変えるか | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951397?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "中国発のスマートフォンメーカー､シャオミとファーウェイが､独自OSとエコシステムを武器にEV市場へ本格参入。家電やIoTから車までをシームレスにつなぐ新たな競争軸が自動車業界を揺るがしている。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T15:00:00+09:00"
-  },
-  {
-   "title": "暑さ対策も 最新の農業設備集めた展示会  東京 江東区",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177461000.html",
-   "summary": "最新の農業設備を集めた展示会が都内で始まり、農業用ハウス向けの熱を遮るシートなど暑さ対策を意識した設備が多く紹介されています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T14:51:38+09:00"
-  },
-  {
-   "title": "蘭ＡＳＭＬ、ＡＩ半導体需要で第2四半期業績堅調 通年予測も上げ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aZndQZnV0WlZBWV9GTGFTVjl6bEk2NmdNSlNEd0daalFfX3R0cGcwMnBFUmlyS2dyVUhVVUNQazVSLUpYa2M0THpuYXN1YnRfNWdsSkIwbzY2TnNxOFNrRVZ4QktoUHRURWtiYW9QUGpVSzdGTlQ3QQ?oc=5",
-   "summary": "蘭ＡＳＭＬ、ＡＩ半導体需要で第2四半期業績堅調 通年予測も上げ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T14:30:00+09:00"
-  },
-  {
-   "title": "生成AIは人々を豊かにしているのか？ 世界の研究者が警鐘を鳴らす｢思考力低下｣の実態 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951360?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "ChatGPTなどの生成AIチャットボットの普及は､調べ物や課題の作成を驚くほど手軽にし､便利さゆえに私たちの思考力や学習意欲に影響を及ぼし始めている。AIへの依存が進む中､｢自分で考える｣必要性は…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T14:30:00+09:00"
-  },
-  {
-   "title": "エリクソン、ＡＩによる半導体価格高騰を警告で株価急落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wNHhmNUI4LU5KYlktaF8tVFVUNWNCbnJGc3pFTEQ5b25JV0loVFgzNkNISjZyYzRUa0ZrSG92WGxZdGhQUGJxNlRPQUFlLUhFa1dackQteC10cEJBSUpTdWJETUJHbGYtYXR2TEw3RndJZU4wbk1xOA?oc=5",
-   "summary": "エリクソン、ＡＩによる半導体価格高騰を警告で株価急落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T14:10:00+09:00"
-  },
-  {
-   "title": "実は｢ブレークスルー｣を模索していた一面も…作中でのび太が自らを鼓舞していた《壮大なハッタリ》のセリフ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/948705?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "夢を掲げ努力し続けるのび太の姿に､子どもの頃の自分を重ねる人も多いでしょう。大人になると現実に追われがちですが､夢を語ること自体が人生を豊かにします。壁にぶつかったときこそ\"自分は世界一だ\"と信じて…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T14:00:00+09:00"
-  },
-  {
-   "title": "ＡＩ投資「スーパーサイクル」でウォール街活況、手数料収入急増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOWGZERzJ0OEczUENLaG1WczMydlB2am83OXc4MHNsdGkwaHR5bHlaX2FlenhqeEdrRUJpX21DMjlqM2Q3YV8wZEJuenRMb29Wd0tDcENMNUZZbk5DWGkxdm5SUGlIS0lIR0lfcFBfZUVMcVJiMFYwMTJR?oc=5",
-   "summary": "ＡＩ投資「スーパーサイクル」でウォール街活況、手数料収入急増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T13:50:00+09:00"
-  },
-  {
-   "title": "暗号資産、金融商品に「怪しいイメージ変えないと」業界団体代表理事",
-   "link": "https://www.asahi.com/articles/ASV7G3PSRV7GULFA01TM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T13:47:42+09:00"
-  },
-  {
-   "title": "イントレプレナー（社内起業家）が務まるのは能力がある人だけなのか？ 走りながら身につける6つの能力とは？ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/947550?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "イントレプレナーとして新規事業を進めるためには幅広い知識やスキルが必要となります。しかし､これらをはじめから兼ね備えている必要はないし､兼ね備えている人もいません。新刊『イントレプレナー（社内起業家…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T13:30:00+09:00"
-  },
-  {
-   "title": "なぜ政治家は｢コメンテーター化｣するのか　権力にすり寄るメディアと政界の歪んだ｢共犯関係｣ | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/946905?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "現代の政治家たちは､社会を変える政策よりもメディアの注目を浴びることに躍起になっています。政治とメディアの癒着が生む｢ザ･ロビー｣の実態とは何か。扇動的見出しが権力とジャーナリズムを蝕む裏側に､私た…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T13:00:00+09:00"
-  },
-  {
-   "title": "日銀 10年前のマイナス金利政策導入した会合の議事録を公開",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177301000.html",
-   "summary": "日銀は、黒田総裁のもとで大規模な金融緩和を続けていた10年前の2016年前半に行われた金融政策決定会合の議事録を公開しました。異例のマイナス金利政策を導入した会合は、賛成が反対をわずかに上回るギリギリの決定となり、政策の効果などをめぐって激しい議論が交わされていました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T12:46:42+09:00"
-  },
-  {
-   "title": "ケンタッキー食材納入に遅れ ニチレイで発生のシステム障害で",
-   "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177391000.html",
-   "summary": "ファストフードチェーンの「ケンタッキーフライドチキン」を運営する日本法人は、食材の納入に遅れなどが出て、商品の品切れや店舗の営業休止などの影響が出る可能性があると発表しました。鶏肉などの配送を担う冷凍食品大手「ニチレイ」で発生したシステム障害が原因だとしていて、ほかの飲食チェーンなどにも影響が出ています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-15T12:34:01+09:00"
-  },
-  {
-   "title": "｢めんどくさい｣は\"やる気のなさ\"ではなく本能だった…精神科医が解説｢ヒトがチャレンジを避ける生物である｣ワケ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950664?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢めんどくさい｣と感じるたびに､｢よくないこと｣と思っていませんか。実はその感情はやる気のなさの問題ではないようなのです。なぜ人はチャレンジを避ける生物なのか､精神科医･ゆうきゆう氏がその仕組みを解…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T12:30:00+09:00"
-  },
-  {
-   "title": "導入から3カ月…｢共同親権｣どうなった？｢申し立てが嫌なら面会増やせ｣AI活用で申し立てのハードル下がり､交渉材料にも | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951314?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "離婚後の共同親権制度が施行されて､およそ3カ月。期待や懸念が錯綜する中､現場では家事事件の増加や申し立ての変化､そして制度の\"交渉カード化\"といった新たな課題が浮上しています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T12:00:00+09:00"
-  },
-  {
-   "title": "製造たばこの小売定価の認可",
-   "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-15T12:00:00+09:00"
-  },
-  {
-   "title": "【今すぐ成績を上げる方法】｢勉強しても成績が上がらないのはなぜ？｣の謎は｢たった一つの質問｣で解明する | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950727?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢毎日勉強しているのに成績が上がらない…｣そんな悩みは､知識を\"点\"で覚えることが原因かもしれません。重要なのは知識同士を結びつけ､\"面\"として理解する力です。思考力や応用力を伸ばす秘訣とは？詳しく…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T11:30:00+09:00"
-  },
-  {
-   "title": "中信銀行国際、ドル建て・オフショア元建て永久債発行へ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iTE8wUWxITHl2a0dnRnRvVXFxS2hnX3RvWGpHcFFBdUU0OVQyMVJrN2tIQTdTSnZDVVBKZ0tqQmc1LVdwbjgtLW1OVTIyQ0xaVlp4MFZhU2xxci13ci1nLXBiN2s2a0k1NHR6Nk1HZzk5cy1sY00xNQ?oc=5",
-   "summary": "中信銀行国際、ドル建て・オフショア元建て永久債発行へ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T11:27:00+09:00"
-  },
-  {
-   "title": "イオンでも一部欠品 ニチレイ障害",
-   "link": "https://news.yahoo.co.jp/pickup/6588002?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-15T11:14:42+09:00"
-  },
-  {
-   "title": "アップルがOpenAIを提訴､元アップル伝説デザイナーと開発する初デバイスを揺るがす訴状の全容 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951255?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "OpenAIと元Appleの重鎮デザイナー､ジョニー･アイブ氏による初の消費者向けデバイス開発の裏で､アップルが営業秘密の不正流用などでOpenAIらを提訴した。400人超の元Apple社員が関わる…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T11:00:00+09:00"
-  },
-  {
-=======
-   "published": "2026-07-15T11:00:00+09:00"
-  },
-  {
->>>>>>> Stashed changes
    "title": "マクロスコープ：消費減税、実務者の合意断念へ 「首相自身が判断を」と関係者 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpMU9uSWt3Rl81MzVtYzdMckVPS1lmYlppLVVEc0VEMzVJd2EzbjRsVmp0cFhjaTJQRHpGdUQ4QldST25tR0FJQVRJYnJ2WHdxOXhad2dPdVYwU3FNQWlmMFJ6Nl9KUFpFbXFHVnRpbXd4bTlxZERVcQ?oc=5",
    "summary": "マクロスコープ：消費減税、実務者の合意断念へ 「首相自身が判断を」と関係者&nbsp;&nbsp;ロイター",
@@ -1328,25 +901,6 @@
    "published": "2026-07-15T10:00:00+09:00"
   },
   {
-<<<<<<< Updated upstream
-=======
-   "title": "その他,金融仲介機能の発揮に向けたプログレスレポートについて公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260715/20260715.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-15T10:00:00+09:00"
-  },
-  {
-   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月10日）について掲載しました。",
-   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20260710-1.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-15T10:00:00+09:00"
-  },
-  {
->>>>>>> Stashed changes
    "title": "FRB議長「インフレ容認しない」",
    "link": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
    "summary": "",
@@ -1371,17 +925,6 @@
    "published": "2026-07-15T08:50:00+09:00"
   },
   {
-<<<<<<< Updated upstream
-   "title": "中国のレアアース輸出減　対日規制強化も影響か―貿易統計",
-   "link": "https://www.jiji.com/jc/article?k=2026071400799&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-15T08:45:00+09:00"
-  },
-  {
-=======
->>>>>>> Stashed changes
    "title": "北陸新幹線延伸「桂川」案に決定",
    "link": "https://news.yahoo.co.jp/pickup/6587983?source=rss",
    "summary": "",
@@ -1470,7 +1013,6 @@
    "published": "2026-07-15T06:00:00+09:00"
   },
   {
-<<<<<<< Updated upstream
    "title": "令和６年能登半島地震関連情報に関する特設ページを更新しました。（令和８年７月14日 15時00分時点）",
    "link": "https://www.fsa.go.jp/ordinary/earthquake202401/press.html",
    "summary": "",
@@ -1479,8 +1021,6 @@
    "published": "2026-07-15T00:00:00+09:00"
   },
   {
-=======
->>>>>>> Stashed changes
    "title": "米利上げ観測後退、6月ＣＰＩの伸び鈍化 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczRvbFUtcTFrSWhXTW5aUDVNUGR5bHIzdEEyUGxicHFvSlJCNzhYcXB0blhlSE8tWlIxSUU5bjlvdUpQWXVIVmdEZlo0QXZMY3VfaGVrQjlPdVlRcHhVM3lWWGVYejMxR2xHZnljQURwY3JQNVRneWZCLUdzQ2gyMg?oc=5",
    "summary": "米利上げ観測後退、6月ＣＰＩの伸び鈍化&nbsp;&nbsp;ロイター",
@@ -1539,82 +1079,10 @@
   {
    "title": "20年利付国債（第197回）の第II非価格競争入札結果（令和8年7月14日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260714a.htm",
-<<<<<<< Updated upstream
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-14T15:15:00+09:00"
-  },
-  {
-   "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年7月14日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260714.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-14T13:00:00+09:00"
-  },
-  {
-   "title": "20年利付国債（第197回）の入札結果（令和8年7月14日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260714.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-14T12:35:00+09:00"
-  },
-  {
-   "title": "20年利付国債（第197回）の入札発行（令和8年7月14日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260714.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-14T10:30:00+09:00"
-  },
-  {
-   "title": "営業毎旬報告（7月10日現在）",
-   "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260710.htm",
-=======
->>>>>>> Stashed changes
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-<<<<<<< Updated upstream
-   "published": "2026-07-14T10:00:00+09:00"
-  },
-  {
-   "title": "「Yahoo!ニュースに載る」が3万円で買える時代　その価値はいつまで続くのか",
-   "link": "https://www.itmedia.co.jp/business/articles/2607/14/news021.html",
-   "summary": "企業が3万円で「Yahoo!ニュースに載る」時代が始まった。その価値は今なお大きい一方、生成AIの普及で情報収集の入口は変わりつつある。LINEヤフーの新サービスから、ニュースメディアの未来を考える。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-07-14T07:30:00+09:00"
-  },
-  {
-   "title": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260713.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-14T03:50:00+09:00"
-  },
-  {
-   "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in旭川」の開催について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260713/20260713.html",
-   "summary": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in旭川」の開催について公表しました。詳しくは特設サイトをご覧ください。",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-14T01:00:00+09:00"
-  },
-  {
-=======
-   "published": "2026-07-14T15:15:00+09:00"
-  },
-  {
-   "title": "令和６年能登半島地震関連情報に関する特設ページを更新しました。（令和８年７月14日 15時00分時点）",
-   "link": "https://www.fsa.go.jp/ordinary/earthquake202401/press.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-14T15:00:00+09:00"
   },
   {
    "title": "英オックスフォード大、エボラ熱流行株ワクチンの治験開始 - ロイター",
@@ -1670,15 +1138,7 @@
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
-   "published": "2026-07-13T18:50:00+09:00"
-  },
-  {
-   "title": "令和8年7月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について（滋賀県）",
-   "link": "http://www.boj.or.jp/about/bcp/fso/fso260713a.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-07-13T17:00:00+09:00"
+   "published": "2026-07-14T03:50:00+09:00"
   },
   {
    "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in旭川」の開催について公表しました。",
@@ -1686,32 +1146,14 @@
    "summary": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in旭川」の開催について公表しました。詳しくは特設サイトをご覧ください。",
    "source": "金融庁",
    "category": "公的機関",
-   "published": "2026-07-13T16:00:00+09:00"
+   "published": "2026-07-14T01:00:00+09:00"
   },
   {
-   "title": "人事異動(令和8年7月13日)",
-   "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.07.13_33.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-13T15:00:00+09:00"
-  },
-  {
-   "title": "人事異動(令和8年7月11日)",
-   "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.07.11_32.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-13T15:00:00+09:00"
-  },
-  {
->>>>>>> Stashed changes
    "title": "人事異動（令和８年７月10日付及び令和８年７月11日付）について公表しました。",
    "link": "https://www.fsa.go.jp/common/about/jinji/index.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
-<<<<<<< Updated upstream
    "published": "2026-07-14T00:00:00+09:00"
   },
   {
@@ -1736,8 +1178,6 @@
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
-=======
->>>>>>> Stashed changes
    "published": "2026-07-13T15:00:00+09:00"
   }
  ]
