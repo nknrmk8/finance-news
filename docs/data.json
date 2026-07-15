@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T03:50:48.759084+09:00",
+ "generated_at": "2026-07-16T04:59:41.871395+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,154 @@
  "errors": [],
  "items": [
   {
+   "title": "意見 | OpenAI と Anthropic は利益よりも預言者を優先する",
+   "link": "https://www.wsj.com/opinion/openai-and-anthropic-put-prophets-before-profits-1617003e?mod=rss_markets_main",
+   "summary": "責任を負わない「ミッション」ディレクターは、人類を助けることなく、ベンとジェリーズ風のメルトダウンを引き起こす可能性があります。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-16T04:58:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | OpenAI and Anthropic Put Prophets Before Profits"
+  },
+  {
+   "title": "ソフトインフレデータの中で米国債利回りは低下幅を拡大",
+   "link": "https://www.wsj.com/finance/investing/jgbs-mixed-may-track-gains-in-u-s-treasurys-9ca01870?mod=rss_markets_main",
+   "summary": "米国のインフレ鈍化の新たな兆候と中東のニュースのヘッドラインが一服する中、米国債利回りは低下した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-16T04:57:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields Extend Decline Amid Soft Inflation Data"
+  },
+  {
+   "title": "石油トレーダーらは、ホルムズが再び閉鎖され市場は空虚状態に近づいていると警告",
+   "link": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
+   "summary": "イラン戦争の初期に衝撃吸収材として機能した備蓄品が、重要な水路が再び閉鎖され、残り少なくなっている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-16T04:49:20+09:00",
+   "lang": "en",
+   "title_orig": "Oil traders warn market is close to running on empty as Hormuz shuts again"
+  },
+  {
+   "title": "近鉄宇治山田駅長に聞く｢まだ知らない｣駅の裏側  ｢火の見櫓｣付きの駅舎､普段は入れない\"塔\"の内部は？ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951414?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "近鉄の宇治山田駅は､皇室関係者や首相が伊勢神宮参拝に利用することで知られる駅。登録有形文化財となっている駅舎にはどんな特徴があるのでしょうか。通常は入れない｢火の見櫓｣があった\"塔\"など知られざる駅…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-16T04:30:00+09:00"
+  },
+  {
+   "title": "私は67歳で年金は14万ドルです。妻がもっともらえるように、社会保障を請求するには70歳まで待ったほうがいいでしょうか?",
+   "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+   "summary": "「私が合格すると、退職後の収入はすべて年間 30,000 ドルに減ります。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-16T04:30:00+09:00",
+   "lang": "en",
+   "title_orig": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?"
+  },
+  {
+   "title": "米国とイランの次の動きを巡る不確実性の中、原油価格はじりじり上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-irans-attacks-on-shipping-in-strait-of-hormuz-e334b6d7?mod=rss_markets_main",
+   "summary": "米国が船舶を他国から守る費用として20％の手数料を課す計画を撤回した後、イラン封鎖を再開したことで原油先物は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-16T04:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Edges Up Amid Uncertainty Over Next U.S.-Iran Moves"
+  },
+  {
+   "title": "米国の天然ガス先物は貯蔵データを若干上回る",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-down-in-early-trading-17fd161f?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物相場は、天候見通しの若干の温暖化に助けられ、２取引連続で小幅な上昇を記録した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-16T04:19:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Inch Up Ahead of Storage Data"
+  },
+  {
+   "title": "これは社会保障を節約する計画ではありません。計画を立てるための計画です。",
+   "link": "https://www.marketwatch.com/story/this-isnt-a-plan-to-save-social-security-its-a-plan-to-have-a-plan-d55860af?mod=mw_rss_topstories",
+   "summary": "大半が引退する超党派の上院議員グループが、ボールを少しでも前に進めようとしている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-16T04:11:00+09:00",
+   "lang": "en",
+   "title_orig": "This isn’t a plan to save Social Security. It’s a plan to have a plan."
+  },
+  {
+   "title": "退職者向けファイナンシャルアドバイザー企業トップ5社：検討すべき有名な受託会社",
+   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
+   "summary": "私たちは、退職者の生活を支援するために、いくつかの大手登録投資顧問会社の財産計画から退職後の収入の選択肢に至るまであらゆるものを分析しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-16T04:07:00+09:00",
+   "lang": "en",
+   "title_orig": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider"
+  },
+  {
+   "title": "FRBのケビン・ウォーシュ議長が上院銀行委員会で生証言する様子をご覧ください",
+   "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+   "summary": "ウォーシュ氏は議会で義務付けられた中銀総裁の国会議事堂出席の一環として、火曜日に下院金融委員会で講演した。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-16T04:05:12+09:00",
+   "lang": "en",
+   "title_orig": "Watch Fed Chairman Kevin Warsh testify live before Senate banking committee"
+  },
+  {
+   "title": "「彼らはオンラインへのアクセスを遮断した」: 母の死後、母の銀行残高は急落しました。どうしたの？",
+   "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+   "summary": "「彼女の死後、彼女の銀行残高は16,000ドルから9,000ドルに減りました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-16T04:01:00+09:00",
+   "lang": "en",
+   "title_orig": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?"
+  },
+  {
+   "title": "ミラ・ムラティ氏の Thinking Machines は、デビュー AI モデルで中国のライバルを参考にしている",
+   "link": "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf",
+   "summary": "元OpenAI CTOのスタートアップは昨年、評価額120億ドルで20億ドルを調達",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-16T03:57:43+09:00",
+   "lang": "en",
+   "title_orig": "Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model"
+  },
+  {
+   "title": "Megacap Tech が指数を押し上げると命名",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-as-inflation-print-boosts-sentiment-b124ad8b?mod=rss_markets_main",
+   "summary": "いくつかの明るい決算報告にもかかわらず、米国の主要株価指数は今日の上昇幅を縮小した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-16T03:57:00+09:00",
+   "lang": "en",
+   "title_orig": "Megacap Tech Names Push Indexes Higher"
+  },
+  {
+   "title": "コメックスゴールドは0.42%安の4044.00ドルで決済",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-amid-rising-oil-prices-8ceadd37?mod=rss_markets_main",
+   "summary": "金は0.4％安、銀は2.8％安で落ち着き、過去7回の取引中5回は両金属とも下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-16T03:52:00+09:00",
+   "lang": "en",
+   "title_orig": "Comex Gold Settles 0.42% Lower at $4044.00"
+  },
+  {
+   "title": "AI はカバーレターを無効にしています。ここでは、送信することが有益な場合と、送信をスキップする場合を説明します。",
+   "link": "https://www.marketwatch.com/story/ai-is-killing-the-cover-letter-heres-when-it-pays-off-to-send-one-and-when-to-skip-it-e8800ef0?mod=mw_rss_topstories",
+   "summary": "「AI プロバイダー以外のすべての人にとって、このプロセスは破綻しています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-16T03:51:00+09:00",
+   "lang": "en",
+   "title_orig": "AI is killing the cover letter. Here’s when it pays off to send one — and when to skip it."
+  },
+  {
    "title": "AI ブームでは、ゴールドマン サックスと JP モルガン チェースという 2 つの新たな勝者が誕生しました。",
    "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
    "summary": "ゴールドマン・サックスとJPモルガンは、ウォール街がAIブームの主要な受益者であり、取引と投資の急増によって記録的な収益を上げていることを示した",
@@ -69,16 +217,6 @@
    "published": "2026-07-16T03:45:53+09:00",
    "lang": "en",
    "title_orig": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase"
-  },
-  {
-   "title": "AI はカバーレターを無効にしています。ここでは、送信することが有益な場合と、送信をスキップする場合を説明します。",
-   "link": "https://www.marketwatch.com/story/ai-is-killing-the-cover-letter-heres-when-it-pays-off-to-send-one-and-when-to-skip-it-e8800ef0?mod=mw_rss_topstories",
-   "summary": "「AI プロバイダー以外のすべての人にとって、このプロセスは破綻しています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-16T03:45:00+09:00",
-   "lang": "en",
-   "title_orig": "AI is killing the cover letter. Here’s when it pays off to send one — and when to skip it."
   },
   {
    "title": "IBM従業員が自社株で4億ドルを失ったことは警鐘となるべきだ",
@@ -99,16 +237,6 @@
    "published": "2026-07-16T03:26:00+09:00",
    "lang": "en",
    "title_orig": "Kathryn Ruemmler Grilled in Congress Over Her Emails Joking With Jeffrey Epstein"
-  },
-  {
-   "title": "JPモルガンの最新の防衛策でサブサプライヤーとフィラデルフィア造船所を擁護",
-   "link": "https://www.wsj.com/finance/jpmorgans-latest-defense-move-backs-sub-supplier-and-philadelphia-shipbuilding-05a0183e?mod=rss_markets_main",
-   "summary": "銀行の防衛構想の一環として、2,400万ドルが潜水艦施設と熟練労働者の訓練に充てられる。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-16T03:25:00+09:00",
-   "lang": "en",
-   "title_orig": "JPMorgan’s Latest Defense Move Backs Sub Supplier and Philadelphia Shipbuilding"
   },
   {
    "title": "大幅な減配と20億ドルの請求：コナグラの決算は食品業界にとってさらなる苦痛を示唆している",
@@ -141,26 +269,6 @@
    "title_orig": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?"
   },
   {
-   "title": "SpaceX株、初めてIPO価格を下回る",
-   "link": "https://www.wsj.com/finance/stocks/spacex-shares-fall-below-ipo-price-for-the-first-time-d71dff7f?mod=rss_markets_main",
-   "summary": "ハイテク株の多いナスダック総合株価指数が下落する中、同社の株価は135ドルを下回った。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-16T03:01:00+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX Shares Fall Below IPO Price for the First Time"
-  },
-  {
-   "title": "サマータイムの恒久化は観光業にとっては有利だが、他の分野では大きな懸念がある",
-   "link": "https://www.marketwatch.com/story/permanent-daylight-saving-time-would-be-a-win-for-tourism-but-other-sectors-have-big-concerns-dd3076f8?mod=mw_rss_topstories",
-   "summary": "ある議員は「屋外レジャー活動」をする時間が増えるなどのメリットを指摘する。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-16T02:48:00+09:00",
-   "lang": "en",
-   "title_orig": "Permanent daylight-saving time would be a win for tourism, but other sectors have big concerns"
-  },
-  {
    "title": "ウーバー、デリバリー・ヒーロー買収で125億ユーロの契約に近づく",
    "link": "https://www.ft.com/content/c15115ea-7386-4f44-9643-f95f58187514",
    "summary": "ドイツの食品配達グループ、トルコと一部のヨーロッパ事業を別のバイヤーに分離する",
@@ -169,36 +277,6 @@
    "published": "2026-07-16T02:47:40+09:00",
    "lang": "en",
    "title_orig": "Uber nears €12.5bn deal to acquire Delivery Hero"
-  },
-  {
-   "title": "小型株のアウトパフォームが続いている - そしてこれら 15 の優良株は多額の配当をもたらします",
-   "link": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
-   "summary": "大型株が依然として最善の策だと思いますか?データは、あなたが間違った場所を探していることを示しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-16T02:47:00+09:00",
-   "lang": "en",
-   "title_orig": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends"
-  },
-  {
-   "title": "来年は社会保障小切手が月額 74 ドル値上げされる可能性がある",
-   "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
-   "summary": "インフレが沈静化する兆しを見せているため、社会保障の生計費調整額は2027年に3.8％になる可能性がある。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-16T02:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Your Social Security check could go up by $74 a month next year"
-  },
-  {
-   "title": "コメックスゴールドは0.42%安の4044.00ドルで決済",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-amid-rising-oil-prices-8ceadd37?mod=rss_markets_main",
-   "summary": "金は0.4％安、銀は2.8％安で落ち着き、過去7回の取引中5回は両金属とも下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-16T02:43:00+09:00",
-   "lang": "en",
-   "title_orig": "Comex Gold Settles 0.42% Lower at $4044.00"
   },
   {
    "title": "ニューヨーク連銀のウィリアムズ総裁、インフレはピークに達し、金利は「適切な位置にある」と発言",
@@ -221,6 +299,14 @@
    "title_orig": "Anthropic moves closer to mega-IPO as bankers line up investor meetings"
   },
   {
+   "title": "スペースＸ株がＩＰＯ価格割れ、上場後初 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnZ6V0ZxT0JHeWZYM1V6SDUxOEJBWjNwck9UWUVDbHlHNzVhZkRMWGVIS29oUHlvRGFHTFhscEx6VmtHQ2hfb2FrZ1JRYXpfQ3ZsSEhsMUFGeFBRbjhaT2xKSFlxeXlUandYU0tSbmlLZDA1dWVLZVFXVXJMWXpvbA?oc=5",
+   "summary": "スペースＸ株がＩＰＯ価格割れ、上場後初&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T02:21:45+09:00"
+  },
+  {
    "title": "スペースX株はIPO価格を下回る",
    "link": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
    "summary": "AIとロケットグループが6月にウォール街にデビューして以来、初めて株価が135ドルを下回った",
@@ -231,42 +317,12 @@
    "title_orig": "SpaceX shares slide below IPO price"
   },
   {
-   "title": "大手銀行でクレジットカードの高額延滞が発生しない理由",
-   "link": "https://www.wsj.com/finance/banking/why-high-credit-card-delinquencies-arent-showing-up-at-the-big-banks-3476c217?mod=rss_markets_main",
-   "summary": "金融業者の結果は、過去 15 年間で最も高いクレジットカード延滞率を示す指標とは対照的です。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-16T02:07:00+09:00",
-   "lang": "en",
-   "title_orig": "Why High Credit Card Delinquencies Aren’t Showing Up at the Big Banks"
-  },
-  {
    "title": "紙幣に続き1ドル硬貨にもトランプ氏？　財務長官が画像を公開",
    "link": "https://www.asahi.com/articles/ASV7H5DRVV7HUHBI02BM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-16T01:33:30+09:00"
-  },
-  {
-   "title": "ヘルスケアのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-7bc3c554?mod=rss_markets_main",
-   "summary": "ヘルスケアを対象とした最新のマーケットトークで、ジョンソン・エンド・ジョンソン、ロシュ・ホールディング、ノバルティスなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-16T01:32:00+09:00",
-   "lang": "en",
-   "title_orig": "Health Care Roundup: Market Talk"
-  },
-  {
-   "title": "基本的な材料のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b98d33a2?mod=rss_markets_main",
-   "summary": "基本的な材料をカバーする最新のマーケット トークで、BASF、パーム油、アントファガスタなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-16T01:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Basic Materials Roundup: Market Talk"
   },
   {
    "title": "正午に最も大きな動きを見せた銘柄: SpaceX、Apple、PayPal、Cava、Progressive、Micron など",
@@ -277,26 +333,6 @@
    "published": "2026-07-16T01:28:53+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves midday: SpaceX, Apple, PayPal, Cava, Progressive, Micron & more"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c538add0?mod=rss_markets_main",
-   "summary": "金融サービスを対象とした最新のマーケットトークで、StripeによるPayPalやJPモルガンのジェイミー・ダイモンなどの買収提案についての洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-16T01:28:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "FRBのケビン・ウォーシュ議長が上院銀行委員会で生証言する様子をご覧ください",
-   "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-   "summary": "ウォーシュ氏は議会で義務付けられた中銀総裁の国会議事堂出席の一環として、火曜日に下院金融委員会で講演した。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-16T01:19:08+09:00",
-   "lang": "en",
-   "title_orig": "Watch Fed Chairman Kevin Warsh testify live before Senate banking committee"
   },
   {
    "title": "エヌビディアCEOが15日夜に神田の居酒屋を訪れて日本の経営者らと懇談…日本企業との提携をあす発表 | 政治・経済・投資 | 東洋経済オンライン",
@@ -377,16 +413,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-15T22:05:37+09:00"
-  },
-  {
-   "title": "石油トレーダーらは、ホルムズが再び閉鎖され市場は空虚状態に近づいていると警告",
-   "link": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
-   "summary": "イラン戦争の初期に衝撃吸収材として機能した備蓄品が、重要な水路が再び閉鎖され、残り少なくなっている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-15T22:02:43+09:00",
-   "lang": "en",
-   "title_orig": "Oil traders warn market is close to running on empty as Hormuz shuts again"
   },
   {
    "title": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
@@ -679,16 +705,6 @@
    "published": "2026-07-15T15:00:00+09:00"
   },
   {
-   "title": "StripeとAdventがPayPalに530億ドルで入札",
-   "link": "https://www.ft.com/content/3738e814-9470-4d7d-94a6-ac5e001a968e",
-   "summary": "ニューヨーク上場グループの株価は、決済関連の新興企業および買収会社からのオファーを受け、市場前の取引で19％上昇",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-15T14:54:23+09:00",
-   "lang": "en",
-   "title_orig": "Stripe and Advent make $53bn bid for PayPal"
-  },
-  {
    "title": "暑さ対策も 最新の農業設備集めた展示会  東京 江東区",
    "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177461000.html",
    "summary": "最新の農業設備を集めた展示会が都内で始まり、農業用ハウス向けの熱を遮るシートなど暑さ対策を意識した設備が多く紹介されています。",
@@ -711,6 +727,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-15T14:30:00+09:00"
+  },
+  {
+   "title": "エリクソン、ＡＩによる半導体価格高騰を警告で株価急落 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wNHhmNUI4LU5KYlktaF8tVFVUNWNCbnJGc3pFTEQ5b25JV0loVFgzNkNISjZyYzRUa0ZrSG92WGxZdGhQUGJxNlRPQUFlLUhFa1dackQteC10cEJBSUpTdWJETUJHbGYtYXR2TEw3RndJZU4wbk1xOA?oc=5",
+   "summary": "エリクソン、ＡＩによる半導体価格高騰を警告で株価急落&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-15T14:10:00+09:00"
   },
   {
    "title": "実は｢ブレークスルー｣を模索していた一面も…作中でのび太が自らを鼓舞していた《壮大なハッタリ》のセリフ | ライフ | 東洋経済オンライン",
@@ -885,14 +909,6 @@
    "published": "2026-07-15T10:06:00+09:00"
   },
   {
-   "title": "〈NHKのネット配信〉事業は2つのサービスに収斂､今後のカギは｢テレビを観ない層｣へのアピール | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951296?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "スマホ世代やテレビを持たない層へどこまでリーチできるのか。これが今後の大きな課題です。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-15T10:02:00+09:00"
-  },
-  {
    "title": "政府調達情報",
    "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
    "summary": "",
@@ -931,14 +947,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-07-15T08:50:00+09:00"
-  },
-  {
-   "title": "アングル：ドル高支える年金基金のヘッジ巻き戻し、市場環境変化で懸念後退 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QOVVweFg0YXVNMzZzRUwtQ0Vldm9vVkExeFNhbmlBYzFCNkRzVmwtT0c2MGZ4ZWlSQlVDUGVKNjNWT3pNREVRVlRYaERwRVZIOXQxR0xFdENDVnVKSjU4alRCbkt1NzQ3bmp2RTJtVkR1dExLTWZNQQ?oc=5",
-   "summary": "アングル：ドル高支える年金基金のヘッジ巻き戻し、市場環境変化で懸念後退&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-15T08:49:46+09:00"
   },
   {
    "title": "北陸新幹線延伸「桂川」案に決定",
@@ -1099,14 +1107,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-14T12:06:00+09:00"
-  },
-  {
-   "title": "中国輸出、6月は前年比＋27％に加速 ＡＩ需要と関税懸念の駆け込みで - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pQWw5Sk5PNDBrWGdDSTlacXZaV3AyWDlteC1PbEZYVnl3SFRucFZFbzVBTGRLM3U5aDQwUXZPQTdnVG5tRUJMUXRxcGhXNXl4Wjl6RFZiUzhwR1RLU0lCbUYwYUFRRTVDNnUzODl5RUN3eWpkV1hiQw?oc=5",
-   "summary": "中国輸出、6月は前年比＋27％に加速 ＡＩ需要と関税懸念の駆け込みで&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-14T11:59:00+09:00"
   },
   {
    "title": "20年利付国債（第197回）の入札発行（令和8年7月14日入札）",
