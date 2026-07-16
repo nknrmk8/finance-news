@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T03:06:12.187889+09:00",
+ "generated_at": "2026-07-17T04:32:31.285570+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,114 @@
  "errors": [],
  "items": [
   {
+   "title": "シカゴ、デトロイト、ニューヨークは今日世界で最も汚染された都市の一つとして、山火事の煙が「心臓血管への脅威を増大」",
+   "link": "https://www.marketwatch.com/story/these-cities-are-blanketed-with-wildfire-smoke-heres-what-to-know-about-bad-air-quality-cd3a8fa7?mod=mw_rss_topstories",
+   "summary": "「心血管疾患の脅威は増大している」：シカゴ、デトロイト、ミネアポリス、ニューヨーク市は世界で最も汚染された都市の一部とみなされている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T04:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Wildfire smoke ‘a growing cardiovascular threat’ as Chicago, Detroit, NYC among world’s most polluted cities today"
+  },
+  {
+   "title": "米国とイランの動きを待って原油先物は小幅上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-escalating-mideast-conflict-7f8ab657?mod=rss_markets_main",
+   "summary": "米国とイランが攻撃を継続し、ホルムズ海峡の通過が小滴まで続いたため、原油先物は4回目の取引で上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T04:27:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Make Moderate Gains Awaiting U.S.-Iran Moves"
+  },
+  {
+   "title": "ナスダックは半導体株に圧力がかかり下落",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-on-fresh-ai-wobble-a7d12092?mod=rss_markets_main",
+   "summary": "米国株は主に軟調で、ナスダックはサンディスク、ウェスタンデジタル、マーベルに下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T04:09:00+09:00",
+   "lang": "en",
+   "title_orig": "Nasdaq Slips as Chip Stocks Come Under Pressure"
+  },
+  {
+   "title": "戦略のビットコインジェットコースターに乗る投資家",
+   "link": "https://www.wsj.com/finance/stocks/the-investors-riding-along-with-strategys-bitcoin-rollercoaster-073e999d?mod=rss_markets_main",
+   "summary": "マイケル・セイラー氏のビットコイン保有会社の株価が今年40％近く下落しても、同社の最も熱心な信者たちは動揺しなかった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T03:51:00+09:00",
+   "lang": "en",
+   "title_orig": "The Investors Riding Along With Strategy’s Bitcoin Rollercoaster"
+  },
+  {
+   "title": "ダラス連銀のローガン総裁、「適度な」金利引き上げを呼びかけ",
+   "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+   "summary": "同政策担当者は、今週発表されたインフレに関する良いニュースは十分ではないと述べた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-17T03:50:42+09:00",
+   "lang": "en",
+   "title_orig": "Dallas Fed President Logan calls for 'modestly' higher interest rates"
+  },
+  {
+   "title": "債券の買い手市場です",
+   "link": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
+   "summary": "大口投資家の間では債券は時代遅れになっており、それが残りの私たちにとって債券は興味深い投資の機会となっています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T03:40:00+09:00",
+   "lang": "en",
+   "title_orig": "It’s a buyer’s market for bonds"
+  },
+  {
+   "title": "トランプ大統領のメディア会社は、市場を動かす大統領のソーシャルメディア投稿を最初に入手するためにトレーダーにお金を払うことを望んでいる",
+   "link": "https://www.marketwatch.com/story/trumps-media-company-wants-traders-to-pay-to-get-presidents-market-moving-social-media-posts-first-c4425210?mod=mw_rss_topstories",
+   "summary": "「Truth API」は来月から法人顧客向けに提供される予定だ。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T03:35:00+09:00",
+   "lang": "en",
+   "title_orig": "Trump’s media company wants traders to pay to get president’s market-moving social-media posts first"
+  },
+  {
+   "title": "数千人が銃撃に抗議する中、辞任するウクライナ国防大臣がゼレンスキー氏を攻撃",
+   "link": "https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1",
+   "summary": "ミハイロ・フェドロフ氏、ウクライナ大統領と最高司令官が待望の軍事改革を阻止したと非難",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-17T03:32:38+09:00",
+   "lang": "en",
+   "title_orig": "Ukraine’s outgoing defence minister attacks Zelenskyy as thousands protest against firing"
+  },
+  {
+   "title": "トランプ政権、左翼過激主義は「文明にとって致命的な癌」だと発言",
+   "link": "https://www.ft.com/content/025c6f9f-cef8-401d-9a9c-72c67c5f4652?syn-25a6b1a6=1",
+   "summary": "国務省、左翼からの暴力は国際的なテロ対策の盲点だと主張",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-17T03:25:18+09:00",
+   "lang": "en",
+   "title_orig": "Trump administration says leftwing extremism is ‘fatal cancer to civilisation’"
+  },
+  {
+   "title": "株価がIPO価格に戻る中、空売り者がSpaceXに対抗して積み重なる",
+   "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+   "summary": "S3によると、スペースX株は現在約1億8500万株が空売りされており、これは同社の上場株の約29％に相当する。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-17T03:12:21+09:00",
+   "lang": "en",
+   "title_orig": "Short sellers load up against SpaceX as stock retreats back to IPO price"
+  },
+  {
+   "title": "米ダラス連銀総裁、物価リスクを警告 「緩やかな利上げ」望ましい - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHQ1STg2cXk3M2dYaUdfNWRBWGVMWFZleTFlMjNhcmFzTkN1YnBUT1MtWUstbUhaMGt0TDdBVEgxWHFJeWIxOGhGblE1ckpqQ3dZUWtxdE5vOUhDWHl6cGRWMl9PVlRRNTBuNUVaal8zMlBrb3VhN0tMNERibDBQbg?oc=5",
+   "summary": "米ダラス連銀総裁、物価リスクを警告 「緩やかな利上げ」望ましい&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T03:11:43+09:00"
+  },
+  {
    "title": "マイクロンは「市場で最も重要な株」になった。それで心配する時期が来たのだろうか?",
    "link": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
    "summary": "投資家はメモリーのピークを懸念しているが、アナリストらは、さまざまな収益シナリオと比較すると株価はまだ割安に見えると述べている。",
@@ -91,16 +199,6 @@
    "title_orig": "Most Americans don’t know how to prevent dementia. Here’s what you can do."
   },
   {
-   "title": "株価がIPO価格に戻る中、空売り者がSpaceXに対抗して積み重なる",
-   "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-   "summary": "S3によると、スペースX株は現在約1億8500万株が空売りされており、これは同社の上場株の約29％に相当する。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-17T02:51:43+09:00",
-   "lang": "en",
-   "title_orig": "Short sellers load up against SpaceX as stock retreats back to IPO price"
-  },
-  {
    "title": "コメックスゴールドは1.44%安の3985.60ドルで決済",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-stabilizing-dollar-rate-hike-expectations-161ccbb4?mod=rss_markets_main",
    "summary": "金は 1.4% 安、銀は 2.1% 安となり、両金属とも 2 日連続の下落となった。",
@@ -111,6 +209,16 @@
    "title_orig": "Comex Gold Settles 1.44% Lower at $3985.60"
   },
   {
+   "title": "ホワイトハウスのプロンプター操作員、トランプ演説への賭け疑惑で捜査",
+   "link": "https://www.wsj.com/finance/regulation/white-house-teleprompter-operator-investigated-for-alleged-bets-on-trump-speeches-bc95eeff?mod=rss_markets_main",
+   "summary": "カルシは、10万ドルを超える賭けに警告を発した後、商品先物取引委員会に協力していると述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T02:44:00+09:00",
+   "lang": "en",
+   "title_orig": "White House Teleprompter Operator Probed Over Alleged Bets on Trump Speeches"
+  },
+  {
    "title": "パロアルトネットワークスの株価は下落しているが、強気派によるとさらに上昇する可能性があるという",
    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
    "summary": "AIによりサイバーセキュリティの必要性が高まっているという考えに投資家が注目したため、同社の株価は過去3カ月で約2倍になった",
@@ -119,16 +227,6 @@
    "published": "2026-07-17T02:42:00+09:00",
    "lang": "en",
    "title_orig": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls"
-  },
-  {
-   "title": "ダラス連銀のローガン総裁、「適度な」金利引き上げを呼びかけ",
-   "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-   "summary": "同政策担当者は、今週発表されたインフレに関する良いニュースは十分ではないと述べた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-17T02:18:17+09:00",
-   "lang": "en",
-   "title_orig": "Dallas Fed President Logan calls for 'modestly' higher interest rates"
   },
   {
    "title": "〈44社が出資〉国産AI開発のソフトバンク連合｢ノエトラ｣､エヌビディアの次世代GPUを導入して大型データセンター建設 | 政治・経済・投資 | 東洋経済オンライン",
@@ -157,16 +255,6 @@
    "title_orig": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes"
   },
   {
-   "title": "ナスダックは半導体株に圧力がかかり下落",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-on-fresh-ai-wobble-a7d12092?mod=rss_markets_main",
-   "summary": "米国株は主に軟調で、ナスダックはサンディスク、ウェスタンデジタル、マーベルに下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T02:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Nasdaq Slips as Chip Stocks Come Under Pressure"
-  },
-  {
    "title": "スペースXのスターシップが離陸の準備を整えている - そしてその苦境にある在庫がリフトを使用する可能性がある",
    "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
    "summary": "あるアナリストは、巨大ロケットの成功はスペースXの「唯一の最も重要な監視項目」であると述べた。",
@@ -185,36 +273,6 @@
    "published": "2026-07-17T02:00:00+09:00"
   },
   {
-   "title": "妻の 2011 年型フォード フィエスタが全部処分されました。 2,000ドルの保険和解を受け入れるべきでしょうか、それとも2,700ドルで車を手放すべきでしょうか?",
-   "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
-   "summary": "「ボンネットは曲がり、ラジエーターはひび割れ、フロントバンパーは破壊されています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T02:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?"
-  },
-  {
-   "title": "「彼らはオンラインへのアクセスを遮断した」: 母の死後、母の銀行残高は急落しました。どうしたの？",
-   "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
-   "summary": "「彼女の死後、彼女の銀行残高は16,000ドルから9,000ドルに減りました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T02:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?"
-  },
-  {
-   "title": "私は 67 歳で、総額 280 万ドル相当の家を 2 軒所有していますが、クレジット カードの借金が 19,000 ドルあります。 HELOC を取得する必要がありますか?",
-   "link": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
-   "summary": "「私の息子は最近リンパ腫と診断されました。これはアフガニスタンでの兵役中の火傷被ばくに関連している可能性があります。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T02:00:00+09:00",
-   "lang": "en",
-   "title_orig": "I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?"
-  },
-  {
    "title": "トランプ大統領テレプロンプターのオペレーター、予測市場の賭けをめぐり厳しい監視に直面",
    "link": "https://www.ft.com/content/7c315b15-1575-4a1b-aead-4d997a449940?syn-25a6b1a6=1",
    "summary": "側近は大統領の演説に関する高度な知識を利用して「市場に言及する」賭けで利益を得たとされる",
@@ -225,16 +283,6 @@
    "title_orig": "Trump teleprompter operator faces scrutiny over prediction market bets"
   },
   {
-   "title": "米国とイランの動きを待って原油先物は小幅上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-escalating-mideast-conflict-7f8ab657?mod=rss_markets_main",
-   "summary": "米国とイランが攻撃を継続し、ホルムズ海峡の通過が小滴まで続いたため、原油先物は4回目の取引で上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T01:42:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Make Moderate Gains Awaiting U.S.-Iran Moves"
-  },
-  {
    "title": "ウォーレン上院議員、トランプ大統領のCFPB改革はアメリカ国民に265億ドルの損失をもたらしたと語る",
    "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
    "summary": "エリザベス・ウォーレン上院議員は、トランプ政権によるCFPBの規則と執行の撤回により、これまでに米国民に最大265億ドルの損失が生じていると述べた。",
@@ -243,16 +291,6 @@
    "published": "2026-07-17T01:36:23+09:00",
    "lang": "en",
    "title_orig": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion"
-  },
-  {
-   "title": "数千人が銃撃に抗議する中、辞任するウクライナ国防大臣がゼレンスキー氏を攻撃",
-   "link": "https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1",
-   "summary": "ミハイロ・フェドロフ氏、ウクライナ大統領と最高司令官が待望の軍事改革を阻止したと非難",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-17T01:34:27+09:00",
-   "lang": "en",
-   "title_orig": "Ukraine’s outgoing defence minister attacks Zelenskyy as thousands protest against firing"
   },
   {
    "title": "ヘルスケアのまとめ: マーケットトーク",
@@ -283,26 +321,6 @@
    "published": "2026-07-17T01:27:00+09:00",
    "lang": "en",
    "title_orig": "Auto & Transport Roundup: Market Talk"
-  },
-  {
-   "title": "基本的な材料のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-12690648?mod=rss_markets_main",
-   "summary": "基本的な材料をカバーする最新のマーケット トークで、パーム油、BASF、金などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T01:27:00+09:00",
-   "lang": "en",
-   "title_orig": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-26f0cae4?mod=rss_markets_main",
-   "summary": "金融サービスを対象とした最新の Market Talks で、Partners Group、UniCredit、中国の銀行などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T01:25:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
   },
   {
    "title": "シェブロンとイラクはシリアのパイプラインでホルムズ海峡を回避しようとしている",
@@ -785,16 +803,6 @@
    "title_orig": "Conflicts of interest are back — and more blatant than ever"
   },
   {
-   "title": "スプレッドシートを使って子育てをするメリット",
-   "link": "https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347?syn-25a6b1a6=1",
-   "summary": "平等に共有するための 1 つの簡単なトリック",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-16T13:00:21+09:00",
-   "lang": "en",
-   "title_orig": "The perks of parenting by spreadsheet"
-  },
-  {
    "title": "｢虫取りも里山遊びもしたことがない｣子どもの親に伝えたい\"リアルな自然体験\"が《その後に与えた影響》 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951215?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢本物の自然体験｣は､知的探究心や創造力の源であり､多くの著名人の原体験にもなっています。教育評論家の親野智可等さんが解説します。",
@@ -1029,14 +1037,6 @@
    "published": "2026-07-16T06:18:39+09:00"
   },
   {
-   "title": "米ＬＡ港、6月取扱量が同月として過去最高 燃料高騰・関税懸念で駆け込み - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UYXJZZlhINmdfdmhJNGlVS2tORFFQMktIeGZFTy1kVHViclZIakpKUjczV3lNbEMwNFhvLU9fWmhfb2E5RG10azV1OWdRNm4zbUdGX2FfNU1aV3l0VG1Fa0RZU2NQdDMzRnFSWnktcEViOFY3R0dxdQ?oc=5",
-   "summary": "米ＬＡ港、6月取扱量が同月として過去最高 燃料高騰・関税懸念で駆け込み&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-16T05:49:43+09:00"
-  },
-  {
    "title": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
    "link": "http://www3.nhk.or.jp/news/html/20260715/k10015178011000.html",
    "summary": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが日本を訪れ、長年、自社製品を提供する日本の大手ゲーム会社と共同で開いたイベントに出席し、経営が苦しかった時代に出資を受けたエピソードなどを披露しました。",
@@ -1163,14 +1163,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-07-14T10:00:00+09:00"
-  },
-  {
-   "title": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260713.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-14T03:50:00+09:00"
   }
  ]
 }
