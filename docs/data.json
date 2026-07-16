@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T01:59:37.591599+09:00",
+ "generated_at": "2026-07-17T03:06:12.187889+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,10 +58,124 @@
    "category": "海外金融"
   }
  ],
- "errors": [
-  "ロイター: HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "マイクロンは「市場で最も重要な株」になった。それで心配する時期が来たのだろうか?",
+   "link": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
+   "summary": "投資家はメモリーのピークを懸念しているが、アナリストらは、さまざまな収益シナリオと比較すると株価はまだ割安に見えると述べている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T03:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Micron has turned into ‘the most important stock in the market.’ So is it time to worry?"
+  },
+  {
+   "title": "「敬意は大切です」: もしファイナンシャル・アドバイザーが「ねえ」と言ったら、妻と私はその場を立ち去るでしょう。どこで線引きしますか？",
+   "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+   "summary": "「私が会った財務担当者は、AT&T が American Telephone and Telegraph の短縮形であることを知りませんでした。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T03:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?"
+  },
+  {
+   "title": "ほとんどのアメリカ人は認知症を予防する方法を知りません。できることは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
+   "summary": "「脳の健康は生涯にわたる取り組みです。始めるのに早すぎることも遅すぎることもありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T02:59:00+09:00",
+   "lang": "en",
+   "title_orig": "Most Americans don’t know how to prevent dementia. Here’s what you can do."
+  },
+  {
+   "title": "株価がIPO価格に戻る中、空売り者がSpaceXに対抗して積み重なる",
+   "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+   "summary": "S3によると、スペースX株は現在約1億8500万株が空売りされており、これは同社の上場株の約29％に相当する。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-17T02:51:43+09:00",
+   "lang": "en",
+   "title_orig": "Short sellers load up against SpaceX as stock retreats back to IPO price"
+  },
+  {
+   "title": "コメックスゴールドは1.44%安の3985.60ドルで決済",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-stabilizing-dollar-rate-hike-expectations-161ccbb4?mod=rss_markets_main",
+   "summary": "金は 1.4% 安、銀は 2.1% 安となり、両金属とも 2 日連続の下落となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T02:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Comex Gold Settles 1.44% Lower at $3985.60"
+  },
+  {
+   "title": "パロアルトネットワークスの株価は下落しているが、強気派によるとさらに上昇する可能性があるという",
+   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+   "summary": "AIによりサイバーセキュリティの必要性が高まっているという考えに投資家が注目したため、同社の株価は過去3カ月で約2倍になった",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T02:42:00+09:00",
+   "lang": "en",
+   "title_orig": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls"
+  },
+  {
+   "title": "ダラス連銀のローガン総裁、「適度な」金利引き上げを呼びかけ",
+   "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+   "summary": "同政策担当者は、今週発表されたインフレに関する良いニュースは十分ではないと述べた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-17T02:18:17+09:00",
+   "lang": "en",
+   "title_orig": "Dallas Fed President Logan calls for 'modestly' higher interest rates"
+  },
+  {
+   "title": "〈44社が出資〉国産AI開発のソフトバンク連合｢ノエトラ｣､エヌビディアの次世代GPUを導入して大型データセンター建設 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951830?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "日本政府と民間企業が進める国産AI基盤開発プロジェクトは､エヌビディアの画像処理半導体（GPU）｢ルービン｣を2万7500個超を搭載する次世代AIサーバーを導入する計画だ。計算資源を確保し､国産AI…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-17T02:17:00+09:00"
+  },
+  {
+   "title": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0ZXM0hVNnhBLXZEazdkNHRTUEtnS3FINi1NaHpZMnFMa3ZFYmY5ejhNRkdqTURiSTROV1JtbE5qaU4tMTNWMDViZHdvNzlaa0Y3d0FWUGhuX2lxb3U0YndxZ3ZLbmUtRVJMcTRfcnB6NWktejc3OVdDNEtKZzg3eg?oc=5",
+   "summary": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T02:11:43+09:00"
+  },
+  {
+   "title": "ウォーレン・バフェット氏、ビル・ゲイツ氏のエプスタイン氏との行為は「不快」だが、人間は間違いを犯すと語る",
+   "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+   "summary": "バークシャー・ハサウェイ会長は、20年ぶりに毎年恒例の慈善株式贈与からゲイツ財団を除外した。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-17T02:07:36+09:00",
+   "lang": "en",
+   "title_orig": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes"
+  },
+  {
+   "title": "ナスダックは半導体株に圧力がかかり下落",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-on-fresh-ai-wobble-a7d12092?mod=rss_markets_main",
+   "summary": "米国株は主に軟調で、ナスダックはサンディスク、ウェスタンデジタル、マーベルに下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T02:04:00+09:00",
+   "lang": "en",
+   "title_orig": "Nasdaq Slips as Chip Stocks Come Under Pressure"
+  },
+  {
+   "title": "スペースXのスターシップが離陸の準備を整えている - そしてその苦境にある在庫がリフトを使用する可能性がある",
+   "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
+   "summary": "あるアナリストは、巨大ロケットの成功はスペースXの「唯一の最も重要な監視項目」であると述べた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T02:01:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX’s Starship is set for takeoff — and its floundering stock could use the lift"
+  },
   {
    "title": "その他,つみたて投資枠対象商品届出一覧（対象資産別）を更新しました。",
    "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
@@ -71,14 +185,44 @@
    "published": "2026-07-17T02:00:00+09:00"
   },
   {
-   "title": "株価がIPO価格に戻る中、空売り者がSpaceXに対抗して積み重なる",
-   "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-   "summary": "S3によると、スペースX株は現在約1億8500万株が空売りされており、これは同社の上場株の約29％に相当する。",
-   "source": "CNBC",
+   "title": "妻の 2011 年型フォード フィエスタが全部処分されました。 2,000ドルの保険和解を受け入れるべきでしょうか、それとも2,700ドルで車を手放すべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+   "summary": "「ボンネットは曲がり、ラジエーターはひび割れ、フロントバンパーは破壊されています。」",
+   "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-17T01:42:50+09:00",
+   "published": "2026-07-17T02:00:00+09:00",
    "lang": "en",
-   "title_orig": "Short sellers load up against SpaceX as stock retreats back to IPO price"
+   "title_orig": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?"
+  },
+  {
+   "title": "「彼らはオンラインへのアクセスを遮断した」: 母の死後、母の銀行残高は急落しました。どうしたの？",
+   "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+   "summary": "「彼女の死後、彼女の銀行残高は16,000ドルから9,000ドルに減りました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T02:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?"
+  },
+  {
+   "title": "私は 67 歳で、総額 280 万ドル相当の家を 2 軒所有していますが、クレジット カードの借金が 19,000 ドルあります。 HELOC を取得する必要がありますか?",
+   "link": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
+   "summary": "「私の息子は最近リンパ腫と診断されました。これはアフガニスタンでの兵役中の火傷被ばくに関連している可能性があります。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-17T02:00:00+09:00",
+   "lang": "en",
+   "title_orig": "I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?"
+  },
+  {
+   "title": "トランプ大統領テレプロンプターのオペレーター、予測市場の賭けをめぐり厳しい監視に直面",
+   "link": "https://www.ft.com/content/7c315b15-1575-4a1b-aead-4d997a449940?syn-25a6b1a6=1",
+   "summary": "側近は大統領の演説に関する高度な知識を利用して「市場に言及する」賭けで利益を得たとされる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-17T01:54:46+09:00",
+   "lang": "en",
+   "title_orig": "Trump teleprompter operator faces scrutiny over prediction market bets"
   },
   {
    "title": "米国とイランの動きを待って原油先物は小幅上昇",
@@ -89,26 +233,6 @@
    "published": "2026-07-17T01:42:00+09:00",
    "lang": "en",
    "title_orig": "Oil Futures Make Moderate Gains Awaiting U.S.-Iran Moves"
-  },
-  {
-   "title": "アメリカ人は退職するには120万ドルが必要だと言う。ほとんどの人は借金が多すぎてそこに到達することができません。",
-   "link": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
-   "summary": "アメリカ人の 80% 以上が、退職後のお金がなくなることを心配しており、「本当に夜も眠れなくなります。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T01:41:00+09:00",
-   "lang": "en",
-   "title_orig": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there."
-  },
-  {
-   "title": "これは社会保障を節約する計画ではありません。計画を立てるための計画です。",
-   "link": "https://www.marketwatch.com/story/this-isnt-a-plan-to-save-social-security-its-a-plan-to-have-a-plan-d55860af?mod=mw_rss_topstories",
-   "summary": "大半が引退する超党派の上院議員グループが、ボールを少しでも前に進めようとしている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T01:37:00+09:00",
-   "lang": "en",
-   "title_orig": "This isn’t a plan to save Social Security. It’s a plan to have a plan."
   },
   {
    "title": "ウォーレン上院議員、トランプ大統領のCFPB改革はアメリカ国民に265億ドルの損失をもたらしたと語る",
@@ -139,16 +263,6 @@
    "published": "2026-07-17T01:31:00+09:00",
    "lang": "en",
    "title_orig": "Health Care Roundup: Market Talk"
-  },
-  {
-   "title": "「無神経に思われたくない」: なぜ社会保障の請求を平均余命に基づいて行うのでしょうか?私たちはいつ死ぬかも知れません。",
-   "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-   "summary": "「実際の死亡日は、最終的には生き残った受益者にのみ影響します。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T01:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time."
   },
   {
    "title": "ディーゼル供給の急激な減少によりインフレが再び上昇する恐れがある",
@@ -191,26 +305,6 @@
    "title_orig": "Financial Services Roundup: Market Talk"
   },
   {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-066f37c3?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、OpenAI、ビットコイン ETF などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T01:24:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "意見 |韓国は米国企業に敵対的ですか？",
-   "link": "https://www.wsj.com/opinion/is-south-korea-hostile-to-u-s-businesses-83ba5715?mod=rss_markets_main",
-   "summary": "議会からの報告書は、ソウル市がシアトルに本拠を置く電子商取引会社クーパン社を標的にしていると非難している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T01:20:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | Is South Korea Hostile to U.S. Businesses?"
-  },
-  {
    "title": "シェブロンとイラクはシリアのパイプラインでホルムズ海峡を回避しようとしている",
    "link": "https://www.ft.com/content/eb6e0b25-6682-46bc-a879-136a38d1d7d6?syn-25a6b1a6=1",
    "summary": "コンソーシアムの支援プロジェクトには、シリア・カタールのグループや、トランプ氏の同盟者であるトム・バラック氏と関係のあるロサンゼルスのベンチャー企業も含まれる",
@@ -219,16 +313,6 @@
    "published": "2026-07-17T01:14:17+09:00",
    "lang": "en",
    "title_orig": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline"
-  },
-  {
-   "title": "スペースX社の株価は135ドルを下回ったために暴落したのだろうか？ Meta の IPO 後に何が起こったかを見てください。",
-   "link": "https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories",
-   "summary": "主要な IPO の半数近くが公開価格を下回り、数年間その価格にとどまります。 SpaceX も例外ではない理由がここにあります。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T01:12:00+09:00",
-   "lang": "en",
-   "title_orig": "Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO."
   },
   {
    "title": "正午に最も大きく値動きした銘柄: マンパワー、アボット、ユナイテッドヘルス、TSMC など",
@@ -241,26 +325,6 @@
    "title_orig": "Stocks making the biggest moves midday: Manpower, Abbott, UnitedHealth, TSMC & more"
   },
   {
-   "title": "住宅ローン金利が2026年の最高水準に上昇",
-   "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories",
-   "summary": "住宅ローン金利はわずかに上昇し、１年ぶりの最高水準となり、住宅市場に新たな打撃を与えた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T01:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Mortgage rates jump to the highest level of 2026"
-  },
-  {
-   "title": "私は67歳で年金は14万ドルです。妻がもっともらえるように、社会保障を請求するには70歳まで待ったほうがいいでしょうか?",
-   "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
-   "summary": "「私が合格すると、退職後の収入はすべて年間 30,000 ドルに減ります。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T01:00:00+09:00",
-   "lang": "en",
-   "title_orig": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?"
-  },
-  {
    "title": "ロシアの攻撃でウクライナの黒海穀物貿易が脅かされる",
    "link": "https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3?syn-25a6b1a6=1",
    "summary": "激しい攻撃により出荷が混乱し、小麦価格が急騰",
@@ -269,26 +333,6 @@
    "published": "2026-07-17T00:53:19+09:00",
    "lang": "en",
    "title_orig": "Russian strikes threaten Ukraine’s Black Sea grain trade"
-  },
-  {
-   "title": "スペースXのライバル企業がさらなる資金調達を目指す中、ASTスペースモバイルの株価は下落している",
-   "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-sinking-as-the-spacex-rival-looks-to-raise-more-cash-e358cae1?mod=mw_rss_topstories",
-   "summary": "AST SpaceMobileも衛星打ち上げ目標を延期した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T00:51:00+09:00",
-   "lang": "en",
-   "title_orig": "AST SpaceMobile’s stock is sinking as the SpaceX rival looks to raise more cash"
-  },
-  {
-   "title": "高齢の退職者にとっての第一の決断: 自宅に留まるか、それとも高齢者コミュニティに移住するか?",
-   "link": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
-   "summary": "長年住んでいる家に住むには、思っている以上に綿密な計画が必要な理由。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-17T00:33:00+09:00",
-   "lang": "en",
-   "title_orig": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?"
   },
   {
    "title": "大阪メトロ会長引責辞任 相談役に",
@@ -331,16 +375,6 @@
    "published": "2026-07-16T23:24:47+09:00",
    "lang": "en",
    "title_orig": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush"
-  },
-  {
-   "title": "FT 読者は次のように答えています。AI の実際のコストはいくらですか?",
-   "link": "https://www.ft.com/content/def99267-bff3-4c7f-8c0e-7b7774fd96f7",
-   "summary": "AI データセンターの環境への影響と透明性の向上の必要性についてコメント者が議論 - 議論に参加",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-16T22:43:43+09:00",
-   "lang": "en",
-   "title_orig": "FT readers respond: What is the real cost of AI?"
   },
   {
    "title": "書籍に差別的表現 双葉社が回収",
@@ -469,12 +503,28 @@
    "title_orig": "Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead"
   },
   {
+   "title": "韓国、個別株レバレッジＥＴＦの新規上場停止 市場の変動抑制狙う - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUxZRy1MaGxGZDdDcDlsdVVCODc1NmYza0xEYUx3NThZTmx1Z0c2UTdncC1oZHhMQnd2cmloNVV3QThNdGx2OVFhZGVoVnNqcnpuajN3QXNsV2x3dmdyQjdHeTJHVjNMa0R4VzZaNGpnSnhXZGVaNjdvVlNXdGpXcw?oc=5",
+   "summary": "韓国、個別株レバレッジＥＴＦの新規上場停止 市場の変動抑制狙う&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T18:41:45+09:00"
+  },
+  {
    "title": "新制度「所得連動給付」、恩恵は誰に　消費減税とは支援対象にズレ",
    "link": "https://www.asahi.com/articles/ASV7J343KV7JULFA00ZM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-16T18:40:51+09:00"
+  },
+  {
+   "title": "スイス中銀、必要なら為替介入の用意 中東情勢不透明＝議事要旨 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tSGFwWHk0STVzXzhZOGlweGRMLXpCZnBRQnBwTk4yYkoxQnllZ0lISWl5VllOUDBvVmpSVGJqTEN6Sk1PU0ZQVzhraXFHalpfLU9SZzU0YXM1d1RlTmFsRjI4Y0g3a1BFNkVMMnljUTkwd2J1NEJSWQ?oc=5",
+   "summary": "スイス中銀、必要なら為替介入の用意 中東情勢不透明＝議事要旨&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T18:31:43+09:00"
   },
   {
    "title": "円相場 小幅な値動き ドルの売り買いが交錯",
@@ -653,12 +703,36 @@
    "published": "2026-07-16T15:00:00+09:00"
   },
   {
+   "title": "アップル、ＡＩ半導体企業の買収を模索＝報道 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9feGxxMkRuVlptUFpOOXlfMGt5T2dqaUZhZ1BUQU10aFA0S0ZlMFZJN3NnZFExb05BcWtvbEtSd2tEcmtlVFVZYURQSk5sQXR4Z2Rfc1NjRnJ1OHZwc0lOQ3lVdkZDbnNFLWJvMXBiV0ZmVVBmQmNVeg?oc=5",
+   "summary": "アップル、ＡＩ半導体企業の買収を模索＝報道&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T14:34:00+09:00"
+  },
+  {
+   "title": "韓国当局、個別株レバレッジＥＴＦで近く対応策 市場安定へ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHlzWWRYOENGMnkyLXNROFJKWGUtYm15c19aQkR6Nm1JS1J1ZW1kYWt3R29WR0xaaENXVjBTVG8yV1U4TVBadGpMY2M0UE10cDNwNExvSks3ZEl0T3JkdWVlQ1lIQ1hvN0U1d0xERWFPUlJoNlZPUGE0eWI5bkVXLQ?oc=5",
+   "summary": "韓国当局、個別株レバレッジＥＴＦで近く対応策 市場安定へ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T14:26:00+09:00"
+  },
+  {
    "title": "ニチレイの障害 給食にも影響拡大",
    "link": "https://news.yahoo.co.jp/pickup/6588147?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-16T14:14:41+09:00"
+  },
+  {
+   "title": "インタビュー：長期金利3％超えなら、政府が日銀に国債買入増額を要請の可能性＝安達元日銀委員 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pb1B3bTUtSWJ2ZDRVTTNrSHlfaEpWcDR4S0ViSG5WNzNpdlRacENSUFJJbThKUmNGcnVIUUtmTGdGbVVIT0ZKS3drZ2RTMkJDcTI4NHp1Z2dIX0t3TUw0cnJnS2JybF94Vm5wYXFZYVpwU1NKZ1NCWQ?oc=5",
+   "summary": "インタビュー：長期金利3％超えなら、政府が日銀に国債買入増額を要請の可能性＝安達元日銀委員&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T14:01:00+09:00"
   },
   {
    "title": "ダイハツ「ハイゼット　トラック」など29万台をリコール",
@@ -729,6 +803,14 @@
    "published": "2026-07-16T13:00:00+09:00"
   },
   {
+   "title": "現代自、ボストン・ダイナミクスを完全子会社化へ ＳＢＧから株取得 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lSGpOMExoenF6M3FFcFNGQlB4MVU0NFFLenFEVU5HX2M4YmczZTRlWS14WUdwWFp0OU1KbnN6WXZxdkdLV2d1TzhBM0ttc2FnQWJYUXBzajVjODRBS2hCUXNwSFdabnlWT2NtS0xHNUJaYktBYzZCUg?oc=5",
+   "summary": "現代自、ボストン・ダイナミクスを完全子会社化へ ＳＢＧから株取得&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T12:44:00+09:00"
+  },
+  {
    "title": "流動性供給(第457回)入札結果",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260716.htm",
    "summary": "",
@@ -767,6 +849,22 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-16T11:30:00+09:00"
+  },
+  {
+   "title": "経済強化で円の信認維持へ、為替にはいつでも適切に対応＝片山財務相 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lZF9xOUpZbVlUYnU0MGVRODFaR3F1U0pXUE82MHhmaFdZaV8zMWRMUmhWR01OdnloQjdzS0JzUktucXBKUkZJYXU2UW92UWkxS2FwVGZhZGtRSnpWeU55b0FOVDJweDdWUy1EVUpPcGx0RnM1cERtUQ?oc=5",
+   "summary": "経済強化で円の信認維持へ、為替にはいつでも適切に対応＝片山財務相&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T11:10:00+09:00"
+  },
+  {
+   "title": "韓国株急反落、半導体売り再燃 ＳＫハイニックス一時12％超安 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jakw5d0dCWk5UY2ZWVHFIZnVIaUI0NDRYNS1UbGFybnhTZlFKTExIWHVodEV6T2QtanpjaVg0R0ZOeDRDdlZiY1BfYXdKRzhfTHhHMDd0UWhtR3Z4NTZPZVhQdktmWHlaM3l4M011RW9JMDJXVktDOA?oc=5",
+   "summary": "韓国株急反落、半導体売り再燃 ＳＫハイニックス一時12％超安&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T11:06:00+09:00"
   },
   {
    "title": "出版不況の中で独走する｢46万部雑誌｣ハルメクの秘密…9年前のどん底15万部割れからどう伸ばしていったのか？ | キャリア・教育 | 東洋経済オンライン",
@@ -849,12 +947,12 @@
    "published": "2026-07-16T09:30:00+09:00"
   },
   {
-   "title": "年収2000万円でもムリ…30代女性30人に相手にされなかった51歳が気づいた｢自分の価値｣　\"おぢアタック\"は幻想か | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950979?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "年収2000万円を超える51歳の経営者が､30代女性約30人に申し込むも､その結果は惨敗……。経済力があれば若い女性と結婚できるという｢昭和の価値観｣は､もはや婚活市場では通用しません。仲人が見てき…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-16T09:00:00+09:00"
+   "title": "日経平均は反落で寄り付く、米半導体株安を嫌気 国内関連株が下げ主導 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGI4QlBzb2xRczJzazRkeXFBbHVXSFYxaW1IVjV6Q3NoU29EZW9PVXEzNzA0OXBRMnVkWHRPbWRGZEw0ZEZQMzJKem9xdWN6T21mVWd2bGhjQmpWZzVvQVRFc21WSlNFcFBNNGo4cW8wWkgxVndSSndSNTBBRkdmQQ?oc=5",
+   "summary": "日経平均は反落で寄り付く、米半導体株安を嫌気 国内関連株が下げ主導&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T09:26:00+09:00"
   },
   {
    "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
@@ -871,6 +969,38 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-16T08:50:00+09:00"
+  },
+  {
+   "title": "米大手銀のプライムブローカレッジ事業好調、市場変動追い風に顧客取引拡大 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlhaNi1GR0lGcUoyc1JVM3Q2MnJsY3BDMUVxRE5rdU9ncEpJb0luZUVsWjFaSnFpVUdwcnNUZDhKdkRHMEF3V3Uwdl9Kb2dZMzRIWjVxZGt0V1l2YmFCU1RuYzJTczM5bnFZRHp5YUxqS3lBV3lJTUdkclQzdmg3aw?oc=5",
+   "summary": "米大手銀のプライムブローカレッジ事業好調、市場変動追い風に顧客取引拡大&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T08:23:43+09:00"
+  },
+  {
+   "title": "スペースＸ株が一時ＩＰＯ価格割れ、上場後初 急騰失速 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnZ6V0ZxT0JHeWZYM1V6SDUxOEJBWjNwck9UWUVDbHlHNzVhZkRMWGVIS29oUHlvRGFHTFhscEx6VmtHQ2hfb2FrZ1JRYXpfQ3ZsSEhsMUFGeFBRbjhaT2xKSFlxeXlUandYU0tSbmlLZDA1dWVLZVFXVXJMWXpvbA?oc=5",
+   "summary": "スペースＸ株が一時ＩＰＯ価格割れ、上場後初 急騰失速&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T08:16:17+09:00"
+  },
+  {
+   "title": "エヌビディア、フアン氏来日で日本企業と相次ぎ連携強化 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRFdqSHlVSWVSbGF0VjVYQXdaR0otUkkzdUJmbTd1Mm1STkFOU250R3psZGFNVTVqVUIwMER0WjBSUXRNWjliSTAxQVlleWYzRWRVaDFvNThrcmU0cEJUSHktVXRtNUx3NE1uRVM4NVdxSzlFNHZCNw?oc=5",
+   "summary": "エヌビディア、フアン氏来日で日本企業と相次ぎ連携強化&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T08:13:00+09:00"
+  },
+  {
+   "title": "今日の株式見通し＝軟調、米半導体株安を嫌気 台湾ＴＳＭＣ決算に関心 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFAtQndPcXc0Sm1sVlBvell6VWZTQWlrTGhYeEQ3N2lYdEltTl82OGt1MU1aMHpQTVVqaklCX3FXZDBlbGd0dllTWEJkVjgtR3otbml2bnRNVkhQX2Zxcm45djMxZFRURzFrcTNVazNMTGZtYmtBaDQ2RjNMdER0TQ?oc=5",
+   "summary": "今日の株式見通し＝軟調、米半導体株安を嫌気 台湾ＴＳＭＣ決算に関心&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T08:10:11+09:00"
   },
   {
    "title": "FRBのケビン・ウォーシュ議長が上院銀行委員会で生証言する様子をご覧ください",
@@ -899,24 +1029,12 @@
    "published": "2026-07-16T06:18:39+09:00"
   },
   {
-   "title": "AI ブームでは、ゴールドマン サックスと JP モルガン チェースという 2 つの新たな勝者が誕生しました。",
-   "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-   "summary": "ゴールドマン・サックスとJPモルガンは、ウォール街がAIブームの主要な受益者であり、取引と投資の急増によって記録的な収益を上げていることを示した",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-16T03:45:53+09:00",
-   "lang": "en",
-   "title_orig": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase"
-  },
-  {
-   "title": "ニューヨーク連銀のウィリアムズ総裁、インフレはピークに達し、金利は「適切な位置にある」と発言",
-   "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-   "summary": "ウィリアムズ氏は、最近の価格高騰は一巡したと予想する５つの理由を挙げた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-16T02:31:41+09:00",
-   "lang": "en",
-   "title_orig": "New York Fed President Williams says inflation has peaked, rates 'well positioned'"
+   "title": "米ＬＡ港、6月取扱量が同月として過去最高 燃料高騰・関税懸念で駆け込み - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UYXJZZlhINmdfdmhJNGlVS2tORFFQMktIeGZFTy1kVHViclZIakpKUjczV3lNbEMwNFhvLU9fWmhfb2E5RG10azV1OWdRNm4zbUdGX2FfNU1aV3l0VG1Fa0RZU2NQdDMzRnFSWnktcEViOFY3R0dxdQ?oc=5",
+   "summary": "米ＬＡ港、6月取扱量が同月として過去最高 燃料高騰・関税懸念で駆け込み&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T05:49:43+09:00"
   },
   {
    "title": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
