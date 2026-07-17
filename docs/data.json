@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T02:57:51.112672+09:00",
+ "generated_at": "2026-07-18T04:00:07.351900+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,56 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "MetaとAnthropic、最大100億ドルのデータセンター契約で交渉中",
+   "link": "https://www.ft.com/content/0ae58f76-3386-464a-9248-090cc68e9864?syn-25a6b1a6=1",
+   "summary": "ソーシャルメディア大手がインフラ整備に1450億ドルを費やし、クラウド事業の立ち上げを検討中",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-18T03:32:45+09:00",
+   "lang": "en",
+   "title_orig": "Meta and Anthropic in talks for up to $10bn data centre deal"
+  },
+  {
+   "title": "「彼らは容赦ない」: 詐欺師が私の空のロビンフッド アカウントのメールアドレスを変更しようとしています。彼らは何を得る必要があるのでしょうか？",
+   "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+   "summary": "「私は彼らの試みを無視してきました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-18T03:30:00+09:00",
+   "lang": "en",
+   "title_orig": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?"
+  },
+  {
+   "title": "妻の 2011 年型フォード フィエスタが全部処分されました。 2,000ドルの保険和解を受け入れるべきでしょうか、それとも2,700ドルで車を手放すべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+   "summary": "「ボンネットは曲がり、ラジエーターはひび割れ、フロントバンパーは破壊されています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-18T03:27:00+09:00",
+   "lang": "en",
+   "title_orig": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?"
+  },
+  {
+   "title": "最高の住宅ローン金利を見つける方法 — 年間 3,300 ドル節約できる可能性があります",
+   "link": "https://www.marketwatch.com/story/how-to-find-the-best-mortgage-rate-it-could-save-you-3-300-a-year-e973e520?mod=mw_rss_topstories",
+   "summary": "買い物の比較を省略した購入者は、住宅ローンを大幅に払いすぎてしまうことがよくあります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-18T03:19:00+09:00",
+   "lang": "en",
+   "title_orig": "How to find the best mortgage rate — it could save you $3,300 a year"
+  },
+  {
+   "title": "石油市場はホルムズショックをどれくらい吸収できるでしょうか?",
+   "link": "https://www.ft.com/content/55f5860b-6ef0-42ed-a87f-c49af6ef9d29",
+   "summary": "石油生産量の改善はこれまでのところ世界経済を緩和しているが、無謀な政治的選択を促す可能性がある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-18T02:52:37+09:00",
+   "lang": "en",
+   "title_orig": "How long can oil markets absorb the Hormuz shock?"
+  },
   {
    "title": "コメックスゴールドは2.23%安の4012.70ドルで今週を終えた。",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-central-bank-buying-likely-to-remain-structural-driver-f10d22c2?mod=rss_markets_main",
@@ -213,16 +263,6 @@
    "title_orig": "Global tech stocks fall as AI trade goes into reverse"
   },
   {
-   "title": "EchoStarの株価はSpaceXの株価と並んで下落しているが、今はもう一度検討する価値があるかもしれない",
-   "link": "https://www.marketwatch.com/story/echostars-stock-has-fallen-alongside-spacexs-but-it-may-now-be-worth-another-look-d9208e67?mod=mw_rss_topstories",
-   "summary": "EchoStarの株は数か月間、SpaceXへのエクスポージャーをより安価に得る方法とみなされてきた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-18T01:18:00+09:00",
-   "lang": "en",
-   "title_orig": "EchoStar’s stock has fallen alongside SpaceX’s — but it may now be worth another look"
-  },
-  {
    "title": "AppleがNvidiaを打倒してウォール街の王座を奪還",
    "link": "https://www.wsj.com/tech/apple-overthrows-nvidia-to-reclaim-wall-streets-crown-ddc74a38?mod=rss_markets_main",
    "summary": "投資家がハードウェアの供給から消費者への実行に焦点を移す中、iPhoneメーカーは米国で最も価値のある上場企業となった。",
@@ -263,26 +303,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-18T01:00:00+09:00"
-  },
-  {
-   "title": "父は私に郊外の大きな家を買って欲しいと言っていますが、私はそこには住みたくないのです。彼を断ったら恩知らずになるでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-dad-wants-to-buy-me-a-big-suburban-home-but-i-dont-want-to-live-there-am-i-ungrateful-for-turning-down-his-offer-ab4e9827?mod=mw_rss_topstories",
-   "summary": "「むしろ、もっと田舎の広大な土地に、小さなものを持ちたいと思っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-18T00:56:00+09:00",
-   "lang": "en",
-   "title_orig": "My dad wants to buy me a big suburban home — but I don’t want to live there. Am I ungrateful if I turn him down?"
-  },
-  {
-   "title": "イラン戦争は米国経済にそれほど大きな打撃を与えていないが、危険はまだ終わっていない",
-   "link": "https://www.marketwatch.com/story/iran-war-hasnt-hurt-the-u-s-economy-too-badly-but-the-danger-isnt-over-yet-82f7d46a?mod=mw_rss_topstories",
-   "summary": "経済の2本の柱である個人消費と企業投資は、イランの緊張から生じた初期の不安を振り払ったようだ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-18T00:55:00+09:00",
-   "lang": "en",
-   "title_orig": "Iran war hasn’t hurt the U.S. economy too badly — but the danger isn’t over yet"
   },
   {
    "title": "戦場戦略をめぐるウクライナの亀裂が表面化",
@@ -365,40 +385,12 @@
    "title_orig": "Treasury Yields Slip Amid Solid Indicators, Middle East Tension"
   },
   {
-   "title": "英国の次期首相が見るべき7つのチャート",
-   "link": "https://www.ft.com/content/2b9d2e63-9aff-4dce-a597-5494cbd12c2d?syn-25a6b1a6=1",
-   "summary": "次期首相は国全体の成長促進を約束するが、いくつかの障害に直面する",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-17T22:12:07+09:00",
-   "lang": "en",
-   "title_orig": "Seven charts Britain’s next PM should see"
-  },
-  {
    "title": "CAの飲酒問題 JALが再発防止策",
    "link": "https://news.yahoo.co.jp/pickup/6588334?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-17T21:57:14+09:00"
-  },
-  {
-   "title": "バーナム氏は労働党党首に就任する際に「ビジネス寄り」になると約束",
-   "link": "https://www.ft.com/content/8cbd0b07-d0db-4c1a-a985-c495bd7168b8?syn-25a6b1a6=1",
-   "summary": "次期首相は「労働党らしい方向性を打ち出す」と語る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-17T21:17:44+09:00",
-   "lang": "en",
-   "title_orig": "Burnham promises to be ‘pro-business’ as he is crowned Labour leader"
-  },
-  {
-   "title": "最低賃金上げ、目安額の議論至らず　厚労省審議会、３回目会合",
-   "link": "https://www.jiji.com/jc/article?k=2026071700908&g=soc&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-17T21:07:00+09:00"
   },
   {
    "title": "新幹線西九州ルート、佐賀県負担に上限　国交省と合意、アセス実施も",
@@ -1323,6 +1315,14 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-15T19:00:00+09:00"
+  },
+  {
+   "title": "金融政策決定会合議事録等（2016年1月～6月開催分）",
+   "link": "http://www.boj.or.jp/mopo/mpmsche_minu/record_2016/gjrk.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-07-15T08:50:00+09:00"
   }
  ]
 }
