@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T01:56:20.063471+09:00",
+ "generated_at": "2026-07-18T02:57:51.112672+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,56 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "コメックスゴールドは2.23%安の4012.70ドルで今週を終えた。",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-central-bank-buying-likely-to-remain-structural-driver-f10d22c2?mod=rss_markets_main",
+   "summary": "金曜日は金が0.7％上昇し、銀は0.3％近く上昇した。今週は両金属ともに損失を計上した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-18T02:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Comex Gold Ends the Week 2.23% Lower at $4012.70"
+  },
+  {
+   "title": "健康診断が悪いと家計計画が狂ってしまいますが、計画を立て直すことは可能です",
+   "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
+   "summary": "デス・ドゥーラでもある CFP から終末期の財務アドバイスを受けるのはどのような感じか",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-18T02:27:00+09:00",
+   "lang": "en",
+   "title_orig": "A bad health diagnosis will upend your financial plan, but you can set it right again"
+  },
+  {
+   "title": "米国で20代、30代、40代、そしてそれ以降に成功し始めるために必要な純資産は次のとおりです。",
+   "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+   "summary": "アスペン研究所が開発した新しいベンチマークによると、アメリカ人の約4分の3は今日の経済で繁栄するために必要な富が不足しているという。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-18T02:19:00+09:00",
+   "lang": "en",
+   "title_orig": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S."
+  },
+  {
+   "title": "静かに退職について不安になっていませんか？あなたが思っているほど悪くないかもしれません。",
+   "link": "https://www.marketwatch.com/story/silently-freaking-out-about-retirement-why-it-may-not-be-as-bad-as-you-think-3175d0e1?mod=mw_rss_topstories",
+   "summary": "あらゆる憂鬱と絶望の中でも、自分に有利に数学を変える方法があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-18T02:13:00+09:00",
+   "lang": "en",
+   "title_orig": "Are you silently freaking out about retirement? It may not be as bad as you think."
+  },
+  {
+   "title": "SEC、国民の反発にもかかわらず四半期収益規則を変更すると予想",
+   "link": "https://www.wsj.com/finance/regulation/sec-quarterly-earnings-reports-complaints-2979d5a0?mod=rss_markets_main",
+   "summary": "20万件を超えるコメントのほとんどは、四半期財務報告書を任意にしないよう当局に要請していた。トランプ大統領はこうした動きを長年支持してきた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-18T02:10:00+09:00",
+   "lang": "en",
+   "title_orig": "SEC Expected to Change Quarterly Earnings Rule Despite Public Backlash"
+  },
   {
    "title": "その他,「経済価値ベースのソルベンシー規制」の概要資料を更新しました。",
    "link": "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
@@ -153,16 +203,6 @@
    "title_orig": "Trump Media pitched $100,000 monthly fee for fast feed of president’s posts"
   },
   {
-   "title": "SEC、国民の反発にもかかわらず四半期収益規則を変更すると予想",
-   "link": "https://www.wsj.com/finance/regulation/sec-quarterly-earnings-reports-complaints-2979d5a0?mod=rss_markets_main",
-   "summary": "20万件を超えるコメントのほとんどは、四半期財務報告書を任意にしないよう当局に要請していた。トランプ大統領はこうした動きを長年支持してきた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-18T01:22:00+09:00",
-   "lang": "en",
-   "title_orig": "SEC Expected to Change Quarterly Earnings Rule Despite Public Backlash"
-  },
-  {
    "title": "AI貿易の逆行で世界のハイテク株が下落",
    "link": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
    "summary": "米国の半導体株指数は昨年の「解放記念日」の惨敗以来最悪の週を記録",
@@ -245,16 +285,6 @@
    "title_orig": "Iran war hasn’t hurt the U.S. economy too badly — but the danger isn’t over yet"
   },
   {
-   "title": "テイラー農場、シクロスポラ発生の原因となる可能性のある農産物を回収へ：報告書",
-   "link": "https://www.marketwatch.com/story/taylor-farms-to-recall-produce-that-may-be-the-cause-of-the-cyclospora-outbreak-report-e2c4cc0b?mod=mw_rss_topstories",
-   "summary": "カリフォルニアに本拠を置くこの会社は、米国最大のサラダ野菜生産者の 1 つです。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-18T00:47:00+09:00",
-   "lang": "en",
-   "title_orig": "Taylor Farms to recall produce that may be the cause of the cyclospora outbreak: report"
-  },
-  {
    "title": "戦場戦略をめぐるウクライナの亀裂が表面化",
    "link": "https://www.ft.com/content/a200e4d6-69b1-45a7-8777-3126dc4f194b?syn-25a6b1a6=1",
    "summary": "人気の国防大臣解任でロシアとの戦い方を巡る分裂が露呈",
@@ -263,26 +293,6 @@
    "published": "2026-07-18T00:32:35+09:00",
    "lang": "en",
    "title_orig": "Ukraine’s rift over battlefield strategy breaks into the open"
-  },
-  {
-   "title": "「私は途方に暮れています」: 私の兄弟が死にそうです。私たちは近くにいません。彼を助けるために私にはどんな責任があるでしょうか？",
-   "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-   "summary": "「彼は今、明確に考えることも、自分の願いを伝えることもできなくなっています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-18T00:16:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?"
-  },
-  {
-   "title": "米国選挙に関するトランプ大統領の演説が市場に悪影響を与える理由",
-   "link": "https://www.marketwatch.com/story/why-trumps-speech-on-u-s-elections-could-be-bad-for-markets-e617dc64?mod=mw_rss_topstories",
-   "summary": "大統領は、2020年の「邪悪な選挙介入」で中国を非難することに一部焦点を当てた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-18T00:06:00+09:00",
-   "lang": "en",
-   "title_orig": "Why Trump’s speech on U.S. elections could be bad for markets"
   },
   {
    "title": "その他,「国際会計基準審議会等の国際会議への参加及び意見発信等」（令和７年度）の成果物について公表しました。",
@@ -315,14 +325,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-17T23:43:17+09:00"
-  },
-  {
-   "title": "米国株式市場・序盤＝ナスダック600ポイント超下落、ハイテク株に売り - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQel9OVzkydlRZSWdkYlV0ajVEUXVZMXFCZ2dxZzhhTVd3RDJFN3RqNDZYUTEyLXo5aDZEeWlFYU5BNlI0Nlp6TWhNYTN1YS1wd1ppNzRjRUhMaXJZQUpHZTJUMlYxTGdhX01kVWpRRm05TkFxR2FNYXJCZ1BzcnVadA?oc=5",
-   "summary": "米国株式市場・序盤＝ナスダック600ポイント超下落、ハイテク株に売り&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T23:05:46+09:00"
   },
   {
    "title": "花火大会チケット 不正転売相次ぐ",
@@ -363,16 +365,6 @@
    "title_orig": "Treasury Yields Slip Amid Solid Indicators, Middle East Tension"
   },
   {
-   "title": "米国の輸入価格、6月に予想外に上昇",
-   "link": "https://www.wsj.com/economy/trade/u-s-import-prices-unexpectedly-rise-in-june-d41a0908?mod=rss_markets_main",
-   "summary": "データによると、６月の輸入物価全体は０．３％上昇したが、下方修正された５月の１．７％上昇を下回った。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T22:15:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Import Prices Unexpectedly Rise in June"
-  },
-  {
    "title": "英国の次期首相が見るべき7つのチャート",
    "link": "https://www.ft.com/content/2b9d2e63-9aff-4dce-a597-5494cbd12c2d?syn-25a6b1a6=1",
    "summary": "次期首相は国全体の成長促進を約束するが、いくつかの障害に直面する",
@@ -381,14 +373,6 @@
    "published": "2026-07-17T22:12:07+09:00",
    "lang": "en",
    "title_orig": "Seven charts Britain’s next PM should see"
-  },
-  {
-   "title": "ＥＵ、炭素排出規制を緩和へ　産業界の負担軽減",
-   "link": "https://www.jiji.com/jc/article?k=2026071701190&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-17T22:00:00+09:00"
   },
   {
    "title": "CAの飲酒問題 JALが再発防止策",
@@ -407,6 +391,14 @@
    "published": "2026-07-17T21:17:44+09:00",
    "lang": "en",
    "title_orig": "Burnham promises to be ‘pro-business’ as he is crowned Labour leader"
+  },
+  {
+   "title": "最低賃金上げ、目安額の議論至らず　厚労省審議会、３回目会合",
+   "link": "https://www.jiji.com/jc/article?k=2026071700908&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-17T21:07:00+09:00"
   },
   {
    "title": "新幹線西九州ルート、佐賀県負担に上限　国交省と合意、アセス実施も",
@@ -1245,6 +1237,14 @@
    "title_orig": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush"
   },
   {
+   "title": "米新規失業保険申請8000件減、労働市場の安定継続を示唆 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmN4eU5tTGFxOVBkbGRTNWpieEpQRDg2T3lwN2hMbXNPekNOaDZ0LVpLek5BZDlhZjlNbWJrTllMdTRRMS1ubThhZkFqa2NIeXdZRDVjU2hQU0dmR01Ga2c5d3IzZ1lxMWRWZm5VR2hycTg3ekl2YkZmd2xSZUlJdA?oc=5",
+   "summary": "米新規失業保険申請8000件減、労働市場の安定継続を示唆&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T22:40:10+09:00"
+  },
+  {
    "title": "サントリー、10月に「金麦」を発泡酒→ビールに　酒税改正を見据え“デイリービール市場”を開拓",
    "link": "https://www.itmedia.co.jp/business/articles/2607/16/news093.html",
    "summary": "サントリーは10月、「金麦」を発泡酒からビールへ刷新する。酒税改正でビール需要の拡大が見込まれる中、新商品も投入する。",
@@ -1309,20 +1309,20 @@
    "published": "2026-07-16T07:00:00+09:00"
   },
   {
-   "title": "エベレストがドローン試験場に　中国圧力で米に許可出さず―ネパール",
-   "link": "https://www.jiji.com/jc/article?k=2026071500683&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-16T06:55:00+09:00"
-  },
-  {
    "title": "調達,入札公告等を更新しました。",
    "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-15T20:00:00+09:00"
+  },
+  {
+   "title": "その他,金融仲介機能の発揮に向けたプログレスレポートについて公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260715/20260715.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-15T19:00:00+09:00"
   }
  ]
 }
