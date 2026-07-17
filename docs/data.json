@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T13:20:31.696651+09:00",
+ "generated_at": "2026-07-17T15:33:17.645388+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,30 @@
  "errors": [],
  "items": [
   {
+   "title": "その他,「国際会計基準審議会等の国際会議への参加及び意見発信等」（令和７年度）の成果物について公表しました。",
+   "link": "https://www.fsa.go.jp/common/about/research/20260717/20260717.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-18T00:00:00+09:00"
+  },
+  {
+   "title": "その他,「国際会計基準審議会の議論内容及び討議資料等の調査分析等」（令和７年度）の成果物について公表しました。",
+   "link": "https://www.fsa.go.jp/common/about/research/20260717-2/20260717-2.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-18T00:00:00+09:00"
+  },
+  {
+   "title": "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.1＜スタートアップ企業におけるVC投資と銀行融資の関係：資金調達の順序と構造に関する分析＞および＜地域銀行の住宅ローンにおける気候関連リスク分析の試行＞について公表しました。",
+   "link": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20260717/20260717.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-18T00:00:00+09:00"
+  },
+  {
    "title": "金融庁広報誌アクセスＦＳＡ第275号（2026年７月号）を発行しました。",
    "link": "https://www.fsa.go.jp/access/index.html",
    "summary": "",
@@ -69,20 +93,170 @@
    "published": "2026-07-17T19:00:00+09:00"
   },
   {
-   "title": "日経平均 一時3000円以上値下がり",
-   "link": "https://news.yahoo.co.jp/pickup/6588260?source=rss",
+   "title": "広報誌「ファイナンス」7月号　特集　令和7年の全国の税関における関税法違反事件の取締り状況",
+   "link": "https://www.mof.go.jp/public_relations/finance/index.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-07-17T15:30:00+09:00"
+  },
+  {
+   "title": "シンガポールドル統合。レンジ取引フェーズに入った可能性が高い",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-risk-off-sentiment-8adc295d?mod=rss_markets_main",
+   "summary": "ポジション調整の可能性の中、シンガポールドルは米国ドルに対して堅調となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T15:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Singapore Dollar Consolidates; Likely Entered Range-Trading Phase"
+  },
+  {
+   "title": "「もっと働かせたい」からの脱却を　浮上した裁量労働制拡大への懸念",
+   "link": "https://www.asahi.com/articles/ASV7J7X8TV7JULFA01TM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-17T15:00:00+09:00"
+  },
+  {
+   "title": "国会閉会後をにらみ加速する｢改造人事｣の思惑､高市首相｢自前の内閣｣でささやかれる\"入閣\"有力候補と\"党分裂\"のリスク | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951941?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "7月17日が会期末の特別国会は8日間の会期延長となりそう。その裏側では､国会閉会後を見据えた｢人事｣をめぐる思惑が静かに､しかしはっきりと動き始めています。高市首相がもくろむ｢新体制｣に選ばれそうな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-17T15:00:00+09:00"
+  },
+  {
+   "title": "国庫歳入歳出状況（令和8年度　令和８年5月分）",
+   "link": "https://www.mof.go.jp/insideLink/20260716111015.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-07-17T15:00:00+09:00"
+  },
+  {
+   "title": "国庫歳入歳出状況（令和7年度　令和８年5月分）",
+   "link": "https://www.mof.go.jp/insideLink/20260716110904.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-07-17T15:00:00+09:00"
+  },
+  {
+   "title": "人事異動(令和8年7月17日)",
+   "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.07.17_35.pdf",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-07-17T15:00:00+09:00"
+  },
+  {
+   "title": "混合国債。日本株市場の大幅な下落が下支えとなる可能性がある",
+   "link": "https://www.wsj.com/finance/investing/jgbs-mixed-may-be-supported-by-marked-fall-in-japanese-equity-market-4c39934a?mod=rss_markets_main",
+   "summary": "東京取引序盤の日本国債の価格はまちまちだったが、日本の株式市場の顕著な下落が支援する可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-17T14:43:00+09:00",
+   "lang": "en",
+   "title_orig": "JGBs Mixed; May Be Supported by Marked Fall in Japanese Equity Market"
+  },
+  {
+   "title": "ウォール街の新たな騒動で米国のチップとメモリ株が下落",
+   "link": "https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1",
+   "summary": "投資家は今年市場を上昇に導いた企業の株から撤退",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-17T14:35:37+09:00",
+   "lang": "en",
+   "title_orig": "US chip and memory stocks slide in fresh bout of Wall Street tumult"
+  },
+  {
+   "title": "ＣＸＭＴのＩＰＯ、中国金融6社が最低でも4100万ドルの手数料獲得へ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14a2hpRzkzU0Jyd1g5OU9QSkJPc1VxNXpGaU9BdDRGeHVfcGJac19GS2FaYXlPbEZ4V3ptaDkyc3U1VHRHMmxSb29SYVhEZTVZSTZpZ0l3d3lTWUxPcjdRTkg5VDVBWG9CbjFnVjFreUQxbk50WjV1dQ?oc=5",
+   "summary": "ＣＸＭＴのＩＰＯ、中国金融6社が最低でも4100万ドルの手数料獲得へ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T14:32:00+09:00"
+  },
+  {
+   "title": "もはや｢情報を盗む｣｢金を奪う｣ことが目的のサイバー攻撃ではない…次々と企業を襲う\"サイバー知能戦\"の戦慄 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/950661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "私たちの日常が静かに揺らいでいる──スマートフォンやインフラの裏側で続く見えない攻防､｢サイバー知能戦｣。もはや単なる情報漏洩や金銭目的の犯罪ではなく､社会機能そのものに狙いを定めた戦略的な攻撃が始…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-17T14:30:00+09:00"
+  },
+  {
+   "title": "日本で開発された種苗 海外流出を防止へ 改正種苗法が成立",
+   "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179291000.html",
+   "summary": "日本で開発された農産物の種や苗が無断で海外に持ち出されるのを防ぐため、国に品種を登録する前でも輸出の差し止めを認めるなど規制を強化する改正種苗法が、17日の参議院本会議で可決・成立しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-17T14:26:35+09:00"
+  },
+  {
+   "title": "日本の資源開発大手 インドネシアLNG開発に向けた準備で式典",
+   "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179271000.html",
+   "summary": "中東情勢を背景に、エネルギーの調達先の多角化が求められる中、日本の資源開発大手などがインドネシアで進める、LNG＝液化天然ガスのプロジェクトに関する式典が現地で開かれました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-17T14:18:24+09:00"
+  },
+  {
+   "title": "日本車へも熱視線｢コモ湖｣に響く新旧の咆哮 ―湖畔をにぎやかに飾った2つのクラシックカーイベント― | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951075?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "世界最古のクラシックカーコンクール･デレガンスといわれる｢コンコルソ･デレガンツァ･ヴィラ･デステ（Concorso d'Eleganza Villa d'Este）｣が､今年もイタリアの名勝･コモ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-17T14:00:00+09:00"
+  },
+  {
+   "title": "日経平均株価 一時4000円超下落",
+   "link": "https://news.yahoo.co.jp/pickup/6588266?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
-   "published": "2026-07-17T13:17:16+09:00"
+   "published": "2026-07-17T13:48:45+09:00"
   },
   {
-   "title": "株価 午後も一段と売り注文膨らむ 一時3000円以上値下がり",
+   "title": "アングル：米金融大手、第2四半期は軒並み好決算 投資銀・取引部門がけん引 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOW9ZVzRwWnlpUG05TnBUSzdqYmswUEk5MGdaVTFKUzkzREdXVjFtOWc0dWFYSnd2WDJWRy1RTDQxdno1SGFIQkxpSE5FTWlJYUtoR0NNMGRCTzYtVHAzRlFQaE9GMUVsWXd1Q0FOXzd5TFUwMlNBLTF2TkdjNlRJbA?oc=5",
+   "summary": "アングル：米金融大手、第2四半期は軒並み好決算 投資銀・取引部門がけん引&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T13:45:00+09:00"
+  },
+  {
+   "title": "株価 午後も一段と売り注文膨らむ 一時4000円以上値下がり",
    "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178951000.html",
-   "summary": "17日の東京株式市場、午後も一段と売り注文が膨らみ、日経平均株価は一時3000円以上値下がりして、およそ1か月ぶりに6万4000円を割り込みました。IT大手の「グーグル」が手がける最新のAIモデルについて、開発に遅れが出ていると報じられたことなどから、AIの需要拡大による企業業績の伸びが続くのか懐疑的な見方が出て、東京市場でもAIや半導体銘柄を中心に売り注文が出ています。",
+   "summary": "17日の東京株式市場、午後も一段と売り注文が膨らみ、日経平均株価は4000円以上値下がりして、およそ1か月ぶりに6万3000円を割り込みました。IT大手の「グーグル」が手がける最新のAIモデルについて、開発に遅れが出ていると報じられたことなどから、AIの需要拡大による企業業績の伸びが続くのか懐疑的な見方が出ていることに加え、イラン情勢が緊迫化していることを背景に、東京市場でもAIや半導体関連銘柄を",
    "source": "NHK 経済",
    "category": "報道機関",
-   "published": "2026-07-17T13:17:05+09:00"
+   "published": "2026-07-17T13:44:37+09:00"
+  },
+  {
+   "title": "日経平均、一時4000円超安　キオクシアは半値割れ・ストップ安",
+   "link": "https://www.asahi.com/articles/ASV7K0F47V7KULFA009M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-17T13:30:51+09:00"
+  },
+  {
+   "title": "｢クルマ離れの本当の理由｣｢自動車が基幹産業といわれるわけ｣……あなたは正しく答えられますか？ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/949824?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "トランプ大統領による米国の追加関税発表は､世界経済と日本の自動車業界に大きな衝撃をもたらしました。加速するEV化や自動運転技術､価値観の変化が重なるいま､自動車は｢走るコンピューター｣へと進化し続け…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-17T13:30:00+09:00"
+  },
+  {
+   "title": "【きょうのおはBiz 7月17日(金)】解説 給付付き税額控除とは",
+   "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179041000.html",
+   "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-17T13:28:04+09:00"
   },
   {
    "title": "キオクシアに2億ドル賠償評決 米",
@@ -93,14 +267,44 @@
    "published": "2026-07-17T13:09:09+09:00"
   },
   {
-   "title": "ウォール街の新たな騒動で米国のチップとメモリ株が下落",
-   "link": "https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1",
-   "summary": "投資家は今年市場を上昇に導いた企業の株から撤退",
+   "title": "なぜイランは戦争に復帰するのか",
+   "link": "https://www.ft.com/content/22fdb2d5-b454-4a65-9aa9-e56371533ccf",
+   "summary": "支配者らは、さらなるエスカレーションにより米国は切望する安全保障と経済的救済を提供せざるを得なくなると信じている。",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-07-17T13:01:33+09:00",
+   "published": "2026-07-17T13:00:33+09:00",
    "lang": "en",
-   "title_orig": "US chip and memory stocks slide in fresh bout of Wall Street tumult"
+   "title_orig": "Why Iran is returning to war"
+  },
+  {
+   "title": "投資家の運命論の危険性",
+   "link": "https://www.ft.com/content/e7039185-9c0f-4a55-bb16-3caccb619c00?syn-25a6b1a6=1",
+   "summary": "衛星を無効にするというロシアと中国の計画に関する報道は、市場がハイテクブームに対する地政学的な脅威をいかに無視しているかを浮き彫りにしている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-17T13:00:23+09:00",
+   "lang": "en",
+   "title_orig": "The dangers of investor fatalism"
+  },
+  {
+   "title": "ホテルグループのアコーはバジンCEOの行為を調査するために法律事務所を雇った",
+   "link": "https://www.ft.com/content/3bf0b475-21bb-4420-8402-57999ed91628?syn-25a6b1a6=1",
+   "summary": "アコーとバザン氏の関係者との取引における不正疑惑を調査した結果、報告書では不正行為はなかったことが判明した",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-17T13:00:23+09:00",
+   "lang": "en",
+   "title_orig": "Hotel group Accor hired law firm to investigate conduct of CEO Bazin"
+  },
+  {
+   "title": "AI が初級レベルの仕事を破壊しているわけではありません。それは彼らを変えている",
+   "link": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?syn-25a6b1a6=1",
+   "summary": "大手企業がプロフェッショナル サービスにおける AI 革命にすでにどのように対応しているかは次のとおりです",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-17T13:00:13+09:00",
+   "lang": "en",
+   "title_orig": "AI isn’t destroying entry-level jobs. It’s changing them"
   },
   {
    "title": "AIをすべての人の道具へ､ChatGPTでもClaudeでもない｢仕事を終わらせるAI｣の正体に迫る | ビジネス | 東洋経済オンライン",
@@ -177,16 +381,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-17T12:03:40+09:00"
-  },
-  {
-   "title": "シンガポールドル統合。レンジ取引フェーズに入った可能性が高い",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-risk-off-sentiment-8adc295d?mod=rss_markets_main",
-   "summary": "ポジション調整の可能性の中、シンガポールドルは米国ドルに対して堅調となった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T12:02:00+09:00",
-   "lang": "en",
-   "title_orig": "Singapore Dollar Consolidates; Likely Entered Range-Trading Phase"
   },
   {
    "title": "トランプ氏演説で予測市場賭けか　ホワイトハウスのプロンプター担当者",
@@ -305,14 +499,6 @@
    "published": "2026-07-17T10:49:35+09:00"
   },
   {
-   "title": "日経平均、一時2900円安　AI・半導体企業による投資回収に懸念",
-   "link": "https://www.asahi.com/articles/ASV7K0F47V7KULFA009M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-17T10:32:15+09:00"
-  },
-  {
    "title": "池袋駅で始まった顔パス改札､東武と日立が崩しにかかる｢普及の壁｣と全国展開への秘策 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951691?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "改札で足を止める日常が､顔認証技術によって大きく変わろうとしている。池袋駅で始まった\"歩くだけ\"の新しい改札体験は､利便性だけでなく鉄道業界全体の未来も左右する重要な試みだ。生活を一変させる顔認証の…",
@@ -343,6 +529,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-17T10:20:00+09:00"
+  },
+  {
+   "title": "米国際貿易委、メモリーチップ巡る特許侵害の疑いでサムスン調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKejNfU190S2dITUJNRTFUbG5zdFdiN3FjRWJGU25EZFlLblN6WUR1VVpxOXNub3FqamhfM1p1VDFJeHpwMXoyeW1ZalNQRkpaS2tRX3JVclhYVjVBRXZoRHBZd1JCMmR1YU01NlQwUVBiOUQ1cHFNMQ?oc=5",
+   "summary": "米国際貿易委、メモリーチップ巡る特許侵害の疑いでサムスン調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T10:19:00+09:00"
   },
   {
    "title": "強風で20階から転落…？｢高層ビルのガラス清掃｣で､26歳が\"2つの意味\"でドキドキした訳　漫画｢高みの鷹見さん｣（第1話） | ライフ | 東洋経済オンライン",
@@ -385,16 +579,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-17T09:52:00+09:00"
-  },
-  {
-   "title": "混合国債。日本株市場の大幅な下落が下支えとなる可能性がある",
-   "link": "https://www.wsj.com/finance/investing/jgbs-mixed-may-be-supported-by-marked-fall-in-japanese-equity-market-4c39934a?mod=rss_markets_main",
-   "summary": "東京取引序盤の日本国債の価格はまちまちだったが、日本の株式市場の顕著な下落が支援する可能性がある。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-17T09:48:00+09:00",
-   "lang": "en",
-   "title_orig": "JGBs Mixed; May Be Supported by Marked Fall in Japanese Equity Market"
   },
   {
    "title": "金の上昇。中央銀行の買いが引き続き構造要因となる可能性が高い",
@@ -469,30 +653,6 @@
    "title_orig": "10 U.S. metro areas where builders are slashing prices on new homes"
   },
   {
-   "title": "【期間限定】東洋経済オンライン｢年額プラン｣に2000円割引でお得に､迷わずに加入する方法をわかりやすく解説 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951697?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "日頃より東洋経済オンラインをご愛読いただき、誠にありがとうございます。編集部では、日々多くの無料記事をお届けしていますが、有料プランにご加入いただくと、スクープ満載の企業分析記事など、ビジネスに直結…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-17T09:00:00+09:00"
-  },
-  {
-   "title": "川崎重工CFOが描く｢2030年度 事業利益率10％｣へのシナリオ 防衛が成長を牽引､パワースポーツ＆エンジンは反転攻勢へ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951011?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "川崎重工の防衛関連製品の受注は期ごとに変動があるものの、見通しには明るい兆しも見える。一方、パワースポーツ＆エンジン事業では関税や市場競争の影響が課題となり、難しいかじ取りも迫られる。各事業の利益率…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-17T09:00:00+09:00"
-  },
-  {
-   "title": "なぜいつも取り掛かりが遅れるのか…原因は｢やる気のなさ｣ではなかった　ストレスなく仕事を始められる3つの技 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/949799?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢やらなければ｣とわかっていても､なかなか仕事に取り掛かれない……。その原因はやる気のなさではないかもしれません。スムーズに着手できる人とそうでない人の違いはどこにあるのか。迷いなく仕事を始めるため…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-17T09:00:00+09:00"
-  },
-  {
    "title": "報告省令レート（8月分）",
    "link": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2608.htm",
    "summary": "",
@@ -515,14 +675,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-07-17T08:50:00+09:00"
-  },
-  {
-   "title": "｢桃鉄｣｢るるぶ｣東大合格者がすすめる､無理に読ませなくても小学生が夢中になって社会を好きになる本5選  | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950359?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢社会の勉強はつまらない｣と感じる子が多い中､実は日常や遊びの中に社会を楽しく学ぶヒントが潜んでいます。本記事では､ゲームや旅､スーパーでの買い物､ニュースなど､子どもが自然と社会に興味を持てる本を…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-17T08:45:00+09:00"
   },
   {
    "title": "パロアルトネットワークスの株価は下落しているが、強気派によるとさらに上昇する可能性があるという",
@@ -759,26 +911,6 @@
    "published": "2026-07-17T06:04:24+09:00"
   },
   {
-   "title": "トランプ・メディア、大統領のソーシャルメディア投稿への高速アクセスを販売へ",
-   "link": "https://www.ft.com/content/32db576f-4f53-47d2-b00c-2ad4e906952c?syn-25a6b1a6=1",
-   "summary": "同族会社は、大手商社が市場を動かすソーシャルメディアへの投稿に対して数ミリ秒早く支払ってくれることを望んでいる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-17T05:56:38+09:00",
-   "lang": "en",
-   "title_orig": "Trump Media to sell high-speed access to president’s social media posts"
-  },
-  {
-   "title": "Netflix株、期待外れの成長予測を受けて下落",
-   "link": "https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?syn-25a6b1a6=1",
-   "summary": "ストリーミング大手、ここ 3 年間で最も低い収益増加を予測",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-17T05:30:18+09:00",
-   "lang": "en",
-   "title_orig": "Netflix shares slide on disappointing growth forecasts"
-  },
-  {
    "title": "2026年上半期の「医療機関」倒産、過去最多ペースに　6割超が小規模倒産",
    "link": "https://www.itmedia.co.jp/business/articles/2607/17/news043.html",
    "summary": "医療機関の倒産が過去最多ペースで推移している。そのうち負債3億円未満の小規模倒産が6割強を占めた。",
@@ -813,32 +945,12 @@
    "title_orig": "Dallas Fed President Logan calls for 'modestly' higher interest rates"
   },
   {
-   "title": "数千人が銃撃に抗議する中、辞任するウクライナ国防大臣がゼレンスキー氏を攻撃",
-   "link": "https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1",
-   "summary": "ミハイロ・フェドロフ氏、ウクライナ大統領と最高司令官が待望の軍事改革を阻止したと非難",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-17T03:32:38+09:00",
-   "lang": "en",
-   "title_orig": "Ukraine’s outgoing defence minister attacks Zelenskyy as thousands protest against firing"
-  },
-  {
    "title": "米ダラス連銀総裁、物価リスクを警告 「緩やかな利上げ」望ましい - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHQ1STg2cXk3M2dYaUdfNWRBWGVMWFZleTFlMjNhcmFzTkN1YnBUT1MtWUstbUhaMGt0TDdBVEgxWHFJeWIxOGhGblE1ckpqQ3dZUWtxdE5vOUhDWHl6cGRWMl9PVlRRNTBuNUVaal8zMlBrb3VhN0tMNERibDBQbg?oc=5",
    "summary": "米ダラス連銀総裁、物価リスクを警告 「緩やかな利上げ」望ましい&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-17T03:28:39+09:00"
-  },
-  {
-   "title": "トランプ大統領顧問、左翼過激主義は「文明にとって致命的な癌」だと語る",
-   "link": "https://www.ft.com/content/025c6f9f-cef8-401d-9a9c-72c67c5f4652?syn-25a6b1a6=1",
-   "summary": "国務省、左翼からの暴力は国際的なテロ対策の盲点だと主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-17T03:25:18+09:00",
-   "lang": "en",
-   "title_orig": "Trump adviser says leftwing extremism is ‘fatal cancer to civilisation’"
   },
   {
    "title": "株価がIPO価格に戻る中、空売り者がSpaceXに対抗して積み重なる",
@@ -973,20 +1085,20 @@
    "published": "2026-07-16T19:22:27+09:00"
   },
   {
-   "title": "代金減額や金型の無償保管で下請法違反　富山の企業に公取委が勧告",
-   "link": "https://www.asahi.com/articles/ASV7J32V5V7JPUZB001M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-16T19:15:00+09:00"
-  },
-  {
    "title": "ニチレイ サイバー攻撃 広がる影響 あすから順次業務再開へ",
    "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
    "summary": "サイバー攻撃によるシステム障害の影響が続く冷凍食品大手の「ニチレイ」は、現在、復旧作業を行っていて、17日から予定している業務の再開は、安全が確認された倉庫や工場から順次、進めるとしています。一方、外食企業や食品メーカーの間ではシステム障害による欠品などの影響が広がっていて、早期に解消するのかが焦点です。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-16T19:13:15+09:00"
+  },
+  {
+   "title": "韓国、個別株レバレッジＥＴＦの新規上場停止 市場の変動抑制狙う - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUxZRy1MaGxGZDdDcDlsdVVCODc1NmYza0xEYUx3NThZTmx1Z0c2UTdncC1oZHhMQnd2cmloNVV3QThNdGx2OVFhZGVoVnNqcnpuajN3QXNsV2x3dmdyQjdHeTJHVjNMa0R4VzZaNGpnSnhXZGVaNjdvVlNXdGpXcw?oc=5",
+   "summary": "韓国、個別株レバレッジＥＴＦの新規上場停止 市場の変動抑制狙う&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-16T18:41:45+09:00"
   },
   {
    "title": "スイス中銀、必要なら為替介入の用意 中東情勢不透明＝議事要旨 - ロイター",
@@ -1061,14 +1173,6 @@
    "published": "2026-07-16T15:36:01+09:00"
   },
   {
-   "title": "石油化学製品6月生産量 公表対象品目の半分で前年同月上回る",
-   "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178361000.html",
-   "summary": "先月国内で生産された主要な石油化学製品の量は、ナフサの中東以外からの調達が進んでいることなどを背景に、公表対象としている18品目のうち半分の9品目で去年の同じ月を上回り、中東情勢で影響を受けた生産が回復傾向となっています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-16T15:06:49+09:00"
-  },
-  {
    "title": "人事異動(令和8年7月16日)",
    "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.07.16_34.pdf",
    "summary": "",
@@ -1077,28 +1181,12 @@
    "published": "2026-07-16T15:00:00+09:00"
   },
   {
-   "title": "韓国当局、個別株レバレッジＥＴＦで近く対応策 市場安定へ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHlzWWRYOENGMnkyLXNROFJKWGUtYm15c19aQkR6Nm1JS1J1ZW1kYWt3R29WR0xaaENXVjBTVG8yV1U4TVBadGpMY2M0UE10cDNwNExvSks3ZEl0T3JkdWVlQ1lIQ1hvN0U1d0xERWFPUlJoNlZPUGE0eWI5bkVXLQ?oc=5",
-   "summary": "韓国当局、個別株レバレッジＥＴＦで近く対応策 市場安定へ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-16T14:26:00+09:00"
-  },
-  {
    "title": "インタビュー：長期金利3％超えなら、政府が日銀に国債買入増額を要請の可能性＝安達元日銀委員 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pb1B3bTUtSWJ2ZDRVTTNrSHlfaEpWcDR4S0ViSG5WNzNpdlRacENSUFJJbThKUmNGcnVIUUtmTGdGbVVIT0ZKS3drZ2RTMkJDcTI4NHp1Z2dIX0t3TUw0cnJnS2JybF94Vm5wYXFZYVpwU1NKZ1NCWQ?oc=5",
    "summary": "インタビュー：長期金利3％超えなら、政府が日銀に国債買入増額を要請の可能性＝安達元日銀委員&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-16T14:01:00+09:00"
-  },
-  {
-   "title": "きょうのおはBiz 7月16日(木) 暗号資産の規制 大幅に見直し",
-   "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178141000.html",
-   "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-16T13:41:46+09:00"
   },
   {
    "title": "「生活意識に関するアンケート調査」（第106回）の結果",
@@ -1139,70 +1227,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-16T12:30:00+09:00"
-  },
-  {
-   "title": "経済強化で円の信認維持へ、為替にはいつでも適切に対応＝片山財務相 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lZF9xOUpZbVlUYnU0MGVRODFaR3F1U0pXUE82MHhmaFdZaV8zMWRMUmhWR01OdnloQjdzS0JzUktucXBKUkZJYXU2UW92UWkxS2FwVGZhZGtRSnpWeU55b0FOVDJweDdWUy1EVUpPcGx0RnM1cERtUQ?oc=5",
-   "summary": "経済強化で円の信認維持へ、為替にはいつでも適切に対応＝片山財務相&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-16T11:10:00+09:00"
-  },
-  {
-   "title": "流動性供給(第457回)入札",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260716.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-16T10:30:00+09:00"
-  },
-  {
-   "title": "国庫短期証券（第1394回）の入札発行",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260716.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-16T10:20:00+09:00"
-  },
-  {
-   "title": "観光庁 自治体による民泊の実質営業禁止を容認へ",
-   "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177851000.html",
-   "summary": "住宅地での民泊をめぐり、騒音やゴミ出しなどでトラブルが相次いでいることを受け、観光庁は全国の自治体に対し、条例で実質的に営業を禁止することを認める通知を出しました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-16T10:05:23+09:00"
-  },
-  {
-   "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-16T08:50:00+09:00"
-  },
-  {
-   "title": "オフショア勘定残高",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-16T08:50:00+09:00"
-  },
-  {
-   "title": "米大手銀のプライムブローカレッジ事業好調、市場変動追い風に顧客取引拡大 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlhaNi1GR0lGcUoyc1JVM3Q2MnJsY3BDMUVxRE5rdU9ncEpJb0luZUVsWjFaSnFpVUdwcnNUZDhKdkRHMEF3V3Uwdl9Kb2dZMzRIWjVxZGt0V1l2YmFCU1RuYzJTczM5bnFZRHp5YUxqS3lBV3lJTUdkclQzdmg3aw?oc=5",
-   "summary": "米大手銀のプライムブローカレッジ事業好調、市場変動追い風に顧客取引拡大&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-16T08:23:43+09:00"
-  },
-  {
-   "title": "スペースＸ株が一時ＩＰＯ価格割れ、上場後初 急騰失速 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnZ6V0ZxT0JHeWZYM1V6SDUxOEJBWjNwck9UWUVDbHlHNzVhZkRMWGVIS29oUHlvRGFHTFhscEx6VmtHQ2hfb2FrZ1JRYXpfQ3ZsSEhsMUFGeFBRbjhaT2xKSFlxeXlUandYU0tSbmlLZDA1dWVLZVFXVXJMWXpvbA?oc=5",
-   "summary": "スペースＸ株が一時ＩＰＯ価格割れ、上場後初 急騰失速&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-16T08:16:17+09:00"
   },
   {
    "title": "Anthropicと組んだNEC　それでも森田社長が「4つの主権」にこだわる真意",
