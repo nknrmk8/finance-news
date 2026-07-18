@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T18:05:52.632006+09:00",
+ "generated_at": "2026-07-18T19:37:37.009589+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,36 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "抗議活動が拡大する中、ゼレンスキー氏は最高司令官の解任を検討",
+   "link": "https://www.ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1",
+   "summary": "ウクライナ大統領が人気の国防相を解任し、軍が危機に陥る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-18T19:10:18+09:00",
+   "lang": "en",
+   "title_orig": "Zelenskyy considers sacking commander-in-chief as protests swell"
+  },
+  {
+   "title": "新たなワシントンの誘惑: 内部情報と予測市場アカウント",
+   "link": "https://www.wsj.com/politics/policy/dc-government-prediction-market-betting-8134c3fc?mod=rss_markets_main",
+   "summary": "ホワイトハウス当局者らは、政治的出来事への賭けが政府の構造にどれほど深く組み込まれているかに取り組んでいる。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-18T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "The New Washington Temptation: Inside Information and a Prediction Market Account"
+  },
+  {
+   "title": "ドイツ軍、ウクライナに戦場の教訓を期待",
+   "link": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1",
+   "summary": "陸上軍司令官は、連邦軍が再建され米国の支援が弱まる中、キエフの軍事専門知識は非常に貴重であることが証明されていると語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-18T18:00:24+09:00",
+   "lang": "en",
+   "title_orig": "German army looks to Ukraine for battlefield lessons"
+  },
   {
    "title": "佐川急便、7万人分の個人情報漏らす　配達予定の通知メールを誤送信",
    "link": "https://www.asahi.com/articles/ASV7L2Q3QV7LOXIE031M.html?ref=rss",
@@ -563,16 +593,6 @@
    "title_orig": "How your winning stock-index fund can turn on a dime"
   },
   {
-   "title": "ヘルスケアのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-b369d459?mod=rss_markets_main",
-   "summary": "ヘルスケア分野をカバーする最新のマーケットトークで、Eli Lilly、GSK、Intuitive Surgical などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-18T06:20:00+09:00",
-   "lang": "en",
-   "title_orig": "Health Care Roundup: Market Talk"
-  },
-  {
    "title": "明るい面を見てください: エネルギー会社は急成長しています",
    "link": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
    "summary": "彼らに勝つことはできません。もしかしたらあなたも彼らに加わったほうがいいかもしれません。",
@@ -601,16 +621,6 @@
    "title_orig": "Chip stocks enter bear-market territory. A BofA analyst says not to panic."
   },
   {
-   "title": "トランプ・メディアは大統領の投稿の高速フィードに月額10万ドルの料金を売り込んだ",
-   "link": "https://www.ft.com/content/e466df85-fa3b-4a7f-a4a1-ae04d66db99f?syn-25a6b1a6=1",
-   "summary": "同族会社は、Truth Socialプラットフォームへの高速アクセスに6桁の金額を見積もった",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-18T05:24:36+09:00",
-   "lang": "en",
-   "title_orig": "Trump Media pitched $100,000 monthly fee for fast feed of president’s posts"
-  },
-  {
    "title": "ニチレイ 来週正常化目指す方針 流通業界の課題指摘する声も",
    "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179771000.html",
    "summary": "サイバー攻撃によるシステム障害が発生した冷凍食品大手の「ニチレイ」は、倉庫からの出庫や冷凍食品の出荷などについて来週中の正常化を目指す方針です。専門家は外食チェーンやスーパーなどに影響が広がった背景のひとつに、在庫をなるべく持たないようにする日本の流通の構造があると指摘しています。",
@@ -625,14 +635,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-18T05:00:00+09:00"
-  },
-  {
-   "title": "米クリーブランド連銀総裁「高インフレを懸念」、ＦＲＢ内で利上げ論徐々に拡大 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRVFsWmYwRFM3ZkV3ZVpEc0hfano2QXF4YmlqX212RWlzVVQtREM0d252YU5iVWZqX05haS1SR1B4R3QwNmhTV3ZCMFpJZElTc241ZDJmNDB1MU9xazh2WmtVR3dQUDZoS3FXM2NNc3RXeXI2ZzRjQ25XZ0NWVm5Rdg?oc=5",
-   "summary": "米クリーブランド連銀総裁「高インフレを懸念」、ＦＲＢ内で利上げ論徐々に拡大&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-18T03:33:44+09:00"
   },
   {
    "title": "その他,「経済価値ベースのソルベンシー規制」の概要資料を更新しました。",
@@ -697,16 +699,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-18T01:00:00+09:00"
-  },
-  {
-   "title": "戦場戦略を巡るウクライナの亀裂が表面化",
-   "link": "https://www.ft.com/content/a200e4d6-69b1-45a7-8777-3126dc4f194b?syn-25a6b1a6=1",
-   "summary": "人気の国防大臣解任でロシアとの戦い方を巡る分裂が露呈",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-18T00:32:35+09:00",
-   "lang": "en",
-   "title_orig": "Ukraine’s rift over battlefield strategy breaks into the open"
   },
   {
    "title": "その他,「国際会計基準審議会等の国際会議への参加及び意見発信等」（令和７年度）の成果物について公表しました。",
@@ -855,6 +847,14 @@
    "published": "2026-07-17T18:25:48+09:00"
   },
   {
+   "title": "アジア債券、6月は外国人買い越しが7カ月ぶり高水準 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9odnhIb0plV2c5QXNmMTFCNl9PQXdxM1hWaHJpVkJQWjlGRkNiRlBSaDc0T0lmeU9YUzRvSWJPZlV4SDlRZEc1NHNJSW5ILVRHcTU4SGVTZEtLZmZ1cjVVNlNNRVJmYkcxemtpaWpBelVxLUpDNVd1bg?oc=5",
+   "summary": "アジア債券、6月は外国人買い越しが7カ月ぶり高水準&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T18:19:44+09:00"
+  },
+  {
    "title": "トラック運送の「適正原価」策定へ 有識者検討会で議論開始",
    "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179441000.html",
    "summary": "トラック運送の最低限のコストを示す「適正原価」について、国土交通省は17日、有識者検討会の初会合を開き、具体的な算定方法などの検討を始めました。",
@@ -893,6 +893,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-17T16:31:39+09:00"
+  },
+  {
+   "title": "ドル／円は高止まり継続、中東緊迫や高市政権の積極財政で＝来週の外為市場 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzamJmUDhsQ3BnUmM3Q3pLVXVVa25jdmdfUkc0TjV6OEEtaEZlYmhpZEROSTlDcVQ3X3pMcG90Y05jOVJ2aWdCWjBWY0I2RU4zWjBzOUR5QnlpbS0tOGk0dUlTLUJKVndFb0JuZHBmc3FZSlJPTkh3OQ?oc=5",
+   "summary": "ドル／円は高止まり継続、中東緊迫や高市政権の積極財政で＝来週の外為市場&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T16:02:08+09:00"
   },
   {
    "title": "気候変動対応を支援するための資金供給オペレーションの実施結果",
@@ -1049,6 +1057,14 @@
    "published": "2026-07-17T10:19:00+09:00"
   },
   {
+   "title": "企業向け資金需要ＤＩ、7月はマイナス1 21年10月以来のマイナス＝日銀調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwMDhWcVJBbXNkTGN1QlkxaWFrVmRfMXRhVEo1QmozVlAwQTFid3NaN1c4RTRtVDBDRjdUNXpPZ00wLWJvYnpjUnhrSmtTZnpBNVRSNm5IZlhTSS1TLVE0cFlEc2RLSnZLUmFfQW1fcHlrdFlsTXc?oc=5",
+   "summary": "企業向け資金需要ＤＩ、7月はマイナス1 21年10月以来のマイナス＝日銀調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T10:08:00+09:00"
+  },
+  {
    "title": "入札、落札結果情報（物品・役務）",
    "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
    "summary": "",
@@ -1065,28 +1081,12 @@
    "published": "2026-07-17T10:00:00+09:00"
   },
   {
-   "title": "為替円安、必要とあれば「果断な措置とる」＝片山財務相 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kS0Vzd0VGYThBeEdXNkhGM3NUSHlGUUo4SnhBb1M2a3U0aldQZldQRkYydDhNbVBTOXQtT0xuQlRMQ3dqMHpzQktMMkVYY2JOU3pDbWhJS0lXNVp3YkNFbTdCZkV5MDdndFBqUzJqQ3k2OFJpZElhaQ?oc=5",
-   "summary": "為替円安、必要とあれば「果断な措置とる」＝片山財務相&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T09:52:00+09:00"
-  },
-  {
    "title": "国債金利情報(令和8年7月16日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-17T09:30:00+09:00"
-  },
-  {
-   "title": "米陪審、キオクシアに2億ドル超賠償評決 フラッシュメモリー特許侵害で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3V0czlmajYyNFZkMzg1MjVRZkVzemdBRTB6ZnZsSm5iWVpzd2I5a1E0S2hSWDJCRkFIRWhQN3FwUHhnWGpscVJDY0VJcFBZenRrbGdWazZPdDZaWlRHVVprNnJqTHU5VnRQa1NNSG5mdkdHbFVpeA?oc=5",
-   "summary": "米陪審、キオクシアに2億ドル超賠償評決 フラッシュメモリー特許侵害で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T09:19:00+09:00"
   },
   {
    "title": "報告省令レート（8月分）",
