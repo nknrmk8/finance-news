@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T17:39:05.037653+09:00",
+ "generated_at": "2026-07-19T19:12:21.860116+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,64 @@
  "errors": [],
  "items": [
   {
+   "title": "飲食店倒産増 個人店どう生き残る",
+   "link": "https://news.yahoo.co.jp/pickup/6588540?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-19T19:06:16+09:00"
+  },
+  {
+   "title": "ビッグフードは買い物客や投資家との取引がなくなりつつある",
+   "link": "https://www.wsj.com/business/retail/big-food-is-running-out-of-moves-with-shoppers-and-investors-5f4567e9?mod=rss_markets_main",
+   "summary": "投資家がゼネラル・ミルズやクラフト・ハインツなどの企業に見切りをつけたのは当然で、これらの企業はインフレからGLP-1に至るまであらゆるものによって圧迫されている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-19T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Big Food Is Running Out of Moves With Shoppers and Investors"
+  },
+  {
+   "title": "アメリカで最も寛大な 401(k) プランの内部",
+   "link": "https://www.wsj.com/personal-finance/retirement/i401k-plans-retirement-employers-60b1dd1a?mod=rss_markets_main",
+   "summary": "すべての 401(k) プランが同じように作成されるわけではありません。コストコなど、米国中の一部の雇用主は、通常よりも良い退職金を提供しています。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-19T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Inside America’s Most Generous 401(k) Plans"
+  },
+  {
+   "title": "統計の見直しが危機的な時期にインフレ率を低下させようとしている",
+   "link": "https://www.wsj.com/economy/central-banking/pce-inflation-data-updates-ca7bfd61?mod=rss_markets_main",
+   "summary": "米経済分析局は、FRBが監視する価格指標のいくつかの要素の測定方法を変更している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-19T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "A Statistical Revamp Is About to Lower Inflation, at a Critical Time"
+  },
+  {
+   "title": "夫も私も退職しました。 30代のファイナンシャルアドバイザーは私たちを「あなたたち」と呼びました。それはプロフェッショナルではありませんか？",
+   "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+   "summary": "「私たちと世代が近い人に仕事をお願いしようか迷っています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-19T18:20:00+09:00",
+   "lang": "en",
+   "title_orig": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?"
+  },
+  {
+   "title": "イランによるヨルダン攻撃で米軍人２人死亡",
+   "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
+   "summary": "イラン政府が数カ月ぶりにサウジアラビアを攻撃し、ホルムズ海峡の制海権をめぐる戦いが激化",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-19T18:13:30+09:00",
+   "lang": "en",
+   "title_orig": "Two US servicemen killed in Iranian strikes on Jordan"
+  },
+  {
    "title": "解説滑らか 87歳の男性バスガイド",
    "link": "https://news.yahoo.co.jp/pickup/6588519?source=rss",
    "summary": "",
@@ -83,16 +141,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-19T14:41:17+09:00"
-  },
-  {
-   "title": "イランによるヨルダン攻撃で米軍人２人死亡",
-   "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-   "summary": "イラン政府が数カ月ぶりにサウジアラビアを攻撃し、ホルムズ海峡の制海権をめぐる戦いが激化",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-19T13:39:42+09:00",
-   "lang": "en",
-   "title_orig": "Two US servicemen killed in Iranian strikes on Jordan"
   },
   {
    "title": "マガはいかにしてジェンダー二項対立に陥ったか",
@@ -455,16 +503,6 @@
    "title_orig": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication"
   },
   {
-   "title": "アメリカ人は退職するには120万ドルが必要だと言う。ほとんどの人は借金が多すぎてそこに到達することができません。",
-   "link": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
-   "summary": "アメリカ人の 80% 以上が、退職後にお金がなくなることを心配しており、「本当に夜も眠れないのです」と答えています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-19T03:15:00+09:00",
-   "lang": "en",
-   "title_orig": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there."
-  },
-  {
    "title": "米国の緊急石油備蓄が1983年以来最低レベルに達:なぜそれが重要なのか",
    "link": "https://www.wsj.com/business/energy-oil/u-s-emergency-oil-reserve-hits-lowest-levels-since-1983-why-it-matters-a4ed79aa?mod=rss_markets_main",
    "summary": "動画: WSJのデビッド・ウバーティ氏が、イラン戦争などのオイルショックの影響を和らげるために戦略石油備蓄がどのように機能するかを説明する。",
@@ -539,14 +577,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-18T12:40:21+09:00"
-  },
-  {
-   "title": "子の夏休み 体験格差どう埋める",
-   "link": "https://news.yahoo.co.jp/pickup/6588377?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-18T12:27:57+09:00"
   },
   {
    "title": "アップル、日本でiPhone1割値上げ　円安や半導体高騰が理由か",
@@ -625,16 +655,6 @@
    "title_orig": "They Call Her ‘the Assassin’ on Wall Street—and She Has a New Target"
   },
   {
-   "title": "AIチップスタートアップのEtchedが200億ドルの評価額で交渉中",
-   "link": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d?mod=rss_markets_main",
-   "summary": "ハーバード大学中退者によって設立されたこのスタートアップは、セコイアが主導する別のラウンドでも評価額100億ドルで資金を調達している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-18T08:42:00+09:00",
-   "lang": "en",
-   "title_orig": "AI Chip Startup Etched Is in Talks for $20 Billion Valuation"
-  },
-  {
    "title": "トランプ氏投稿優先アクセスの新サービス、月額10万ドルか 3年契約プランも - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCY0IyMUtBdG9vMGN5TEdpM2ItSWpxcmx2dGtkX1lPTXl0LVlNS1FzRWMyeWh2MXV5cEJmTGJQQVpzMDFlcUwzWkRvVGFmSExZQVZvanFSSnczbmYxMUpmRUgtNEQ3TldSYnoyeTRMMTF3U0VuUTJNUldn?oc=5",
    "summary": "トランプ氏投稿優先アクセスの新サービス、月額10万ドルか 3年契約プランも&nbsp;&nbsp;ロイター",
@@ -681,16 +701,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-18T07:00:00+09:00"
-  },
-  {
-   "title": "WSJドル指数は今週0.11％下落し97.09となった。",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-risk-off-sentiment-8adc295d?mod=rss_markets_main",
-   "summary": "ＷＳＪドル指数は２営業日連続で上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-18T06:56:00+09:00",
-   "lang": "en",
-   "title_orig": "WSJ Dollar Index Falls 0.11% This Week to 97.09"
   },
   {
    "title": "米国株式市場＝続落、ハイテク株に売り ネトフリ7％安 - ロイター",
@@ -1033,20 +1043,12 @@
    "published": "2026-07-17T12:30:00+09:00"
   },
   {
-   "title": "自民、ガバナンス改革で提言 監視委の執行力強化や株主提案権見直し - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTmxSSVZlTmNSYTJjU1MyV0xvdVR5T09fNkI2Vmw1TW0wM2tHUUFXVVRvSEN6a19VVE5YRGR2Wl9vbTQxMEFSNlRnSWFFWm8tRTRpWGprTGRkbUFBMnRENDQ3YUxFZ3BUT3RTRzhQNUdOV1g5S2UxaG81WkVZZldFbg?oc=5",
-   "summary": "自民、ガバナンス改革で提言 監視委の執行力強化や株主提案権見直し&nbsp;&nbsp;ロイター",
+   "title": "午前の日経平均は大幅続落、米半導体株安と中東懸念重し 4％超える下げ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGdWU25vWHl4MURCdUNYQUVPNGgtNUQ0YURxTDlsX21SZjNJdjlGeU5xQjdyYXVYcWc1amptU2Z6b2RJbGVWelRYUVdycmh4RnE2RTFZZ2hfWTVsZTQ0RkxqUjJDZ3hOZVgzM2FEOGxISnFPMXMyclFBV0hrRWZ0LQ?oc=5",
+   "summary": "午前の日経平均は大幅続落、米半導体株安と中東懸念重し 4％超える下げ&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-07-17T12:20:00+09:00"
-  },
-  {
-   "title": "印ウィプロ、4－6月期業績は予想下回る 見通しも低調 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iYnR1MGRyT1Z5NjBNWnRqaFBUVERQT0xzbkNTMVVCMEt1M3BRV2dzZXhLZ3F1OTlhQWx2YzVoazZfSzBtMmF6ZnZCVDhsVS1mWkk4RHU5ZHl5V192NnBMUlFjR2NEdEJVOW1BVHB6Zl9CaEkxM0F0Rw?oc=5",
-   "summary": "印ウィプロ、4－6月期業績は予想下回る 見通しも低調&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T11:30:00+09:00"
+   "published": "2026-07-17T12:16:00+09:00"
   },
   {
    "title": "日経平均は一時4％超安、半導体株が軒並み下落 中東情勢も重し - ロイター",
@@ -1103,6 +1105,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-17T10:00:00+09:00"
+  },
+  {
+   "title": "為替円安、必要とあれば「果断な措置とる」＝片山財務相 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kS0Vzd0VGYThBeEdXNkhGM3NUSHlGUUo4SnhBb1M2a3U0aldQZldQRkYydDhNbVBTOXQtT0xuQlRMQ3dqMHpzQktMMkVYY2JOU3pDbWhJS0lXNVp3YkNFbTdCZkV5MDdndFBqUzJqQ3k2OFJpZElhaQ?oc=5",
+   "summary": "為替円安、必要とあれば「果断な措置とる」＝片山財務相&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-17T09:52:00+09:00"
   },
   {
    "title": "国債金利情報(令和8年7月16日)",
