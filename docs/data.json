@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T13:49:27.349035+09:00",
+ "generated_at": "2026-07-20T16:49:38.663492+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,106 @@
  "errors": [],
  "items": [
   {
+   "title": "シンガポールドルは上昇。注目の中東の発展",
+   "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-may-weaken-amid-escalating-mideast-conflict-30e35087?mod=rss_markets_main",
+   "summary": "アジアの取引ではシンガポールドルが米国ドルに対して若干上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T16:45:00+09:00",
+   "lang": "en",
+   "title_orig": "Singapore Dollar Edges Higher; Middle East Developments in Focus"
+  },
+  {
+   "title": "金利上昇期待の長期化で金下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-higher-for-longer-interest-rate-expectations-4703d83c?mod=rss_markets_main",
+   "summary": "金は初期のアジア貿易で下落した。李氏は、金利が長期にわたって高止まりするとの期待がドルと米国債の利回りを押し上げた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T16:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Falls Amid Higher-For-Longer Interest-Rate Expectations"
+  },
+  {
+   "title": "原油価格のさらなる上昇で欧州株が下落",
+   "link": "https://www.wsj.com/articles/european-energy-stocks-open-higher-as-oil-rises-on-escalating-u-s-iran-attacks-a53c3a34?mod=rss_markets_main",
+   "summary": "ハイテク株は上昇したものの、旅行株や消費者向け株が軟調となり、欧州株は序盤の取引で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T16:26:00+09:00",
+   "lang": "en",
+   "title_orig": "European Stocks Slip as Oil Prices Rise Further"
+  },
+  {
+   "title": "中東の紛争で原油価格が上昇、ユーロ圏債券利回りが上昇",
+   "link": "https://www.wsj.com/articles/renewed-geopolitical-uncertainty-limits-italian-bond-spread-tightening-room-aa25d831?mod=rss_markets_main",
+   "summary": "原油価格の上昇でインフレ懸念が再燃する中、ユーロ圏国債利回りは取引開始時に米国債利回りと同水準で上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T16:20:00+09:00",
+   "lang": "en",
+   "title_orig": "Eurozone Bond Yields Rise as Middle East Hostilities Lift Oil Prices"
+  },
+  {
    "title": "イランによるタンカー衝突で原油価格が90ドルを超える",
    "link": "https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1",
    "summary": "アメリカ人の死傷者数が増加する中、アメリカは新たな攻撃を実行",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-07-20T13:34:52+09:00",
+   "published": "2026-07-20T16:11:41+09:00",
    "lang": "en",
    "title_orig": "Oil returns above $90 as Iran hits tankers"
+  },
+  {
+   "title": "現役教員がビール会社を起業　めざすは「ビジネスを通じて教育を」",
+   "link": "https://www.asahi.com/articles/ASV7H25FCV7HULFA00LM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-20T16:00:00+09:00"
+  },
+  {
+   "title": "M-1準優勝のドンデコルテも参戦！｢ダブルインパクト2026｣優勝者は誰か？《見どころ徹底解説》 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951491?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "7月20日（月）の夜に放送される｢ダブルインパクト｣。漫才とコントの頂点を同時に競う大会の｢今年の見どころ｣を徹底解説します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-20T16:00:00+09:00"
+  },
+  {
+   "title": "中国の「代表チーム」が市場を下支えするために90億ドル相当の株式を購入",
+   "link": "https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
+   "summary": "先週のAI技術急落を受け、国営ファンドが株式買い入れを発表",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-20T15:54:09+09:00",
+   "lang": "en",
+   "title_orig": "China’s ‘national team’ buys shares worth $9bn to prop up market"
+  },
+  {
+   "title": "プロロジス、セグロが182億ドルの甘いオファーを拒否したと発表",
+   "link": "https://www.wsj.com/finance/investing/prologis-says-segro-rejects-third-18-2-billion-offer-e7871414?mod=rss_markets_main",
+   "summary": "プロロジスは、３回目の提案は最初の提案が行われる前の６月２３日のセグロ株の終値に対して３３．８％のプレミアムが設定されていたと述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T15:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Prologis Says Segro Rejects Sweetened $18.2 Billion Offer"
+  },
+  {
+   "title": "シティ、韓国株の投資判断を「中立」に引き下げ 乱高下受け - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODZHTW1MZUNtdjRLY19CQmFuemxucFpndmxaX0xUMlVyRy1OU3VfRXVHMUE1YWpoSkdjcjFxNHRPVFhZRG54OEZUcGlhRnZ3ODBIUm5yS3hNdzcwVmJYSTdzUU5CQW5hd2VwM2NVWTBiSjlyelpnMnBVaGh0MnFnTg?oc=5",
+   "summary": "シティ、韓国株の投資判断を「中立」に引き下げ 乱高下受け&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-20T15:39:00+09:00"
+  },
+  {
+   "title": "9歳で監督デビューまで…異能の子役｢永尾柚乃｣が切り開く新しい\"上がりルート\"《新時代･新世代の子役と評価も》 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951611?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "9歳にして映画監督･脚本･主演も務める永尾柚乃。現場育ちの実力とプロ顔負けの姿勢､そして無邪気さを両立する彼女は､\"子役\"の常識を覆す存在です。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-20T14:00:00+09:00"
   },
   {
    "title": "AI攻撃が誰の手にも渡る日は近い､ソフトバンクが実演した2時間で崩れる企業防衛の現実 | ビジネス | 東洋経済オンライン",
@@ -85,6 +177,16 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-20T13:10:20+09:00"
+  },
+  {
+   "title": "新たな紛争が経済を脅かす中、イラン通貨が暴落",
+   "link": "https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1",
+   "summary": "ドナルド・トランプ大統領がホルムズ海峡をテヘランに引き渡そうとするなか、米国は港を封鎖しインフラを標的にする",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-20T13:00:28+09:00",
+   "lang": "en",
+   "title_orig": "Iran’s currency tumbles as renewed conflict threatens economy"
   },
   {
    "title": "バーナムは政府の最初の規則を思い出さなければならない",
@@ -151,16 +253,6 @@
    "published": "2026-07-20T12:30:00+09:00"
   },
   {
-   "title": "シンガポールドルは上昇。注目の中東の発展",
-   "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-may-weaken-amid-escalating-mideast-conflict-30e35087?mod=rss_markets_main",
-   "summary": "アジアの取引ではシンガポールドルが米国ドルに対して若干上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T12:26:00+09:00",
-   "lang": "en",
-   "title_orig": "Singapore Dollar Edges Higher; Middle East Developments in Focus"
-  },
-  {
    "title": "米国とイランの戦闘激化で原油価格が急騰、株価先物は下落",
    "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
    "summary": "中東での戦闘激化と投資家の期待を背景に、日曜の米国株価指数先物相場はほとんど変わらなかったが、原油価格は上昇した。",
@@ -188,7 +280,7 @@
   },
   {
    "title": "スペイン、メッシ率いるアルゼンチンを破りワールドカップ頂点へ",
-   "link": "https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16",
+   "link": "https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16?syn-25a6b1a6=1",
    "summary": "トーナメントの最優秀チームが一方的な決勝戦に 1-0 で勝利し、個人賞を獲得",
    "source": "Financial Times",
    "category": "海外金融",
@@ -227,16 +319,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-20T10:30:00+09:00"
-  },
-  {
-   "title": "金利上昇期待の長期化で金下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-higher-for-longer-interest-rate-expectations-4703d83c?mod=rss_markets_main",
-   "summary": "金は初期のアジア貿易で下落した。李氏は、金利が長期にわたって高止まりするとの期待がドルと米国債の利回りを押し上げた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T10:05:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Falls Amid Higher-For-Longer Interest-Rate Expectations"
   },
   {
    "title": "頭がキーンとしにくいフワフワ食感にファン続出､氷がチョコ味の｢進化系かき氷｣が覆す｢チョコ＝夏売れない｣という常識 | ライフ | 東洋経済オンライン",
@@ -363,14 +445,6 @@
    "published": "2026-07-20T07:30:00+09:00"
   },
   {
-   "title": "\"名門大学の学生\"が駅構内で突如｢絶叫｣するまでの一部始終　漫画｢夢なし先生の進路指導｣（第8集 第70話） | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/949806?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "元キャリアコンサルタントの高校教師・高梨（たかなし）は、生徒から「夢なし先生」と呼ばれている。彼は進路指導時、生徒の「夢」に対し現実的なデータや世の中の実情を突きつけ、否定し、覚悟を問う。それでも夢…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-20T07:30:00+09:00"
-  },
-  {
    "title": "ワールドカップ優勝のスペインが5,000万ドルを獲得、IRSが減額される",
    "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
    "summary": "「誰がゲームに勝つかは問題ではありません。IRS は駒を得るでしょう。」",
@@ -405,30 +479,12 @@
    "published": "2026-07-20T07:00:00+09:00"
   },
   {
-   "title": "トランプ米大統領娘婿クシュナー氏も出資､アルバニア国民猛反発の大型リゾート計画に土地権利証書偽造疑惑が浮上 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952052?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "トランプ米大統領の娘婿ジャレッド・クシュナー氏が南東欧アルバニアで進める数十億ドル規模の大型リゾート計画を巡り、マイアミ在住の実業家が開発用地の土地権利証書を偽造した疑いがあることが分かった。ロイタ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-20T07:00:00+09:00"
-  },
-  {
    "title": "「サービス終了」と電話説明でうそ　光回線サービスの勧誘に要注意",
    "link": "https://www.asahi.com/articles/ASV722DFJV72UTFL00QM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-20T06:01:00+09:00"
-  },
-  {
-   "title": "アンディ・バーナム、ダウニング街にコントロールセンターの強化を計画",
-   "link": "https://www.ft.com/content/1370d477-fc16-408a-b9ed-d9c19c076ca3?syn-25a6b1a6=1",
-   "summary": "次期首相は政府への信頼回復に向けて「帝国」財務省への依存を減らしたいと考えている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T05:00:04+09:00",
-   "lang": "en",
-   "title_orig": "Andy Burnham plans beefed-up control centre in Downing Street"
   },
   {
    "title": "「マグニフィセント・セブン」は、彼らなしでは破滅するかもしれない株式市場を救うことができるでしょうか?",
@@ -459,16 +515,6 @@
    "published": "2026-07-19T23:45:00+09:00",
    "lang": "en",
    "title_orig": "Can former employers withhold money from your 401(k) when you’re laid off?"
-  },
-  {
-   "title": "EU、新たなロシア制裁への支持崩壊に直面",
-   "link": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
-   "summary": "各国首都は大企業に損害を与える可能性のある政策への支援を拒否",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-19T23:00:02+09:00",
-   "lang": "en",
-   "title_orig": "EU faces crumbling support for new Russia sanctions"
   },
   {
    "title": "換気扇24h使う?浴室売る2社見解",
@@ -527,26 +573,6 @@
    "title_orig": "Big Food Is Running Out of Moves With Shoppers and Investors"
   },
   {
-   "title": "アメリカで最も寛大な 401(k) プランの内部",
-   "link": "https://www.wsj.com/personal-finance/retirement/i401k-plans-retirement-employers-60b1dd1a?mod=rss_markets_main",
-   "summary": "すべての 401(k) プランが同じように作成されるわけではありません。コストコなど、米国中の一部の雇用主は、通常よりも良い退職金を提供しています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-19T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Inside America’s Most Generous 401(k) Plans"
-  },
-  {
-   "title": "統計の見直しが危機的な時期にインフレ率を低下させようとしている",
-   "link": "https://www.wsj.com/economy/central-banking/pce-inflation-data-updates-ca7bfd61?mod=rss_markets_main",
-   "summary": "米経済分析局は、FRBが監視する価格指標のいくつかの要素の測定方法を変更している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-19T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "A Statistical Revamp Is About to Lower Inflation, at a Critical Time"
-  },
-  {
    "title": "夫も私も退職しました。 30代のファイナンシャルアドバイザーは私たちを「あなたたち」と呼びました。それはプロフェッショナルではありませんか？",
    "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
    "summary": "「私たちと世代が近い人に仕事をお願いしようか迷っています。」",
@@ -589,16 +615,6 @@
    "published": "2026-07-19T10:00:00+09:00"
   },
   {
-   "title": "司法省、企業犯罪の訴追を後退",
-   "link": "https://www.wsj.com/finance/regulation/the-justice-department-is-pulling-back-on-prosecuting-corporate-crime-dabf95a2?mod=rss_markets_main",
-   "summary": "検察は、上級従業員が不正行為に関与したと信じているにもかかわらず、最近の多くの事件で企業を起訴することを拒否している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-19T10:00:00+09:00",
-   "lang": "en",
-   "title_orig": "The Justice Department Is Pulling Back on Prosecuting Corporate Crime"
-  },
-  {
    "title": "迷走したリニアの9年間　知事は「恥を知れ」と名指しで国の局長批判",
    "link": "https://www.asahi.com/articles/ASV7H2RGLV7HUTIL00KM.html?ref=rss",
    "summary": "",
@@ -621,14 +637,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-19T08:00:00+09:00"
-  },
-  {
-   "title": "世界一律の１０％代替関税、失効へ　新関税、日本は１２．５％に―米",
-   "link": "https://www.jiji.com/jc/article?k=2026071800305&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-19T07:02:00+09:00"
   },
   {
    "title": "日本企業のセキュリティ成熟度「3.0」点　適切なベンダー選定に必要な“視点”は何か",
@@ -993,78 +1001,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-17T17:00:00+09:00"
-  },
-  {
-   "title": "日経平均は大幅続落：識者はこうみる - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NdHB0amtFRkRkLVVjbU1aS1k0RHFDSHFDZDVScHhWNDV1VlI3blJHd25RVkNYdW52TzZaSmlHYkdWTXFwckNrakVyRDBCQ2xfcjJ0bTVoR0xmbEY5V3Y3bWtRLTdadkFQZGQ3QS1FWTFtZ0hERnFxaw?oc=5",
-   "summary": "日経平均は大幅続落：識者はこうみる&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T16:33:29+09:00"
-  },
-  {
-   "title": "株価 一時4100円超下落 取引時間中の下落幅 過去3番目の大きさ",
-   "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178951000.html",
-   "summary": "17日の東京株式市場は、株高をけん引してきたAIや半導体関連の銘柄に売り注文が膨らみました。日経平均株価の取引時間中の下げ幅は、一時、4100円を超え、過去3番目に大きい記録的な下落となりました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-17T16:31:39+09:00"
-  },
-  {
-   "title": "気候変動対応を支援するための資金供給オペレーションの実施結果",
-   "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260717a.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-07-17T16:00:00+09:00"
-  },
-  {
-   "title": "マクロスコープ：国内物価の沈静化は遠く、原油安でも残る値上げの余熱 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03TGNLd0VnbGVWWWtwTHhFNmJiVEZIamZPM2VIUjFxYU9HZXBpaVlYczBoR2lFbWNEUXNqQUwzRG5fOXRFbm02ZUs4VnFNZGtha1JrXzZlSXlFZHNoQW0xcFlBS3p1VTN1VnpxbEUxbWpPbHJmSmpiZ1B4NnE0Zw?oc=5",
-   "summary": "マクロスコープ：国内物価の沈静化は遠く、原油安でも残る値上げの余熱&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T15:31:00+09:00"
-  },
-  {
-   "title": "広報誌「ファイナンス」7月号　特集　令和7年の全国の税関における関税法違反事件の取締り状況",
-   "link": "https://www.mof.go.jp/public_relations/finance/index.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-17T15:30:00+09:00"
-  },
-  {
-   "title": "中国系ＳＨＥＩＮ、香港上場の承認取得 8月にもＩＰＯ＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWtPb3FDbkVGalZsMVFOcUJnS3U0X3RQLXFhOEFYSzJra0pSWjM0WHRFc1ZRdEoxTDdWRmdpQXRYeEV1Q2tEZ2Z0YXNadWpycW9QZ1hsb2p0RHFHTlVIR0I0T0ZOMjRsMTljLWd0WjJLVEx4RHJYbEl4NXpQODVMcA?oc=5",
-   "summary": "中国系ＳＨＥＩＮ、香港上場の承認取得 8月にもＩＰＯ＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T15:28:00+09:00"
-  },
-  {
-   "title": "国庫歳入歳出状況（令和8年度　令和８年5月分）",
-   "link": "https://www.mof.go.jp/insideLink/20260716111015.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-17T15:00:00+09:00"
-  },
-  {
-   "title": "国庫歳入歳出状況（令和7年度　令和８年5月分）",
-   "link": "https://www.mof.go.jp/insideLink/20260716110904.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-17T15:00:00+09:00"
-  },
-  {
-   "title": "人事異動(令和8年7月17日)",
-   "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.07.17_35.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-17T15:00:00+09:00"
   }
  ]
 }
