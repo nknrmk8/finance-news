@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T21:37:53.631979+09:00",
+ "generated_at": "2026-07-20T23:53:54.751968+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,64 @@
  "errors": [],
  "items": [
   {
-   "title": "私はクレジットカードで35,000ドルの借金を抱えてしまいました。自己破産を申請すべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-   "summary": "「信用カウンセリング機関と協力したり、困難なプログラムに登録したりすることも考えています。」",
+   "title": "従来の IRA で 800 万ドルを保有しています。私たちは彼らに家を買うよう働きかけるべきでしょうか?そして税金の負担を負うべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+   "summary": "「住宅ローンの利息を支払うよりも、税金を前払いしたいと考えています。」",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-20T21:30:00+09:00",
+   "published": "2026-07-20T23:46:00+09:00",
    "lang": "en",
-   "title_orig": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?"
+   "title_orig": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?"
+  },
+  {
+   "title": "あなたの新興国ファンドにとって、韓国株は大したことではありませんでした。人工知能がそれを変えました。",
+   "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+   "summary": "貴社の新興国ファンドはAIへの偶然の賭けでしょうか?これら 2 つの ETF のリターンは、その理由を示しています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-20T23:37:00+09:00",
+   "lang": "en",
+   "title_orig": "South Korean stocks weren’t a big deal in your emerging-markets fund. Artificial intelligence changed that."
+  },
+  {
+   "title": "米国の先行指標は6月に低下",
+   "link": "https://www.wsj.com/economy/central-banking/u-s-leading-indicators-ticked-down-in-june-546daa61?mod=rss_markets_main",
+   "summary": "コンファレンス・ボードの景気先行指数は、5月と4月の上昇に続く個人消費の低迷を受けて0.2％下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T23:32:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Leading Indicators Ticked Down in June"
+  },
+  {
+   "title": "SpaceXは投資家に激しいFOMOを与えた。この 10 年間で最も注目を集めた IPO は、残酷な現実の検証を表しています。",
+   "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
+   "summary": "誇大宣伝された新規株式公開を追いかけることに隠れた危険性?細かい部分は省略します。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-20T23:21:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check."
+  },
+  {
+   "title": "「マグニフィセント・セブン」は、彼らなしでは破滅するかもしれない株式市場を救うことができるでしょうか?",
+   "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+   "summary": "Apple、Amazon、Nvidia、その他の企業が静かに活気を取り戻しつつあり、それがこの眠い株式市場を簡単に活気づける可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-20T23:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?"
+  },
+  {
+   "title": "原油価格は1バレル90ドル近く、米国株先物は小幅上昇",
+   "link": "https://www.wsj.com/finance/stocks/oil-holds-near-90-a-barrel-u-s-stock-futures-edge-higher-c05fcb42?mod=rss_markets_main",
+   "summary": "投資家が中東情勢のさらなる緊迫化を懸念し、米国株先物は大幅に上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T23:09:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Holds Near $90 a Barrel, U.S. Stock Futures Edge Higher"
   },
   {
    "title": "10日間の停戦提案報道を受​​け、原油価格が反転下落",
@@ -76,9 +126,27 @@
    "summary": "イラン外務省が米国との交渉は難航する可能性があると述べた後、10日間の停戦提案の報道を受けて原油価格は反転下落した。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-20T21:12:00+09:00",
+   "published": "2026-07-20T23:04:00+09:00",
    "lang": "en",
    "title_orig": "Oil prices reverse lower, after report of 10-day ceasefire proposal"
+  },
+  {
+   "title": "サウジ関連船舶の通航阻止　紅海経由の原油輸送に打撃も―イエメン武装組織",
+   "link": "https://www.jiji.com/jc/article?k=2026072000679&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-20T23:02:00+09:00"
+  },
+  {
+   "title": "イエメンのフーシ派反政府勢力、サウジアラビアに対する封鎖を脅す",
+   "link": "https://www.ft.com/content/97389cc7-7c83-496e-a2d2-72a1eb574281?syn-25a6b1a6=1",
+   "summary": "戦闘の再燃により、紅海を通じた王国の原油輸出が危険にさらされる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-20T22:50:49+09:00",
+   "lang": "en",
+   "title_orig": "Yemen’s Houthi rebels threaten blockade against Saudi Arabia"
   },
   {
    "title": "イランによるタンカー衝突で原油価格が90ドルを超える",
@@ -86,9 +154,49 @@
    "summary": "アメリカ人の死傷者数が増加する中、アメリカは新たな攻撃を実行",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-07-20T21:04:32+09:00",
+   "published": "2026-07-20T22:46:11+09:00",
    "lang": "en",
    "title_orig": "Oil returns above $90 as Iran hits tankers"
+  },
+  {
+   "title": "エヌビディアのことは忘れてください。これら 5 つの S&P 500 銘柄は、静かに AI に全力で取り組んでいます。",
+   "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+   "summary": "「マグセブン」は「バッグセブン」になりました。シャープのハイテク投資家は別の場所に目を向けている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-20T22:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI."
+  },
+  {
+   "title": "AIの覇権をめぐる戦いが激化する中、トランプ大統領は中国モデルの禁止を検討していると伝えられている",
+   "link": "https://www.marketwatch.com/story/as-the-battle-for-ai-supremacy-intensifies-trump-white-house-reportedly-contemplates-a-ban-on-chinese-models-c8d9a0a0?mod=mw_rss_topstories",
+   "summary": "中国のモデルは、米国版の数分の一のコストで同じタスクの多くを実行するだけでなく、将来の浮力によりアプリの価値が薄れる可能性があります",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-20T22:44:00+09:00",
+   "lang": "en",
+   "title_orig": "As the battle for AI supremacy intensifies, Trump White House reportedly contemplates a ban on Chinese models"
+  },
+  {
+   "title": "買収会社トゥルーリンク、コーヒーシロップメーカーに10億ドルの取引を締結",
+   "link": "https://www.wsj.com/business/deals/buyout-firm-truelink-nears-1-billion-deal-for-coffee-syrup-maker-256557ad?mod=rss_markets_main",
+   "summary": "Lyons Magnus は、コーヒー飲料用のフレーバーシロップからスムージー用のフルーツピューレまで、フルーツベースの材料と飲料を専門としています。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T22:43:00+09:00",
+   "lang": "en",
+   "title_orig": "Buyout Firm Truelink Strikes $1 Billion Deal for Coffee Syrup Maker"
+  },
+  {
+   "title": "米国とイランのエスカレーションで原油先物は値上がり",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-rising-concerns-over-supply-disruptions-in-middle-east-16d3038e?mod=rss_markets_main",
+   "summary": "イランが医療機関から提案を受けていると発表したため、原油先物は中東での軍事エスカレーションで付けた一晩の高値から反落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T22:41:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Pare Gains Made on U.S.-Iran Escalation"
   },
   {
    "title": "AI貿易が怖いですか？代わりに3つの投資テーマがある、とゴールドマン・サックスは言う",
@@ -96,7 +204,7 @@
    "summary": "半導体は弱気市場に陥っており、一部の投資家は他のところに目を向けるようになっている",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-20T20:42:00+09:00",
+   "published": "2026-07-20T22:30:00+09:00",
    "lang": "en",
    "title_orig": "Scared of the AI trade? Here are three investment themes instead, says Goldman Sachs"
   },
@@ -106,9 +214,59 @@
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
    "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-07-20T20:32:49+09:00",
+   "published": "2026-07-20T22:28:07+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: AMD, SpaceX, Domino's Pizza, Alibaba & more"
+  },
+  {
+   "title": "金利差はドルに対して動く",
+   "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-may-weaken-amid-escalating-mideast-conflict-30e35087?mod=rss_markets_main",
+   "summary": "DXYドル指数は0.1％上昇し、SocGenは金利差が影響したと述べた。\n通貨に対して下落し、現在市場は90％の確率で価格を織り込んでいます。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T22:10:00+09:00",
+   "lang": "en",
+   "title_orig": "Rate Differentials Move Against Dollar"
+  },
+  {
+   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
+   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-20T21:59:00+09:00",
+   "lang": "en",
+   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
+  },
+  {
+   "title": "ベルリンの悪名高い選抜クラブ、ベルグハインに入会した経緯",
+   "link": "https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1",
+   "summary": "その威圧的なドアポリシーの神秘性は、今でも人々を世界中から飛行機で連れてくるよう説得しています。",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-20T21:44:43+09:00",
+   "lang": "en",
+   "title_orig": "How I got into Berghain, Berlin’s notoriously selective club"
+  },
+  {
+   "title": "予測市場によると、コインベースの取引結果は予想を下回る可能性がある",
+   "link": "https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html",
+   "summary": "投機家らは、同社の第２・四半期決算報告では、出来高が３四半期連続で減少するとみている。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-20T21:41:50+09:00",
+   "lang": "en",
+   "title_orig": "Coinbase trading results may fall short of expectations, according to prediction markets"
+  },
+  {
+   "title": "元国防大臣が復帰の申し出を拒否し、ゼレンスキー大統領の危機が深まる",
+   "link": "https://www.ft.com/content/51dad580-487a-43d4-8427-cdd764cbe8f5?syn-25a6b1a6=1",
+   "summary": "ウクライナ大統領、ミハイロ・フェドロフ氏と衝突した最高司令官の更迭を迫られる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-20T21:37:37+09:00",
+   "lang": "en",
+   "title_orig": "Zelenskyy’s crisis deepens as ex-defence minister rejects offer to return"
   },
   {
    "title": "トランプ大統領はイランの泥沼にはまりつつある",
@@ -119,16 +277,6 @@
    "published": "2026-07-20T20:17:18+09:00",
    "lang": "en",
    "title_orig": "Trump is slipping into an Iran quagmire"
-  },
-  {
-   "title": "原油価格は1バレル90ドル近く、米国株先物は小幅上昇",
-   "link": "https://www.wsj.com/finance/stocks/oil-holds-near-90-a-barrel-u-s-stock-futures-edge-higher-c05fcb42?mod=rss_markets_main",
-   "summary": "投資家が中東情勢のさらなる緊迫化を懸念し、米国株先物は大幅に上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T20:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Holds Near $90 a Barrel, U.S. Stock Futures Edge Higher"
   },
   {
    "title": "ブルックフィールドとCPPインベストメント、LXPインダストリアルを52億ドルで買収へ",
@@ -161,16 +309,6 @@
    "title_orig": "Is Passive Investing Sabotaging Fund Managers?"
   },
   {
-   "title": "早めに社会保障を請求します。なぜ部屋の中でゾウについて話す人がこれほど少ないのでしょうか?",
-   "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-   "summary": "「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T19:30:00+09:00",
-   "lang": "en",
-   "title_orig": "I will claim Social Security early. Why do so few people talk about the elephant in the room?"
-  },
-  {
    "title": "バーナム氏、「サーキットブレーカー」の首相就任を誓約",
    "link": "https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1",
    "summary": "過去10年間で英国の7人目の指導者となった次期首相が月曜後半に閣僚を指名する",
@@ -179,36 +317,6 @@
    "published": "2026-07-20T19:25:54+09:00",
    "lang": "en",
    "title_orig": "Burnham pledges ‘circuit-breaker’ premiership"
-  },
-  {
-   "title": "プロロジス、セグロが182億ドルの甘いオファーを拒否したと発表",
-   "link": "https://www.wsj.com/finance/investing/prologis-says-segro-rejects-third-18-2-billion-offer-e7871414?mod=rss_markets_main",
-   "summary": "プロロジスは、３回目の提案は最初の提案が行われる前の６月２３日のセグロ株の終値に対して３３．８％のプレミアムが設定されていたと述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T19:05:00+09:00",
-   "lang": "en",
-   "title_orig": "Prologis Says Segro Rejects Sweetened $18.2 Billion Offer"
-  },
-  {
-   "title": "なぜ今こそマグニフィセント・セブンを株式市場の話題から外す時期なのか、ストラテジストらは語る",
-   "link": "https://www.marketwatch.com/story/no-one-talks-about-faang-anymore-now-its-time-to-retire-magnificent-seven-as-well-citigroup-argues-ddf312c5?mod=mw_rss_topstories",
-   "summary": "グループとしてのマグニフィセント・セブンは今年、市場全体のパフォーマンスを下回っているが、シティのストラテジストらは、マグニフィセント・セブンはもはや利益を生み出すグループではないと主張している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T19:02:00+09:00",
-   "lang": "en",
-   "title_orig": "Why it’s time to retire the Magnificent Seven as a stock-market talking point, say these strategists"
-  },
-  {
-   "title": "日々の投資家はマグセブンに不満を抱き、より新しい AI 取引に群がる",
-   "link": "https://www.wsj.com/finance/stocks/everyday-investors-sour-on-the-mag-seven-and-flock-to-newer-ai-trades-6e8f8d8b?mod=rss_markets_main",
-   "summary": "さらに、ヨルダンは米イラン戦争の引火点となり、兵士の死者数が増加し、ロンドンは深刻化する住宅危機に直面している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T19:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Everyday Investors Sour on the Mag Seven and Flock to Newer AI Trades"
   },
   {
    "title": "EU、中国系ネット通販「アリエク」に制裁金　過去最高1022億円",
@@ -227,62 +335,12 @@
    "published": "2026-07-20T19:00:00+09:00"
   },
   {
-   "title": "夫も私も退職しました。 30代のファイナンシャルアドバイザーは私たちを「あなたたち」と呼びました。それはプロフェッショナルではありませんか？",
-   "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-   "summary": "「私たちと世代が近い人に仕事をお願いしようか迷っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T19:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?"
-  },
-  {
-   "title": "中国国営ファンドが市場支援のため90億ドル近くの株式を購入",
-   "link": "https://www.wsj.com/finance/stocks/chinas-national-team-buys-nearly-9-billion-of-shares-to-support-market-09a39350?mod=rss_markets_main",
-   "summary": "この支援と誓約の表明は、世界的に半導体株とハイテク株の下落が深刻化する中で行われた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T18:56:00+09:00",
-   "lang": "en",
-   "title_orig": "China State-Owned Funds Buy Nearly $9 Billion in Shares to Support Market"
-  },
-  {
    "title": "中国証券当局トップ、市場安定へ「全力」 急落受け投資家と協議 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkZFWjI1VldLOHFQNkM4VmM1MnJPS0FIb2Z6OGozbzJJbXpnV0lJYzU0ZlJmZzhGVjlXUTQzNGRvSWUwYUNCVXUxaTBLWUU3V0RHLVJEX1hsbkk0Y0JkTWtuX1JQSDh4UUUtRk5pb1R6UGlOdUFmYURXM1pVU1F6WQ?oc=5",
    "summary": "中国証券当局トップ、市場安定へ「全力」 急落受け投資家と協議&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-20T18:49:44+09:00"
-  },
-  {
-   "title": "中東の紛争で原油価格が上昇、ユーロ圏債券利回りが上昇",
-   "link": "https://www.wsj.com/articles/renewed-geopolitical-uncertainty-limits-italian-bond-spread-tightening-room-aa25d831?mod=rss_markets_main",
-   "summary": "原油価格の上昇でインフレ懸念が再燃する中、ユーロ圏国債利回りは取引開始時に米国債利回りと同水準で上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T18:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Eurozone Bond Yields Rise as Middle East Hostilities Lift Oil Prices"
-  },
-  {
-   "title": "チップ株を買うチャンスは近づいているのか？ウォール街のこの 2 つの大きな銀行は分裂しています。",
-   "link": "https://www.marketwatch.com/story/is-an-opportunity-to-buy-chip-stocks-nearing-these-two-big-wall-street-banks-are-divided-ba1b03af?mod=mw_rss_topstories",
-   "summary": "JPモルガンは、半導体株には夏の買いチャンスが到来していると述べているが、モルガン・スタンレーは、このセクターは2026年の残りは厳しい状況にあると述べている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T18:35:00+09:00",
-   "lang": "en",
-   "title_orig": "Is an opportunity to buy chip stocks nearing? These two big Wall Street banks are divided."
-  },
-  {
-   "title": "ゴールドマンのエコノミスト、インフレは拡大傾向にあると語る",
-   "link": "https://www.marketwatch.com/story/inflation-is-broadening-out-says-goldman-economist-44fa437f?mod=mw_rss_topstories",
-   "summary": "先週の議会証言で、新FRB議長のケビン・ウォーシュ氏は、自身の主要な責任の一つは、個人の利益を確保することであると強調した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T18:32:00+09:00",
-   "lang": "en",
-   "title_orig": "Inflation is broadening out, says Goldman economist"
   },
   {
    "title": "ローソン「車中泊」50代利用者も",
@@ -353,16 +411,6 @@
    "published": "2026-07-20T15:39:00+09:00"
   },
   {
-   "title": "AIバブルの影でポートフォリオ構築",
-   "link": "https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1",
-   "summary": "あらゆる面で難しい選択",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T14:30:08+09:00",
-   "lang": "en",
-   "title_orig": "Portfolio construction in the shadow of the AI bubble"
-  },
-  {
    "title": "9歳で監督デビューまで…異能の子役｢永尾柚乃｣が切り開く新しい\"上がりルート\"《新時代･新世代の子役と評価も》 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951611?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "9歳にして映画監督･脚本･主演も務める永尾柚乃。現場育ちの実力とプロ顔負けの姿勢､そして無邪気さを両立する彼女は､\"子役\"の常識を覆す存在です。",
@@ -385,26 +433,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-20T13:10:20+09:00"
-  },
-  {
-   "title": "AI モデルのトレーニングは職場でのパワープレイのチャンスになる可能性がある",
-   "link": "https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1",
-   "summary": "必要な知識が現在従業員の頭の中に閉じ込められていることが明らかになってきています",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T13:00:28+09:00",
-   "lang": "en",
-   "title_orig": "Training AI models might be the chance for a workplace power play"
-  },
-  {
-   "title": "新たな紛争が経済を脅かす中、イラン通貨が暴落",
-   "link": "https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1",
-   "summary": "ドナルド・トランプ大統領がホルムズ海峡をテヘランに引き渡そうとするなか、米国は港を封鎖しインフラを標的にする",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T13:00:28+09:00",
-   "lang": "en",
-   "title_orig": "Iran’s currency tumbles as renewed conflict threatens economy"
   },
   {
    "title": "優秀なのに嫌な人物｢ブリリアント･ジャーク｣が引き起こす\"組織崩壊\"　初期症状のサインと､最後に残される人物の恐怖 | ライフ | 東洋経済オンライン",
@@ -905,14 +933,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-18T00:00:00+09:00"
-  },
-  {
-   "title": "米国株式市場・序盤＝ナスダック600ポイント超下落、ハイテク株に売り - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQel9OVzkydlRZSWdkYlV0ajVEUXVZMXFCZ2dxZzhhTVd3RDJFN3RqNDZYUTEyLXo5aDZEeWlFYU5BNlI0Nlp6TWhNYTN1YS1wd1ppNzRjRUhMaXJZQUpHZTJUMlYxTGdhX01kVWpRRm05TkFxR2FNYXJCZ1BzcnVadA?oc=5",
-   "summary": "米国株式市場・序盤＝ナスダック600ポイント超下落、ハイテク株に売り&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-17T23:05:46+09:00"
   }
  ]
 }
