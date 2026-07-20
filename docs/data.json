@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T01:18:38.031669+09:00",
+ "generated_at": "2026-07-21T03:25:52.368112+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,34 +61,209 @@
  "errors": [],
  "items": [
   {
-   "title": "シクロスポラの検出は「非常に難しいことで知られている」。FDAがテイラー・ファームズに謝罪した意味は次のとおりである。",
-   "link": "https://www.marketwatch.com/story/detecting-cyclospora-is-notoriously-difficult-heres-what-the-fdas-apology-to-taylor-farms-means-cafd3a2a?mod=mw_rss_topstories",
-   "summary": "FDAとCDCは、サイクロスポラの発生源を確認するために、テイラー・ファームズが販売したアイスバーグ・レタスを調査している",
-   "source": "MarketWatch",
+   "title": "ブラックロックがテキサス州の新しいメタデータセンターに120億ドルの資金調達を主導",
+   "link": "https://www.wsj.com/business/deals/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-e1c3d42c?mod=rss_markets_main",
+   "summary": "資産運用会社のインフラストラクチャーと民間信用部門が巨大プロジェクトを主導しています。",
+   "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-07-21T01:17:00+09:00",
+   "published": "2026-07-21T03:17:00+09:00",
    "lang": "en",
-   "title_orig": "Detecting cyclospora is ‘notoriously difficult.’ Here’s what the FDA’s apology to Taylor Farms means."
+   "title_orig": "BlackRock Leads $12 Billion Financing for New Meta Data Centers in Texas"
   },
   {
-   "title": "ネオクラウドが28億ドル相当の新規取引を獲得し、アイレンの株価が急上昇",
-   "link": "https://www.marketwatch.com/story/irens-stock-surges-as-the-neocloud-lands-2-8-billion-worth-of-new-deals-831302c3?mod=mw_rss_topstories",
-   "summary": "AI インフラストラクチャ プロバイダーは、新規顧客とチップの前払いを確保することで、高額なデータセンター建設コストに対する不安を和らげています。",
+   "title": "従来の IRA で 800 万ドルを保有しています。私たちは彼らに家を買うよう働きかけるべきでしょうか?そして税金の負担を負うべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+   "summary": "「住宅ローンの利息を支払うよりも、税金を前払いしたいと考えています。」",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-21T01:15:00+09:00",
+   "published": "2026-07-21T03:15:00+09:00",
    "lang": "en",
-   "title_orig": "Iren’s stock surges as the neocloud lands $2.8 billion worth of new deals"
+   "title_orig": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?"
   },
   {
-   "title": "10日間の停戦提案報道を受​​け、原油価格が反転下落",
-   "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-   "summary": "イラン外務省が米国との交渉は難航する可能性があると述べた後、10日間の停戦提案の報道を受けて原油価格は反転下落した。",
+   "title": "Capital One は Discover に大きく賭けています。今度はそのギャンブルに価値があったことを証明しなければならない",
+   "link": "https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html",
+   "summary": "火曜日夕方の第 2 四半期決算報告は、まさにそれを実現するのに最適な舞台です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-21T03:14:23+09:00",
+   "lang": "en",
+   "title_orig": "Capital One bet big on Discover. Now it must prove the gamble was worth it"
+  },
+  {
+   "title": "アンディ・バーナムの新内閣には誰がいる?",
+   "link": "https://www.ft.com/content/05b20ea3-425b-49da-886e-fd0ac9270fe7?syn-25a6b1a6=1",
+   "summary": "英国首相がトップチームを発表、経験豊富な人材が多数政府に復帰",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-21T03:02:20+09:00",
+   "lang": "en",
+   "title_orig": "Who is in Andy Burnham’s new cabinet?"
+  },
+  {
+   "title": "意見 |大きな政府は腐敗を必然的に招く",
+   "link": "https://www.wsj.com/opinion/big-government-inevitably-invites-corruption-be7f0dad?mod=rss_markets_main",
+   "summary": "民主党はトランプ大統領を非難しているが、彼らの政策は恩を売る機会を増やすことになるだろう。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T03:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | Big Government Inevitably Invites Corruption"
+  },
+  {
+   "title": "米国とイランのエスカレーションで原油先物は値上がり",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-rising-concerns-over-supply-disruptions-in-middle-east-16d3038e?mod=rss_markets_main",
+   "summary": "イランが医療機関から提案を受けていると発表したため、原油先物は中東での軍事エスカレーションで付けた一晩の高値から反落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T02:56:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Pare Gains Made on U.S.-Iran Escalation"
+  },
+  {
+   "title": "テスラの投資家が収益を前に最も切実な疑問を共有",
+   "link": "https://www.marketwatch.com/story/tesla-investors-share-their-most-burning-questions-ahead-of-earnings-7065c7c5?mod=mw_rss_topstories",
+   "summary": "「テスラが自ら設定した短期目標の達成を妨げているものは何でしょうか?」ある投資家は尋ねた。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-21T00:57:00+09:00",
+   "published": "2026-07-21T02:54:00+09:00",
    "lang": "en",
-   "title_orig": "Oil prices reverse lower, after report of 10-day ceasefire proposal"
+   "title_orig": "Tesla investors share their most burning questions ahead of earnings"
+  },
+  {
+   "title": "米判事、パラマウントによる1100億ドル規模のワーナー・ブラザーズ買収を一時停止",
+   "link": "https://www.ft.com/content/ce24c3cb-4643-43f1-8cfd-688056a434ec?syn-25a6b1a6=1",
+   "summary": "連邦裁判所、ハリウッドでの競争への影響を調査中、合併の一時停止要請を認める",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-21T02:37:41+09:00",
+   "lang": "en",
+   "title_orig": "US judge pauses Paramount’s $110bn Warner Bros acquisition"
+  },
+  {
+   "title": "米国が和平合意を進める中、トランプ大統領がレバノン大統領と会談",
+   "link": "https://www.ft.com/content/13092f23-4b2f-4e62-8aa9-76ab465a667c?syn-25a6b1a6=1",
+   "summary": "レバノン軍、イスラエル撤退計画の一環として「試験地帯」に進駐へ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-21T02:27:55+09:00",
+   "lang": "en",
+   "title_orig": "Trump to meet Lebanon’s president as US pushes ahead with peace deal"
+  },
+  {
+   "title": "米連邦裁、パラマウントのワーナー買収を一時差し止め - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SdWY4NWlsVWhfSi1ybUJfZmFhd3Z1cmRvWlJhNWVPcDhLVDQ2OXJLaEFVSkVlZ2gxWDU3b1Z0czNkOTkwU2g5Y3J3S2NuVjJUd04yWVJYYWdwS0ZJN081eEM0dVdHc2NLb0hLTzFxREpOenNob3pOSw?oc=5",
+   "summary": "米連邦裁、パラマウントのワーナー買収を一時差し止め&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-21T02:24:30+09:00"
+  },
+  {
+   "title": "AMDの株価は上昇、マイクロソフトとの新たな契約は理由の一部にすぎない",
+   "link": "https://www.marketwatch.com/story/amds-stock-climbs-and-a-new-microsoft-deal-is-only-part-of-the-reason-de78df49?mod=mw_rss_topstories",
+   "summary": "月曜日のチップ株はおおむね回復しており、AMDの投資家は週後半の大規模な製品イベントに向けて準備を進めている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T02:24:00+09:00",
+   "lang": "en",
+   "title_orig": "AMD’s stock climbs, and a new Microsoft deal is only part of the reason"
+  },
+  {
+   "title": "Gilts under pressure as investors brace for higher spending under Andy Burnham",
+   "link": "https://www.ft.com/content/b7cc3ea9-c89c-4f94-8ce0-3786034a6ddc?syn-25a6b1a6=1",
+   "summary": "New UK prime minister said he will ‘use any flexibility’ within the fiscal rules",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-21T02:16:08+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "あなたの新興国ファンドにとって、韓国株は大したことではありませんでした。人工知能がそれを変えました。",
+   "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+   "summary": "貴社の新興国ファンドはAIへの偶然の賭けでしょうか?これら 2 つの ETF のリターンは、その理由を示しています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T02:15:00+09:00",
+   "lang": "en",
+   "title_orig": "South Korean stocks weren’t a big deal in your emerging-markets fund. Artificial intelligence changed that."
+  },
+  {
+   "title": "マイクロンの株価が回復する中、モルガン・スタンレーは投資家は過去に怯えるべきではないと語る",
+   "link": "https://www.marketwatch.com/story/as-microns-stock-rebounds-morgan-stanley-says-investors-shouldnt-get-spooked-by-the-past-6996574b?mod=mw_rss_topstories",
+   "summary": "モルガン・スタンレーのアナリストは、メモリーチップは依然AI開発のボトルネックとなっており、需要は持続するとみられる。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T02:14:00+09:00",
+   "lang": "en",
+   "title_orig": "As Micron’s stock rebounds, Morgan Stanley says investors shouldn’t get spooked by the past"
+  },
+  {
+   "title": "エヌビディアのことは忘れてください。これら 5 つの S&P 500 銘柄は、静かに AI に全力で取り組んでいます。",
+   "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+   "summary": "「マグセブン」は「バッグセブン」になりました。シャープのハイテク投資家は別の場所に目を向けている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T02:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI."
+  },
+  {
+   "title": "米国、資産開示問題で億万長者マーク・ウォルター氏所有の保険会社を捜査",
+   "link": "https://www.ft.com/content/5e79b5d1-6b2a-4d9d-8b46-6980e861856d?syn-25a6b1a6=1",
+   "summary": "検察と証券規制当局は企業が関連会社の保有株を開示していないかどうかを調査する",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-21T02:04:50+09:00",
+   "lang": "en",
+   "title_orig": "US probes insurers owned by billionaire Mark Walter over asset disclosures"
+  },
+  {
+   "title": "トヨタ社長「国内生産や供給網の水準を維持」　トランプ関税でも堅調",
+   "link": "https://www.asahi.com/articles/ASV7L46THV7LULFA006M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-21T02:01:00+09:00"
+  },
+  {
+   "title": "SpaceX、時価総額ランクの更なる下落を目論む",
+   "link": "https://www.marketwatch.com/story/spacex-flirts-with-a-further-decline-down-the-market-cap-ranks-e539799e?mod=mw_rss_topstories",
+   "summary": "スペースXはピーク時から時価総額を1兆ドル以上失い、一時的に時価総額ランキングでメタを下回った。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T01:47:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX flirts with a further descent down the market-cap ranks"
+  },
+  {
+   "title": "シナロア・カルテル創設者に150億ドルの没収命令と終身刑を言い渡した",
+   "link": "https://www.ft.com/content/a803297d-ddd1-40a7-8bdb-c0bd50c3b546?syn-25a6b1a6=1",
+   "summary": "「エル・チャポ」とともにグループを共同設立した「エル・マヨ」に終身刑を宣告",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-21T01:43:40+09:00",
+   "lang": "en",
+   "title_orig": "Sinaloa cartel founder handed $15bn forfeiture order and life sentence"
+  },
+  {
+   "title": "原油価格は1バレル90ドル近く、米国株先物は小幅上昇",
+   "link": "https://www.wsj.com/finance/stocks/oil-holds-near-90-a-barrel-u-s-stock-futures-edge-higher-c05fcb42?mod=rss_markets_main",
+   "summary": "投資家が中東情勢のさらなる緊迫化を懸念し、米国株先物は大幅に上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T01:41:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Holds Near $90 a Barrel, U.S. Stock Futures Edge Higher"
+  },
+  {
+   "title": "牧場のドレッシングとアライグマの剥製：ワールドカップの優勝者はスペインだけではない",
+   "link": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories",
+   "summary": "スペインがアルゼンチンを破ってワールドカップで優勝した。しかし、フィールド外でも大きな勝利がいくつかあった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T01:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Ranch dressing and stuffed raccoons: Spain isn’t the World Cup’s only winner"
   },
   {
    "title": "正午に最も大きな動きを見せた銘柄: AMD、Archer Aviation、SpaceX、Iren など",
@@ -109,66 +284,6 @@
    "published": "2026-07-21T00:49:44+09:00"
   },
   {
-   "title": "ブラックロックがテキサス州の新しいメタデータセンターに120億ドルの資金調達を主導",
-   "link": "https://www.wsj.com/business/deals/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-e1c3d42c?mod=rss_markets_main",
-   "summary": "資産運用会社のインフラストラクチャーと民間信用部門が巨大プロジェクトを主導しています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T00:33:00+09:00",
-   "lang": "en",
-   "title_orig": "BlackRock Leads $12 Billion Financing for New Meta Data Centers in Texas"
-  },
-  {
-   "title": "イラン戦争激化で米国のガソリン価格が4ドルを超える水準に再び上昇",
-   "link": "https://www.ft.com/content/522fc69e-77df-40fd-8ab4-6726b866d289?syn-25a6b1a6=1",
-   "summary": "中間選挙を前に経費の再燃でドナルド・トランプ大統領への不満が高まる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-21T00:22:10+09:00",
-   "lang": "en",
-   "title_orig": "US petrol prices climb back above $4 as Iran war intensifies"
-  },
-  {
-   "title": "早めに社会保障を請求します。なぜ部屋の中でゾウについて話す人がこれほど少ないのでしょうか?",
-   "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-   "summary": "「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T00:15:00+09:00",
-   "lang": "en",
-   "title_orig": "I will claim Social Security early. Why do so few people talk about the elephant in the room?"
-  },
-  {
-   "title": "従来の IRA で 800 万ドルを保有しています。私たちは彼らに家を買うよう働きかけるべきでしょうか?そして税金の負担を負うべきでしょうか?",
-   "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-   "summary": "「住宅ローンの利息を支払うよりも、税金を前払いしたいと考えています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T23:46:00+09:00",
-   "lang": "en",
-   "title_orig": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?"
-  },
-  {
-   "title": "中東には独自のヘルシンキ法が必要だ",
-   "link": "https://www.ft.com/content/348530f8-994f-49ce-ae77-3e5d520c7794",
-   "summary": "信頼は和平交渉の前提条件ではない - そしてイランとその近隣諸国は冷戦時のデタントの例に倣うべきである",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T23:43:40+09:00",
-   "lang": "en",
-   "title_orig": "The Middle East needs its own Helsinki Act"
-  },
-  {
-   "title": "あなたの新興国ファンドにとって、韓国株は大したことではありませんでした。人工知能がそれを変えました。",
-   "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-   "summary": "貴社の新興国ファンドはAIへの偶然の賭けでしょうか?これら 2 つの ETF のリターンは、その理由を示しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T23:37:00+09:00",
-   "lang": "en",
-   "title_orig": "South Korean stocks weren’t a big deal in your emerging-markets fund. Artificial intelligence changed that."
-  },
-  {
    "title": "米国の先行指標は6月に低下",
    "link": "https://www.wsj.com/economy/central-banking/u-s-leading-indicators-ticked-down-in-june-546daa61?mod=rss_markets_main",
    "summary": "コンファレンス・ボードの景気先行指数は、5月と4月の上昇に続く個人消費の低迷を受けて0.2％下落した。",
@@ -177,36 +292,6 @@
    "published": "2026-07-20T23:32:00+09:00",
    "lang": "en",
    "title_orig": "U.S. Leading Indicators Ticked Down in June"
-  },
-  {
-   "title": "SpaceXは投資家に激しいFOMOを与えた。この 10 年間で最も注目を集めた IPO は、残酷な現実の検証を表しています。",
-   "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
-   "summary": "誇大宣伝された新規株式公開を追いかけることに隠れた危険性?細かい部分は省略します。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T23:21:00+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check."
-  },
-  {
-   "title": "「マグニフィセント・セブン」は、彼らなしでは破滅するかもしれない株式市場を救うことができるでしょうか?",
-   "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
-   "summary": "Apple、Amazon、Nvidia、その他の企業が静かに活気を取り戻しつつあり、それがこの眠い株式市場を簡単に活気づける可能性があります。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-20T23:15:00+09:00",
-   "lang": "en",
-   "title_orig": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?"
-  },
-  {
-   "title": "原油価格は1バレル90ドル近く、米国株先物は小幅上昇",
-   "link": "https://www.wsj.com/finance/stocks/oil-holds-near-90-a-barrel-u-s-stock-futures-edge-higher-c05fcb42?mod=rss_markets_main",
-   "summary": "投資家が中東情勢のさらなる緊迫化を懸念し、米国株先物は大幅に上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T23:09:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Holds Near $90 a Barrel, U.S. Stock Futures Edge Higher"
   },
   {
    "title": "サウジ関連船舶の通航阻止　紅海経由の原油輸送に打撃も―イエメン武装組織",
@@ -237,16 +322,6 @@
    "title_orig": "Buyout Firm Truelink Strikes $1 Billion Deal for Coffee Syrup Maker"
   },
   {
-   "title": "米国とイランのエスカレーションで原油先物は値上がり",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-rising-concerns-over-supply-disruptions-in-middle-east-16d3038e?mod=rss_markets_main",
-   "summary": "イランが医療機関から提案を受けていると発表したため、原油先物は中東での軍事エスカレーションで付けた一晩の高値から反落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T22:41:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Pare Gains Made on U.S.-Iran Escalation"
-  },
-  {
    "title": "市場前に大きな動きをする銘柄: AMD、SpaceX、ドミノ・ピザ、アリババなど",
    "link": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-premarket-amd-spcx-dpz.html",
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
@@ -255,6 +330,14 @@
    "published": "2026-07-20T22:28:07+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: AMD, SpaceX, Domino's Pizza, Alibaba & more"
+  },
+  {
+   "title": "英でバーナム新首相が就任　政権安定、経済立て直し課題",
+   "link": "https://www.jiji.com/jc/article?k=2026072000295&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-20T22:20:00+09:00"
   },
   {
    "title": "金利差はドルに対して動く",
@@ -295,56 +378,6 @@
    "published": "2026-07-20T21:41:50+09:00",
    "lang": "en",
    "title_orig": "Coinbase trading results may fall short of expectations, according to prediction markets"
-  },
-  {
-   "title": "元国防大臣が復帰の申し出を拒否し、ゼレンスキー大統領の危機が深まる",
-   "link": "https://www.ft.com/content/51dad580-487a-43d4-8427-cdd764cbe8f5?syn-25a6b1a6=1",
-   "summary": "ウクライナ大統領、ミハイロ・フェドロフ氏と衝突した最高司令官の更迭を迫られる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T21:37:37+09:00",
-   "lang": "en",
-   "title_orig": "Zelenskyy’s crisis deepens as ex-defence minister rejects offer to return"
-  },
-  {
-   "title": "トランプ大統領はイランの泥沼にはまりつつある",
-   "link": "https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1",
-   "summary": "アメリカは交渉によって目的を達成することはできない。政権交代が議題に戻ってきた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T20:17:18+09:00",
-   "lang": "en",
-   "title_orig": "Trump is slipping into an Iran quagmire"
-  },
-  {
-   "title": "ブルックフィールドとCPPインベストメント、LXPインダストリアルを52億ドルで買収へ",
-   "link": "https://www.wsj.com/business/deals/brookfield-and-cpp-investments-to-buy-lxp-industrial-for-5-2-billion-e8f64cef?mod=rss_markets_main",
-   "summary": "ブルックフィールド・アセット・マネジメントとカナダ年金制度投資委員会は、約5.2ドル相当の全額現金取引でLXPインダストリアル・トラストを買収することで合意した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-20T20:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Brookfield and CPP Investments to Buy LXP Industrial for $5.2 Billion"
-  },
-  {
-   "title": "FRBの独立性は依然として脅威にさらされているとスローター氏が警告",
-   "link": "https://www.ft.com/content/1197682a-c72d-4ae2-a8f2-f0fd3f867439?syn-25a6b1a6=1",
-   "summary": "ドナルド・トランプ大統領により解任された規制当局、最高裁判所の判決は「永続的」ではないと発言",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T20:00:01+09:00",
-   "lang": "en",
-   "title_orig": "The Fed’s independence is still under threat, warns Slaughter"
-  },
-  {
-   "title": "バーナム氏、「サーキットブレーカー」の首相就任を誓約",
-   "link": "https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1",
-   "summary": "過去10年間で英国の7人目の指導者となった次期首相が月曜後半に閣僚を指名する",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-20T19:25:54+09:00",
-   "lang": "en",
-   "title_orig": "Burnham pledges ‘circuit-breaker’ premiership"
   },
   {
    "title": "EU、中国系ネット通販「アリエク」に制裁金　過去最高1022億円",
@@ -727,20 +760,20 @@
    "published": "2026-07-19T08:00:00+09:00"
   },
   {
+   "title": "世界一律の１０％代替関税、失効へ　新関税、日本は１２．５％に―米",
+   "link": "https://www.jiji.com/jc/article?k=2026071800305&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-19T07:02:00+09:00"
+  },
+  {
    "title": "日本企業のセキュリティ成熟度「3.0」点　適切なベンダー選定に必要な“視点”は何か",
    "link": "https://www.itmedia.co.jp/business/articles/2607/19/news008.html",
    "summary": "サイバーセキュリティ対策への投資は拡大傾向にある。矢野経済研究所の調査によると、2025年度の国内のサイバーセキュリティ市場規模は、事業者売上高ベースで1兆9471億円（前年度比9.2％増）と推計される。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-19T07:00:00+09:00"
-  },
-  {
-   "title": "個人情報保護法は誰のため？　規制緩和求めたロビイストに聞く",
-   "link": "https://www.asahi.com/articles/ASV7J2CJBV7JULZU004M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-19T06:00:00+09:00"
   },
   {
    "title": "「WarshGPT」: ウォール街はFRBのコミュニケーション新時代にどのように適応しているか",
@@ -825,14 +858,6 @@
    "published": "2026-07-18T07:00:00+09:00"
   },
   {
-   "title": "ＮＹ市場サマリー（17日）株続落、ドル横ばい 利回り低下 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZkQwaHlJQXdscVg1V0FESGlmaW9tNTd4SG5DbmU4Zk5ENHlodDZsd2oxWktlMTRLUVUtekpIaGlwRE9fdlhBaTIxaHBFZlVELVlubVhYeUZVWDIxd0g4OEVXWGRlQmlqeVAtVHpsZmxlYnRFWEVKVg?oc=5",
-   "summary": "ＮＹ市場サマリー（17日）株続落、ドル横ばい 利回り低下&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-18T06:13:45+09:00"
-  },
-  {
    "title": "米国株式市場＝続落、ハイテク株に売り ネトフリ7％安 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVhlV0FCVWNWQVdlNUpZZzNmZWdibWNLb25DYW1FNzVLbU5pOUZ2dmJGZl9GZWtmMlQtNGc1R1lrQVBvNklzdHlQS0Z3QnJzRXpFblBuRkUtUGN3Tk9PLVhqb3VoYVNjT3Rqc0dzS3dnQmFXWEM5d0c3amdNdHdSaA?oc=5",
    "summary": "米国株式市場＝続落、ハイテク株に売り ネトフリ7％安&nbsp;&nbsp;ロイター",
@@ -863,38 +888,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-18T03:33:44+09:00"
-  },
-  {
-   "title": "その他,「経済価値ベースのソルベンシー規制」の概要資料を更新しました。",
-   "link": "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-18T02:00:00+09:00"
-  },
-  {
-   "title": "令和８年３月期までにおいて、定時株主総会前に有価証券報告書を提出した上場会社について公表しました。",
-   "link": "https://www.fsa.go.jp/policy/kaiji/sokaimaekaiji.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-18T02:00:00+09:00"
-  },
-  {
-   "title": "「公認会計士及び監査法人におけるマネー・ローンダリング、テロ資金供与及び拡散金融対策に関するガイドライン（案）」に対するパブリックコメントの結果等について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260717-3/20260717.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-18T02:00:00+09:00"
-  },
-  {
-   "title": "「中小企業の事業再生等に関するガイドライン」の活用実績について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260717-2/20260717-2.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-18T02:00:00+09:00"
   }
  ]
 }
