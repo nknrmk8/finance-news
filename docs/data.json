@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T03:54:17.279352+09:00",
+ "generated_at": "2026-07-22T05:10:29.913357+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,168 @@
  "errors": [],
  "items": [
   {
+   "title": "ケンタッキー きょうから全店舗で通常営業を再開",
+   "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182251000.html",
+   "summary": "ファストフードチェーンの「ケンタッキーフライドチキン」は、冷凍食品大手の「ニチレイ」で発生したシステム障害の影響で、一部の店舗で営業時間を短縮するなどの対応をとっていましたが、22日からすべての店舗で通常営業を再開したと発表しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-22T05:03:32+09:00"
+  },
+  {
+   "title": "緊張にもかかわらず中東和平の期待が残る中、財務省利回り、ドルは安定",
+   "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-a002ad06?mod=rss_markets_main",
+   "summary": "米国とイランの外交交渉が復活し、停戦が成立するのではないかとの期待を背景に、１０年米国債利回りは安定した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T05:03:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields, Dollar Steady as Mideast Peace Hopes Linger Despite Tension"
+  },
+  {
+   "title": "イーロン・マスク氏、空売り業者は生き残れないと警告、スペースXに対する賭けは浮動株の32％に拡大",
+   "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
+   "summary": "S3によると、スペースX株は現在約2億600万株が空売りされており、これは同社の上場株の約32％に相当する。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-22T05:01:39+09:00",
+   "lang": "en",
+   "title_orig": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive"
+  },
+  {
+   "title": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
+   "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182261000.html",
+   "summary": "システム障害が発生し、出荷などの業務に影響が出た冷凍食品大手「ニチレイ」へのサイバー攻撃について、ハッカー集団が21日夜、犯行声明を出したことがセキュリティー会社への取材で分かりました。このハッカー集団は、身代金要求型のコンピューターウイルス「ランサムウエア」を使ったサイバー攻撃で知られているということです。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-22T05:01:00+09:00"
+  },
+  {
+   "title": "塚田農場が苦戦したコロナ禍､右肩上がりで伸びた弁当事業…値上げ時代に｢990円据え置き｣を支える10年前の｢ある決断｣ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951551?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "物価高騰や弁当業界の倒産が相次ぐ中､注文を増やし続けている塚田農場おべんとラボ。味と手作りにこだわり続ける裏には､10年前の大胆な決断と独自の生産体制がありました。その戦略と成長の秘密に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-22T05:00:00+09:00"
+  },
+  {
+   "title": "990円､冷めても旨い\"ロケ弁王者\"の秘密｢味より見た目｣に逆らい｢1日1万食｣でも玉子焼きは手作り | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951550?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "新幹線の旅に欠かせない駅弁。1000円以下の弁当が少なくなった今､｢塚田農場おべんとラボ｣のチキン南蛮弁当がロケ弁業界で評判を呼んでいます。なぜ\"王道\"を磨き続けた弁当がトップに躍り出たのか､その秘…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-22T05:00:00+09:00"
+  },
+  {
+   "title": "従来の IRA で 800 万ドルを保有しています。私たちは彼らに家を買うよう働きかけるべきでしょうか?そして税金の負担を負うべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+   "summary": "「住宅ローンの利息を支払うよりも、税金を前払いしたいと考えています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T05:00:00+09:00",
+   "lang": "en",
+   "title_orig": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?"
+  },
+  {
+   "title": "パラマウントがワーナー・ブラザースとのディスカバリー契約に負けた場合、なぜ勝てるのか",
+   "link": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
+   "summary": "各州はパラマウントの巨大合併を阻止しようとしている。株主は彼らを応援すべきだ。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T04:49:00+09:00",
+   "lang": "en",
+   "title_orig": "Why Paramount could win if it loses the Warner Bros. Discovery deal"
+  },
+  {
+   "title": "プロの株式ピッカーは単純な計算には勝てない — 中東の戦争がそれを証明している",
+   "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+   "summary": "積極的に株を選ぶ人は、ほぼ常に市場全体に対して負けます。単純な計算には勝てません。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T04:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it"
+  },
+  {
+   "title": "マイクロンやその他のチップ株がこれほど力強く反発している理由",
+   "link": "https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories",
+   "summary": "最近のチップの下落は買いの機会をもたらし、オープンソースの AI モデルはメモリ需要をさらに促進するはずだとアナリストは言う",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T04:45:00+09:00",
+   "lang": "en",
+   "title_orig": "Why Micron and other chip stocks are bouncing back so strongly"
+  },
+  {
+   "title": "ゼレンシキー氏、2024年以来最大の軍事改革でウクライナトップ将軍の後任に",
+   "link": "https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1",
+   "summary": "大統領、キエフ軍指導部の世代交代でオレクサンドル・シルスキーの後任に43歳のミハイロ・ドラパティ氏を選出",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-22T04:42:20+09:00",
+   "lang": "en",
+   "title_orig": "Zelenskyy replaces top Ukraine general in biggest military shake-up since 2024"
+  },
+  {
+   "title": "原油価格は下がるかもしれませんが、ガソリン価格は下がりません。私たちが陥っている罠を見てください。",
+   "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
+   "summary": "イラン戦争のせいで光熱費が高騰しているわけではありません。それはウォール街のせいだ。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T04:42:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in."
+  },
+  {
+   "title": "この株式市場はバブルだと思いますか?これらの収益の数字はそうではないことを示しています。",
+   "link": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+   "summary": "ある収益専門家によると、AI取引を継続し、テクノロジー株を過剰に重視するという。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T04:42:00+09:00",
+   "lang": "en",
+   "title_orig": "Think this stock market is in a bubble? These earnings numbers say otherwise."
+  },
+  {
+   "title": "裕福な投資家が次のスペースXとストライプを求める中、ゴールドマン・サックスはプライベート・マーケット・プラットフォームを創設",
+   "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+   "summary": "ゴールドマン・サックスは、富裕層の顧客やファミリーオフィスに非公開企業の直接株式を与えることを目的とした新しいオルタナティブ投資プラットフォームを立ち上げる",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-22T04:41:54+09:00",
+   "lang": "en",
+   "title_orig": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe"
+  },
+  {
+   "title": "娘が夢の大学に進学できるように、退職後の貯蓄120万ドルのうち30万ドルを使いますか?",
+   "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+   "summary": "「私たちの娘は、GPA 3.94 で、上位にランクされている競技ソフトボール投手です。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T04:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?"
+  },
+  {
+   "title": "米国とイランの攻撃、輸送リスクで石油2.5％上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-hopes-of-new-u-s-iran-ceasefire-892b1c0a?mod=rss_markets_main",
+   "summary": "米国とイランの間の新たな攻撃とイエメンのフーシ派による海上封鎖の脅威により、ブレント原油価格が最高値を超えたため、原油価格は2.5％以上上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T04:08:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Gains 2.5% on U.S.-Iran Attacks, Shipping Risks"
+  },
+  {
+   "title": "石油のライフラインは脅威にさらされているが、市場は危機の拡大をまだ織り込んでいない",
+   "link": "https://www.marketwatch.com/story/an-oil-lifeline-is-under-threat-and-markets-have-yet-to-price-in-the-growing-crisis-801d53b1?mod=mw_rss_topstories",
+   "summary": "フーシ派は火曜日、脅迫をエスカレートさせ、米国とイランの戦争にもかかわらずエネルギー市場に流通していた数百万バレルのサウジ石油を危険にさらした。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T04:05:00+09:00",
+   "lang": "en",
+   "title_orig": "An oil lifeline is under threat, and markets have yet to price in the growing crisis"
+  },
+  {
    "title": "AI貿易の回復で米国先物が上昇",
    "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-as-ai-trade-bounces-back-d120b6a2?mod=rss_markets_main",
    "summary": "人工知能株が再び楽観的な波に乗り、アジアと欧州の指数を押し上げる中、米国株先物相場は急騰した。",
@@ -69,16 +231,6 @@
    "published": "2026-07-22T03:42:00+09:00",
    "lang": "en",
    "title_orig": "U.S. Futures Higher as AI Trade Bounces Back"
-  },
-  {
-   "title": "裕福な投資家が次のスペースXとストライプを求める中、ゴールドマン・サックスはプライベート・マーケット・プラットフォームを創設",
-   "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-   "summary": "ゴールドマン・サックスは、富裕層の顧客やファミリーオフィスに非公開企業の直接株式を与えることを目的とした新しいオルタナティブ投資プラットフォームを立ち上げる",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-22T03:23:32+09:00",
-   "lang": "en",
-   "title_orig": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe"
   },
   {
    "title": "貴金属マウントラリー",
@@ -91,32 +243,12 @@
    "title_orig": "Precious Metals Mount Rally"
   },
   {
-   "title": "トランプ大統領は新たな関税を発動する構えのようだ。市場は気にするでしょうか？",
-   "link": "https://www.marketwatch.com/story/trump-looks-set-to-roll-out-a-new-set-of-tariffs-will-markets-care-71097833?mod=mw_rss_topstories",
-   "summary": "2月からの課税は150日間しか有効にできないため、大統領は今週新たに輸入税を課す予定だ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T03:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Trump looks set to roll out a new set of tariffs. Will markets care?"
-  },
-  {
    "title": "その他,令和８年６月に開催された業界団体との意見交換会において、金融庁が提起した主な論点を公表しました。",
    "link": "https://www.fsa.go.jp/common/ronten/index.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-22T03:00:00+09:00"
-  },
-  {
-   "title": "退職後の医療費は 185,500 ドルかかる可能性がありますが、これには長期介護は含まれていません",
-   "link": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
-   "summary": "介護や慢性疾患の管理にかかる価格の上昇が、予測を押し上げる要因となった。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T02:51:00+09:00",
-   "lang": "en",
-   "title_orig": "Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care"
   },
   {
    "title": "カルシ、貴金属の永久先物の立ち上げを目指す",
@@ -157,16 +289,6 @@
    "title_orig": "Saudi tankers reverse course after Houthi threats"
   },
   {
-   "title": "原油価格は下がるかもしれませんが、ガソリン価格は下がりません。私たちが陥っている罠を見てください。",
-   "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
-   "summary": "イラン戦争のせいで光熱費が高騰しているわけではありません。それはウォール街のせいだ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T02:19:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in."
-  },
-  {
    "title": "ビル・ゲイツは財団職員からエプスタインとの関連について警告を受けた",
    "link": "https://www.ft.com/content/aec7adf3-eef7-454c-b326-733f8748a3f5?syn-25a6b1a6=1",
    "summary": "独立した調査では、懸念にもかかわらず、晩年の性犯罪者との話し合いが3年以上続いていることが判明",
@@ -175,16 +297,6 @@
    "published": "2026-07-22T02:15:30+09:00",
    "lang": "en",
    "title_orig": "Bill Gates was warned about Epstein links by staff of his foundation"
-  },
-  {
-   "title": "電話でバーチャル面接を行うのは「信じられないほど失礼」だが、それでもZ世代はそうしている",
-   "link": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
-   "summary": "「これは敬意の表れというよりも、彼らが育ってきたテクノロジーに関係しています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T02:10:00+09:00",
-   "lang": "en",
-   "title_orig": "It’s ‘incredibly disrespectful’ to do a virtual job interview by phone — but Gen Z is doing it anyway"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月17日）について掲載しました。",
@@ -201,26 +313,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-22T01:59:00+09:00"
-  },
-  {
-   "title": "医療費を抑えるために退職時期を決める方法は次のとおりです",
-   "link": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
-   "summary": "さらに、退職後の医療費の自己負担額を下げる方法も増えています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T01:56:00+09:00",
-   "lang": "en",
-   "title_orig": "Here’s how to time your retirement to keep your healthcare costs down"
-  },
-  {
-   "title": "石油のライフラインは脅威にさらされているが、市場は危機の拡大をまだ織り込んでいない",
-   "link": "https://www.marketwatch.com/story/an-oil-lifeline-is-under-threat-and-markets-have-yet-to-price-in-the-growing-crisis-801d53b1?mod=mw_rss_topstories",
-   "summary": "フーシ派は火曜日、脅迫をエスカレートさせ、米国とイランの戦争にもかかわらずエネルギー市場に流通していた数百万バレルのサウジ石油を危険にさらした。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T01:54:00+09:00",
-   "lang": "en",
-   "title_orig": "An oil lifeline is under threat, and markets have yet to price in the growing crisis"
   },
   {
    "title": "ヘグセスの自分だけの戦士を作る戦略にテストステロンを含めるべきでしょうか?",
@@ -243,26 +335,6 @@
    "title_orig": "Shares in UK defence groups rise on hopes Healey will boost military spending"
   },
   {
-   "title": "スペースX株はこれまでで最高の日の一つに向けて、残忍な連敗を解消しそうだ",
-   "link": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories",
-   "summary": "さらに、投資家たちは、内部関係者がいつ自社株の投げ売りを開始する可能性があるかを知ったばかりだ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T01:44:00+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX’s stock looks to snap brutal losing streak as it heads for one of its best days yet"
-  },
-  {
-   "title": "マイクロソフトは株価を50％上昇させる可能性のある3つの秘密兵器を持っているとアナリストが語る",
-   "link": "https://www.marketwatch.com/story/microsoft-has-3-secret-weapons-that-could-drive-its-stock-50-higher-analyst-says-f1afb554?mod=mw_rss_topstories",
-   "summary": "モルガン・スタンレーによると、ウォール街はマイクロソフトのAI戦略を見誤っているという。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T01:25:00+09:00",
-   "lang": "en",
-   "title_orig": "Microsoft has 3 secret weapons that could drive its stock 50% higher, analyst says"
-  },
-  {
    "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-22bed26b?mod=rss_markets_main",
    "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、サイバーセキュリティ サービス、ノースロップ グラマン、ビットコインなどに関する洞察を見つけてください。",
@@ -279,16 +351,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-22T01:15:00+09:00"
-  },
-  {
-   "title": "IEA、イラン紛争激化によるエネルギー供給へのリスクを警告",
-   "link": "https://www.ft.com/content/8d98a654-3ccb-4efc-b0f5-50301ac35a18?syn-25a6b1a6=1",
-   "summary": "政府間機関は「現状に満足する余地はない」と述べ、精製製品の逼迫を指摘",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-22T01:05:59+09:00",
-   "lang": "en",
-   "title_orig": "IEA warns of risk to energy supplies from escalation of Iran conflict"
   },
   {
    "title": "アメリカで最も生産量の多い油田は天然ガス問題を抱えている",
@@ -327,24 +389,14 @@
    "title_orig": "Turkish opposition leader to create breakaway party to take on Erdoğan"
   },
   {
-   "title": "リヴァプールFCオーナー、少数株式をミタル一族が支援するコンソーシアムに売却する交渉中",
-   "link": "https://www.ft.com/content/c98495e5-ad15-498a-ab3f-9d3d72341975?syn-25a6b1a6=1",
-   "summary": "合意によりイングランド・プレミアリーグのチーム価値は60億ドル以上となる",
+   "title": "バーナム、高額な所得税控除の増額から撤退",
+   "link": "https://www.ft.com/content/bfb81988-c973-48cf-babc-a0c65e2814c5?syn-25a6b1a6=1",
+   "summary": "新首相は月曜日の就任前に個人手当1万2570ポンドの増額を検討していた",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-07-22T00:36:00+09:00",
+   "published": "2026-07-22T00:25:02+09:00",
    "lang": "en",
-   "title_orig": "Liverpool FC owner in talks to sell minority stake to Mittal family-backed consortium"
-  },
-  {
-   "title": "イーロン・マスク氏、空売り業者は生き残れないと警告、スペースXに対する賭けは浮動株の32％に拡大",
-   "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
-   "summary": "S3によると、スペースX株は現在約2億600万株が空売りされており、これは同社の上場株の約32％に相当する。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-22T00:35:59+09:00",
-   "lang": "en",
-   "title_orig": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive"
+   "title_orig": "Burnham backs away from costly increase to income tax allowance"
   },
   {
    "title": "円下落、1ドル163円台　39年ぶり円安水準　中東情勢の悪化懸念",
@@ -379,14 +431,12 @@
    "published": "2026-07-22T00:00:00+09:00"
   },
   {
-   "title": "米国とイランの攻撃、輸送リスクで石油2.5％上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-hopes-of-new-u-s-iran-ceasefire-892b1c0a?mod=rss_markets_main",
-   "summary": "米国とイランの間の新たな攻撃とイエメンのフーシ派による海上封鎖の脅威により、ブレント原油価格が最高値を超えたため、原油価格は2.5％以上上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T23:49:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Gains 2.5% on U.S.-Iran Attacks, Shipping Risks"
+   "title": "紅海でサウジ産原油タンカー2隻がＵターン、フーシ派の警告受け - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sLTItdFkyQk5ZM3AxSlNURlptbm10enViSUR3TnE1MDI2bTBLVTkwSWtBUVNqaDJSTUhrV0tnTDEwbWdfN2tud3hHZjQyclhjR3hGMUg2UE1HUVp6WnM3WXd0UUNyQkE1bUI3TkdONXljMDQ4a0U1Q21n?oc=5",
+   "summary": "紅海でサウジ産原油タンカー2隻がＵターン、フーシ派の警告受け&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-21T23:52:58+09:00"
   },
   {
    "title": "米国とイランの戦争が再び激化すると、株式市場と経済のこれらの部分が影響を受ける可能性がある",
@@ -423,16 +473,6 @@
    "source": "時事通信",
    "category": "報道機関",
    "published": "2026-07-21T22:37:00+09:00"
-  },
-  {
-   "title": "緊張にもかかわらず中東和平の期待が残る中、財務省利回り、ドルは安定",
-   "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-a002ad06?mod=rss_markets_main",
-   "summary": "米国とイランの外交交渉が復活し、停戦が成立するのではないかとの期待を背景に、１０年米国債利回りは安定した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T22:25:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields, Dollar Steady as Mideast Peace Hopes Linger Despite Tension"
   },
   {
    "title": "北海道新幹線延伸工事で不正3件　受注企業、コンクリート品質試験",
@@ -501,6 +541,22 @@
    "published": "2026-07-21T20:00:00+09:00"
   },
   {
+   "title": "衆院議員資産、平均３２８２万円　自民・逢沢氏が最多８億円弱―資産公開",
+   "link": "https://www.jiji.com/jc/article?k=2026072100355&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-21T19:56:00+09:00"
+  },
+  {
+   "title": "党首の資産トップは維新・藤田氏１４１８万円　高市首相は２位１１４３万円―資産公開",
+   "link": "https://www.jiji.com/jc/article?k=2026072100356&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-21T19:43:00+09:00"
+  },
+  {
    "title": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
    "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
    "summary": "政府は21日、高市政権として初めての「骨太の方針」を決定しました。「強い経済」の実現に向け、新たな経済財政運営への抜本的な転換を図る方針を示したうえで、財政運営の目標として債務残高の対GDP比を安定的に低下させることを中核に位置づけています。",
@@ -565,6 +621,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-21T18:31:34+09:00"
+  },
+  {
+   "title": "明治ＨＤ、中国の乳製品事業を現地企業に売却 市場の変化で低迷 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRdkFuZXZDSjVTSkUtWkFlY2pZQ3prVFhqdm1oYjBfRks3TzJRbloyRmNNYk5fY0dwMlVFb1VTMnlHaXd0bTRoZ0l0akRUcV96dC1pclYzTnRCVHZpMVYzWWdjSDItLXRNYU1wZ29sWEtvOHNTQ3c?oc=5",
+   "summary": "明治ＨＤ、中国の乳製品事業を現地企業に売却 市場の変化で低迷&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-21T18:26:51+09:00"
   },
   {
    "title": "ニデック、株主からの提訴請求を受領　過去の違法配当の責任めぐり",
@@ -687,6 +751,14 @@
    "published": "2026-07-21T16:16:24+09:00"
   },
   {
+   "title": "英財政赤字、6月33％減 4─6月も前年下回る - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QOFVwMVV3RHk0dDliTmIzMlRVVDlBMmpSaWhMZXlSN2o0QlhQcVUzaEd3UjBtNk1RMWE3Vkwyck82eER4Unl3ZE01a3ZacEFhY1lXZW1wUUJqYlN6QXNmdFN1RUNGS0lVUW9zU0l1SHpfWG40UnZEVA?oc=5",
+   "summary": "英財政赤字、6月33％減 4─6月も前年下回る&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-21T16:07:43+09:00"
+  },
+  {
    "title": "日経平均は大幅反発、6万6000円回復 ＡＩ株に買い戻し - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQekVqTl80aDJMNkVJQzhFbk9qWmNRYzdteGVaZkZVdG1OT18yM3lzMEVHdGVQQzdfd1duS0pmcm5SUjNWcVR4M0M0NlhJSTIyNDg5dFFxbS1aa0FqbWpkUlFCeHlZc1pQT3M1QWsySW1keGl3aGNpRENHeUxKV1pWbw?oc=5",
    "summary": "日経平均は大幅反発、6万6000円回復 ＡＩ株に買い戻し&nbsp;&nbsp;ロイター",
@@ -701,6 +773,14 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-21T15:30:00+09:00"
+  },
+  {
+   "title": "焦点：ＧＰＩＦ運用の国内回帰に脚光、脱国債から10年余 介入の見方も - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rN290Q1FNdTVkMnVQWjlGbjRSR3ZCSEZSM29ZSEY2cHFWcGR1V2xlSXV6N0xWTDgwV2tqc2ZRemMtN09OdkFrM2RqbU9xTUdNWEF3Wnlaa1ROT2xCRjkxekNzaWVodmVibGdTdUhSSGpWSWdsN3N3cQ?oc=5",
+   "summary": "焦点：ＧＰＩＦ運用の国内回帰に脚光、脱国債から10年余 介入の見方も&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-21T15:21:00+09:00"
   },
   {
    "title": "マドンナがW杯で魅せた健在ぶり､息子のような恋人も…実は大病乗り越え､ワークアウトも控えめの\"67歳のリアル\" | ライフ | 東洋経済オンライン",
@@ -999,28 +1079,12 @@
    "published": "2026-07-21T09:32:00+09:00"
   },
   {
-   "title": "｢無駄な仕事を早く終わらせると､損をする｣…優秀な会社員たちが\"業務効率化\"をしない納得の理由 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951616?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "どれだけ効率化のアイデアを提案しても､なぜ無駄な仕事は組織からなくならないのか――。その背景には､現場と上層部の複雑な損得計算や評価の仕組み､利害関係が絡み合った\"組織の慣性\"があります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-21T09:30:00+09:00"
-  },
-  {
    "title": "国債金利情報(令和8年7月17日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-21T09:30:00+09:00"
-  },
-  {
-   "title": "【たった3分プレイするだけ】抑えがたい食欲が脳から消え去る《平成に大ブレイク》したお馴染みのゲームとは | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/950601?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "食べたい衝動は､意志の問題ではなく脳の仕組みに由来します。｢定番セット｣の事前決定､皿の大きさ､アルコールの選択——環境や習慣を味方につけることで無理なく食生活を変えられる秘訣とは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-21T09:00:00+09:00"
   },
   {
    "title": "オリエンタルランド株復調の兆し？　低迷脱出のカギは「値上げ」ではない",
@@ -1079,14 +1143,6 @@
    "published": "2026-07-21T06:45:42+09:00"
   },
   {
-   "title": "米国株式市場＝続落、イラン情勢とハイテク決算を注視 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzc4Tlhfb3BFcmttSE9yX1Q4RmptUENIOUlWTmJ2WU82cWVUS0VpQlVRRjN0SVl6VkxYMkVLWjlxNURxQTNKdnllXzZHRWlpb0REaXVxamZ2bV9IQ2JTbkNkeEhqWDdOU05CTE0wWV9WMXY3UGgyYUFDQWhrX1NCcw?oc=5",
-   "summary": "米国株式市場＝続落、イラン情勢とハイテク決算を注視&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-21T06:19:30+09:00"
-  },
-  {
    "title": "セミセルフレジが増えても、なぜか人件費は減らない？　設備投資を空回りさせる「シフトの落とし穴」",
    "link": "https://www.itmedia.co.jp/business/articles/2607/21/news006.html",
    "summary": "セミセルフレジは有人レジと比較して作業効率は「1.5倍超」向上するとされています。しかし、実際の店舗運営でレジ人時生産性の削減効果が実際の数字よりも低くなるケースが多く見られます。なぜでしょうか？",
@@ -1123,14 +1179,6 @@
    "title_orig": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more"
   },
   {
-   "title": "米ガソリン価格再高騰、1ガロン4ドル突破 トランプ政権打撃に - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZaUwyT0JYbXBqN01pU3A0UDJydncwVTV4M2drV3I1RTZWQ21ORjVvZkNURWtnV3RvVmZHM085ZlFNS0lpVmEyaTRyMy1kYnVLeWhlTFR4N0xMSG5qVElhekY2ZzRTS0J3VUE5blZNNXdvZUk3dE9YNw?oc=5",
-   "summary": "米ガソリン価格再高騰、1ガロン4ドル突破 トランプ政権打撃に&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-21T00:49:44+09:00"
-  },
-  {
    "title": "市場前に大きな動きをする銘柄: AMD、SpaceX、ドミノ・ピザ、アリババなど",
    "link": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-premarket-amd-spcx-dpz.html",
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
@@ -1141,36 +1189,12 @@
    "title_orig": "Stocks making the biggest moves premarket: AMD, SpaceX, Domino's Pizza, Alibaba & more"
   },
   {
-   "title": "韓国株、最高値から1カ月で28％超下落 ＡＩトレード手じまい - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sVkljeHdrR2NXUkJRZDVmdnZtZzJsdG13emZuUnRkSnJHQWxaVjBPSUNDMFB4elVwWFp1QU83X3MxQ1dXOEV0dUhBb09uWTVBcWNjYkZUQVpVVWZYM25GbFA5NWpRNUdmRE1UT2hYanZNRUNDOVcwNw?oc=5",
-   "summary": "韓国株、最高値から1カ月で28％超下落 ＡＩトレード手じまい&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-20T17:35:45+09:00"
-  },
-  {
-   "title": "シティ、韓国株の投資判断を「中立」に引き下げ 乱高下受け - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODZHTW1MZUNtdjRLY19CQmFuemxucFpndmxaX0xUMlVyRy1OU3VfRXVHMUE1YWpoSkdjcjFxNHRPVFhZRG54OEZUcGlhRnZ3ODBIUm5yS3hNdzcwVmJYSTdzUU5CQW5hd2VwM2NVWTBiSjlyelpnMnBVaGh0MnFnTg?oc=5",
-   "summary": "シティ、韓国株の投資判断を「中立」に引き下げ 乱高下受け&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-20T15:39:00+09:00"
-  },
-  {
    "title": "なぜ象印は「象」をマークに選んだのか　タイガーとの競争とブランド戦略",
    "link": "https://www.itmedia.co.jp/business/articles/2607/20/news001.html",
    "summary": "象印はなぜ「象」をブランドマークに選んだのか。その背景には、競合タイガーとの市場競争と、家族的で温かい象のイメージを重ねた戦略があった。大阪の魔法瓶産業の中で育まれたブランド形成の歴史をひもとく。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-20T09:00:00+09:00"
-  },
-  {
-   "title": "NY原油市場 1バレル＝85ドル台に上昇 1か月ぶりの高値水準",
-   "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181071000.html",
-   "summary": "19日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝85ドル台に上昇しました。これは6月12日以来、およそ1か月ぶりの高値水準です。アメリカとイランの対立が激しくなるなか、エネルギー輸送の要衝であるホルムズ海峡の航行にも悪影響が及ぶとの懸念が広がっています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-20T08:02:43+09:00"
   },
   {
    "title": "「冷やしすぎないエアコン」がヒット　ダイキンの逆転発想",
