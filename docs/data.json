@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T21:48:52.299285+09:00",
+ "generated_at": "2026-07-21T23:52:57.926971+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -109,52 +109,200 @@
    "published": "2026-07-22T00:00:00+09:00"
   },
   {
+   "title": "米国とイランの攻撃、輸送リスクで石油2.5％上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-hopes-of-new-u-s-iran-ceasefire-892b1c0a?mod=rss_markets_main",
+   "summary": "米国とイランの間の新たな攻撃とイエメンのフーシ派による海上封鎖の脅威により、ブレント原油価格が最高値を超えたため、原油価格は2.5％以上上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T23:49:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Gains 2.5% on U.S.-Iran Attacks, Shipping Risks"
+  },
+  {
+   "title": "米国とイランの戦争が再び激化すると、株式市場と経済のこれらの部分が影響を受ける可能性がある",
+   "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+   "summary": "投資家やエコノミストは、最近の敵対行為が経済全体にとって何を意味するのかを議論している。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-21T23:37:08+09:00",
+   "lang": "en",
+   "title_orig": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected"
+  },
+  {
+   "title": "リヴァプールFCオーナー、少数株式をミタル一族が支援するコンソーシアムに売却する交渉中",
+   "link": "https://www.ft.com/content/c98495e5-ad15-498a-ab3f-9d3d72341975?syn-25a6b1a6=1",
+   "summary": "合意によりイングランド・プレミアリーグのチーム価値は60億ドル以上となる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-21T23:35:54+09:00",
+   "lang": "en",
+   "title_orig": "Liverpool FC owner in talks to sell minority stake to Mittal family-backed consortium"
+  },
+  {
+   "title": "テスラの収益は順調に推移しており、投資家はこの大きな論争に決着をつけようとしているだろう",
+   "link": "https://www.marketwatch.com/story/tesla-earnings-are-on-deck-and-investors-will-be-looking-to-settle-this-major-debate-f5a11d0e?mod=mw_rss_topstories",
+   "summary": "ウォール街はテスラがロボタクシーとオプティマスの計画を達成できるかどうかを見極めたいと考えている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T23:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Tesla earnings are on deck, and investors will be looking to settle this major debate"
+  },
+  {
+   "title": "イーロン・マスク氏、空売り業者は生き残れないと警告、スペースXに対する賭けは浮動株の32％に拡大",
+   "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
+   "summary": "S3によると、スペースX株は現在約2億600万株が空売りされており、これは同社の上場株の約32％に相当する。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-21T23:28:52+09:00",
+   "lang": "en",
+   "title_orig": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive"
+  },
+  {
+   "title": "AI貿易の回復で米国先物が上昇",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-as-ai-trade-bounces-back-d120b6a2?mod=rss_markets_main",
+   "summary": "人工知能株が再び楽観的な波に乗り、アジアと欧州の指数を押し上げる中、米国株先物相場は急騰した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T23:16:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Futures Higher as AI Trade Bounces Back"
+  },
+  {
+   "title": "「2,000 ドルの免責金額があります」: ハーツのレンタカーのフロントガラスにひびが入ったと報告しました。彼らは私に請求できますか?",
+   "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+   "summary": "「フロントガラスに石が当たる音を聞いたことはありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T23:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?"
+  },
+  {
+   "title": "娘が夢の大学に進学できるように、退職後の貯蓄120万ドルのうち30万ドルを使いますか?",
+   "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+   "summary": "「私たちの娘は、GPA 3.94 で、上位にランクされている競技ソフトボール投手です。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T23:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?"
+  },
+  {
+   "title": "Stocktwitsの共同創設者は20％下落する前にチップ株を手放した。彼が今どこにお金をつぎ込んでいるのか。",
+   "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
+   "summary": "Stocktwitsのハワード・リンゾン氏はマーケットウォッチに対し、チップの下落を回避することについて語り、そこにチャンスと「経済の退化」があると考えている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T22:50:00+09:00",
+   "lang": "en",
+   "title_orig": "The co-founder of Stocktwits dumped chip stocks before a 20% slide. Where he’s putting his money now."
+  },
+  {
+   "title": "トレーダーらが米国とイランの対立を考慮し、アジア通貨は統合",
+   "link": "https://www.wsj.com/finance/currencies/new-trump-tariffs-threaten-to-further-strain-cad-3b0f1e73?mod=rss_markets_main",
+   "summary": "トレーダーらが米国とイランの紛争を巡るさまざまなシグナルを検討するなか、アジア通貨は対ドルで堅調となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T22:50:00+09:00",
+   "lang": "en",
+   "title_orig": "Asian Currencies Consolidate as Traders Weigh U.S.-Iran Conflict"
+  },
+  {
+   "title": "細かい管理をする上司にうまく対処する方法",
+   "link": "https://www.marketwatch.com/story/how-to-successfully-deal-with-a-micromanaging-boss-d9151b50?mod=mw_rss_topstories",
+   "summary": "さらに: Don't Short Yourself には興味深いニュースがあります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T22:49:00+09:00",
+   "lang": "en",
+   "title_orig": "How to successfully deal with a micromanaging boss"
+  },
+  {
+   "title": "もし株式市場のタイミングを計るのが簡単だったら、イラン戦争がそれを証明しただろう。それは逆に行われます。",
+   "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+   "summary": "積極的に株を選ぶ人は、ほぼ常に市場全体に対して負けます。単純な計算には勝てません。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T22:38:00+09:00",
+   "lang": "en",
+   "title_orig": "If timing the stock market were easy, the Iran war would have proven it. It’s done the opposite."
+  },
+  {
+   "title": "サイクロスポラの発生に関する調査が続く中、アメリカ人はレタスやサラダを食べない",
+   "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
+   "summary": "カバ、チポトレ、スイートグリーンなどのサラダチェーンの株価は圧迫されている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T22:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues"
+  },
+  {
+   "title": "「狂騒の 20 年代」へようこそ: この決算シーズンがどのようにして強気市場を堅調に保つのかを説明します",
+   "link": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+   "summary": "ある収益専門家によると、AI取引を継続し、テクノロジー株を過剰に重視するという。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-21T22:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Welcome to the ‘Roaring ’20s’: Here’s how this earnings season will keep the bull market strong"
+  },
+  {
+   "title": "緊張にもかかわらず中東和平の期待が残る中、財務省利回り、ドルは安定",
+   "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-a002ad06?mod=rss_markets_main",
+   "summary": "米国とイランの外交交渉が復活し、停戦が成立するのではないかとの期待を背景に、１０年米国債利回りは安定した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T22:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields, Dollar Steady as Mideast Peace Hopes Linger Despite Tension"
+  },
+  {
+   "title": "北海道新幹線延伸工事で不正3件　受注企業、コンクリート品質試験",
+   "link": "https://www.asahi.com/articles/ASV7P46RCV7PULFA028M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-21T22:10:15+09:00"
+  },
+  {
+   "title": "市場前に大きな動きをする銘柄: ゼネラルモーターズ、3M、ノバルティス、ネビウスなど",
+   "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
+   "summary": "これらは、取引初期に最大の動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-21T22:09:44+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more"
+  },
+  {
+   "title": "ノルウェー石油基金、プロロジスとセグロの建設的な提携交渉を促す",
+   "link": "https://www.wsj.com/business/deals/norway-oil-fund-urges-constructive-tie-up-talks-between-prologis-and-segro-0813b709?mod=rss_markets_main",
+   "summary": "ノルゲス銀行インベストメント・マネジメントは両社の長期株主として、統合の理論的根拠と私への提案を理解していると述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T22:06:00+09:00",
+   "lang": "en",
+   "title_orig": "Norway Oil Fund Urges Constructive Tie-Up Talks Between Prologis and Segro"
+  },
+  {
+   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
+   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-21T22:01:00+09:00",
+   "lang": "en",
+   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
+  },
+  {
    "title": "高市政権初の骨太方針 NW9広内キャスターが与野党幹部に聞く",
    "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181941000.html",
    "summary": "「『強い経済』の実現に向け抜本的な転換を図る」。高市政権として初めての「骨太の方針」が決定されました。一方、気になる食料品の消費税減税は来月上旬までにまとまるのか。日本経済はどうなるのか。自民党の小林政務調査会長と国民民主党の玉木代表にニュースウオッチ9の広内キャスターが聞きました。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-21T21:44:59+09:00"
-  },
-  {
-   "title": "末期患者が自ら命を絶つことが容易になってきています。法律の変化に伴って知っておくべきこと。",
-   "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
-   "summary": "死亡時医療扶助の資格を得るには、患者は 3 つの条件を満たさなければなりません。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T21:41:00+09:00",
-   "lang": "en",
-   "title_orig": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change."
-  },
-  {
-   "title": "退職後の医療費は 185,500 ドルかかる可能性がありますが、これには長期介護は含まれていません",
-   "link": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
-   "summary": "介護や慢性疾患の管理にかかる価格の上昇が、予測を押し上げる要因となった。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T21:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care"
-  },
-  {
-   "title": "アルファベットはデータセンターに記録的な資金を注ぎ込んでおり、それが報われているかどうかは収益を見れば分かるだろう",
-   "link": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_rss_topstories",
-   "summary": "アルファベットが水曜日に決算を発表する際、投資家はAI収益化の更なる兆候を探すことになるだろう。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T21:35:00+09:00",
-   "lang": "en",
-   "title_orig": "Alphabet is pouring record cash into data centers, and earnings will show whether that’s paying off"
-  },
-  {
-   "title": "ノボ ノルディスク、GLP-1治療薬を比較する広告をめぐってイーライリリーを訴訟",
-   "link": "https://www.marketwatch.com/story/novo-nordisk-sues-eli-lilly-over-ads-comparing-glp-1-medications-6b223080?mod=mw_rss_topstories",
-   "summary": "デンマークのノボ社は、米国に本拠を置くリリー社が自社の医薬品に関する最新の臨床情報を掲載していないと述べた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T21:27:00+09:00",
-   "lang": "en",
-   "title_orig": "Novo Nordisk sues Eli Lilly over ads comparing GLP-1 medications"
   },
   {
    "title": "ノボ ノルディスク、「意図的に虚偽の」減量薬広告でイーライリリーを訴訟",
@@ -167,52 +315,12 @@
    "title_orig": "Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads"
   },
   {
-   "title": "GMの株価は1年以上ぶりに売上高が増加し回復",
-   "link": "https://www.marketwatch.com/story/gms-stock-bounces-back-as-revenue-grows-for-the-first-time-in-over-a-year-d5d95804?mod=mw_rss_topstories",
-   "summary": "売上高が4四半期連続の減少から脱却するまでに成長する中、GMの株価は大幅な決算報告を受けて上昇した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T21:21:00+09:00",
-   "lang": "en",
-   "title_orig": "GM’s stock bounces back as revenue grows for the first time in over a year"
-  },
-  {
-   "title": "米国とイランの戦争が再び激化すると、株式市場と経済のこれらの部分が影響を受ける可能性がある",
-   "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-   "summary": "投資家やエコノミストは、最近の敵対行為が経済全体にとって何を意味するのかを議論している。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-21T20:56:14+09:00",
-   "lang": "en",
-   "title_orig": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected"
-  },
-  {
-   "title": "なぜガソリン価格が原油価格よりも速く上昇しているのでしょうか? 「亀裂」のせいにしてください。",
-   "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-   "summary": "「クラックスプレッド」として知られる、ガソリンと原油のバレル価格の差が急激に拡大した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T20:53:00+09:00",
-   "lang": "en",
-   "title_orig": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’"
-  },
-  {
    "title": "勤務後休憩1hで乗務 誤って駅通過",
    "link": "https://news.yahoo.co.jp/pickup/6588812?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-21T20:51:10+09:00"
-  },
-  {
-   "title": "Stocktwitsの共同創設者は20％下落する前にチップ株を手放した。彼が今どこにお金をつぎ込んでいるのか。",
-   "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
-   "summary": "Stocktwitsのハワード・リンゾン氏はマーケットウォッチに対し、チップの下落を回避することについて語り、そこにチャンスと「経済の退化」があると考えている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T20:47:00+09:00",
-   "lang": "en",
-   "title_orig": "The co-founder of Stocktwits dumped chip stocks before a 20% slide. Where he’s putting his money now."
   },
   {
    "title": "ゴールドエッジが高く、物理的な需要が引き続きサポート",
@@ -225,22 +333,20 @@
    "title_orig": "Gold Edges Higher; Physical Demand Continues to Support"
   },
   {
-   "title": "市場前に大きな動きをする銘柄: ゼネラルモーターズ、3M、ノバルティス、ネビウスなど",
-   "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
-   "summary": "これらは、取引初期に最大の動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-21T20:38:25+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more"
-  },
-  {
    "title": "カンロ 健康のど飴など値上げへ",
    "link": "https://news.yahoo.co.jp/pickup/6588806?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-21T20:36:09+09:00"
+  },
+  {
+   "title": "米国でガソリン１カ月ぶり高値　インフレ警戒、年内利上げも",
+   "link": "https://www.jiji.com/jc/article?k=2026072100643&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-21T20:33:00+09:00"
   },
   {
    "title": "なぜ世界はアメリカより中国を信頼するのか",
@@ -271,16 +377,6 @@
    "title_orig": "Adnoc to Proceed With $6.2 Billion Abu Dhabi Gas Project"
   },
   {
-   "title": "娘が夢の大学に進学できるように、退職後の貯蓄120万ドルのうち30万ドルを使いますか?",
-   "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-   "summary": "「私たちの娘は、GPA 3.94 で、上位にランクされている競技ソフトボール投手です。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-21T20:15:00+09:00",
-   "lang": "en",
-   "title_orig": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?"
-  },
-  {
    "title": "政府とアジア開発銀行 水道インフラ支援で基金を創設",
    "link": "http://www3.nhk.or.jp/news/html/20260721/k10015182011000.html",
    "summary": "アジア太平洋地域の水道インフラの強じん化を後押ししようと、政府はADB＝アジア開発銀行と新たに基金を設け、1000万ドル＝日本円で16億円余りを拠出することになりました。",
@@ -297,24 +393,12 @@
    "published": "2026-07-21T20:00:00+09:00"
   },
   {
-   "title": "AI貿易の回復で米国先物が上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-as-ai-trade-bounces-back-d120b6a2?mod=rss_markets_main",
-   "summary": "人工知能株が再び楽観的な波に乗り、アジアと欧州の指数を押し上げる中、米国株先物相場は急騰した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T19:39:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Futures Higher as AI Trade Bounces Back"
-  },
-  {
-   "title": "株式市場の表面下で何か奇妙なことが起こっている",
-   "link": "https://www.wsj.com/finance/stocks/something-weird-is-happening-beneath-the-stock-markets-surface-e8a47ac4?mod=rss_markets_main",
-   "summary": "さらに、高額な関税が戻ってきました。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T19:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Something Weird Is Happening Beneath the Stock Market’s Surface"
+   "title": "党首の資産トップは維新・藤田氏１４１８万円　高市首相は２位１１４３万円―資産公開",
+   "link": "https://www.jiji.com/jc/article?k=2026072100356&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-21T19:43:00+09:00"
   },
   {
    "title": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
@@ -371,16 +455,6 @@
    "title_orig": "Berenberg discovers accounting manipulation designed to flatter profits"
   },
   {
-   "title": "トレーダーらが米国とイランの対立を考慮し、アジア通貨は統合",
-   "link": "https://www.wsj.com/finance/currencies/new-trump-tariffs-threaten-to-further-strain-cad-3b0f1e73?mod=rss_markets_main",
-   "summary": "トレーダーらが米国とイランの紛争を巡るさまざまなシグナルを検討するなか、アジア通貨は対ドルで堅調となった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T18:48:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Currencies Consolidate as Traders Weigh U.S.-Iran Conflict"
-  },
-  {
    "title": "赤字だった純喫茶 今は人気有名店",
    "link": "https://news.yahoo.co.jp/pickup/6588796?source=rss",
    "summary": "",
@@ -405,32 +479,12 @@
    "published": "2026-07-21T18:31:34+09:00"
   },
   {
-   "title": "金価格は急落した。押し目を買うのは理にかなっています。",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-prices-have-tanked-buying-the-dip-makes-sense-4db80abc?mod=rss_markets_main",
-   "summary": "イラン紛争が長引く中、貴金属は依然として大きなリスクを回避できる。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Prices Have Tanked. Buying the Dip Makes Sense."
-  },
-  {
    "title": "ニデック、株主からの提訴請求を受領　過去の違法配当の責任めぐり",
    "link": "https://www.asahi.com/articles/ASV7P315JV7PPLFA00GM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-21T18:18:54+09:00"
-  },
-  {
-   "title": "今年これまでインド最大のIPOを受けてSBIファンズマネジメント株が上昇",
-   "link": "https://www.wsj.com/finance/investing/sbi-funds-management-shares-rise-after-indias-largest-ipo-so-far-this-year-03248513?mod=rss_markets_main",
-   "summary": "SBIファンズ・マネジメントの株価は、同社の10億ドル規模の新規株式公開を受け、ムンバイでの取引初日に上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T18:08:00+09:00",
-   "lang": "en",
-   "title_orig": "SBI Funds Management Shares Rise After India’s Largest IPO So Far This Year"
   },
   {
    "title": "子どもだけで飲食店利用 賛否の声",
@@ -455,16 +509,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-21T17:33:47+09:00"
-  },
-  {
-   "title": "今日の株式市場: チップ株が先物相場をリード",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026?mod=rss_markets_main",
-   "summary": "中東での戦闘激化にもかかわらず原油は下落",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-21T17:19:44+09:00",
-   "lang": "en",
-   "title_orig": "Stock Market Today: Chip Stocks Lead Futures Higher"
   },
   {
    "title": "下ろされた「健全化の旗」　高市政権で転換した財政運営　骨太の方針",
@@ -553,6 +597,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-21T16:16:24+09:00"
+  },
+  {
+   "title": "日経平均は大幅反発、6万6000円回復 ＡＩ株に買い戻し - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQekVqTl80aDJMNkVJQzhFbk9qWmNRYzdteGVaZkZVdG1OT18yM3lzMEVHdGVQQzdfd1duS0pmcm5SUjNWcVR4M0M0NlhJSTIyNDg5dFFxbS1aa0FqbWpkUlFCeHlZc1pQT3M1QWsySW1keGl3aGNpRENHeUxKV1pWbw?oc=5",
+   "summary": "日経平均は大幅反発、6万6000円回復 ＡＩ株に買い戻し&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-21T15:56:00+09:00"
   },
   {
    "title": "大手メーカーHOYAが下請法違反　金型などを業者に無償保管させる",
@@ -667,16 +719,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-21T13:05:16+09:00"
-  },
-  {
-   "title": "トム・ヘイズ氏、UBSの「プロジェクト・チョコレート」捜査は最初から標的にされたことを示していると語る",
-   "link": "https://www.ft.com/content/35bc9320-0232-4d9e-95f4-d81d2e36d6fd?syn-25a6b1a6=1",
-   "summary": "「トミー・チョコレート」の愛称で知られるトレーダー、銀行の金利操作調査が自分に不利だったと主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-21T13:00:30+09:00",
-   "lang": "en",
-   "title_orig": "Tom Hayes says UBS’s ‘Project Chocolate’ probe shows he was targeted from outset"
   },
   {
    "title": "アメリカの農業大国の崩壊",
@@ -819,14 +861,6 @@
    "published": "2026-07-21T11:30:00+09:00"
   },
   {
-   "title": "消費減税向け天丼？てんや開発へ　持ち帰りでもサクサク維持の新商品",
-   "link": "https://www.asahi.com/articles/ASV7K2RPQV7KULFA02TM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-21T11:30:00+09:00"
-  },
-  {
    "title": "知識の量でもIQでもない…｢バカ｣と｢頭がいい人｣の違い ドラゴン桜でも語られている定義を東大合格者が解説 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951807?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢頭がいい人｣とはどんな人なのか——その本質は知識やIQではなく…？",
@@ -891,6 +925,14 @@
    "published": "2026-07-21T10:00:00+09:00"
   },
   {
+   "title": "英国際航空ショー開幕、商用機の大型受注発表 防衛企業は新製品アピール - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aZF9Yc1pfOUZ5RkNrYlhiNnN5RnpaSHdDcGpFak5RTFNyeG1IX2Y2T2djZWhtelVxdlFNVHdjVTVacGxPZnZTVUNyaDUtWXRwMnItLW5JNXRONXFfSlJYV09LcXRBd1NTVnhuRVFvc1ZTV3kyMWx4Yg?oc=5",
+   "summary": "英国際航空ショー開幕、商用機の大型受注発表 防衛企業は新製品アピール&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-21T09:59:00+09:00"
+  },
+  {
    "title": "「逆転劇」起こるか　“先駆者”PayPalが後発Stripeから買収提案　その裏にある、決済インフラ「主役交代」のシナリオ",
    "link": "https://www.itmedia.co.jp/business/articles/2607/21/news053.html",
    "summary": "決済スタートアップの米Stripeと、米投資ファンドのAdvent Internationalが、決済の“元祖”PayPalの買収を提案した。この買収の背景をひもとくと、決済ビジネスの価値が変化している、納得のシナリオが見えてきた。",
@@ -937,14 +979,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-21T08:30:00+09:00"
-  },
-  {
-   "title": "湾岸諸国からの原油輸出、7月前半は前月比16％増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWW1yeXA3UkEyYU9YS0UtZE9PR0l5dXJpYk9xbFBDcnRSUmlVQ3ZYSEhwcmVKUkFkMW5RaUlaaXlDZFc2RkthRmk1bUpQTTJuNmV3eDMta2UySURmZGVDb0ZXMU03MGE4SG5GUXc5cTFHV2V0X29qY0pxcGlPbGJLdHp3?oc=5",
-   "summary": "湾岸諸国からの原油輸出、7月前半は前月比16％増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-21T08:08:12+09:00"
   },
   {
    "title": "｢洗濯物がリビングに散乱｣悲惨な自宅を救った\"超身近な便利グッズ\"…漫画『私だけが頑張る片付けはもうごめんだ』第4話 | ライフ | 東洋経済オンライン",
@@ -1073,16 +1107,6 @@
    "published": "2026-07-20T21:41:50+09:00",
    "lang": "en",
    "title_orig": "Coinbase trading results may fall short of expectations, according to prediction markets"
-  },
-  {
-   "title": "中国自動車市場、販売20％減で2021年以来最悪の年へ",
-   "link": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
-   "summary": "中国の自動車に対する消費者の需要は、2025年に2,370万台という過去最高の販売台数を記録した後、低迷する。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-20T17:43:40+09:00",
-   "lang": "en",
-   "title_orig": "China's car market heads for worst year since 2021 as sales plunge 20%"
   },
   {
    "title": "韓国株、最高値から1カ月で28％超下落 ＡＩトレード手じまい - ロイター",
