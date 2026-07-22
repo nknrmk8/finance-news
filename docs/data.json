@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T02:45:39.502349+09:00",
+ "generated_at": "2026-07-23T03:53:18.969288+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,66 @@
  "errors": [],
  "items": [
   {
+   "title": "金はドル軟化とテクニカル買いで利益を拡大",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-u-s-iran-deal-fe301cd7?mod=rss_markets_main",
+   "summary": "投資家が中東情勢の動向を注視するなか、米ドル安とテクニカルな買いに支えられ、金価格は上昇幅を広げた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T03:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Extends Gains on Softer Dollar, Technical Buying"
+  },
+  {
+   "title": "AI株の上昇は主要テクノロジー企業の主要利益を前に勢いを失う",
+   "link": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-ahead-of-key-big-tech-earnings-ac4b72ac?mod=rss_markets_main",
+   "summary": "AI企業に対する投資家の見通しを形作ることになる決算を前にハイテク株の上昇が勢いを失い、米国株先物は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T03:24:00+09:00",
+   "lang": "en",
+   "title_orig": "AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings"
+  },
+  {
+   "title": "この「本質的価値」を重視した小型株戦略は、綿密な調査から恩恵を受け続けています",
+   "link": "https://www.marketwatch.com/story/this-intrinsic-value-small-cap-stock-strategy-keeps-benefiting-from-deep-research-56e868a4?mod=mw_rss_topstories",
+   "summary": "ジョセフ・A・ガベリは、企業の割引評価と追加の「触媒」を組み合わせて株価を急騰させるアプローチについて説明しました。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T03:20:00+09:00",
+   "lang": "en",
+   "title_orig": "This ‘intrinsic value’ small-cap stock strategy keeps benefiting from deep research"
+  },
+  {
+   "title": "サイクロスポラの発生に関する調査が続く中、アメリカ人はレタスやサラダを食べない",
+   "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
+   "summary": "カバ、チポトレ、スイートグリーンなどのレストランチェーンの株価は圧迫されている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T03:10:00+09:00",
+   "lang": "en",
+   "title_orig": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues"
+  },
+  {
+   "title": "「2,000 ドルの免責金額があります」: ハーツのレンタカーのフロントガラスにひびが入ったと報告しました。彼らは私に請求できますか?",
+   "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+   "summary": "「フロントガラスに石が当たる音を聞いたことはありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T03:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?"
+  },
+  {
+   "title": "インテルの収益は、低迷する PC 市場と対立する、激化する AI 需要に影響を与える",
+   "link": "https://www.marketwatch.com/story/intel-earnings-will-pit-red-hot-ai-demand-against-a-sluggish-pc-market-6b9984fe?mod=mw_rss_topstories",
+   "summary": "インテルの株価は6月の高値から25％下落したが、2026年になっても依然として顕著な上昇率を維持している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T02:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Intel earnings will pit red-hot AI demand against a sluggish PC market"
+  },
+  {
    "title": "正午に最も大きな値動きをした銘柄: スーパー マイクロ コンピューター、EQT、AAR、チャブ、ペガシステムズなど",
    "link": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-midday-smci-eqt-air-cb-pega.html",
    "summary": "これらは正午に最大の値動きを記録した銘柄です。",
@@ -69,6 +129,16 @@
    "published": "2026-07-23T02:25:55+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves midday: Super Micro Computer, EQT, AAR, Chubb, Pegasystems & more"
+  },
+  {
+   "title": "英国教育長官、オックスフォード参入に関する誤解を招く主張で告発",
+   "link": "https://www.ft.com/content/aa6809e5-8963-433a-8458-61abe1526087?syn-25a6b1a6=1",
+   "summary": "ザベリアン大学の元生徒らは、同学年でエリート大学に進学したのはルーシー・パウエルさんだけではなかったと語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-23T02:23:00+09:00",
+   "lang": "en",
+   "title_orig": "UK education secretary accused of misleading claim about Oxford entry"
   },
   {
    "title": "世界経済は突然、3つの面でエネルギーの奪い合いと戦っている",
@@ -111,16 +181,6 @@
    "title_orig": "Health Care Roundup: Market Talk"
   },
   {
-   "title": "AI株の上昇は主要テクノロジー企業の主要利益を前に勢いを失う",
-   "link": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-ahead-of-key-big-tech-earnings-ac4b72ac?mod=rss_markets_main",
-   "summary": "AI企業に対する投資家の見通しを形作ることになる決算を前にハイテク株の上昇が勢いを失い、米国株先物は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T01:35:00+09:00",
-   "lang": "en",
-   "title_orig": "AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings"
-  },
-  {
    "title": "市場に勝つことができますか？おそらくこの戦略で。",
    "link": "https://www.marketwatch.com/story/this-could-be-the-right-time-to-buy-a-momentum-fund-05e7a1fa?mod=mw_rss_topstories",
    "summary": "今はモメンタムファンドを購入するのに最適な時期かもしれない",
@@ -139,26 +199,6 @@
    "published": "2026-07-23T01:31:00+09:00",
    "lang": "en",
    "title_orig": "This is the ideal retirement strategy if you want to keep your healthcare costs down"
-  },
-  {
-   "title": "娘が夢の大学に進学できるように、退職後の貯蓄120万ドルのうち30万ドルを使いますか?",
-   "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-   "summary": "「私たちの娘は、GPA 3.94 で、上位にランクされている競技ソフトボール投手です。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T01:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?"
-  },
-  {
-   "title": "イラン情勢沈静化の期待が薄れ、原油価格が6週間ぶりの高値に上昇",
-   "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-   "summary": "イランでの11夜連続の攻撃を受けて、水曜日、ウェスト・テキサス・インターミディエイトとブレント原油の前月契約はほぼ4%上昇した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T01:28:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish"
   },
   {
    "title": "自動車と交通機関のまとめ: マーケットトーク",
@@ -181,16 +221,6 @@
    "title_orig": "Financial Services Roundup: Market Talk"
   },
   {
-   "title": "パキスタン、埋蔵金増強のため米国に100億ドルの融資を求める",
-   "link": "https://www.ft.com/content/f0115d12-35b8-4dc2-9bf1-748203ac4331?syn-25a6b1a6=1",
-   "summary": "国はワシントンとテヘランの間を仲介する役割から利益を得ようとしている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-23T01:13:17+09:00",
-   "lang": "en",
-   "title_orig": "Pakistan seeks $10bn US facility to shore up reserves"
-  },
-  {
    "title": "意見 |貿易赤字錯乱症候群",
    "link": "https://www.wsj.com/opinion/trade-deficit-derangement-syndrome-fe3f37d6?mod=rss_markets_main",
    "summary": "トランプ氏はこの問題に苦しむ最初の人物ではなく、2026年に「バランス」を求めるのは1776年と同じくらい愚かだ。",
@@ -211,26 +241,6 @@
    "title_orig": "European gas prices approach Iran war highs as traders fret over winter supplies"
   },
   {
-   "title": "2番目の夫と私には、以前の交際相手との間にできた子供たちがいます。私が先に死んだ場合、私の家は彼か子供たちのところに行くべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
-   "summary": "「私たちは結婚前に持っていたお金で購入した家に住んでいます。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T01:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?"
-  },
-  {
-   "title": "私は必ず早めに社会保障を請求します。なぜ部屋の中でゾウについて話す人がこれほど少ないのでしょうか?",
-   "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-   "summary": "「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T00:45:00+09:00",
-   "lang": "en",
-   "title_orig": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
-  },
-  {
    "title": "カルシ、中間選挙に先立って予測市場の選挙ハブを立ち上げる",
    "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
    "summary": "同社は、このページはイベント契約の閲覧者に中間選挙に対する投機筋の見通しを確認する中心的な場所を提供すると述べた。",
@@ -249,16 +259,6 @@
    "published": "2026-07-23T00:22:00+09:00",
    "lang": "en",
    "title_orig": "U.S. Commercial Crude Oil Stockpiles Post Weekly Build"
-  },
-  {
-   "title": "金はドル軟化とテクニカル買いで利益を拡大",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-u-s-iran-deal-fe301cd7?mod=rss_markets_main",
-   "summary": "投資家が中東情勢の動向を注視するなか、米ドル安とテクニカルな買いに支えられ、金価格は上昇幅を広げた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-22T23:53:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Extends Gains on Softer Dollar, Technical Buying"
   },
   {
    "title": "離島専門に引っ越し業 年商8億円",
@@ -541,14 +541,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-22T16:06:45+09:00"
-  },
-  {
-   "title": "消費減税の実施要求　「首相はぶれずに」―自民選対委員長",
-   "link": "https://www.jiji.com/jc/article?k=2026072200689&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-22T15:34:00+09:00"
   },
   {
    "title": "｢0時間睡眠｣アピールが裏目に？ 高市政権を突然襲った\"支持率急落\"の深層､｢高市バブル｣崩壊を招いた3つの\"悪手\" | 政治・経済・投資 | 東洋経済オンライン",
