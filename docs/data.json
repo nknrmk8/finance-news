@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T21:57:20.010868+09:00",
+ "generated_at": "2026-07-22T23:59:36.060825+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,24 +61,14 @@
  "errors": [],
  "items": [
   {
-   "title": "はい、AI株の下落は恐ろしいようです。しかし、実際には強気相場を救うかもしれない。",
-   "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-   "summary": "2026 年に最も注目を集めるハイテク取引が大打撃を受けました。賢明な投資家はとにかく買っています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T21:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market."
-  },
-  {
-   "title": "ブラックストーン、新たなプライベートマーケットファンドを展開―今回はバンガードと提携",
-   "link": "https://www.wsj.com/finance/investing/blackstone-rolls-out-new-private-market-fundsthis-time-with-vanguard-09a981b0?mod=rss_markets_main",
-   "summary": "個人投資家向けの新たな商品提供は、今年初めの民間信用ファンドからの流出に続くものだ。",
+   "title": "金はドル軟化とテクニカル買いで利益を拡大",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-u-s-iran-deal-fe301cd7?mod=rss_markets_main",
+   "summary": "投資家が中東情勢の動向を注視するなか、米ドル安とテクニカルな買いに支えられ、金価格は上昇幅を広げた。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-07-22T21:45:00+09:00",
+   "published": "2026-07-22T23:53:00+09:00",
    "lang": "en",
-   "title_orig": "Blackstone Rolls Out New Private-Market Funds—This Time With Vanguard"
+   "title_orig": "Gold Extends Gains on Softer Dollar, Technical Buying"
   },
   {
    "title": "和平交渉への期待薄れながら石油が利益拡大",
@@ -86,19 +76,165 @@
    "summary": "米国とイランがさらなる攻撃を実施し、和平への期待が薄れる中、原油先物相場は上昇を続けた。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-07-22T21:38:00+09:00",
+   "published": "2026-07-22T23:47:00+09:00",
    "lang": "en",
    "title_orig": "Oil Extends Gains on Dimming Hopes for Peace Talks"
   },
   {
-   "title": "「2,000 ドルの免責金額があります」: ハーツのレンタカーのフロントガラスにひびが入ったと報告しました。彼らは私に請求できますか?",
-   "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
-   "summary": "「フロントガラスに石が当たる音を聞いたことはありません。」",
+   "title": "離島専門に引っ越し業 年商8億円",
+   "link": "https://news.yahoo.co.jp/pickup/6588960?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-22T23:34:58+09:00"
+  },
+  {
+   "title": "Digital Bank Revolut、ヨーロッパで最も価値のあるスタートアップ、評価額 1,150 億ドル",
+   "link": "https://www.wsj.com/finance/banking/digital-bank-revolut-europes-most-valuable-startup-valued-at-115-billion-0344c14e?mod=rss_markets_main",
+   "summary": "英国の同社は、評価額を約50％引き上げる株式二次売却に合意した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T23:34:00+09:00",
+   "lang": "en",
+   "title_orig": "Digital Bank Revolut, Europe’s Most Valuable Startup, Valued at $115 Billion"
+  },
+  {
+   "title": "従来の IRA で 800 万ドルを保有しています。私たちは彼らに家を買うよう働きかけるべきでしょうか?そして税金の負担を負うべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+   "summary": "「住宅ローンの利息を支払うよりも、税金を前払いしたいと考えています。」",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-22T21:30:00+09:00",
+   "published": "2026-07-22T23:31:00+09:00",
    "lang": "en",
-   "title_orig": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?"
+   "title_orig": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?"
+  },
+  {
+   "title": "OpenAI、AI「エージェント」が自ら大規模なサイバー侵害を引き起こしたことを認める",
+   "link": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
+   "summary": "AI ラボの高度なモデルは、Hugging Face をハッキングするための「サンドボックス」テストを回避しました",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-22T23:23:26+09:00",
+   "lang": "en",
+   "title_orig": "OpenAI admits AI ‘agent’ caused major cyber breach by itself"
+  },
+  {
+   "title": "トランプ大統領、イランのインフラへの報復攻撃を示唆",
+   "link": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
+   "summary": "米国大統領の警告は、ホルムズ海峡に対する米国の支配を主張する最近の試みを示すものである",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-22T23:23:13+09:00",
+   "lang": "en",
+   "title_orig": "Trump threatens tit-for-tat strikes on Iranian infrastructure"
+  },
+  {
+   "title": "カルシ、中間選挙に先立って予測市場の選挙ハブを立ち上げる",
+   "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
+   "summary": "同社は、このページはイベント契約の閲覧者に中間選挙に対する投機筋の見通しを確認する中心的な場所を提供すると述べた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-22T23:07:47+09:00",
+   "lang": "en",
+   "title_orig": "Kalshi launches election hub for prediction markets ahead of midterms"
+  },
+  {
+   "title": "イラン情勢沈静化の期待が薄れ、原油価格が6週間ぶりの高値に上昇",
+   "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+   "summary": "イランでの11夜連続の攻撃を受けて、水曜日、ウェスト・テキサス・インターミディエイトとブレント原油の前月契約はほぼ4%上昇した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T23:07:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish"
+  },
+  {
+   "title": "この「信じられないほど失礼な」面接習慣がZ世代の仕事を奪っている可能性がある",
+   "link": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
+   "summary": "「これは敬意の表れというよりも、彼らが育ってきたテクノロジーに関係しています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T23:05:00+09:00",
+   "lang": "en",
+   "title_orig": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs"
+  },
+  {
+   "title": "マイクロソフト株はブレイクアウトの準備ができているのでしょうか?このアナリストは、大きな転換が起こりつつあると述べている。",
+   "link": "https://www.marketwatch.com/story/is-microsofts-stock-set-for-a-breakout-this-analyst-says-a-major-inflection-is-in-the-cards-53c312e4?mod=mw_rss_topstories",
+   "summary": "マイクロソフトの株価は今年低迷しているが、バーンスタインのアナリストは、株価は今後数四半期で大幅な好転を遂げると考えている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T23:03:00+09:00",
+   "lang": "en",
+   "title_orig": "Is Microsoft’s stock set for a breakout? This analyst says a major inflection is in the cards."
+  },
+  {
+   "title": "メルセデス、中国上院法案に基づく米国販売禁止のリスク",
+   "link": "https://www.ft.com/content/b7e572e2-ac26-4842-82ee-1c355ac7c848?syn-25a6b1a6=1",
+   "summary": "商務委員会、中国資本の大部分を有する企業を米国市場から禁止する法案を採決へ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-22T23:00:30+09:00",
+   "lang": "en",
+   "title_orig": "Mercedes risks US sales ban under Senate China bill"
+  },
+  {
+   "title": "BMWが今年10月のパリ･モーターショーへの出展を急遽見送る決断をした背景事情 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/952379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "経営環境の激変を受け､BMWが今年のパリ･モーターショーへの出展を急遽見送る決断を下しました。中国メーカーが存在感を増す一方で､伝統的な欧州･米韓メーカーも復帰予定の中､老舗ブランドによる異例の選択…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-22T23:00:00+09:00"
+  },
+  {
+   "title": "インターネット上で見知らぬ人に経済的なアドバイスを求める方法",
+   "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+   "summary": "専門家に電子メールを送信する場合でも、公開フォーラムに投稿する場合でも、いくつかの基本ルールが必要です",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T23:00:00+09:00",
+   "lang": "en",
+   "title_orig": "How to ask strangers on the internet for financial advice"
+  },
+  {
+   "title": "AI株の上昇は主要テクノロジー企業の主要利益を前に勢いを失う",
+   "link": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-ahead-of-key-big-tech-earnings-ac4b72ac?mod=rss_markets_main",
+   "summary": "AI企業に対する投資家の見通しを形作ることになる決算を前にハイテク株の上昇が勢いを失い、米国株先物は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T23:00:00+09:00",
+   "lang": "en",
+   "title_orig": "AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings"
+  },
+  {
+   "title": "10年国債利回りが2026年のピークに近づく",
+   "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-54cd45d8?mod=rss_markets_main",
+   "summary": "指標となる１０年米国債利回りは小幅​​上昇し、今年２番目に高い水準に達した。投資家は原油価格の上昇に注目している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T22:52:00+09:00",
+   "lang": "en",
+   "title_orig": "10-Year Treasury Yield Nears 2026 Peak"
+  },
+  {
+   "title": "AT&T の株価は、半年で最高の日に向けて上昇しています。投資家が最新決算に歓喜する理由。",
+   "link": "https://www.marketwatch.com/story/at-ts-stock-rises-after-earnings-heres-why-investors-are-cheering-41508d59?mod=mw_rss_topstories",
+   "summary": "この電気通信会社は、加入者数の増加、フリーキャッシュフロー、利益が予想を上回りました。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-22T22:51:00+09:00",
+   "lang": "en",
+   "title_orig": "AT&T’s stock rises toward best day in six months. Why investors are cheering the latest earnings."
+  },
+  {
+   "title": "米国の天然ガス先物は慎重に上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-move-cautiously-higher-e53e867e?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物相場は上昇したが、投資家の短期的な気温見通しを反映して依然として狭いレンジにとどまっている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T22:40:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Move Cautiously Higher"
   },
   {
    "title": "この投資家は、人工知能のせいで前例のない天然ガス不足が生じるだろうと警告している。ここでは暴落前に買うべき銘柄を紹介します。",
@@ -106,19 +242,49 @@
    "summary": "クロノメーター・パートナーズのマシュー・スミス氏は、投資家と市場は天然ガス不足に対する準備ができていないと言う。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-22T21:05:00+09:00",
+   "published": "2026-07-22T22:35:00+09:00",
    "lang": "en",
    "title_orig": "Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before a crunch."
   },
   {
-   "title": "かつては 10 万ドルを投資することが本当の富を築くための登竜門でした。今の若者にとってはその2倍です。",
-   "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
-   "summary": "この投資ベンチマークは依然として称賛に値しますが、今日の経済で豊かさを感じたい若者は、もっと多くのものを持っている必要があります。",
+   "title": "私は必ず早めに社会保障を請求します。なぜ部屋の中でゾウについて話す人がこれほど少ないのでしょうか?",
+   "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+   "summary": "「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-22T21:00:00+09:00",
+   "published": "2026-07-22T22:30:00+09:00",
    "lang": "en",
-   "title_orig": "Having $100,000 invested was once the gateway to building real wealth. For young people today, it’s double that."
+   "title_orig": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
+  },
+  {
+   "title": "AMD、チップ取引でAnthropicに最大50億ドル投資へ",
+   "link": "https://www.ft.com/content/9c74bb34-0705-4be1-b622-a334ce79db1d?syn-25a6b1a6=1",
+   "summary": "AIグループはAMDの最新AIサーバーチップを数百億ドルで購入することを約束",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-22T22:16:28+09:00",
+   "lang": "en",
+   "title_orig": "AMD to invest up to $5bn in Anthropic in chip deal"
+  },
+  {
+   "title": "ペンスキーと三井物産、40億ドル近い取引でペンスキー・オートモーティブの非公開化に入札",
+   "link": "https://www.wsj.com/finance/investing/penske-mitsui-bid-to-take-penske-automotive-private-in-near-4-billion-deal-4f8183e7?mod=rss_markets_main",
+   "summary": "ペンスキー・コーポレーションは日本の投資会社と提携し、自動車ディーラーチェーンを非公開化するために1株当たり210ドルを提示した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T22:09:00+09:00",
+   "lang": "en",
+   "title_orig": "Penske, Mitsui Bid to Take Penske Automotive Private in Near $4 Billion Deal"
+  },
+  {
+   "title": "米国の貿易不確実性再燃でドルは今のところほとんど動かない",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-rising-oil-prices-treasury-yields-may-weigh-on-risk-sentiment-1691d3d5?mod=rss_markets_main",
+   "summary": "DXYドル指数は横ばいでした。 ＭＵＦＧは、貿易の不確実性がさらに顕著になった場合、ドル売りが再び台頭するリスクがあると述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-22T21:58:00+09:00",
+   "lang": "en",
+   "title_orig": "Dollar Little Moved by Renewed U.S. Trade Uncertainty For Now"
   },
   {
    "title": "市場前に最も大きな動きをする銘柄: スーパー マイクロ コンピューター、GE バーノバ、ロケット ラボなど",
@@ -139,24 +305,6 @@
    "published": "2026-07-22T20:51:06+09:00"
   },
   {
-   "title": "英首相が連日の生活費対策、来年からバス運賃に上限 今後財政制約も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ib3c5TTN3bXZtY3VONmozUkRnVnFfU0JNU2E3eFlqaGpUNUgzdmJNczl1c1NTV1ZTOFo3b1lqcmdBTG1JZmo0eDNPdVhJUE01SGpJQkk3VHc5NnVNUk4wd1ZNckVGbnNPMDFkNjd5aXFOYWlKaWpaOA?oc=5",
-   "summary": "英首相が連日の生活費対策、来年からバス運賃に上限 今後財政制約も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-22T20:49:28+09:00"
-  },
-  {
-   "title": "米国のデータセンター運営会社TECfusions、40億ドルのSPAC取引で株式公開を計画",
-   "link": "https://www.wsj.com/finance/investing/u-s-data-center-operator-tecfusions-plans-to-go-public-in-4-billion-spac-deal-e3f54495?mod=rss_markets_main",
-   "summary": "フロリダに拠点を置く同社は、北米最大のAMDベースのAIトレーニングクラスターの1つをホストしており、Apex Treasury上場企業と合併する予定です。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-22T20:45:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Data-Center Operator TECfusions Plans to Go Public in $4 Billion SPAC Deal"
-  },
-  {
    "title": "トレーダーらが冬の供給に懸念を抱き、ヨーロッパのガス価格がイラン戦争最高値に近づく",
    "link": "https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585?syn-25a6b1a6=1",
    "summary": "熱波とアジアのバイヤーとの入札合戦により、市場はホルムズ海峡の混乱に対して脆弱に",
@@ -165,66 +313,6 @@
    "published": "2026-07-22T20:41:40+09:00",
    "lang": "en",
    "title_orig": "European gas prices approach Iran war highs as traders fret over winter supplies"
-  },
-  {
-   "title": "娘が夢の大学に進学できるように、退職後の貯蓄120万ドルのうち30万ドルを使いますか?",
-   "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-   "summary": "「私たちの娘は、GPA 3.94 で、上位にランクされている競技ソフトボール投手です。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T20:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?"
-  },
-  {
-   "title": "債券市場の低迷がこの人気のないセクターへの強力な投資理由になるとストラテジストは語る",
-   "link": "https://www.marketwatch.com/story/bond-market-weakness-makes-a-strong-investment-case-for-this-unloved-sector-strategist-says-2cf258f8?mod=mw_rss_topstories",
-   "summary": "マイケル・ダルダ氏は、10年物国債の利回りは低下するため、窮地に陥っている住宅建設業者を好むと述べた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T20:26:00+09:00",
-   "lang": "en",
-   "title_orig": "Bond-market weakness makes a strong investment case for this unloved sector, strategist says"
-  },
-  {
-   "title": "イラン情勢沈静化の期待が薄れ、原油価格が6週間ぶりの高値に上昇",
-   "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-   "summary": "イランでの11夜連続の攻撃を受けて、水曜日、ウェスト・テキサス・インターミディエイトとブレント原油の前月契約はほぼ4%上昇した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T20:19:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish"
-  },
-  {
-   "title": "米国債市場は2007年以来見られなかった憂慮すべき節目の瀬戸際にある",
-   "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-   "summary": "「長い」30年米国債利回りが19年ぶりの5％超えに近づく中、多くの課題が立ちはだかっている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-22T20:15:00+09:00",
-   "lang": "en",
-   "title_orig": "The Treasury market is on the verge of a worrying milestone not seen since 2007"
-  },
-  {
-   "title": "AI株の上昇は主要テクノロジー企業の主要利益を前に勢いを失う",
-   "link": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-ahead-of-key-big-tech-earnings-ac4b72ac?mod=rss_markets_main",
-   "summary": "AI企業に対する投資家の見通しを形作ることになる決算を前にハイテク株の上昇が勢いを失い、米国株先物は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-22T20:15:00+09:00",
-   "lang": "en",
-   "title_orig": "AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/finance/investing/financial-services-roundup-market-talk-65488a40?mod=rss_markets_main",
-   "summary": "金融サービスをカバーする最新のマーケット トークで、Capital One Financial、Kalshi、Hub24 などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-22T20:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
   },
   {
    "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
@@ -243,26 +331,6 @@
    "published": "2026-07-22T19:59:13+09:00",
    "lang": "en",
    "title_orig": "Burnham can be the failure that Britain needs"
-  },
-  {
-   "title": "トランプ大統領の関税計画を受けてジェネリック医薬品メーカーの株価が下落",
-   "link": "https://www.wsj.com/health/pharma/shares-in-generic-drug-makers-fall-after-trumps-tariff-plan-ed8b281c?mod=rss_markets_main",
-   "summary": "トランプ大統領が米国が11月1日からジェネリック医薬品に関税を課すと発言したことを受け、ヨーロッパとアジアのジェネリック医薬品メーカー数社の株価が下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-22T19:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Shares in Generic-Drug Makers Fall After Trump’s Tariff Plan"
-  },
-  {
-   "title": "長い絆が人々を緊張させる",
-   "link": "https://www.wsj.com/finance/investing/the-long-bond-is-making-people-nervous-5397f8b5?mod=rss_markets_main",
-   "summary": "さらに、マグニフィセント セブンの収益シーズンが始まります。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-22T19:37:00+09:00",
-   "lang": "en",
-   "title_orig": "The Long Bond Is Making People Nervous"
   },
   {
    "title": "在宅勤務「生産性は高まらない」　GMO代表が語る原則出社の真意",
@@ -295,16 +363,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-22T19:00:00+09:00"
-  },
-  {
-   "title": "意見 | Coinbaseが訴訟、SECが和解",
-   "link": "https://www.wsj.com/opinion/coinbase-sues-the-sec-settles-dadfbee5?mod=rss_markets_main",
-   "summary": "消えたテキスト メッセージには 150,000 ドルの賞金が贈られます。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-22T19:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | Coinbase Sues, the SEC Settles"
   },
   {
    "title": "ソフトバンク 通信社などと提携 記事データをAI開発企業に提供",
@@ -347,30 +405,12 @@
    "published": "2026-07-22T18:10:00+09:00"
   },
   {
-   "title": "カルシ、中間選挙に先立って予測市場の選挙ハブを立ち上げる",
-   "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-   "summary": "同社は、このページはイベント契約の閲覧者に中間選挙に対する投機筋の見通しを確認する中心的な場所を提供すると述べた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-22T18:00:02+09:00",
-   "lang": "en",
-   "title_orig": "Kalshi launches election hub for prediction markets ahead of midterms"
-  },
-  {
    "title": "山陽新幹線のこだまが「山陽ブルー」に　JR西、今冬から外観を刷新",
    "link": "https://www.asahi.com/articles/ASV7Q2V5CV7QPLFA008M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-22T17:52:03+09:00"
-  },
-  {
-   "title": "中印外相が会談、インド側は公正な市場アクセス求める - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pSmx0QVRucDFOb095SHRIZDkxWFBQdTd0ck5zT0dPNU90N2g2V21zVkhQcFEycG0tQ0kySmVYWFozMHdUQTRJX09EM0lxTGo3Q2hDVHdLQ0V1NzdFWXk0aHVicTg1b2U2NHdqR2VlVG5BVTI2Nzk2YTZVazgxZw?oc=5",
-   "summary": "中印外相が会談、インド側は公正な市場アクセス求める&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-22T17:50:09+09:00"
   },
   {
    "title": "ニチレイ 個人情報漏えいした可能性のある対象者に通知行う",
@@ -427,16 +467,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-22T17:12:25+09:00"
-  },
-  {
-   "title": "中東戦争激化で原油、6週間ぶり高値に上昇",
-   "link": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
-   "summary": "ゴールドマン・サックス、ホルムズ海峡の「混乱」が続けばブレント原油価格が120ドルに跳ね上がる可能性があると警告",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-22T17:08:58+09:00",
-   "lang": "en",
-   "title_orig": "Oil rises to highest level in six weeks as Middle East war escalates"
   },
   {
    "title": "カーナビ技術で道路の維持管理を支援　アイシン、サービスの展開加速",
@@ -543,6 +573,14 @@
    "published": "2026-07-22T14:56:00+09:00"
   },
   {
+   "title": "ソウル株が6％上昇、サイドカー発動 米決算控えＡＩ関連に買い - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SVkg4Qk41UWtXNHMxOEpMdjZRMngxc2ZqeGFYc0VwV1Y1dndMOC1mOUNOWTFnZ1JEVzlNRmJJRDhGOEVmZjF5cHRPV3l4NDF3bEE5OGx3V3E0bm1tUVB0OG4xWlRfbWZuRzI4THRTUlNXZGtpQm14WA?oc=5",
+   "summary": "ソウル株が6％上昇、サイドカー発動 米決算控えＡＩ関連に買い&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-22T14:41:00+09:00"
+  },
+  {
    "title": "｢桃太郎はヒーロー｣と思う人は危ない？ 登場人物みな異常者…昔話を\"減点思考\"で読むと見える｢ビジネスで勝つ｣視点 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951602?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢桃太郎はヒーロー｣と無邪気に信じることは危険？本記事では\"減点思考\"という視点で､常識や美徳に疑問を投げかけ､悪口や否定から本質を見抜く力が､ビジネスでも成功につながる点について解説します。",
@@ -583,16 +621,6 @@
    "published": "2026-07-22T13:30:00+09:00"
   },
   {
-   "title": "円安が続く中、東京は「大胆な」行動を取ると誓う",
-   "link": "https://www.ft.com/content/62d340a5-0806-40c4-ab30-a13823a00983?syn-25a6b1a6=1",
-   "summary": "日本の通貨が約40年ぶりに1ドル＝163円を下回る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-22T13:04:59+09:00",
-   "lang": "en",
-   "title_orig": "Tokyo vows to take ‘bold’ action as yen keeps sliding"
-  },
-  {
    "title": "米国はベネズエラのオイルマネー約130億ドルを集めた。どこですか？",
    "link": "https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1",
    "summary": "ワシントンは、地震で破壊された国の資金がどこに行くのかについて、さまざまな説明を行っている",
@@ -611,26 +639,6 @@
    "published": "2026-07-22T13:00:17+09:00",
    "lang": "en",
    "title_orig": "The high price of insider information"
-  },
-  {
-   "title": "サムスン、評価額200億ユーロでミストラルに投資交渉中",
-   "link": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec?syn-25a6b1a6=1",
-   "summary": "韓国の大手企業、米国テクノロジーの有力な代替企業を目指すフランスのAIグループに最大10億ユーロ投資の可能性",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-22T13:00:17+09:00",
-   "lang": "en",
-   "title_orig": "Samsung in talks to invest in Mistral at €20bn valuation"
-  },
-  {
-   "title": "英国の倫理的フィンテック責任者がワイヤーカードのマルサレクと武器取引を結ぼうとした",
-   "link": "https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1",
-   "summary": "アルグブラ創設者は、後に詐欺師およびスパイとして暴露された実業家がロシアの軍事技術を購入するために27億5000万ドルを調達できるよう支援しようとした",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-22T13:00:17+09:00",
-   "lang": "en",
-   "title_orig": "UK ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek"
   },
   {
    "title": "イントレプレナー（社内起業家）は新規事業に挑戦して失敗すると昇給や昇格､キャリアで不利になるのか？ | ビジネス | 東洋経済オンライン",
@@ -671,6 +679,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-22T12:30:00+09:00"
+  },
+  {
+   "title": "マクロスコープ：163円の衝撃、政府内に動揺と手詰まり感 「介入ハードル」の指摘も - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Vc3Bad21TQ2VrVGhIbHl1VlQ5WjQ2X3ZwTjh5MlFobElVMFVNSU53dFQwQWVHMWJCSHFDcENyVi1kMzMzWWpqdmNOX2ZUZE5MTWV3RHJaMTFaOVAtNVpzVno3b3c0N0VJaW9tNDh5THpQeU0tYlJvOQ?oc=5",
+   "summary": "マクロスコープ：163円の衝撃、政府内に動揺と手詰まり感 「介入ハードル」の指摘も&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-22T12:09:44+09:00"
   },
   {
    "title": "｢琵琶湖でHOT LIMIT撮るべき｣｢け…県と話させてください｣西川貴教が地元滋賀とネット民に､愛されいじられる深い訳 | ライフ | 東洋経済オンライン",
@@ -777,14 +793,6 @@
    "published": "2026-07-22T10:30:00+09:00"
   },
   {
-   "title": "花火大会 席「プレミアム化」加速",
-   "link": "https://news.yahoo.co.jp/pickup/6588865?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-22T10:27:59+09:00"
-  },
-  {
    "title": "必要あればいつでも適切に断固たる対応とる＝為替で片山財務相 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XcXF3ekFZcXBwRVRhTktfQW82U1hCMndOUFhsaGM4V191b21aT3o5OFBsTFhabWJOOWltVVNDRkl4cmJidG1UdzZqblB0TldwUmcydlppSjlnaUlmek0yOXBDdHFUelU1MFVOMlFtR18ya2JSMGl0SA?oc=5",
    "summary": "必要あればいつでも適切に断固たる対応とる＝為替で片山財務相&nbsp;&nbsp;ロイター",
@@ -847,14 +855,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-22T09:31:00+09:00"
-  },
-  {
-   "title": "日本一遭難の多い山は標高599mの｢高尾山｣…低山ブームの今こそ知っておきたい､生還者が\"命がけで得た教訓\" | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951962?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "標高599メートルの高尾山が､実は日本で最も山岳遭難が多い山と聞いて驚く人も多いはず。コロナ禍を契機にした｢低山ブーム｣は健康志向や手軽さから幅広い世代に広がりましたが､その裏で増える低山での事故。…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-22T09:30:00+09:00"
   },
   {
    "title": "国債金利情報(令和8年7月21日)",
