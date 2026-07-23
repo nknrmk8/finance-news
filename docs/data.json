@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T21:58:21.058030+09:00",
+ "generated_at": "2026-07-24T00:06:28.576362+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -77,12 +77,42 @@
    "published": "2026-07-24T00:00:00+09:00"
   },
   {
-   "title": "経団連の夏のフォーラム “大手企業が国内の設備投資主導を”",
-   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
-   "summary": "大手企業のトップが参加する経団連の夏のフォーラムが長野県軽井沢町で始まり、筒井会長は活発な国内投資を経済成長につなげる「投資けん引型経済」の実現を目指し、大手企業が国内の設備投資を主導していくことが重要だと強調しました。",
+   "title": "愛媛県「いよぎんHD」と「愛媛銀行」経営統合に向け最終調整",
+   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
+   "summary": "愛媛県の地方銀行、「伊予銀行」を傘下にもつ「いよぎんホールディングス」と同じ県内の「愛媛銀行」が経営統合に向けて最終調整を進めていることがわかりました。人口減少などを背景に預金や取引先を獲得するための競争が激しくなる中、地域での金融サービスを強化するねらいがあるとみられます。",
    "source": "NHK 経済",
    "category": "報道機関",
-   "published": "2026-07-23T21:42:54+09:00"
+   "published": "2026-07-23T23:58:27+09:00"
+  },
+  {
+   "title": "原油価格が5月以来初めて100ドルに到達",
+   "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
+   "summary": "紅海でのサウジアラビアのタンカーに対するフーシ派による攻撃で、エネルギー供給がさらに圧迫される恐れがある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-23T23:53:21+09:00",
+   "lang": "en",
+   "title_orig": "Oil hits $100 for first time since May"
+  },
+  {
+   "title": "米国の天然ガス先物は貯蔵データを着実に上回っている",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-ahead-of-storage-data-e0cdc3c4?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物はEIAの週次在庫報告を前に小幅上昇し、市場は熱帯低気圧バータにも注目している",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T23:32:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Steady Ahead of Storage Data"
+  },
+  {
+   "title": "スペースXとアンスロピックが歴史的な資金流出を隠すのに貢献しているため、アルファベットの大幅な利益成長は幻想にすぎない",
+   "link": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
+   "summary": "利益は紙面では4倍になったが、あるアナリストは株式投資の含み益によって支えられた「幻想的な」業績だと主張する。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T23:28:00+09:00",
+   "lang": "en",
+   "title_orig": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain"
   },
   {
    "title": "原油価格の高騰が世界的な債券下落を引き起こす",
@@ -90,9 +120,73 @@
    "summary": "ブレント原油の100ドルに向けた上昇はインフレの長期化を脅かし、金利期待をリセットする",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-07-23T21:40:45+09:00",
+   "published": "2026-07-23T23:24:01+09:00",
    "lang": "en",
    "title_orig": "Oil price surge drives global bond sell-off"
+  },
+  {
+   "title": "私は63歳のセミリタイアした医師です。退職後に備えて 200 万ドルを貯蓄している場合、社会保障は任意であるべきですか?",
+   "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+   "summary": "「その時点で、彼らはおそらく政府の退職後のセーフティネットをもはや必要としません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T23:21:00+09:00",
+   "lang": "en",
+   "title_orig": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?"
+  },
+  {
+   "title": "若い投資家にとって、かつては 10 万ドルが富への登竜門でした。今日ではその2倍です。",
+   "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
+   "summary": "この投資ベンチマークは依然として称賛に値しますが、今日の経済で豊かさを感じたい若者は、もっと多くのものを持っている必要があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T23:15:00+09:00",
+   "lang": "en",
+   "title_orig": "For young investors, $100,000 was once the gateway to wealth. Today, it’s double that."
+  },
+  {
+   "title": "セブン従業員が不正転売 法的には",
+   "link": "https://news.yahoo.co.jp/pickup/6589081?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-23T23:12:27+09:00"
+  },
+  {
+   "title": "愛媛2行 経営統合に向け最終調整",
+   "link": "https://news.yahoo.co.jp/pickup/6589080?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-23T23:10:00+09:00"
+  },
+  {
+   "title": "フーシ派によるサウジアラビアのタンカー攻撃を受け、原油価格は1バレル＝100ドルに近づく",
+   "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
+   "summary": "反政府勢力が紅海で船舶を攻撃したとのニュースを受け、ブレント原油は１バレル＝９８ドル以上に上昇した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T23:09:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil nears $100 a barrel after Houthis claim strikes on Saudi Arabian tankers"
+  },
+  {
+   "title": "北海ブレント一時100ドル、約2カ月ぶり高値 フーシ派の船舶攻撃で - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iSkdTdVZFVHNYUU5EeUtWTkw4M2FBSGFZT2VKOEtuWkRWU21MOGZ0S1VMclRqdVlSazJ1Qno1MUlhRnBHbG1xSmZ6aUFSNGVGcGZkWVBKeWRUME42NkloVjNqZGxpSkhOYy1OTFh5a2lWaWMzaW5ILXdn?oc=5",
+   "summary": "北海ブレント一時100ドル、約2カ月ぶり高値 フーシ派の船舶攻撃で&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-23T23:01:46+09:00"
+  },
+  {
+   "title": "原油は1バレルあたり98ドルを突破、ハイテク企業の収益が懸念される市場",
+   "link": "https://www.wsj.com/finance/stocks/oil-tops-98-a-barrel-tech-earnings-worry-markets-8b5adb27?mod=rss_markets_main",
+   "summary": "湾岸地域の緊張がさらに高まった夜、世界の石油指標が1バレルあたり98ドルを突破したため、米国株先物は欧州取引序盤で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T23:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Tops $98 a Barrel, Tech Earnings Worry Markets"
   },
   {
    "title": "AI株は1990年代の市場分裂を反映している。 JPモルガンは今後数週間が極めて重要だと警告している。",
@@ -100,19 +194,139 @@
    "summary": "人工知能のハイパースケーラーとチップおよびインフラストラクチャー株の間の異なる値動きは、1990 年代後半の設定への逆戻りである",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-23T21:38:00+09:00",
+   "published": "2026-07-23T22:52:00+09:00",
    "lang": "en",
    "title_orig": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical."
   },
   {
-   "title": "ECBは金利を2.25%に据え置く",
-   "link": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
-   "summary": "原油価格の再高騰にもかかわらず中央銀行は一時停止",
+   "title": "円相場 1ドル＝163円台後半まで値下がり 39年半ぶりの円安水準",
+   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
+   "summary": "23日のニューヨーク外国為替市場では中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円台後半まで値下がりしました。これは、1986年12月以来、およそ39年半ぶりの円安ドル高水準となっています。中東イエメンの反政府勢力で、イランの支援を受けるフーシ派がサウジアラビアの石油タンカーに対して攻撃を行ったと発表したことで原油の先物価格が上昇しています。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-23T22:46:08+09:00"
+  },
+  {
+   "title": "トランプ大統領、サウジの核合意はイスラエルとの関係に左右されると発言",
+   "link": "https://www.ft.com/content/50793b37-e310-4d38-8f8d-4a2bdb5ee91a?syn-25a6b1a6=1",
+   "summary": "皇太子はイスラエルとのいかなる接近もパレスチナ国家樹立に向けた措置にかかっていると主張した",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-07-23T21:35:24+09:00",
+   "published": "2026-07-23T22:39:29+09:00",
    "lang": "en",
-   "title_orig": "ECB holds interest rates at 2.25%"
+   "title_orig": "Trump says Saudi nuclear deal depends on relations with Israel"
+  },
+  {
+   "title": "はい、AI株の下落は恐ろしいようです。しかし、実際には強気相場を救うかもしれない。",
+   "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+   "summary": "2026 年に最も注目を集めるハイテク取引が大打撃を受けました。賢明な投資家はとにかく買っています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T22:38:00+09:00",
+   "lang": "en",
+   "title_orig": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market."
+  },
+  {
+   "title": "IBMはガイダンスを引き下げた。アナリストらは、今こそ成果を出すときだと言う。",
+   "link": "https://www.marketwatch.com/story/ibm-lowered-its-guidance-now-its-time-to-deliver-analysts-say-fe3d7d1a?mod=mw_rss_topstories",
+   "summary": "IBMは売上高見通しを下方修正したにもかかわらず、フリーキャッシュフローが2026年に約10億ドル増加するとの予想を維持した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T22:35:00+09:00",
+   "lang": "en",
+   "title_orig": "IBM lowered its guidance. Now it’s time to deliver, analysts say."
+  },
+  {
+   "title": "米国とイランの紛争がさらに激化する見通しの中、原油価格が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-further-escalation-in-u-s-iran-conflict-3d1b0423?mod=rss_markets_main",
+   "summary": "米国とイランの紛争がさらに激化し、ミシガン州での供給混乱の増大につながる可能性がある中、アジア貿易初期の原油価格は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T22:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Rises Amid Prospects of Further Escalation in U.S.-Iran Conflict"
+  },
+  {
+   "title": "永谷園「モコモコ」12年ぶり復活",
+   "link": "https://news.yahoo.co.jp/pickup/6589075?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-23T22:19:27+09:00"
+  },
+  {
+   "title": "FDA は、どのペプチドが間もなく米国で広く入手可能になるかを決定しようとしています。次に何が起こるか見てみましょう。",
+   "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+   "summary": "FDAはBPC-157やTB-500のような7つのペプチドを合法的に配合できるかどうかを決定しており、これによりアメリカ人による幅広い使用への扉が開かれる可能性がある",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T22:18:00+09:00",
+   "lang": "en",
+   "title_orig": "The FDA is about to decide which peptides could soon become widely available in the U.S. Here’s what happens next."
+  },
+  {
+   "title": "米国の雇用市場が引き続き回復力を示す中、国債利回りが上昇",
+   "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-e9157d07?mod=rss_markets_main",
+   "summary": "米国で失業保険を申請する人が１８万７０００人に減少したことを受け、国債利回りは上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T22:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields Rise as U.S. Job Market Remains Resilient"
+  },
+  {
+   "title": "市場前に大きな動きをする銘柄: ロッキード・マーティン、テスラ、アルファベットなど",
+   "link": "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-premarket-lmt-tsla-googl.html",
+   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-23T22:12:20+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: Lockheed Martin, Tesla, Alphabet & more"
+  },
+  {
+   "title": "愛媛県地盤の地方銀行、いよぎんホールディングスと愛媛銀行が経営統合する方向で最終調整していることが分かった",
+   "link": "https://www.jiji.com/jc/article?k=2026072301147&g=flash&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-23T22:07:00+09:00"
+  },
+  {
+   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
+   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T22:01:00+09:00",
+   "lang": "en",
+   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
+  },
+  {
+   "title": "円連結。日銀利上げペース加速への期待が後押し",
+   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26?mod=rss_markets_main",
+   "summary": "円は他のG10通貨やアジア通貨に対して堅調となったが、日銀が利上げペースの加速に前向きであるとのメディア報道が支援する可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T21:58:00+09:00",
+   "lang": "en",
+   "title_orig": "Yen Consolidates; Hopes for Faster Pace of BOJ Rate Hikes May Support"
+  },
+  {
+   "title": "ＮＹ原油、一時９１ドル台　中東緊迫で１カ月半ぶり",
+   "link": "https://www.jiji.com/jc/article?k=2026072301129&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-23T21:54:00+09:00"
+  },
+  {
+   "title": "経団連の夏のフォーラム “大手企業が国内の設備投資主導を”",
+   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
+   "summary": "大手企業のトップが参加する経団連の夏のフォーラムが長野県軽井沢町で始まり、筒井会長は活発な国内投資を経済成長につなげる「投資けん引型経済」の実現を目指し、大手企業が国内の設備投資を主導していくことが重要だと強調しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-23T21:42:54+09:00"
   },
   {
    "title": "ローラ・ルーマー氏、親ウクライナ改宗後ゼレンスキー氏と会談",
@@ -133,36 +347,6 @@
    "published": "2026-07-23T21:30:05+09:00"
   },
   {
-   "title": "フーシ派によるサウジアラビアのタンカー２隻攻撃で原油価格が９８ドルに急騰",
-   "link": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
-   "summary": "イエメン反政府勢力、エンセリア号とライラ号を標的にするためにミサイルとドローンを使用したと主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-23T21:27:12+09:00",
-   "lang": "en",
-   "title_orig": "Oil jumps to $98 after Houthis attack two Saudi Arabian tankers"
-  },
-  {
-   "title": "1兆8000億ドル規模の日本の年金大企業は、国内にお金を持ち帰るかもしれない。そうなれば米国株やFRBに衝撃が及ぶ可能性がある。",
-   "link": "https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
-   "summary": "日本の年金大国が海外資産を売却すれば、米国の利回りが上昇し、ドルの需要が失われる可能性がある。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T21:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed."
-  },
-  {
-   "title": "円連結。日銀利上げペース加速への期待が後押し",
-   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26?mod=rss_markets_main",
-   "summary": "円は他のG10通貨やアジア通貨に対して堅調となったが、日銀が利上げペースの加速に前向きであるとのメディア報道が支援する可能性がある。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T21:14:00+09:00",
-   "lang": "en",
-   "title_orig": "Yen Consolidates; Hopes for Faster Pace of BOJ Rate Hikes May Support"
-  },
-  {
    "title": "チェーン店参戦 タコスブームの今",
    "link": "https://news.yahoo.co.jp/pickup/6589068?source=rss",
    "summary": "",
@@ -181,16 +365,6 @@
    "title_orig": "McCormick to Seek London Listing Following Tie-Up with Unilever Foods"
   },
   {
-   "title": "より多くのミサイルをより早く製造する取り組みが功を奏し、ロッキード・マーティンの株価が急騰",
-   "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
-   "summary": "ロッキード・マーティンの株価は、ミサイル生産の増加が利益の押し上げと引き上げにつながったため、急騰した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T20:56:00+09:00",
-   "lang": "en",
-   "title_orig": "Lockheed Martin’s stock leaps as push to build more missiles faster pays off"
-  },
-  {
    "title": "パナ 男性向け化粧品分野に進出へ",
    "link": "https://news.yahoo.co.jp/pickup/6589066?source=rss",
    "summary": "",
@@ -199,52 +373,12 @@
    "published": "2026-07-23T20:52:02+09:00"
   },
   {
-   "title": "市場前に大きな動きをする銘柄: ロッキード・マーティン、テスラ、アルファベットなど",
-   "link": "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-premarket-lmt-tsla-googl.html",
-   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-23T20:40:41+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: Lockheed Martin, Tesla, Alphabet & more"
-  },
-  {
    "title": "EU、グーグルに制裁金1660億円　検索で自社サービス優遇",
    "link": "https://www.asahi.com/articles/ASV7R3469V7RULFA01HM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-23T20:22:12+09:00"
-  },
-  {
-   "title": "原油は1バレルあたり98ドルを突破、ハイテク企業の収益が懸念される市場",
-   "link": "https://www.wsj.com/finance/stocks/oil-tops-98-a-barrel-tech-earnings-worry-markets-8b5adb27?mod=rss_markets_main",
-   "summary": "湾岸地域の緊張がさらに高まった夜、世界の石油指標が1バレルあたり98ドルを突破したため、米国株先物は欧州取引序盤で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T20:12:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Tops $98 a Barrel, Tech Earnings Worry Markets"
-  },
-  {
-   "title": "フーシ派によるサウジアラビアのタンカー攻撃を受け、原油価格は1バレル＝100ドルに近づく",
-   "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
-   "summary": "反政府勢力が紅海で船舶を攻撃したとのニュースを受け、ブレント原油は１バレル＝９８ドル以上に上昇した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T20:07:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil nears $100 a barrel after Houthis claim strikes on Saudi Arabian tankers"
-  },
-  {
-   "title": "SKハイニックスに対する米国のプレミアムは韓国の規制当局の判決後も維持される見通し",
-   "link": "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories",
-   "summary": "SKハイニックスの米国預託証券が保有する国内上場普通株式に対する巨額のプレミアムは、制限後も残る可能性が高い。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T20:04:00+09:00",
-   "lang": "en",
-   "title_orig": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling"
   },
   {
    "title": "ブラックストーンのAI投資で利益が急増",
@@ -257,16 +391,6 @@
    "title_orig": "Blackstone’s Profit Surges on AI Investments"
   },
   {
-   "title": "クレジット カードの負債 17,000 ドルを移管したいと考えています。ウェルズ・ファーゴが私に提供したクレジット限度額が 4,000 ドルだけなのはなぜですか?",
-   "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-   "summary": "「なぜ限度額がこんなに低いのか尋ねましたが、説明はできませんでした。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T20:00:00+09:00",
-   "lang": "en",
-   "title_orig": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
-  },
-  {
    "title": "都こんぶ 外国産使用39万袋を回収",
    "link": "https://news.yahoo.co.jp/pickup/6589058?source=rss",
    "summary": "",
@@ -275,40 +399,12 @@
    "published": "2026-07-23T19:52:24+09:00"
   },
   {
-   "title": "顧客がプレミアム プランに流入することで T-Mobile の収益が増加",
-   "link": "https://www.marketwatch.com/story/t-mobile-earnings-rise-as-customers-pour-into-premium-plans-dbed96b8?mod=mw_rss_topstories",
-   "summary": "同社は昨年新しいプランを導入して以来、「より質の高いアカウント」を集めることに注力している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T19:39:00+09:00",
-   "lang": "en",
-   "title_orig": "T-Mobile earnings rise as customers pour into premium plans"
-  },
-  {
-   "title": "「100g451円」輸入牛高騰 今後は",
-   "link": "https://news.yahoo.co.jp/pickup/6589044?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-23T19:31:05+09:00"
-  },
-  {
    "title": "景気の「山」「谷」判断、「サービス分野」「実質値」重視の新方式へ",
    "link": "https://www.asahi.com/articles/ASV7R33X3V7RULFA01VM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-23T19:30:00+09:00"
-  },
-  {
-   "title": "「質の高い」投資が復活する兆し",
-   "link": "https://www.wsj.com/finance/stocks/a-sign-quality-investing-is-due-for-a-comeback-f40ffdfe?mod=rss_markets_main",
-   "summary": "さらに、原油価格は100ドルを超える方向に戻るのでしょうか？",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T19:18:00+09:00",
-   "lang": "en",
-   "title_orig": "A Sign ‘Quality’ Investing Is Due for a Comeback"
   },
   {
    "title": "暗号資産取引所ビットメックス、9月23日に事業終了 - ロイター",
@@ -345,16 +441,6 @@
    "published": "2026-07-23T19:00:00+09:00"
   },
   {
-   "title": "2番目の夫と私には、以前の交際相手との間にできた子供たちがいます。私が先に死んだ場合、私の家は彼か子供たちのところに行くべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
-   "summary": "「私たちは結婚前に持っていたお金で購入した家に住んでいます。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T19:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?"
-  },
-  {
    "title": "フーシ派の攻撃でサウジアラビアの石油ライフラインが遮断される恐れ",
    "link": "https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1",
    "summary": "タンカーがバブ・アル・マンダブ経由の航路を放棄したため、アジアの精製業者は原油の到着をさらに1か月待つ可能性がある",
@@ -373,16 +459,6 @@
    "published": "2026-07-23T18:40:00+09:00"
   },
   {
-   "title": "Google には支出の心配を克服する力がある",
-   "link": "https://www.wsj.com/tech/ai/google-has-the-muscle-to-overpower-spending-worries-725a92e4?mod=rss_markets_main",
-   "summary": "AIへの投資と遅延が懸念されているが、同社の中核事業は好調に見える。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Google Has the Muscle to Overpower Spending Worries"
-  },
-  {
    "title": "東芝、キオクシアＨＤ株を一部売却 保有比率15.10％に低下 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUNqbVk2TUJISndEc3VYY1Z2MUh3X2pRb1hhYWlPWjNfQklSaHNOcUdyOFBaWVlTQm02YzFuZ0Z6ODl2Z2JtSjF4S20wWlJJbGtGeTFfVDVEY1V6REkzSnJUUVhENEdjZnh5cjg1ZV80dGl5bHVXbjE1bzBGTkZVbw?oc=5",
    "summary": "東芝、キオクシアＨＤ株を一部売却 保有比率15.10％に低下&nbsp;&nbsp;ロイター",
@@ -391,38 +467,12 @@
    "published": "2026-07-23T18:23:43+09:00"
   },
   {
-   "title": "ダスキン 上海子会社を解散",
-   "link": "https://news.yahoo.co.jp/pickup/6589049?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-23T18:14:01+09:00"
-  },
-  {
    "title": "円相場 いくぶん値下がり 1ドル＝163円台前半で推移",
    "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183751000.html",
    "summary": "23日の東京外国為替市場、原油の先物価格が上昇したことを背景に、円を売って有事に強いとされるドルを買う動きが強まり、円相場はいくぶん値下がりしました。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-23T18:12:47+09:00"
-  },
-  {
-   "title": "景気動向指数の新指数、内閣府が来年4月から参考値公表へ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NmtZVHNER0ZuWVUwVE8xbzE4ZExoTy1kXzk4YkQ5QXYxT2VOaTZQMng3QTJxbHdYRjJreXZacFFjTnIxcW5WakxyMkxmX2dKMERoRmhCZ0twVHY5VmZyeFd2SnhEVFJRZzE2MGR0aEEtbXJOcWc?oc=5",
-   "summary": "景気動向指数の新指数、内閣府が来年4月から参考値公表へ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-23T18:09:43+09:00"
-  },
-  {
-   "title": "エミレーツNBDの利益はアラブ首長国連邦として安定している経済はイラン戦争の混乱に直面している",
-   "link": "https://www.wsj.com/finance/banking/emirates-nbds-profit-holds-steady-as-u-a-e-economy-faces-iran-war-disruptions-568682ed?mod=rss_markets_main",
-   "summary": "ドバイ最大の銀行の純利益は、融資と顧客活動が好調で戦争による経済混乱に耐えられたため２．２％増加した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T18:08:00+09:00",
-   "lang": "en",
-   "title_orig": "Emirates NBD’s Profit Holds Steady as U.A.E. Economy Faces Iran War Disruptions"
   },
   {
    "title": "セブン-イレブン キャラ商品を販売日前買い占めなど不適切事例",
@@ -439,16 +489,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-23T17:54:27+09:00"
-  },
-  {
-   "title": "米国とイランの紛争がさらに激化する見通しの中、原油価格が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-further-escalation-in-u-s-iran-conflict-3d1b0423?mod=rss_markets_main",
-   "summary": "米国とイランの紛争がさらに激化し、ミシガン州での供給混乱の増大につながる可能性がある中、アジア貿易初期の原油価格は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T17:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Rises Amid Prospects of Further Escalation in U.S.-Iran Conflict"
   },
   {
    "title": "新幹線西九州ルートのアセス合意、JR九州社長「大きな一歩」",
@@ -473,14 +513,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-23T17:30:00+09:00"
-  },
-  {
-   "title": "日本郵便「指定日営業」導入検討",
-   "link": "https://news.yahoo.co.jp/pickup/6589034?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-23T17:06:16+09:00"
   },
   {
    "title": "｢AI競争でグーグルが劣勢｣との見方にアルファベットCEOが反論 ジェミニ 3.5プロのリリースは延期されたが… | 政治・経済・投資 | 東洋経済オンライン",
@@ -625,14 +657,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-23T13:47:21+09:00"
-  },
-  {
-   "title": "中国タンカー2隻、フーシ派封鎖の紅海通過へ航行 サウジ産原油積載 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyX0pLU3paWW1MX1AyeHVFaVZ3OUFzMmxmTU96TlNwdC1LeVoyVk9TN1dDdHBhSXMwaEFjc052UENZM2dJV2FHb28tb0M0ZmRybHcxWkd4SnBLbnFFcU41YTBvaEFLb1g3OVhNX2gxX1JVb09nOXBiZF9R?oc=5",
-   "summary": "中国タンカー2隻、フーシ派封鎖の紅海通過へ航行 サウジ産原油積載&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-23T13:38:00+09:00"
   },
   {
    "title": "あなたのSNS投稿は巨大ITへの｢無償労働｣なのか すべてを搾取する｢デジタル地主｣とレンティア資本主義 | 政治・経済・投資 | 東洋経済オンライン",
@@ -947,14 +971,6 @@
    "published": "2026-07-23T05:50:57+09:00"
   },
   {
-   "title": "折りたたみ式スマホ薄型の新モデル発表 競争激化か",
-   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html",
-   "summary": "韓国のサムスン電子は、厚さ4ミリ余りと薄型で折りたたみ式のスマートフォンの最新モデルを発表しました。折りたたみ式の機種は、IT大手アップルが今後初めて発売する見通しだと報じられていて、メーカーの間でこのタイプをめぐる競争が激しくなると予想されます。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-23T05:04:58+09:00"
-  },
-  {
    "title": "「AIは効率化だけでなく、これからは労働力に」Box Japan社長に聞く「AIとオンラインストレージ」の勝ち筋",
    "link": "https://www.itmedia.co.jp/business/articles/2607/23/news011.html",
    "summary": "いまや導入企業が2万社を超える、オンラインストレージの「Box」。日本法人の社長にインタビューし、これまでの歩みや直近で進むAI活用について聞いた。",
@@ -1009,12 +1025,12 @@
    "published": "2026-07-22T20:00:00+09:00"
   },
   {
-   "title": "輸入牛肉と豚肉の小売価格が過去最高 農林水産省の7月調査",
-   "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182891000.html",
-   "summary": "農林水産省は今月の食品の価格動向の調査結果を発表し、輸入牛肉と豚肉の小売価格が過去最高となりました。農林水産省は価格の上昇が続いている一因に円安があるとみています。",
-   "source": "NHK 経済",
+   "title": "日銀、物価上振れに警戒 利上げペースに影響も＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Kd0YwMVN1emlPamptYU00N1VmWlZuZnF1d0g1czNfbm5zZ21yOWY0TVd6c2VPemtlN1RKeGluNVlGb2pud1NnZnM3cWJtOWpmR0F0UURXVlM4MWI0eUo3YkFoSjRHQWVtYzdySXVOanp1ZUg4N1BTcA?oc=5",
+   "summary": "日銀、物価上振れに警戒 利上げペースに影響も＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-07-22T19:28:33+09:00"
+   "published": "2026-07-22T19:52:56+09:00"
   },
   {
    "title": "アーチオン、株式の売出価格を260円に決定 - ロイター",
