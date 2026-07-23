@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T20:29:15.906188+09:00",
+ "generated_at": "2026-07-23T21:58:21.058030+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -77,14 +77,144 @@
    "published": "2026-07-24T00:00:00+09:00"
   },
   {
+   "title": "経団連の夏のフォーラム “大手企業が国内の設備投資主導を”",
+   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
+   "summary": "大手企業のトップが参加する経団連の夏のフォーラムが長野県軽井沢町で始まり、筒井会長は活発な国内投資を経済成長につなげる「投資けん引型経済」の実現を目指し、大手企業が国内の設備投資を主導していくことが重要だと強調しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-23T21:42:54+09:00"
+  },
+  {
+   "title": "原油価格の高騰が世界的な債券下落を引き起こす",
+   "link": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
+   "summary": "ブレント原油の100ドルに向けた上昇はインフレの長期化を脅かし、金利期待をリセットする",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-23T21:40:45+09:00",
+   "lang": "en",
+   "title_orig": "Oil price surge drives global bond sell-off"
+  },
+  {
+   "title": "AI株は1990年代の市場分裂を反映している。 JPモルガンは今後数週間が極めて重要だと警告している。",
+   "link": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
+   "summary": "人工知能のハイパースケーラーとチップおよびインフラストラクチャー株の間の異なる値動きは、1990 年代後半の設定への逆戻りである",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T21:38:00+09:00",
+   "lang": "en",
+   "title_orig": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical."
+  },
+  {
+   "title": "ECBは金利を2.25%に据え置く",
+   "link": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
+   "summary": "原油価格の再高騰にもかかわらず中央銀行は一時停止",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-23T21:35:24+09:00",
+   "lang": "en",
+   "title_orig": "ECB holds interest rates at 2.25%"
+  },
+  {
+   "title": "ローラ・ルーマー氏、親ウクライナ改宗後ゼレンスキー氏と会談",
+   "link": "https://www.ft.com/content/ed9baeee-aabc-458a-a161-a607032d158d?syn-25a6b1a6=1",
+   "summary": "極右のインフルエンサーはロシアの侵略に対するキエフの回復力を賞賛するために戦争反対を放棄した",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-23T21:30:45+09:00",
+   "lang": "en",
+   "title_orig": "Laura Loomer meets Zelenskyy after pro-Ukraine conversion"
+  },
+  {
+   "title": "欧州中銀が政策金利を据え置き　中東情勢の影響や物価動向を見極め",
+   "link": "https://www.asahi.com/articles/ASV7R3WNFV7RUHBI027M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-23T21:30:05+09:00"
+  },
+  {
+   "title": "フーシ派によるサウジアラビアのタンカー２隻攻撃で原油価格が９８ドルに急騰",
+   "link": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
+   "summary": "イエメン反政府勢力、エンセリア号とライラ号を標的にするためにミサイルとドローンを使用したと主張",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-23T21:27:12+09:00",
+   "lang": "en",
+   "title_orig": "Oil jumps to $98 after Houthis attack two Saudi Arabian tankers"
+  },
+  {
+   "title": "1兆8000億ドル規模の日本の年金大企業は、国内にお金を持ち帰るかもしれない。そうなれば米国株やFRBに衝撃が及ぶ可能性がある。",
+   "link": "https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
+   "summary": "日本の年金大国が海外資産を売却すれば、米国の利回りが上昇し、ドルの需要が失われる可能性がある。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T21:16:00+09:00",
+   "lang": "en",
+   "title_orig": "Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed."
+  },
+  {
+   "title": "円連結。日銀利上げペース加速への期待が後押し",
+   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26?mod=rss_markets_main",
+   "summary": "円は他のG10通貨やアジア通貨に対して堅調となったが、日銀が利上げペースの加速に前向きであるとのメディア報道が支援する可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-23T21:14:00+09:00",
+   "lang": "en",
+   "title_orig": "Yen Consolidates; Hopes for Faster Pace of BOJ Rate Hikes May Support"
+  },
+  {
+   "title": "チェーン店参戦 タコスブームの今",
+   "link": "https://news.yahoo.co.jp/pickup/6589068?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-23T21:11:12+09:00"
+  },
+  {
    "title": "マコーミック、ユニリーバ・フーズと提携後ロンドン上場を目指す",
    "link": "https://www.wsj.com/business/mccormick-to-seek-london-listing-following-tie-up-with-unilever-foods-84c0edca?mod=rss_markets_main",
    "summary": "スパイスと調味料のメーカーは、現在のニューヨーク証券取引所への上場に加え、ロンドンでの上場が行われると述べた。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-07-23T20:18:00+09:00",
+   "published": "2026-07-23T21:08:00+09:00",
    "lang": "en",
    "title_orig": "McCormick to Seek London Listing Following Tie-Up with Unilever Foods"
+  },
+  {
+   "title": "より多くのミサイルをより早く製造する取り組みが功を奏し、ロッキード・マーティンの株価が急騰",
+   "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+   "summary": "ロッキード・マーティンの株価は、ミサイル生産の増加が利益の押し上げと引き上げにつながったため、急騰した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-23T20:56:00+09:00",
+   "lang": "en",
+   "title_orig": "Lockheed Martin’s stock leaps as push to build more missiles faster pays off"
+  },
+  {
+   "title": "パナ 男性向け化粧品分野に進出へ",
+   "link": "https://news.yahoo.co.jp/pickup/6589066?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-23T20:52:02+09:00"
+  },
+  {
+   "title": "市場前に大きな動きをする銘柄: ロッキード・マーティン、テスラ、アルファベットなど",
+   "link": "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-premarket-lmt-tsla-googl.html",
+   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-23T20:40:41+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: Lockheed Martin, Tesla, Alphabet & more"
+  },
+  {
+   "title": "EU、グーグルに制裁金1660億円　検索で自社サービス優遇",
+   "link": "https://www.asahi.com/articles/ASV7R3469V7RULFA01HM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-23T20:22:12+09:00"
   },
   {
    "title": "原油は1バレルあたり98ドルを突破、ハイテク企業の収益が懸念される市場",
@@ -117,16 +247,6 @@
    "title_orig": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling"
   },
   {
-   "title": "AI株は1990年代の市場分裂を反映している。 JPモルガンは今後数週間が極めて重要だと警告している。",
-   "link": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
-   "summary": "人工知能のハイパースケーラーとチップおよびインフラストラクチャー株の間の異なる値動きは、1990 年代後半の設定への逆戻りである",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T20:01:00+09:00",
-   "lang": "en",
-   "title_orig": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical."
-  },
-  {
    "title": "ブラックストーンのAI投資で利益が急増",
    "link": "https://www.wsj.com/finance/investing/blackstone-bx-q2-earnings-report-stock-2026-99916051?mod=rss_markets_main",
    "summary": "投資会社のプライベート・エクイティ事業への流入の増加が、個人投資家が手を引いた民間信用の減速を相殺した。",
@@ -147,42 +267,12 @@
    "title_orig": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
   },
   {
-   "title": "ブラックストーン、主力民間信用ファンドの引き出しペースが鈍化と語る",
-   "link": "https://www.ft.com/content/e44325f8-c452-40d1-b423-b1f1c39ee314?syn-25a6b1a6=1",
-   "summary": "潜在的な損失に対する投資家の懸念により、今年は資金を引き出しようとする顧客が急増した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-23T19:59:23+09:00",
-   "lang": "en",
-   "title_orig": "Blackstone says pace of withdrawals slowing at flagship private credit fund"
-  },
-  {
    "title": "都こんぶ 外国産使用39万袋を回収",
    "link": "https://news.yahoo.co.jp/pickup/6589058?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-23T19:52:24+09:00"
-  },
-  {
-   "title": "原油価格の高騰が世界的な債券下落を引き起こす",
-   "link": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
-   "summary": "ブレント原油の100ドルに向けた上昇はインフレの長期化を脅かし、金利期待をリセットする",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-23T19:49:16+09:00",
-   "lang": "en",
-   "title_orig": "Oil price surge drives global bond sell-off"
-  },
-  {
-   "title": "フーシ派によるサウジアラビアのタンカー２隻攻撃で原油価格が９８ドルに急騰",
-   "link": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
-   "summary": "イエメン反政府勢力、エンセリア号とライラ号を標的にするためにミサイルとドローンを使用したと主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-23T19:42:50+09:00",
-   "lang": "en",
-   "title_orig": "Oil jumps to $98 after Houthis attack two Saudi Arabian tankers"
   },
   {
    "title": "顧客がプレミアム プランに流入することで T-Mobile の収益が増加",
@@ -221,12 +311,12 @@
    "title_orig": "A Sign ‘Quality’ Investing Is Due for a Comeback"
   },
   {
-   "title": "中立公合流協議、月内に中間まとめ　「人権」「１次産業」重視",
-   "link": "https://www.jiji.com/jc/article?k=2026072300962&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
+   "title": "暗号資産取引所ビットメックス、9月23日に事業終了 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeTNScDBJNnUtS29yNVJPUzRaZjVwWUR6X0ZDZ0JJVjZ1SEJveGlVUUlIU0RMRndLY21rMy16NHE0bmRjSXpQSnA1aGxiVng0ZjRXY2dPZ2pCQzFJckgzaWlrSUhIczNIM1ZVbjJkeDgwQ2RVcy02eW1NOWkycDlrcQ?oc=5",
+   "summary": "暗号資産取引所ビットメックス、9月23日に事業終了&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-07-23T19:05:00+09:00"
+   "published": "2026-07-23T19:07:33+09:00"
   },
   {
    "title": "関税措置めぐる日米合意から1年 輸出企業は対応迫られる",
@@ -245,14 +335,6 @@
    "published": "2026-07-23T19:00:08+09:00",
    "lang": "en",
    "title_orig": "EU fines Google €890mn in test of Trump’s threats to protect Big Tech"
-  },
-  {
-   "title": "EU、グーグルに制裁金1660億円　検索で自社サービス優遇",
-   "link": "https://www.asahi.com/articles/ASV7R3469V7RULFA01HM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-23T19:00:00+09:00"
   },
   {
    "title": "【年末7万5000円も？日経平均の今後】AI・半導体株\"調整”の背景／グーグルが「好決算なのに売られた」理由／中国発の懸念材料／政府「戦略17分野」370兆円投資の影響度／大きな下落リスクはもうない？ | ビジネス | 東洋経済オンライン",
@@ -283,32 +365,12 @@
    "title_orig": "Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline"
   },
   {
-   "title": "なぜ、業績報告だけでは株式市場を上昇させるのに十分ではないのか",
-   "link": "https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
-   "summary": "インフレ情勢の変化はアメリカ企業に困難をもたらす可能性がある。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T18:48:00+09:00",
-   "lang": "en",
-   "title_orig": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher"
-  },
-  {
    "title": "ダークパターン対策、消費者への周知徹底図る　堀井・消費者庁長官",
    "link": "https://www.asahi.com/articles/ASV7R31H6V7RUTFL013M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-23T18:40:00+09:00"
-  },
-  {
-   "title": "このポートフォリオマネージャーによれば、IPO 活動の急増は市場バブルの四騎の 1 つです",
-   "link": "https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
-   "summary": "ストラテジストらは、IPOの波は必ずしも危険な市場バブルの前兆ではないと結論付けているが、それでも",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-23T18:34:00+09:00",
-   "lang": "en",
-   "title_orig": "Surging IPO activity is one of the four horsemen of a market bubble, according to this portfolio manager"
   },
   {
    "title": "Google には支出の心配を克服する力がある",
@@ -345,14 +407,12 @@
    "published": "2026-07-23T18:12:47+09:00"
   },
   {
-   "title": "円連結。日銀利上げペース加速への期待が後押し",
-   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26?mod=rss_markets_main",
-   "summary": "円は他のG10通貨やアジア通貨に対して堅調となったが、日銀が利上げペースの加速に前向きであるとのメディア報道が支援する可能性がある。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-23T18:10:00+09:00",
-   "lang": "en",
-   "title_orig": "Yen Consolidates; Hopes for Faster Pace of BOJ Rate Hikes May Support"
+   "title": "景気動向指数の新指数、内閣府が来年4月から参考値公表へ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NmtZVHNER0ZuWVUwVE8xbzE4ZExoTy1kXzk4YkQ5QXYxT2VOaTZQMng3QTJxbHdYRjJreXZacFFjTnIxcW5WakxyMkxmX2dKMERoRmhCZ0twVHY5VmZyeFd2SnhEVFJRZzE2MGR0aEEtbXJOcWc?oc=5",
+   "summary": "景気動向指数の新指数、内閣府が来年4月から参考値公表へ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-23T18:09:43+09:00"
   },
   {
    "title": "エミレーツNBDの利益はアラブ首長国連邦として安定している経済はイラン戦争の混乱に直面している",
@@ -399,7 +459,7 @@
    "published": "2026-07-23T17:40:00+09:00"
   },
   {
-   "title": "独自路線にこだわったセブン　PayPay経済圏入りで巻き返しへ",
+   "title": "セブンが埋めた「最後のピース」　ポイント経済圏は顧客データ競争へ",
    "link": "https://www.asahi.com/articles/ASV7R2D3FV7RULFA01ZM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
@@ -413,14 +473,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-23T17:30:00+09:00"
-  },
-  {
-   "title": "経団連の夏のフォーラム “大手企業が国内の設備投資主導を”",
-   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
-   "summary": "大手企業のトップが参加する経団連の夏のフォーラムが長野県軽井沢町で始まり、筒井会長は活発な国内投資を経済成長につなげる「投資けん引型経済」の実現を目指し、大手企業が国内の設備投資を主導していくことが重要だと強調しました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-23T17:11:41+09:00"
   },
   {
    "title": "日本郵便「指定日営業」導入検討",
@@ -453,14 +505,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-23T16:15:07+09:00"
-  },
-  {
-   "title": "焼き肉チェーン元社長逮捕　「エンジェル税制」悪用か―所得税３．６億円脱税容疑・横浜地検",
-   "link": "https://www.jiji.com/jc/article?k=2026072300458&g=soc&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-23T16:13:00+09:00"
   },
   {
    "title": "R＆D強化、酒類と飲料・ヘルスケア、医薬を軸に　キリン南方社長",
@@ -619,16 +663,6 @@
    "title_orig": "Trump Media fast feed for president’s posts sparks Wall Street backlash"
   },
   {
-   "title": "ウクライナ攻撃で製油所が被害を受け、ロシアはインドからの燃料輸入を強制",
-   "link": "https://www.ft.com/content/fda9e7c8-87cd-49f8-bdf1-01adf293670f?syn-25a6b1a6=1",
-   "summary": "ドローン攻撃で供給が減り、広範な品不足につながった後、出荷はモスクワが直面している危機を浮き彫りにしている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-23T13:00:20+09:00",
-   "lang": "en",
-   "title_orig": "Russia forced to import fuel from India as Ukrainian strikes damage refineries"
-  },
-  {
    "title": "サムスンが新型｢Galaxy Z Fold8｣を発表､高価格でも広がる新フォームファクタ競争とアップル参入説が意味するもの | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952050?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "各社の折りたたみスマホは30万円に迫る価格設定になりつつあるが､それでも多くのユーザーに支持され始めている。熾烈な競争が始まった折りたたみ市場の現在地を読み解く。",
@@ -651,14 +685,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-23T12:50:00+09:00"
-  },
-  {
-   "title": "東京23区 中古マンション価格下落",
-   "link": "https://news.yahoo.co.jp/pickup/6589007?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-23T12:33:13+09:00"
   },
   {
    "title": "高齢社員を引き留める企業の《切実な事情》 2035年､労働力不足は384万人に達する予測…人手不足に悩む企業の本音 | キャリア・教育 | 東洋経済オンライン",
@@ -731,14 +757,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-23T11:16:30+09:00"
-  },
-  {
-   "title": "実印など「不明」上場企業、子会社株売られ、更生手続き申し立てられ",
-   "link": "https://www.asahi.com/articles/ASV7P2HGRV7PULFA01SM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-23T11:16:00+09:00"
   },
   {
    "title": "AIに聞いた｢意識高い系回答｣で転職に失敗する人の共通点　面接官が見抜く\"偽りの姿\"とは？ | キャリア・教育 | 東洋経済オンライン",
@@ -867,14 +885,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-23T08:00:00+09:00"
-  },
-  {
-   "title": "セブン 従業員らの不正転売横行か",
-   "link": "https://news.yahoo.co.jp/pickup/6588970?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-23T07:33:44+09:00"
   },
   {
    "title": "ジョン・ポールソン氏、現在は金の長期強気相場の初期段階にあると語る",
@@ -1055,14 +1065,6 @@
    "published": "2026-07-22T14:56:00+09:00"
   },
   {
-   "title": "ソウル株が6％上昇、サイドカー発動 米決算控えＡＩ関連に買い - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SVkg4Qk41UWtXNHMxOEpMdjZRMngxc2ZqeGFYc0VwV1Y1dndMOC1mOUNOWTFnZ1JEVzlNRmJJRDhGOEVmZjF5cHRPV3l4NDF3bEE5OGx3V3E0bm1tUVB0OG4xWlRfbWZuRzI4THRTUlNXZGtpQm14WA?oc=5",
-   "summary": "ソウル株が6％上昇、サイドカー発動 米決算控えＡＩ関連に買い&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-22T14:41:00+09:00"
-  },
-  {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年7月22日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260722.htm",
    "summary": "",
@@ -1077,14 +1079,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-22T12:35:00+09:00"
-  },
-  {
-   "title": "マクロスコープ：163円の衝撃、政府内に動揺と手詰まり感 「介入ハードル」の指摘も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Vc3Bad21TQ2VrVGhIbHl1VlQ5WjQ2X3ZwTjh5MlFobElVMFVNSU53dFQwQWVHMWJCSHFDcENyVi1kMzMzWWpqdmNOX2ZUZE5MTWV3RHJaMTFaOVAtNVpzVno3b3c0N0VJaW9tNDh5THpQeU0tYlJvOQ?oc=5",
-   "summary": "マクロスコープ：163円の衝撃、政府内に動揺と手詰まり感 「介入ハードル」の指摘も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-22T12:09:00+09:00"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年7月22日公表）",
@@ -1249,16 +1243,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-22T00:00:00+09:00"
-  },
-  {
-   "title": "米国とイランの戦争が再び激化すると、株式市場と経済のこれらの部分が影響を受ける可能性がある",
-   "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-   "summary": "投資家やエコノミストは、最近の敵対行為が経済全体にとって何を意味するのかを議論している。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-21T23:37:08+09:00",
-   "lang": "en",
-   "title_orig": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected"
   },
   {
    "title": "調達,令和７年度における環境物品等の調達実績の概要について公表しました。",
