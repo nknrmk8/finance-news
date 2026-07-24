@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T16:04:46.784583+09:00",
+ "generated_at": "2026-07-24T18:29:49.375307+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,7 +61,39 @@
  "errors": [],
  "items": [
   {
-   "title": "「地域活性化取組辞典」について公表しました。",
+   "title": "その他,つみたて投資枠対象商品の概要を更新しました。",
+   "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+   "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-25T02:00:00+09:00"
+  },
+  {
+   "title": "「資産運用サービスの高度化に向けたプログレスレポート2026」について公表しました。",
+   "link": "https://www.fsa.go.jp/policy/pjlamc/20260724/20260724.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-25T02:00:00+09:00"
+  },
+  {
+   "title": "「金融分野における個人情報保護に関するガイドライン」の一部改正（案）に対する意見募集の結果等について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/sonota/20260724/20260724.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-25T02:00:00+09:00"
+  },
+  {
+   "title": "「金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/sonota/20260724-2/20260724.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-07-25T02:00:00+09:00"
+  },
+  {
+   "title": "「地域活性化取組事典」について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20260724/20260724.html",
    "summary": "",
    "source": "金融庁",
@@ -77,12 +109,264 @@
    "published": "2026-07-24T23:00:00+09:00"
   },
   {
+   "title": "物価高続き「恐怖の夏休み」の声も 6月の消費者物価指数は",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184761000.html",
+   "summary": "先月、6月の全国の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が2025年の同じ月より1.6％上昇しました。上昇率は5月から0.2ポイント拡大しました。物価高の影響で生活の苦しさが増す中、経済的に困窮している子育て世帯を対象に夏休みの影響をNPO法人が調査したところ、食事やエアコンの費用が家計の大きな負担となっている実態が浮かびました。「恐怖の夏休み」という声も寄せられたということ",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T18:22:29+09:00"
+  },
+  {
+   "title": "プルデンシャル生命など 新たに7億9000万円の不適切受領判明",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185381000.html",
+   "summary": "社員が顧客から金銭をだまし取るなど、およそ31億円にのぼる不適切な金銭の受領が明らかになっているプルデンシャル生命は、顧客からの申し出を受けて調査した結果、同じグループのジブラルタ生命とあわせて、新たに125人の顧客から7億9000万円を不適切に受領していたと発表しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T18:10:25+09:00"
+  },
+  {
+   "title": "スーパーのコメ平均価格 5キロ3373円 4週連続値下がり",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185441000.html",
+   "summary": "農林水産省によりますと、全国のスーパーで今月19日までの1週間に販売されたコメの平均価格は、5キロあたり税込み3373円と前の週より30円下がりました。値下がりは4週連続です。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T18:03:20+09:00"
+  },
+  {
+   "title": "マーティン・ショートの亡き娘のハリウッドの自宅が180万ドルで上場",
+   "link": "https://www.marketwatch.com/story/hollywood-home-of-martin-shorts-late-daughter-is-listed-for-1-8-million-632e4a12?mod=mw_rss_topstories",
+   "summary": "マーティン・ショートの娘キャサリンが亡くなったカリフォルニアの家が、彼女の死後わずか5か月で売りに出されています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-24T18:03:00+09:00",
+   "lang": "en",
+   "title_orig": "Hollywood home of Martin Short’s late daughter is listed for $1.8 million"
+  },
+  {
+   "title": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
+   "summary": "アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に、日本時間の24日午後1時すぎ、新たな追加関税を発動しました。日本からの輸入品には、既存の関税率とあわせて12.5％の関税を課すとしています。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T18:00:15+09:00"
+  },
+  {
+   "title": "原油輸入量、8月も前年並み確保へ　中東の代替調達ルートはリスクも",
+   "link": "https://www.asahi.com/articles/ASV7S2HW7V7SULFA013M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T18:00:00+09:00"
+  },
+  {
+   "title": "ニチレイ サイバー攻撃によるシステム障害から復旧 業務正常化",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185471000.html",
+   "summary": "サイバー攻撃によるシステム障害が発生した冷凍食品大手の「ニチレイ」は、24日、倉庫からの出庫や冷凍食品の出荷業務がすべて復旧し、攻撃を受ける前の状態に業務が正常化したと発表しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T17:59:39+09:00"
+  },
+  {
+   "title": "原油高再燃、東京市場「トリプル安」円安進み1ドル=163円台後半",
+   "link": "https://www.asahi.com/articles/ASV7S2RR9V7SULFA01SM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T17:49:17+09:00"
+  },
+  {
+   "title": "原油価格が100ドルを下回る中、米国先物相場は安定",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-stabilize-as-oil-falls-below-100-d29d1d88?mod=rss_markets_main",
+   "summary": "米国とイランの間で新たな一晩のエスカレーションがなかったため、投資家らは指導者らが合意を求めていることを期待しているため、世界の石油ベンチマークの上昇は止まった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-24T17:30:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Futures Stabilize as Oil Falls Below $100"
+  },
+  {
+   "title": "今日の株式市場: ダウ先物は上昇、ブレントは下落",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-24-2026?mod=rss_markets_main",
+   "summary": "原油価格下落と株式先物価格の上昇により、市場は激動の週を経て安定している",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-24T17:27:15+09:00",
+   "lang": "en",
+   "title_orig": "Stock Market Today: Dow Futures Edge Higher, Brent Slips"
+  },
+  {
+   "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年7月24日(金曜日))",
+   "link": "https://www.mof.go.jp/public_relations/conference/my20260724.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-07-24T17:20:00+09:00"
+  },
+  {
+   "title": "土用のうしの日を前にスーパーでうなぎ販売強化の動き",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185241000.html",
+   "summary": "ことしはうなぎの稚魚が豊漁で仕入れ価格が下がっていることから、土用のうしの日を前に、大手スーパーでは売り場を拡大したり、割安な商品の販売を強化したりしています。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T17:17:27+09:00"
+  },
+  {
+   "title": "米国の銀行認可が拒否された後、ワイズグループはタンク株を保有。フィンテックの次は何だろう。",
+   "link": "https://www.marketwatch.com/story/wise-group-shares-tank-after-u-s-bank-charter-rejected-whats-next-for-the-fintech-91be430f?mod=mw_rss_topstories",
+   "summary": "英国に本社を置き、米国に上場しているフィンテック企業であるワイズ・グループの国立銀行認可申請が却下されたため、金曜日、ワイズ・グループの株価は最大11％下落した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-24T17:06:00+09:00",
+   "lang": "en",
+   "title_orig": "Wise Group shares tank after U.S. bank charter rejected. What’s next for the fintech."
+  },
+  {
+   "title": "地銀がひた走る｢不動産融資｣の急膨張に金融庁と日銀が警鐘！ 問われる歪んだリスク管理 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/952422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "好調な決算に沸く地銀ですが､その裏で金融庁と日銀が不動産融資への警戒を強めています。背景にあるのは大都市圏への｢越境融資｣と甘いリスク管理です。膨張する不動産融資に迫りくるリスクの実態に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-24T17:01:00+09:00"
+  },
+  {
+   "title": "59行が最高益連発の陰で…｢わが世の春｣の銀行業界を襲う\"預金流出\"､くすぶる5つの火種 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/952418?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "最高益連発で｢わが世の春｣を謳歌する銀行業界。しかし､その熱狂の陰で｢預金流出｣という深刻なリスクが忍び寄っています。好業績の裏に潜む｢5つの火種｣とは何でしょうか。激変する銀行の知られざる危機に迫…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-24T17:00:00+09:00"
+  },
+  {
+   "title": "世銀 中国への融資を段階的に廃止",
+   "link": "https://news.yahoo.co.jp/pickup/6589149?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-24T16:52:42+09:00"
+  },
+  {
+   "title": "株価 一時2200円超値下がり 原油価格上昇やAIへの過剰投資懸念",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184971000.html",
+   "summary": "24日の東京株式市場、イラン情勢を受けて原油価格が上昇したことに加え、AIに対する過剰投資の懸念が強まり、日経平均株価は、一時、2200円以上値下がりしました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T16:52:20+09:00"
+  },
+  {
+   "title": "日経平均株価は2.3％下落、ハイテク株、チップ株に牽引される",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-3-dragged-by-tech-chip-stocks-4b55c44c?mod=rss_markets_main",
+   "summary": "エネルギーコストの上昇に対する懸念が改めて高まる中、日本株は序盤の取引で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-24T16:44:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 2.3%, Dragged by Tech, Chip Stocks"
+  },
+  {
+   "title": "ドル高とFRB利上げ見通しで金下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-on-stronger-dollar-fed-rate-hike-prospects-71b26469?mod=rss_markets_main",
+   "summary": "金は初期のアジア貿易で下落した。 XMによると、今週のドルの反発はイエローメタルに追いついたという。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-24T16:42:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Declines on Stronger Dollar, Fed Rate Hike Prospects"
+  },
+  {
+   "title": "日本政策金融公庫副総裁、元職員逮捕で「心よりおわび」特別委設置",
+   "link": "https://www.asahi.com/articles/ASV7S257KV7SULFA01FM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T16:30:00+09:00"
+  },
+  {
+   "title": "原油価格が5月以来初めて100ドルに到達",
+   "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
+   "summary": "紅海でのサウジアラビアのタンカーに対するフーシ派による攻撃で、エネルギー供給がさらに圧迫される恐れがある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-24T16:26:44+09:00",
+   "lang": "en",
+   "title_orig": "Oil hits $100 for first time since May"
+  },
+  {
+   "title": "【きょうのおはBiz 7月24日(金)】どうなる原油価格【解説】",
+   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184911000.html",
+   "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T16:22:44+09:00"
+  },
+  {
+   "title": "コメの民間在庫 適正量を大幅超過",
+   "link": "https://news.yahoo.co.jp/pickup/6589152?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-24T16:19:28+09:00"
+  },
+  {
+   "title": "ブレント原油、紅海海運リスクを回避して週間12%上昇へ",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-2971174b?mod=rss_markets_main",
+   "summary": "ブレント原油は木曜日に1バレル＝100ドルを超えて落ち着いた後、若干下落したが、毛皮への懸念から価格は週間で12％以上上昇する軌道を保った。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-24T16:16:00+09:00",
+   "lang": "en",
+   "title_orig": "Brent Crude Headed for 12% Weekly Gain on Red Sea Shipping Risks"
+  },
+  {
+   "title": "総務省がグーグルやXなど5社に勧告　情プラ法に基づく報告に不備",
+   "link": "https://www.asahi.com/articles/ASV7S0CVRV7SULFA007M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T16:14:48+09:00"
+  },
+  {
+   "title": "国債は小幅安、米国債の下落に追随",
+   "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-f3e6bacb?mod=rss_markets_main",
+   "summary": "昨晩の米国債の価格下落に追随し、日本国債は午前の東京取引で小幅安となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-24T16:08:00+09:00",
+   "lang": "en",
+   "title_orig": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys"
+  },
+  {
+   "title": "円は40年ぶり安値付近で定着ドル、さらに下落する可能性がある",
+   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-near-40-year-low-vs-dollar-may-weaken-further-cc2a60ae?mod=rss_markets_main",
+   "summary": "アナリストらは、円は対ドルで４０年ぶり安値付近で堅調となっており、さらに円安が進む可能性があると指摘した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-24T16:06:00+09:00",
+   "lang": "en",
+   "title_orig": "Yen Consolidates Near 40-Year Low Vs. Dollar, May Weaken Further"
+  },
+  {
+   "title": "サントリー、インドでウイスキー攻勢　鳥井社長「攻めない手はない」",
+   "link": "https://www.asahi.com/articles/ASV7Q1V57V7QULFA017M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T16:00:00+09:00"
+  },
+  {
    "title": "金融システムレポート別冊「2025年度の銀行・信用金庫決算」",
    "link": "http://www.boj.or.jp/research/brp/fsr/fsrb260724.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-07-24T16:00:00+09:00"
+  },
+  {
+   "title": "日銀、7月会合で政策金利据え置きの公算大　利上げ路線維持の見込み",
+   "link": "https://www.asahi.com/articles/ASV7R1CGQV7RULFA02WM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-24T15:54:10+09:00"
   },
   {
    "title": "ロシア最大のオンライン小売業者がウクライナのドローン戦争の標的に",
@@ -155,7 +439,7 @@
    "published": "2026-07-24T15:11:53+09:00"
   },
   {
-   "title": "SNS上の不適切投稿めぐり総務省が事業者5社に勧告",
+   "title": "SNS上の不適切投稿めぐりグーグルやXなど5社に勧告 総務省",
    "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185231000.html",
    "summary": "総務省は、SNS上の不適切な投稿に対する運営事業者の対応について、事業者側が公表した内容が不十分だったとして、グーグルやXなど合わせて5社に勧告を行ったと発表しました。",
    "source": "NHK 経済",
@@ -187,16 +471,6 @@
    "published": "2026-07-24T15:00:00+09:00"
   },
   {
-   "title": "国債は小幅安、米国債の下落に追随",
-   "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-f3e6bacb?mod=rss_markets_main",
-   "summary": "昨晩の米国債の価格下落に追随し、日本国債は午前の東京取引で小幅安となった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-24T14:58:00+09:00",
-   "lang": "en",
-   "title_orig": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys"
-  },
-  {
    "title": "プルデンシャル被害、さらに拡大　125人が詐取などで7.9億円",
    "link": "https://www.asahi.com/articles/ASV7S1HMWV7SULFA001M.html?ref=rss",
    "summary": "",
@@ -221,38 +495,12 @@
    "published": "2026-07-24T13:35:15+09:00"
   },
   {
-   "title": "原油価格が5月以来初めて100ドルに到達",
-   "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
-   "summary": "紅海でのサウジアラビアのタンカーに対するフーシ派による攻撃で、エネルギー供給がさらに圧迫される恐れがある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-24T13:33:50+09:00",
-   "lang": "en",
-   "title_orig": "Oil hits $100 for first time since May"
-  },
-  {
    "title": "リニア開業時期「年内に示す」　JR東海丹羽社長、金子国交相に",
    "link": "https://www.asahi.com/articles/ASV7S14JCV7SULFA00WM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-24T13:26:18+09:00"
-  },
-  {
-   "title": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
-   "summary": "アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に、日本時間の24日午後1時すぎ、新たな追加関税を発動しました。日本からの輸入品には、既存の関税率とあわせて12.5％の関税を課すとしています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T13:22:58+09:00"
-  },
-  {
-   "title": "6月の消費者物価 生鮮食品除く指数 前年比+1.6％",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184761000.html",
-   "summary": "6月の全国の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より1.6％上昇しました。上昇率は5月から0.2ポイント拡大しました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T13:21:36+09:00"
   },
   {
    "title": "PayPayとセブン＆アイが利用者のID統合へ調整",
@@ -269,14 +517,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-24T13:10:00+09:00"
-  },
-  {
-   "title": "対日関税、上限１２．５％で発動　軽減措置を明記、「看板政策」継続―１０％代替関税が失効・米政府",
-   "link": "https://www.jiji.com/jc/article?k=2026072400366&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-24T13:09:00+09:00"
   },
   {
    "title": "金融キャンディフロスの時代へようこそ",
@@ -313,14 +553,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-24T12:59:42+09:00"
-  },
-  {
-   "title": "株価 一時2000円以上値下がり 原油価格上昇と円安で",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184971000.html",
-   "summary": "24日の東京株式市場、イラン情勢を受けて原油価格が上昇したことに加え円安の進行で企業業績に与える影響に懸念が広がり、日経平均株価は、一時、2000円以上値下がりしています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T12:50:09+09:00"
   },
   {
    "title": "酒税改正「ビール選び」に影響は",
@@ -405,16 +637,6 @@
    "published": "2026-07-24T12:00:00+09:00"
   },
   {
-   "title": "日経平均株価は2.3％下落、ハイテク株、チップ株に牽引される",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-3-dragged-by-tech-chip-stocks-4b55c44c?mod=rss_markets_main",
-   "summary": "エネルギーコストの上昇に対する懸念が改めて高まる中、日本株は序盤の取引で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-24T11:56:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Falls 2.3%, Dragged by Tech, Chip Stocks"
-  },
-  {
    "title": "6月消費者物価1.6%上昇　食料3.2%上昇、コメは8.7%下落",
    "link": "https://www.asahi.com/articles/ASV7S0RYKV7SULFA00NM.html?ref=rss",
    "summary": "",
@@ -465,38 +687,12 @@
    "published": "2026-07-24T11:29:39+09:00"
   },
   {
-   "title": "日経平均、一時2000円超安　原油高による米株安が波及",
-   "link": "https://www.asahi.com/articles/ASV7S0PWVV7SULFA00PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T11:20:12+09:00"
-  },
-  {
-   "title": "円は40年ぶり安値付近で定着ドル、さらに下落する可能性がある",
-   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-near-40-year-low-vs-dollar-may-weaken-further-cc2a60ae?mod=rss_markets_main",
-   "summary": "アナリストらは、円は対ドルで４０年ぶり安値付近で堅調となっており、さらに円安が進む可能性があると指摘した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-24T11:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Yen Consolidates Near 40-Year Low Vs. Dollar, May Weaken Further"
-  },
-  {
    "title": "なぜZ世代は｢映え画像｣に飽きたのか？ 完成形よりプロセスに共感する｢コト映え｣の実態 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "SNSやAI技術の進化で｢映える写真｣が溢れる時代､Z世代は完成形よりも｢やっている瞬間｣の楽しさに価値を見出し始めています。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-24T11:15:00+09:00"
-  },
-  {
-   "title": "今夏のウナギは「例年になくお買い得」　稚魚の豊漁で1～2割安に",
-   "link": "https://www.asahi.com/articles/ASV7R2SJDV7RUTIL011M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T11:00:00+09:00"
   },
   {
    "title": "アップルが箱からプラスチックを消すまでの10年､開封体験を変えなかった執念と日本の技術 | ビジネス | 東洋経済オンライン",
@@ -547,14 +743,6 @@
    "published": "2026-07-24T10:20:00+09:00"
   },
   {
-   "title": "総務省がグーグルやXなど5社に勧告　情プラ法に基づく報告に不備",
-   "link": "https://www.asahi.com/articles/ASV7S0CVRV7SULFA007M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T10:17:27+09:00"
-  },
-  {
    "title": "《海外旅行代は\"教育費\"》子どもとの夏休みが200％有意義になる｢旅行前のひと工夫｣とは？ | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/950693?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "せっかくの家族旅行なのに､子どもは楽しくなさそう――そんな経験はありませんか？旅は子どもに新しい価値観との出会いをもたらす大きなチャンスです。親子で心に残る旅行体験を作るには､どんな工夫が必要なので…",
@@ -587,42 +775,12 @@
    "published": "2026-07-24T10:00:00+09:00"
   },
   {
-   "title": "投資家はテクノロジー支出の暴走に狙いを定め、AI貿易に打撃を与える",
-   "link": "https://www.wsj.com/finance/stocks/investors-zero-in-on-runaway-tech-spending-putting-dent-in-ai-trade-1da74e98?mod=rss_markets_main",
-   "summary": "人工知能への支出に対する懸念により、木曜日の『マグニフィセント・セブン』の市場価値は約8,900億ドル減少した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-24T10:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Investors Zero In on Runaway Tech Spending, Putting Dent in AI Trade"
-  },
-  {
-   "title": "原油価格が急騰し、経済と共和党の中期的期待を脅かす",
-   "link": "https://www.wsj.com/business/energy-oil/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-73df238a?mod=rss_markets_main",
-   "summary": "世界の指標が100ドルを超えると株価は下落し、米国債利回りはトランプ大統領2期目の最高水準に達した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-24T10:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes"
-  },
-  {
-   "title": "AIは道具？それとも友人？　利用率高い海外では日本と認識に違い",
-   "link": "https://www.asahi.com/articles/ASV7R2V53V7RULFA00SM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
+   "title": "中東情勢で価格転嫁が加速、ＧＤＰギャップ下押し可能性も＝経済財政白書 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qZ2VMN1RzTV9hMHVFSUVQNUVJSko0UUpISXZRRGcwMngzU2hGOW5qbGt0bjgwLXhsaE5hbFo0b00ydjNQTjNLLTBQZWQxdkdCODFXT3FNOHN5RkpsdVRmdTZERnV6WnMzN1NvQldDWGs1c1VvZW5vUWVpUFVtdw?oc=5",
+   "summary": "中東情勢で価格転嫁が加速、ＧＤＰギャップ下押し可能性も＝経済財政白書&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-07-24T09:58:46+09:00"
-  },
-  {
-   "title": "ドル高とFRB利上げ見通しで金下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-on-stronger-dollar-fed-rate-hike-prospects-71b26469?mod=rss_markets_main",
-   "summary": "金は初期のアジア貿易で下落した。 XMによると、今週のドルの反発はイエローメタルに追いついたという。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-24T09:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Declines on Stronger Dollar, Fed Rate Hike Prospects"
+   "published": "2026-07-24T09:58:00+09:00"
   },
   {
    "title": "アメリカ財務省 “円相場の過度な変動 望ましくない”",
@@ -649,14 +807,6 @@
    "published": "2026-07-24T09:24:00+09:00"
   },
   {
-   "title": "トランプ政権が新しい関税を発動　日本への影響、今後どうなる",
-   "link": "https://www.asahi.com/articles/ASV7R7RPBV7RUHBI002M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T09:21:59+09:00"
-  },
-  {
    "title": "コラム：個人向け国債は現実的か、待機資金の流出を抑える一手とは＝唐鎌大輔氏 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUhzeENEbGNnY2ppd0dkUnJ2dFNhZVFUTTF3NXF5Zkp5Y2ptVnZHWGZEcDY2dTJNZ2pUQkx1eFBFRXg1NVhiT2FZTlJwNHhreWRMRU1TcEpnMkV4eV9kRloyQ1pLcDd1VjI0RXhuMjhBcmlsZ0doRWJkOTlXcFZ6dDF4N29pbHd4?oc=5",
    "summary": "コラム：個人向け国債は現実的か、待機資金の流出を抑える一手とは＝唐鎌大輔氏&nbsp;&nbsp;ロイター",
@@ -675,38 +825,12 @@
    "title_orig": "Intel shares rally after chipmaker posts fastest growth in 15 years"
   },
   {
-   "title": "｢暑すぎるのでつけ麺専門にします｣　行列ラーメン店で続々と｢酷暑対策｣が実施。｢メニュー特化｣｢車待機OK｣創意工夫の実態 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952317?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "異常気象が日常となる中､ラーメン店が夏季限定でつけ麺専門営業へとシフトする衝撃の決断が話題です。行列対策･予約システムの導入など､酷暑対策の実態をお伝えします。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-24T09:00:00+09:00"
-  },
-  {
-   "title": "大手銀行が商業用不動産融資に再び参入",
-   "link": "https://www.wsj.com/finance/banking/big-banks-are-wading-back-into-commercial-real-estate-lending-07faec10?mod=rss_markets_main",
-   "summary": "投資家やアナリストはデフォルトの波が来ると警告しており、金融業者はほんの数年前までこのカテゴリーを避けていた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-24T09:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Big Banks Are Wading Back Into Commercial Real-Estate Lending"
-  },
-  {
    "title": "ＥＵ、対ロ制裁第21弾を承認 銀行や暗号資産網などに照準 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFVIaFNYM3M3RWlmTXlHNGNWY0VTeWlaeUdNVUVDNWlJVWlKVzdtZHFVUnE5MGN6Ry1FLXM1LV9wMEFNNmVveVJuSjJNZEJwbnRrN1dKa0JuZjlXczlSRWltcmhJamUtNG1lbWhlbk1NVTdpRnBDMy1WRTFzZi01Yw?oc=5",
    "summary": "ＥＵ、対ロ制裁第21弾を承認 銀行や暗号資産網などに照準&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-24T08:55:44+09:00"
-  },
-  {
-   "title": "いよぎんHDと愛媛銀が経営統合へ、来年4月にも　預金量約10兆円",
-   "link": "https://www.asahi.com/articles/ASV7R51VZV7RULFA025M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T08:54:52+09:00"
   },
   {
    "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
@@ -725,14 +849,6 @@
    "published": "2026-07-24T08:43:00+09:00",
    "lang": "en",
    "title_orig": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next."
-  },
-  {
-   "title": "｢関学入学でも幸福度はゼロだった｣学歴への執着と自己嫌悪で\"負の4年\"を過ごした彼女が早稲田再受験で手放した呪縛〈再配信〉 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951175?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "浪人を経験する若者が減る現代。それでもなお､関西学院大学卒業後に再受験し､早稲田大学へと挑戦した朴さんの歩みは､｢悔しさ｣や｢自己嫌悪｣といった葛藤に満ちていました。（※読者の反響が大きかった記事を…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-24T08:30:00+09:00"
   },
   {
    "title": "ChatGPT広告、配信1カ月で「出稿済み」が31.1%　運用における懸念は？",
@@ -873,26 +989,6 @@
    "title_orig": "The stock market’s calm is cracking. Here’s how to prepare for an August shock."
   },
   {
-   "title": "トランプ大統領は新たな追加関税を発動した。最新の料金はこちらです。",
-   "link": "https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories",
-   "summary": "ドナルド・トランプ大統領とジェイミソン・グリア米通商代表部は木曜日、関税発動という新たな動きを見せている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-24T06:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Trump rolls out a new wave of tariffs. Here are the latest rates."
-  },
-  {
-   "title": "新たなAIの脅威が収益の影に影を落とし、ServiceNowの株価が下落",
-   "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
-   "summary": "ServiceNow の業績の好調は AI の勢いが加速していることを証明しましたが、OpenAI Presence の立ち上げによりエンタープライズ ソフトウェアの混乱に対する懸念が再燃しました",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-24T06:41:00+09:00",
-   "lang": "en",
-   "title_orig": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat"
-  },
-  {
    "title": "ＮＹ外為市場＝ドル、164円台目前 1986年11月以来のドル高・円安水準 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vR0k1R3J5QTBSQ0Y4ZThTd1Y1M2ljcXd6N3JKRG9jMENNQnBza3kxVHI1b3RIWmRZT0pVTElnd2s3Ykl1NDFETUxPQ1dveDVlZFp1MkJ5OVdRSHZJXy1Rbl84b2d4ZWVXWTJYVkY1bkRVZi1ZZWxCbw?oc=5",
    "summary": "ＮＹ外為市場＝ドル、164円台目前 1986年11月以来のドル高・円安水準&nbsp;&nbsp;ロイター",
@@ -909,14 +1005,6 @@
    "published": "2026-07-24T05:58:09+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more"
-  },
-  {
-   "title": "米トランプ政権の10％関税措置 24日に失効 新関税の判断焦点",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184451000.html",
-   "summary": "アメリカのトランプ政権が日本を含む幅広い国や地域に課している10％の追加関税が、日本時間の24日午後1時すぎに失効する見通しです。トランプ政権は早ければ23日にも新たな関税措置を公表する方針で、日本からの輸入品について関税率の上限を定めた去年の日米合意が順守されるかが焦点となります。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T05:32:28+09:00"
   },
   {
    "title": "2027年卒の初任給、約9割の企業が引き上げ　平均支給額は？",
@@ -937,14 +1025,6 @@
    "title_orig": "Odds of Federal Reserve rate hike surge as oil prices rip higher"
   },
   {
-   "title": "NY原油 一時1バレル93ドル台に 約1か月半ぶりの高値水準",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184701000.html",
-   "summary": "23日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝93ドル台まで値上がりし、先月中旬以来、およそ1か月半ぶりの高値水準となりました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T04:31:16+09:00"
-  },
-  {
    "title": "近視眼的な株式市場はもはや戦争を無視できない：「100ドルの石油を無視するのはあまりにも難しい」",
    "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
    "summary": "米国とイランの戦争が再び激化する中、株価は横ばいを続けていたが、木曜日には原油価格が1バレル＝100ドルを超えたことを受けて下落した。",
@@ -955,16 +1035,8 @@
    "title_orig": "Short-sighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'"
   },
   {
-   "title": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184691000.html",
-   "summary": "23日のニューヨーク外国為替市場では、中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円90銭台後半まで値下がりし、164円に迫りました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T03:47:41+09:00"
-  },
-  {
    "title": "トランプ大統領とサウジアラビアの疑わしい核合意",
-   "link": "https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a",
+   "link": "https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a?syn-25a6b1a6=1",
    "summary": "濃縮に関する「金本位制」のセーフガードが欠如した協定は、核拡散のリスクを伴うだろう",
    "source": "Financial Times",
    "category": "海外金融",
@@ -991,14 +1063,6 @@
    "published": "2026-07-24T02:00:00+09:00"
   },
   {
-   "title": "EUがグーグルに制裁金 検索サイトで公正な競争妨害として",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184651000.html",
-   "summary": "EU＝ヨーロッパ連合は、アメリカのIT大手グーグルが検索サイトで自社のサービスを優先して表示させて、デジタル市場での公正な競争を妨げたなどとして、日本円で1600億円余りの制裁金を科したと発表しました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T01:47:39+09:00"
-  },
-  {
    "title": "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260723/20260723.html",
    "summary": "",
@@ -1007,28 +1071,12 @@
    "published": "2026-07-24T00:00:00+09:00"
   },
   {
-   "title": "愛媛県「いよぎんHD」と「愛媛銀行」経営統合に向け最終調整",
-   "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
-   "summary": "愛媛県の地方銀行、「伊予銀行」を傘下にもつ「いよぎんホールディングス」と同じ県内の「愛媛銀行」が経営統合に向けて最終調整を進めていることがわかりました。人口減少などを背景に預金や取引先を獲得するための競争が激しくなる中、地域での金融サービスを強化するねらいがあるとみられます。",
-   "source": "NHK 経済",
+   "title": "米国株式市場・午前＝ナスダック500ポイント安、ＡＩ投資懸念でハイテク株に売り - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGtHNG44Q2lMTUg5YWFfYU43MVFnLWFEeVQyY1B5NldjLTdnTUNZUFdPVEJHUk9GbkVneTI1ZVZ0dUtidmg1VjVGQmtUcnAzS1NlMnNIRWZFYVNXSEw3ZVlLcndKRFNjZDV3dE1ESTl3UUJpOWliV190dDAzWnYzaA?oc=5",
+   "summary": "米国株式市場・午前＝ナスダック500ポイント安、ＡＩ投資懸念でハイテク株に売り&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-07-23T23:58:27+09:00"
-  },
-  {
-   "title": "セブン従業員が不正転売 法的には",
-   "link": "https://news.yahoo.co.jp/pickup/6589081?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-23T23:12:27+09:00"
-  },
-  {
-   "title": "愛媛2行 経営統合に向け最終調整",
-   "link": "https://news.yahoo.co.jp/pickup/6589080?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-23T23:10:00+09:00"
+   "published": "2026-07-23T23:51:47+09:00"
   },
   {
    "title": "永谷園「モコモコ」12年ぶり復活",
@@ -1089,22 +1137,6 @@
    "published": "2026-07-23T15:33:00+09:00"
   },
   {
-   "title": "ゴールドマン、第4四半期ブレント原油予測を80ドルに据え置き - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZeTNuZUxydzVoUUV2SUg1SUl0cjNwZExfWGJXVjFJNUpfaG9ybE50azd2NnBWOXQ0enctalE4OFhXM2tEU1I4NjlzSWdGNG81cTZEY1BPb05RQnVCZFc1QkYyRVhXQ3psYm1saTZEbFJxXzk4b1pSOQ?oc=5",
-   "summary": "ゴールドマン、第4四半期ブレント原油予測を80ドルに据え置き&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-23T14:51:00+09:00"
-  },
-  {
-   "title": "中国タンカー2隻、フーシ派封鎖の紅海を出る サウジ産原油積載 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyX0pLU3paWW1MX1AyeHVFaVZ3OUFzMmxmTU96TlNwdC1LeVoyVk9TN1dDdHBhSXMwaEFjc052UENZM2dJV2FHb28tb0M0ZmRybHcxWkd4SnBLbnFFcU41YTBvaEFLb1g3OVhNX2gxX1JVb09nOXBiZF9R?oc=5",
-   "summary": "中国タンカー2隻、フーシ派封鎖の紅海を出る サウジ産原油積載&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-23T13:38:00+09:00"
-  },
-  {
    "title": "製造たばこの小売定価の認可",
    "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
    "summary": "",
@@ -1143,14 +1175,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-23T10:20:00+09:00"
-  },
-  {
-   "title": "公募（使用許可相手方選定）公告",
-   "link": "https://www.mof.go.jp/application-contact/procurement/koubokoukoku/index.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-07-23T09:30:00+09:00"
   },
   {
    "title": "東京ミッドタウン八重洲で「ロボット配送」始動　LINEで注文、料理をオフィスで受け取り",
@@ -1283,22 +1307,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-22T00:00:00+09:00"
-  },
-  {
-   "title": "調達,令和７年度における環境物品等の調達実績の概要について公表しました。",
-   "link": "https://www.fsa.go.jp/common/choutatu/index.html#other_Info",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-21T20:00:00+09:00"
-  },
-  {
-   "title": "コーポレートガバナンス・コード（2026年改訂版）の確定について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r7/singi/20260721.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-21T19:00:00+09:00"
   }
  ]
 }
