@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T20:34:00.276929+09:00",
+ "generated_at": "2026-07-25T21:41:21.777100+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,24 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
+   "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
+   "summary": "韓国のイ・ジェミョン（李在明）大統領は訪問先のアメリカで、エヌビディアやオープンAIなどAI関連の大手企業のCEOを前に演説し、投資を呼びかけました。このあと韓国大統領府は、半導体の生産や供給などの分野で米韓両国の企業が5年間で日本円にして155兆円規模の事業協力で合意したと発表しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-25T21:33:03+09:00"
+  },
+  {
+   "title": "SpaceXは、誰かがこの暗黙の合意を破らない限り、投資家が恐れている無線の脅威ではない",
+   "link": "https://www.marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
+   "summary": "SpaceXが独自にモバイルネットワークを構築するには、おそらく費用と時間がかかりすぎるだろう。しかし、大手無線通信事業者はそれを期待しなければならない",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-25T21:00:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement"
+  },
   {
    "title": "従来の IRA で 800 万ドルを保有しています。私たちは彼らに家を買うよう働きかけるべきでしょうか?そして税金の負担を負うべきでしょうか?",
    "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
@@ -479,16 +497,6 @@
    "title_orig": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
   },
   {
-   "title": "株式市場は30年国債利回り6％に対して全く準備ができていない",
-   "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-   "summary": "長期債券の高騰は株価の上昇を打ち消し、債券ファンドの損失をさらに拡大させるだろう。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-25T06:38:00+09:00",
-   "lang": "en",
-   "title_orig": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury"
-  },
-  {
    "title": "ワイルドマーケットウィークも落ち着きます",
    "link": "https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352?mod=rss_markets_main",
    "summary": "金曜日はボラティリティが落ち着き、株価は下落して週を終えた。",
@@ -881,14 +889,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-24T17:17:27+09:00"
-  },
-  {
-   "title": "株価 一時2200円超値下がり 原油価格上昇やAIへの過剰投資懸念",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184971000.html",
-   "summary": "24日の東京株式市場、イラン情勢を受けて原油価格が上昇したことに加え、AIに対する過剰投資の懸念が強まり、日経平均株価は、一時、2200円以上値下がりしました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T16:52:20+09:00"
   },
   {
    "title": "日銀、7月会合で政策金利据え置きへ 物価上振れリスクの警戒継続 - ロイター",
