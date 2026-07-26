@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T01:36:14.045205+09:00",
+ "generated_at": "2026-07-27T02:40:33.646105+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,36 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "意見 |中国に勝ち、AIを安全にする方法",
+   "link": "https://www.wsj.com/opinion/how-to-beat-china-and-make-ai-safe-d6abde74?mod=rss_markets_main",
+   "summary": "鍵となるのは、危険な知識を遮断しながら能力を向上させる「調整」です。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-27T02:07:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | How to Beat China and Make AI Safe"
+  },
+  {
+   "title": "ウィスコンシン州の選挙賭博に対する警告で予測市場との争いが激化",
+   "link": "https://www.wsj.com/finance/regulation/wisconsins-warning-on-election-bets-intensifies-fight-with-prediction-markets-b0923735?mod=rss_markets_main",
+   "summary": "中間選挙を前に、州規制当局とカルシのようなサイトとの間で広がる法廷闘争が激化している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-27T02:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Wisconsin’s Warning on Election Bets Intensifies Fight With Prediction Markets"
+  },
+  {
+   "title": "意見 |大不況の責任を逃れているのは誰?",
+   "link": "https://www.wsj.com/opinion/whos-dodging-blame-for-the-great-recession-46276255?mod=rss_markets_main",
+   "summary": "2008 年から 2009 年の金融危機の影響は、誰が引き起こしたのかについての誤解と同様に、今も私たちに残っています。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-27T01:49:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | Who’s Dodging Blame for the Great Recession?"
+  },
   {
    "title": "従来の IRA で 800 万ドルを保有しています。私たちは彼らに家を買うよう働きかけるべきでしょうか?そして税金の負担を負うべきでしょうか?",
    "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
@@ -350,7 +380,7 @@
    "summary": "コラム：広がる米「大衆富裕層」、消費主導経済の底力に&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-07-26T10:04:00+09:00"
+   "published": "2026-07-26T10:05:04+09:00"
   },
   {
    "title": "佐藤優氏が今後の世界情勢を鋭く読み解く！TK-HUB｢地政学の作法｣ダイジェスト動画 | キャリア・教育 | 東洋経済オンライン",
@@ -585,50 +615,12 @@
    "title_orig": "Basic Materials Roundup: Market Talk"
   },
   {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-db220057?mod=rss_markets_main",
-   "summary": "金融サービスをカバーする最新のマーケットトークで、アリアンツ、HSBC、マッコーリーなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-25T06:05:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-82413d91?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、SpaceX、Meta、Comcast の Peacock などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-25T06:02:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "和平交渉期待で石油撤退で米国株は安定",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-stabilize-as-oil-retreats-on-peace-talk-hopes-45498c16?mod=rss_markets_main",
-   "summary": "ダウ工業株30種平均は0.5％高で金曜日の取引を終了したが、S&P500種は0.1％上昇、ナスダック総合は0.6％下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-25T05:45:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Stabilize as Oil Retreats on Peace Talk Hopes"
-  },
-  {
    "title": "トランプ新関税巡り提訴、米中小企業2社「大統領権限逸脱」と主張 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JRWlVRzV2TEpjeUk3cW96RWJ6ZWpaTlVac1ZPX1V5N21lVkJfUHNQMkxUY3RpTl9wTVZWZWZFTjZ5NmhCTjluOXUzYVAzM3ZNdDdZSEV3YXkwejg3VWFWRWY5T1hSVk1rUFlhc1k5b1A0RDNCamNXYlBB?oc=5",
    "summary": "トランプ新関税巡り提訴、米中小企業2社「大統領権限逸脱」と主張&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-25T05:42:49+09:00"
-  },
-  {
-   "title": "パラマウント、ワーナー買収計画を一時停止 州政府訴訟の判断待ち - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rWG9PdU5MLXlCVE1xZTdxS2tMWkJzZVFEbnlXbDVCT0hlV0piVG5wRkFCakRrLV9ybkV2c0o4MkpLOU1aZWlNQXNleERSRXRHUGZ2ak9sNXl4dGgya1FUaVE4MF8xVzQ4ZldiSXRxN1ZvWVRZMHVHWA?oc=5",
-   "summary": "パラマウント、ワーナー買収計画を一時停止 州政府訴訟の判断待ち&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-25T05:37:44+09:00"
   },
   {
    "title": "トランプ氏、EUに新関税を課す考えを表明　グーグル制裁への報復",
@@ -653,6 +645,14 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-07-25T05:06:26+09:00"
+  },
+  {
+   "title": "トランプ氏、ＥＵのグーグル罰金を非難 米企業への「略奪」調査へ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sRXptT3lyRmVSSGoxU3VPNlAxdHJESHRnaHBMRmFVWjlZX2tfNXdvMksxTEU4RXhtS3laN3plNnlyYXA2bXZ1dEs4NWJ1RjlUeFp1bFFDQ2tHZzlueUwyUU52MjVaVDJaVW1hVHNMOEJKMHF5QWFYc3B3?oc=5",
+   "summary": "トランプ氏、ＥＵのグーグル罰金を非難 米企業への「略奪」調査へ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-25T02:36:00+09:00"
   },
   {
    "title": "その他,つみたて投資枠対象商品の概要を更新しました。",
@@ -1010,7 +1010,7 @@
    "summary": "コラム：個人向け国債は現実的か、待機資金の流出を抑える一手とは＝唐鎌大輔氏&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-07-24T09:14:27+09:00"
+   "published": "2026-07-24T09:12:00+09:00"
   },
   {
    "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
@@ -1119,24 +1119,6 @@
    "published": "2026-07-24T05:25:28+09:00",
    "lang": "en",
    "title_orig": "Odds of Federal Reserve rate hike surge as oil prices rip higher"
-  },
-  {
-   "title": "JPモルガンのレポートによると、四半期は荒かったにもかかわらず、AIをテーマにしたETFが大幅に増加していることが判明",
-   "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-   "summary": "JPモルガン・アセット・マネジメントによると、ウォール街は投資家に人工知能へのエクスポージャーを与える上場投資信託に大きく依存しているという。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-24T02:10:06+09:00",
-   "lang": "en",
-   "title_orig": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter"
-  },
-  {
-   "title": "「暗号資産関連業者におけるサイバーセキュリティの課題と対策に関する研究調査」報告書について公表しました。",
-   "link": "https://www.fsa.go.jp/policy/bgin/innovationtop.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-24T02:00:00+09:00"
   }
  ]
 }
