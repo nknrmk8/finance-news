@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T23:05:27.728656+09:00",
+ "generated_at": "2026-07-28T01:32:46.428621+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -77,14 +77,236 @@
    "published": "2026-07-28T02:00:00+09:00"
   },
   {
-   "title": "政策の不確実性が退職計画を混乱させており、アドバイザーも同様に混乱している",
-   "link": "https://www.marketwatch.com/story/policy-uncertainty-is-muddling-retirement-planning-and-advisers-are-just-as-confused-3381f10e?mod=mw_rss_topstories",
-   "summary": "市場の楽観主義が深刻な退職リスクを覆い隠している可能性がある。",
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-ce54be61?mod=rss_markets_main",
+   "summary": "金融サービスを対象とした最新のマーケットトークで、ドイツ国債、マレーシアブルサ、ピナクル・インベストメント・マネジメントに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-28T01:28:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9bfbc0f3?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、ASML、CXMT、Nvidia などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-28T01:27:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-be3e4aee?mod=rss_markets_main",
+   "summary": "自動車と輸送をカバーする最新のマーケットトークで、ヒュンダイモービス、国際コンテナターミナルサービス、CARグループなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-28T01:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-7c70bc18?mod=rss_markets_main",
+   "summary": "基本マテリアルをカバーする最新のマーケット トークで、Evolution Mining、Capricorn Metals、PT Timah などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-28T01:23:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "大手テック企業は消費者にAIブームの代償を払わせている。有権者は反発している。",
+   "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+   "summary": "州規制当局はビッグテック企業に独自の送電網増強の費用を支払わせており、伝統的な公益事業株は政治的な清算にさらされたままになっている。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-07-27T23:00:00+09:00",
+   "published": "2026-07-28T01:18:00+09:00",
    "lang": "en",
-   "title_orig": "Policy uncertainty is muddling retirement planning — and advisers are just as confused"
+   "title_orig": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back."
+  },
+  {
+   "title": "中国が注目を集める中、マイクロンやその他の半導体株が下落",
+   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
+   "summary": "CXMTは上海で好調な公開デビューを飾り、現在投資家は中国のチップを世界に先駆けて製造する可能性のある製造上の進歩の見通しを検討している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-28T01:17:00+09:00",
+   "lang": "en",
+   "title_orig": "Micron and other chip stocks fall as China steals the spotlight"
+  },
+  {
+   "title": "山火事が猛威を振るう中、フランスとスペインはさらなる猛暑に備える",
+   "link": "https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1",
+   "summary": "再び熱波が近づく中、火災は「制御には程遠い」とフランス民間治安当局が発表",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-28T01:11:47+09:00",
+   "lang": "en",
+   "title_orig": "France and Spain brace for more extreme heat as wildfires rage"
+  },
+  {
+   "title": "Amazon、モバイルサービス向け衛星コンステレーションでマスク氏のスターリンクを狙う",
+   "link": "https://www.ft.com/content/83e93ce0-1ebd-4b04-a70c-82ff7b64a5f4?syn-25a6b1a6=1",
+   "summary": "テクノロジー大手が世界的な消費者サービスを提供するために5,000基以上の衛星の打ち上げを申請",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-28T00:57:14+09:00",
+   "lang": "en",
+   "title_orig": "Amazon targets Musk’s Starlink with satellite constellation for mobile services"
+  },
+  {
+   "title": "CME、投資家がスペースXやマイクロンなどを23時間取引できる単一株先物取引を開始",
+   "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+   "summary": "CMEグループは月曜日、米国株式55銘柄の現金決済個別株先物取引と、22銘柄のマイクロサイズ契約を開始した。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-28T00:50:20+09:00",
+   "lang": "en",
+   "title_orig": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day"
+  },
+  {
+   "title": "ディオールの回復がLVMHのファッション事業の成長回復に貢献",
+   "link": "https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1",
+   "summary": "高級品大手の重要なファッションおよび革製品部門がほぼ2年ぶりに成長を取り戻した",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-28T00:50:11+09:00",
+   "lang": "en",
+   "title_orig": "Dior rebound helps LVMH’s fashion business return to growth"
+  },
+  {
+   "title": "あなたの退職後の計算には驚くべき欠陥があるかもしれません",
+   "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+   "summary": "老後の医療や住宅ショックに対する退職計画のストレステストを行ってください。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-28T00:42:00+09:00",
+   "lang": "en",
+   "title_orig": "Your retirement math may have a surprising flaw"
+  },
+  {
+   "title": "家族の介護のために給料を受け取るべきですか?",
+   "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+   "summary": "家族の介護者としての仕事は、疲れるだけではありません。経済的にも壊滅的な打撃を受ける可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-28T00:28:00+09:00",
+   "lang": "en",
+   "title_orig": "Should you get paid to care for a family member?"
+  },
+  {
+   "title": "AI ブームは衰える兆しがなく、米国経済はその恩恵を受けています",
+   "link": "https://www.marketwatch.com/story/the-ai-boom-shows-no-sign-of-slowing-and-the-u-s-economy-is-reaping-the-benefits-1728c4e5?mod=mw_rss_topstories",
+   "summary": "人工知能の構築に必要なコンピューター メモリやその他のテクノロジーに対する飽くなき需要が第 2 四半期に再び急増し、需要が急増する可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-28T00:22:00+09:00",
+   "lang": "en",
+   "title_orig": "The AI boom shows no sign of slowing — and the U.S. economy is reaping the benefits"
+  },
+  {
+   "title": "半導体ＣＸＭＴが上場初日に466％高、時価総額中国首位 バブル懸念も - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXZ1S0VsVHFyZTdCSnZvUTE3RlVfR1JjcG85SGJOLTN1UTZhOUdPSDQwUUxzOHJscnhpbGpyeV9ERmV5b3Bua1J2UFlSdTAzMGNaUkpmZ1pKc1lhT2otY0xTdU1GbEJ5VkhBNDVpWHFqQ2U3RWZfLURwSU5WQk01OQ?oc=5",
+   "summary": "半導体ＣＸＭＴが上場初日に466％高、時価総額中国首位 バブル懸念も&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-28T00:15:29+09:00"
+  },
+  {
+   "title": "大学生が「家賃の安さ」以外の理由で退職者コミュニティに移住している",
+   "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+   "summary": "学生たちは試合の計画を立てたり、体育の授業を教えたりしながら、世代間の絆を築いていますが、「ここでは7時半か8時になると、かなり静かになります。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-28T00:09:00+09:00",
+   "lang": "en",
+   "title_orig": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’"
+  },
+  {
+   "title": "この小型株戦略はビート・アンド・レイズのトレンドに乗って光る",
+   "link": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
+   "summary": "Calamos Investments の Brandon Nelson 氏は、持続可能な成長と利益率の向上に向けて準備が整っている企業を特定します。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-28T00:08:00+09:00",
+   "lang": "en",
+   "title_orig": "This small-cap stock strategy shines by riding the beat-and-raise trend"
+  },
+  {
+   "title": "フーシ派、サウジ原油輸送網を攻撃と表明 ドローン侵入への報復 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnJPS2dMODVfc0NpcUhXWHRWeEhCUHpmUU9aeDMxdWhtU0FmbmktVDdNY0dRWGwyS0gwc3UyT1F0T1hnUk5nenFUU25aUmJLLVBSSHgwWHMzSmRkTjNKam02alBJZXZsZnlENlpWZ2hfdEk5Zk9LZkk1WXl6VHF2T2VB?oc=5",
+   "summary": "フーシ派、サウジ原油輸送網を攻撃と表明 ドローン侵入への報復&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-27T23:57:45+09:00"
+  },
+  {
+   "title": "ブラジル財務相、米関税は「外部干渉」と批判 大統領選後に解決へ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oRnVoMEtHUVdVOGl4UUsxaGxvbDVHdURoa0YyY0pkdGJzbUlyaUM2VnNNLW5JRVdlVnFlSlZkMkw4NkttazBRNkRybml0QzhIRGxBckx0V1BHSXl2SFRiNUdmUG1LeWpEeGNGcGxZaUhvTEhlUGw5Sw?oc=5",
+   "summary": "ブラジル財務相、米関税は「外部干渉」と批判 大統領選後に解決へ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-27T23:51:43+09:00"
+  },
+  {
+   "title": "ニューヨーク市でアパートを探すにはブローカーを雇う必要がありますか?",
+   "link": "https://www.marketwatch.com/story/do-i-need-to-hire-a-broker-to-find-an-apartment-in-new-york-city-f5f9cf34?mod=mw_rss_topstories",
+   "summary": "「もしかしたら、一部のアパートは賃貸に出されていないか、ブローカーを利用している人たちによって募集されているのかもしれません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-07-27T23:51:00+09:00",
+   "lang": "en",
+   "title_orig": "Do I need to hire a broker to find an apartment in New York City?"
+  },
+  {
+   "title": "桐谷広人さん 前立腺と大腸にがん",
+   "link": "https://news.yahoo.co.jp/pickup/6589560?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-07-27T23:38:05+09:00"
+  },
+  {
+   "title": "アジア通貨が混在。米国とイランの紛争一時停止の兆しで強化の可能性",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-strengthen-on-signs-of-pause-in-u-s-iran-conflict-6a2c0381?mod=rss_markets_main",
+   "summary": "アジア通貨は序盤の取引では対ドルでまちまちだったが、米国とイランの紛争が一服する兆しが下支えとなる中、上昇する可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-27T23:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Asian Currencies Mixed; May Strengthen on Signs of Pause in U.S.-Iran Conflict"
+  },
+  {
+   "title": "イランと米国がホルムズ海峡の緊張を巡る攻撃を一時停止し、原油価格が下落",
+   "link": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1",
+   "summary": "2週間にわたる暴力激化で原油価格が1バレル＝100ドル以上に上昇し、ブレント原油は5％安で取引開始",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-27T23:20:38+09:00",
+   "lang": "en",
+   "title_orig": "Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions"
+  },
+  {
+   "title": "大手プレミアム クレジット カードどうやって相互に比較するのか",
+   "link": "https://www.wsj.com/finance/how-the-big-premium-credit-cards-stack-up-against-each-other-13132b90?mod=rss_markets_main",
+   "summary": "高級クレジット カード市場はかつてないほど混雑しています。 5 つのエリート カードに付属する主要な特典のガイドは次のとおりです。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-27T23:19:00+09:00",
+   "lang": "en",
+   "title_orig": "How the Big Premium Credit Cards Stack Up Against Each Other"
+  },
+  {
+   "title": "米国とイランの攻撃一時停止を受けて原油価格は下落、米国先物は上昇",
+   "link": "https://www.wsj.com/finance/stocks/oil-prices-slide-u-s-futures-rally-after-u-s-iran-pause-attacks-f6281828?mod=rss_markets_main",
+   "summary": "米国とイランが攻撃を一時停止したことで、原油価格が急落し、欧州取引序盤で米国株先物が反発し、外交進展への期待が再び高まった",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-27T23:06:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Prices Slide, U.S. Futures Rally after U.S., Iran Pause Attacks"
   },
   {
    "title": "スティーブ・アイスマンはAIに疑問を持ち始めています。 「ビッグ・ショート」投資家は主要なハイテク株を売却したばかり",
@@ -97,24 +319,12 @@
    "title_orig": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock"
   },
   {
-   "title": "モルガン・スタンレーによると、S&P 500は2021年の設定を反映している",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-is-echoing-its-2021-setup-according-to-morgan-stanley-fe4b61d0?mod=mw_rss_topstories",
-   "summary": "人工知能ツールを導入する企業が増えるにつれ、投資家は質の高い超大型株に目を向けるようになっている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-27T22:51:00+09:00",
-   "lang": "en",
-   "title_orig": "The S&P 500 is echoing its 2021 setup, according to Morgan Stanley"
-  },
-  {
-   "title": "FRBの次の動きをナビゲートするのか？なぜこれらの取引が投資家にとって最大の武器になるのか。",
-   "link": "https://www.marketwatch.com/story/navigating-the-feds-next-move-why-these-trades-may-be-an-investors-best-weapon-7a7e80c0?mod=mw_rss_topstories",
-   "summary": "シティグループのストラテジストらは、小型株を通じてタカ派的になる可能性のある連邦準備制度に対する不安から身を守ることを提案している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-27T22:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Navigating the Fed’s next move? Why these trades may be an investor’s best weapon."
+   "title": "サウジ、イラク発ドローン迎撃 イラン支援の武装組織が発射と指摘 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWxXUU5KbVJmdDE4bkhkY0NrSWNUVXFBV3hqSXNoMWNTdkFjOUs0bUNTOThXSWk2ZEhRZ2NSQUpUMmlaZzJ2OHVvVGxUbE1CTjNDX09DZHoyb0psYW04aXNxQlNFbDllR1hRMHVMS3BfNmJIUWJqTEJrZGZsRE1aa1d3?oc=5",
+   "summary": "サウジ、イラク発ドローン迎撃 イラン支援の武装組織が発射と指摘&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-27T22:54:46+09:00"
   },
   {
    "title": "ホテル高騰 「コスパ旅」に熱視線",
@@ -123,26 +333,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-07-27T22:35:28+09:00"
-  },
-  {
-   "title": "山火事が猛威を振るう中、フランスとスペインはさらなる猛暑に備える",
-   "link": "https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1",
-   "summary": "再び熱波が近づく中、火災は「制御には程遠い」とフランス民間治安当局が発表",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-27T22:29:21+09:00",
-   "lang": "en",
-   "title_orig": "France and Spain brace for more extreme heat as wildfires rage"
-  },
-  {
-   "title": "ストライキ一時停止で原油価格、1日としては2カ月ぶりの大幅下落",
-   "link": "https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories",
-   "summary": "米国がイランへの攻撃を一時停止したことを受け、月曜日、ウェスト・テキサス・インターミディエイトとブレント原油の前月契約は下落した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-27T22:27:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil prices see largest one-day declines in two months amid pause in strikes"
   },
   {
    "title": "最低賃金の目安決定、持ち越し　厚労省審議会、28日に6回目",
@@ -163,26 +353,6 @@
    "title_orig": "Oil Futures Pull Back on Break in U.S.-Iran Fighting"
   },
   {
-   "title": "米国とイランの対立が一段落し、国債利回りが低下",
-   "link": "https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195?mod=rss_markets_main",
-   "summary": "今週は米国とイランの戦闘の一時停止で始まったため、10年債と2年債の利回りは低下した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-27T22:05:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields Fall as U.S.-Iran Hostilities Take a Break"
-  },
-  {
-   "title": "戦略家のトランプ大統領の「タコス」の数式は週末の停戦で裏付けられた",
-   "link": "https://www.marketwatch.com/story/strategists-mathematical-formula-for-trumps-tacos-borne-out-by-weekend-ceasefire-9459c85d?mod=mw_rss_topstories",
-   "summary": "ホワイトハウスは債券利回りの上昇と株価下落の圧力を感じ始めていたようだ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-27T22:02:00+09:00",
-   "lang": "en",
-   "title_orig": "Strategist’s mathematical formula for Trump’s ‘TACOs’ borne out by weekend ceasefire"
-  },
-  {
    "title": "国際関係,FATFによる「暗号資産及び暗号資産サービス・プロバイダー（VASP）に係るFATF基準の実施状況についての報告書」について公表しました。",
    "link": "https://www.fsa.go.jp/inter/fatf/20260716/20260716.html",
    "summary": "",
@@ -191,14 +361,12 @@
    "published": "2026-07-27T22:00:00+09:00"
   },
   {
-   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-27T21:49:00+09:00",
-   "lang": "en",
-   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
+   "title": "最低賃金、再び持ち越し　労使に溝、２８日再協議―厚労省審議会",
+   "link": "https://www.jiji.com/jc/article?k=2026072701001&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-27T21:52:00+09:00"
   },
   {
    "title": "園経営者が園児に塩 保育士ら会見",
@@ -217,34 +385,12 @@
    "published": "2026-07-27T21:35:00+09:00"
   },
   {
-   "title": "今日 65,000 ドルを受け取りますか、それともコインを投げて 130 万ドルを獲得するチャンスがありますか?",
-   "link": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
-   "summary": "このウイルスに関する世論調査の質問に対するあなたの答えは、あなたの財政状態について多くを物語っているでしょう。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-27T21:06:00+09:00",
-   "lang": "en",
-   "title_orig": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?"
-  },
-  {
-   "title": "求人情報の給与範囲を利用してより多くの給与を得る方法は次のとおりです",
-   "link": "https://www.marketwatch.com/story/heres-how-to-use-salary-transparency-laws-to-get-paid-more-a941c75f?mod=mw_rss_topstories",
-   "summary": "バージニア州とメイン州は給与の透明性を最も強く求めている州だ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-27T21:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Here’s how to use the salary ranges in job postings to get paid more"
-  },
-  {
-   "title": "この投資家は 44 年間、長期債券ゲームのエースとして活躍しました。彼はただ折りたたんだだけだ。",
-   "link": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
-   "summary": "レイシー・ハント氏の長期国債に関する方針転換は、一つの時代の終わりを告げる。それがあなたのお金にとって何を意味するかは次のとおりです。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-07-27T21:00:00+09:00",
-   "lang": "en",
-   "title_orig": "For 44 years, this investor held aces in the long-bond game. He just folded."
+   "title": "米追加関税に「必要なあらゆる措置取る権利」　中国が「強制労働」否定し撤回要求",
+   "link": "https://www.jiji.com/jc/article?k=2026072700986&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-27T21:19:00+09:00"
   },
   {
    "title": "「食べ放題」業態 増え続ける背景",
@@ -265,52 +411,12 @@
    "title_orig": "Stocks making the biggest moves premarket: Micron Technology, Forte Biosciences, ExxonMobil, Baker Hughes & more"
   },
   {
-   "title": "KKRとブラックストーンが160億ドルのクウェート石油取引に署名",
-   "link": "https://www.wsj.com/business/energy-oil/kkr-blackstone-sign-16-billion-kuwait-oil-deal-e864ed68?mod=rss_markets_main",
-   "summary": "クウェートの石油部門を管理する企業は、ブラックストーン、ブルックフィールド、KKRが率いる投資家グループと160億ドルのリース契約を締結した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-27T20:47:00+09:00",
-   "lang": "en",
-   "title_orig": "KKR, Blackstone Sign $16 Billion Kuwait Oil Deal"
-  },
-  {
    "title": "消費減税「速やかに法案提出」　高市首相、国会閉会で記者会見",
    "link": "https://www.jiji.com/jc/article?k=2026072700557&g=pol&m=rss",
    "summary": "",
    "source": "時事通信",
    "category": "報道機関",
    "published": "2026-07-27T20:44:00+09:00"
-  },
-  {
-   "title": "アジア通貨が混在。米国とイランの紛争一時停止の兆しで強化の可能性",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-strengthen-on-signs-of-pause-in-u-s-iran-conflict-6a2c0381?mod=rss_markets_main",
-   "summary": "アジア通貨は序盤の取引では対ドルでまちまちだったが、米国とイランの紛争が一服する兆しが下支えとなる中、上昇する可能性がある。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-27T20:36:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Currencies Mixed; May Strengthen on Signs of Pause in U.S.-Iran Conflict"
-  },
-  {
-   "title": "基本的な材料のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-7c70bc18?mod=rss_markets_main",
-   "summary": "基本マテリアルをカバーする最新のマーケット トークで、Evolution Mining、Capricorn Metals、PT Timah などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-27T20:24:00+09:00",
-   "lang": "en",
-   "title_orig": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "title": "米国とイランの攻撃一時停止を受けて原油価格は下落、米国先物は上昇",
-   "link": "https://www.wsj.com/finance/stocks/oil-prices-slide-u-s-futures-rally-after-u-s-iran-pause-attacks-f6281828?mod=rss_markets_main",
-   "summary": "米国とイランが攻撃を一時停止したことで、原油価格が急落し、欧州取引序盤で米国株先物が反発し、外交進展への期待が再び高まった",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-27T20:15:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Prices Slide, U.S. Futures Rally after U.S., Iran Pause Attacks"
   },
   {
    "title": "ウクライナ、イラン、そして地域戦争がどのように世界に広がるか",
@@ -321,16 +427,6 @@
    "published": "2026-07-27T20:14:33+09:00",
    "lang": "en",
    "title_orig": "Ukraine, Iran and how regional wars go global"
-  },
-  {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-be3e4aee?mod=rss_markets_main",
-   "summary": "自動車と輸送をカバーする最新のマーケットトークで、ヒュンダイモービス、国際コンテナターミナルサービス、CARグループなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-07-27T20:13:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
   },
   {
    "title": "高市首相、「市場へのメッセージ」の重要性に言及 経済状況はインフレとも - ロイター",
@@ -347,24 +443,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-27T19:37:40+09:00"
-  },
-  {
-   "title": "アジア株式市場サマリー：引け（27日） - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2lPd0J3MUhwYTY4TFU0Y1lUckE5M0xSWWNQblhKQy1BbjlKdFBoVDZ3ZHBWUmhwbGN1dm1QcjVjRFF5dlJ2TUpFTkVqVGduVG9Jc3NaS01DZ0VxRDBfOE9EZDFCS0FkLTJhUDlpOHlQeU5Ja25pWTNuR05OWjZDVg?oc=5",
-   "summary": "アジア株式市場サマリー：引け（27日）&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-27T19:32:10+09:00"
-  },
-  {
-   "title": "イランと米国がホルムズ海峡の緊張を巡る攻撃を一時停止し、原油価格が下落",
-   "link": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1",
-   "summary": "2週間にわたる暴力激化で原油価格が1バレル＝100ドル以上に上昇し、ブレント原油は5％安で取引開始",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-27T19:29:20+09:00",
-   "lang": "en",
-   "title_orig": "Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions"
   },
   {
    "title": "卒業控える女子大学生 主婦志す訳",
@@ -389,14 +467,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-27T19:00:00+09:00"
-  },
-  {
-   "title": "半導体ＣＸＭＴ上場初日466％高、時価総額中国首位 バブル懸念も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXZ1S0VsVHFyZTdCSnZvUTE3RlVfR1JjcG85SGJOLTN1UTZhOUdPSDQwUUxzOHJscnhpbGpyeV9ERmV5b3Bua1J2UFlSdTAzMGNaUkpmZ1pKc1lhT2otY0xTdU1GbEJ5VkhBNDVpWHFqQ2U3RWZfLURwSU5WQk01OQ?oc=5",
-   "summary": "半導体ＣＸＭＴ上場初日466％高、時価総額中国首位 バブル懸念も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-27T18:50:49+09:00"
   },
   {
    "title": "中際旭創の香港上場、仮条件上限下回る公募価格提示＝関係筋 - ロイター",
@@ -489,6 +559,14 @@
    "published": "2026-07-27T16:00:00+09:00"
   },
   {
+   "title": "キヤノン、通期予想を上方修正 米関税還付・円安が寄与 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FQ2JtRVREUnFzcGZqMlJWcUlrY3M3dGE0VE0wX0tNZ0MtSHh4X3VTRjIxVlVyZXJXVDBfd1FhTWwxZ3liWi1MMXpmLTlJSmxSZ1UwTC1sRjVSWTJyWFc4Q0ZrRkFUMGszN21JOXpmZ0pucjg0NlVfMA?oc=5",
+   "summary": "キヤノン、通期予想を上方修正 米関税還付・円安が寄与&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-27T15:49:00+09:00"
+  },
+  {
    "title": "グーグル、アップルを規制するスマホ新法の効果いかに？　初の報告書",
    "link": "https://www.asahi.com/articles/ASV7W1SS9V7WULFA00PM.html?ref=rss",
    "summary": "",
@@ -503,14 +581,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-27T15:10:00+09:00"
-  },
-  {
-   "title": "皇位継承、有識者会議は不要　高市首相、暗号資産に関与否定―衆院予算委閉会中審査",
-   "link": "https://www.jiji.com/jc/article?k=2026072700245&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-07-27T15:01:00+09:00"
   },
   {
    "title": "薄氷の副首都法成立→国会無視の吉村発言→減税に逃げる高市首相… 近視眼すぎる政治家たちが突き進む大きな落とし穴 | 政治・経済・投資 | 東洋経済オンライン",
@@ -559,26 +629,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-27T13:32:00+09:00"
-  },
-  {
-   "title": "フランス、EUの50億ユーロのハイテクスタートアップ基金への英国の参加に疑問を呈",
-   "link": "https://www.ft.com/content/c9b1bdd5-a994-4a4a-b462-89aa486c2508?syn-25a6b1a6=1",
-   "summary": "英国の役割をめぐる議論は、英国とEUの「リセット」交渉中の関係の緊張を示す",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-27T13:00:14+09:00",
-   "lang": "en",
-   "title_orig": "France raises questions over UK participation in EU’s €5bn tech start-up fund"
-  },
-  {
-   "title": "ロシア制裁に対するギリシャの海運カーブアウトがEUの再考を促す",
-   "link": "https://www.ft.com/content/33c2e340-8964-4124-b0d7-21851a5d8dcb?syn-25a6b1a6=1",
-   "summary": "欧州当局者、交渉における拒否権戦術を抑制する方法を模索",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-27T13:00:14+09:00",
-   "lang": "en",
-   "title_orig": "Greek shipping carve-out on Russia sanctions prompts EU rethink"
   },
   {
    "title": "新しいプレミアム商品: 人々が書いた本",
@@ -673,14 +723,6 @@
    "published": "2026-07-27T11:52:00+09:00"
   },
   {
-   "title": "焦点：米長期金利が金融危機以来の水準目前、「語らぬ」ＦＲＢ議長で高まる不確実性 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnJiREVjdWpSQTJGMkVwVk1uSldCOHEzNjdQcEVpT1hGblBwai1NUy11MWxQYTZPaERvblZtWnpmZDBiN3ZlSnFMVjhXRmtibkhuQi1hN0p4TjNNdUxVT1RPNi1taTd0bGNydU5xSjJ5Y0prd1Y3NjZNSmszYWVsSw?oc=5",
-   "summary": "焦点：米長期金利が金融危機以来の水準目前、「語らぬ」ＦＲＢ議長で高まる不確実性&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-27T11:43:00+09:00"
-  },
-  {
    "title": "新幹線での包丁使用 JR東海見解",
    "link": "https://news.yahoo.co.jp/pickup/6589467?source=rss",
    "summary": "",
@@ -705,14 +747,6 @@
    "published": "2026-07-27T11:30:00+09:00"
   },
   {
-   "title": "中国ＣＸＭＴが470％急騰、上海上場初日 時価総額で国内首位に - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmRKUDhTUVV4ZXpDNHhma2JsdFhhaWRfcHNULWkzZ1k5TUJHa0ZOSEdubDNuVjdoUmktZGc5MENCbG1CQXlJU2lrTVdpZEJyTk5yUGk1ZmtBWnN5LXZKQ2tsbktXQXBhdGRPZ21IRE5zN3QxdUtZSTlmTllWRW9IQg?oc=5",
-   "summary": "中国ＣＸＭＴが470％急騰、上海上場初日 時価総額で国内首位に&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-27T11:29:00+09:00"
-  },
-  {
    "title": "定年後の再雇用、給料や仕事内容はどう変わる？",
    "link": "https://www.itmedia.co.jp/business/articles/2607/27/news058.html",
    "summary": "定年後に再雇用されると身分はどうなるのでしょうか。",
@@ -735,14 +769,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-27T10:30:00+09:00"
-  },
-  {
-   "title": "日銀とは緊密に連携、経済の潜在成長率強化が円の信認につながる＝高市首相 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50UlZ1M1pYVlV5RTVYRk5oOW5FTkZZdUphMTBYUGt1ellSUWQzdjVWaUxiaURyYVQ3N0gtNmc4NGJydk54STdReVJDRjVtTGRJQW5Ga1h5eWM5eVFyd3p6cUw0eFNiWm1LbUdzclQxZENYMVNlN25KSQ?oc=5",
-   "summary": "日銀とは緊密に連携、経済の潜在成長率強化が円の信認につながる＝高市首相&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-27T10:25:43+09:00"
   },
   {
    "title": "キオクシアHD株に値動き増幅のリスク､米国から｢レバETF｣の波迫る | 政治・経済・投資 | 東洋経済オンライン",
@@ -831,14 +857,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-27T08:00:00+09:00"
-  },
-  {
-   "title": "低価格帯のかつや 客離れ進む訳",
-   "link": "https://news.yahoo.co.jp/pickup/6589436?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-07-27T07:33:34+09:00"
   },
   {
    "title": "紙とiPadを1本で行き来できる､ゼブラ新発想ペンが5年かけて実現した｢切り替え不要｣の驚くべき仕組み | ライフ | 東洋経済オンライン",
@@ -1001,40 +1019,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-25T02:00:00+09:00"
-  },
-  {
-   "title": "情報セキュリティー会社 企業から相談相次ぐ ニチレイ障害受け",
-   "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185661000.html",
-   "summary": "冷凍食品大手「ニチレイ」でサイバー攻撃によるシステム障害が発生したことを受けて、都内にある情報セキュリティー会社には、企業からの相談が相次いでいます。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-25T00:10:24+09:00"
-  },
-  {
-   "title": "「地域活性化取組事典」について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260724/20260724.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-25T00:00:00+09:00"
-  },
-  {
-   "title": "経団連 夏のフォーラム 「投資けん引型経済」実現へ総括文書",
-   "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185761000.html",
-   "summary": "経団連の夏のフォーラムが閉会し、活発な国内投資を経済成長につなげる「投資けん引型経済」の実現に向けて、フィジカルAIなど国際競争力の高い分野を見極め、研究開発や普及を加速させるなどとする総括文書をとりまとめました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-24T23:14:39+09:00"
-  },
-  {
-   "title": "近視眼的な株式市場はもはや戦争を無視できない：「100ドルの石油を無視するのはあまりにも難しい」",
-   "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-   "summary": "米国とイランの戦争が再び激化する中、株価は横ばいを続けていたが、木曜日には原油価格が1バレル＝100ドルを超えたことを受けて下落した。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-24T23:10:40+09:00",
-   "lang": "en",
-   "title_orig": "Short-sighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'"
   }
  ]
 }
