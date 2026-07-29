@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T04:39:42.209189+09:00",
+ "generated_at": "2026-07-30T05:33:46.718521+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,20 +61,108 @@
  "errors": [],
  "items": [
   {
+   "title": "FRB政策金利 5会合連続で据え置き 物価動向慎重に見極めか",
+   "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190151000.html",
+   "summary": "アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、29日、政策金利を据え置くと発表しました。据え置きは5会合連続で、イラン情勢を背景にしたインフレの動向を慎重に見極めるねらいがあるものとみられます。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-07-30T05:25:27+09:00"
+  },
+  {
+   "title": "ジェフリー・ガンドラック氏は、債券市場はウォーシュ氏にFRBがインフレ対策に着手しなければならないと訴えていると語る",
+   "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+   "summary": "ガンドラック氏は、米国債カーブ全体での乖離した動きは、FRBが最終的に実行するかどうかに対する投資家の懐疑を示していると述べた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-07-30T05:22:27+09:00",
+   "lang": "en",
+   "title_orig": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation"
+  },
+  {
+   "title": "三菱UFJ銀行の過剰融資で｢生存の危機｣…主婦や会社経営者らが国連に是正勧告を申し立て､相続税対策のはずが借金地獄に | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/952886?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "申し立てをした3人およびその家族は、バブル経済の崩壊が始まった1990年に、三菱銀行（現三菱UFJ銀行）や生命保険会社などの勧めにより、相続税対策として\"融資一体型変額保険\"に加入した。融資一体型変…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-30T05:20:00+09:00"
+  },
+  {
+   "title": "利益の減少と売上高見通しの低調を受けてメタ株は下落",
+   "link": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
+   "summary": "マーク・ザッカーバーグ、巨額のAI支出で圧力を受ける",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-30T05:17:43+09:00",
+   "lang": "en",
+   "title_orig": "Meta shares drop on falling profits and weak sales forecast"
+  },
+  {
+   "title": "首都直下地震で｢建物全壊｣1万棟超も…東京都の被害想定から見えた\"全壊が多い街ランキング\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953102?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "突然の大地震は､私たちの暮らしを一瞬で変えてしまいます。もしも東京で大規模な首都直下地震が発生したら､どの地域がどれほどの被害を受けるのでしょうか。各区市町村の被害予測と現状の課題に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-30T05:15:00+09:00"
+  },
+  {
+   "title": "トランプ大統領、最近の攻撃への報復としてイランに「打撃」を与えると誓う",
+   "link": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1",
+   "summary": "ワシントンはイラン政府が中東の米軍施設に弾道ミサイルを発射したと発表した",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-07-30T05:05:27+09:00",
+   "lang": "en",
+   "title_orig": "Trump vows to deliver ‘beating’ to Iran in retaliation for latest attack"
+  },
+  {
+   "title": "焼き肉行ける?　経済効果は期待値低めか　首相が消費税1%指示へ",
+   "link": "https://www.asahi.com/articles/ASV7X1DTDV7XUTIL03VM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-07-30T05:00:00+09:00"
+  },
+  {
+   "title": "｢戦後､再開発が頓挫した｣｢かつては細木数子も働いていた｣…歴史に翻弄された街･渋谷の豊かな文化 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/949161?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢渋谷はつまらない町になった｣と言われる今､かつての多様性や独自性は本当に失われてしまったのでしょうか。歴史から紐解きます。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-30T05:00:00+09:00"
+  },
+  {
+   "title": "｢江戸時代は緑豊かな農村だった｣｢高級住宅地として分譲されかけた｣…\"つまらなくなった\"街･渋谷の意外な変遷 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/949160?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "再開発が進む渋谷。その変遷を辿ると､｢若者の街｣とされた時期はごく一部にすぎません。その変遷を追います。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-07-30T05:00:00+09:00"
+  },
+  {
+   "title": "ＦＲＢ5会合連続で金利据え置き、3人利上げ主張 議長「2％目標堅持」 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHF4Sk1lYXp1blJqbHpqNHVQdC1ENHdfbExCTGZQWlAxclo5SlhLMjZDU3BWcmZCZndIb0dsQVFucnBudF9IZWUxQXlGR0NqNTdqbzhCM3QyT2lGc3d1RDJaVWdOel96TmhhUEtpNkJULThkZmhVNjloTG9VUmFLLQ?oc=5",
+   "summary": "ＦＲＢ5会合連続で金利据え置き、3人利上げ主張 議長「2％目標堅持」&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-30T04:59:13+09:00"
+  },
+  {
+   "title": "FRBが金利を据え置く中、国債利回りは勢いを失う",
+   "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-amid-mixed-signals-dbce05cd?mod=rss_markets_main",
+   "summary": "FRBが政策金利を据え置き、反対派3名が利上げに賛成票を投じたため、国債利回りはまちまちとなった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-07-30T04:57:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields Lose Steam as Fed Holds Rates Steady"
+  },
+  {
    "title": "鉄道混雑率､前年から順位上げた｢意外な路線｣の名前 2025年度･全国の｢満員電車｣独自集計ランキング | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953030?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "国土交通省が7月28日に公表した2025年度の｢鉄道混雑率｣をもとに独自集計すると､かつての混雑ワースト常連路線や意外な路線が上位に浮上していることがわかりました。全国各地の路線の混雑率ランキングは…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-07-30T04:30:00+09:00"
-  },
-  {
-   "title": "FRB政策金利 5会合連続で据え置き 物価動向慎重に見極めか",
-   "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190151000.html",
-   "summary": "アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、29日、政策金利を据え置くと発表しました。据え置きは5会合連続で、イラン情勢を背景にしたインフレの動向を慎重に見極めるねらいがあるものとみられます。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-07-30T04:29:28+09:00"
   },
   {
    "title": "私は仕事量についていけなくなった元同僚を管理しています。どうすれば迷惑にならずにこれに対処できますか？",
@@ -153,6 +241,14 @@
    "title_orig": "The big focus now is on the potential for a September rate hike after the Fed stands pat"
   },
   {
+   "title": "米ＦＲＢ、金利据え置き　５会合連続、利上げ主張で３人反対―「物価安定実現する」",
+   "link": "https://www.jiji.com/jc/article?k=2026073000081&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-07-30T04:00:00+09:00"
+  },
+  {
    "title": "分裂したFRBは金利を据え置くが、3人のメンバーが利上げに投票した",
    "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
    "summary": "利上げへの支持が高まっているにもかかわらず、連邦公開市場委員会は9対3でフェデラルファンド金利を3.5％から3.5％の間の範囲に据え置くことを可決した。",
@@ -209,6 +305,14 @@
    "published": "2026-07-30T03:27:00+09:00",
    "lang": "en",
    "title_orig": "Comex Gold Settles 0.04% Lower at $4034.70"
+  },
+  {
+   "title": "エジプトの天然ガス積み出し港で船舶火災、貯蔵船にドローン攻撃 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUI4MTZFX3VNZGpLM3pMbkRqWjloNGxyUTU1dS04RG5pZ3NQTjhQa0djeEZHaHV0Q2F6OHRrNnZWVUtVOFJkUUlxaVRWYzJvMHVIVUg3WDNYc0ZwWTlRdUJqS1JUaUNYTlk2cU1iT3ZfVEltQ3dkNEVCME5SUVdFNg?oc=5",
+   "summary": "エジプトの天然ガス積み出し港で船舶火災、貯蔵船にドローン攻撃&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-30T03:26:07+09:00"
   },
   {
    "title": "米FRB 政策金利の据え置きを決定",
@@ -269,16 +373,6 @@
    "published": "2026-07-30T02:59:11+09:00",
    "lang": "en",
    "title_orig": "Anthony Fauci invokes Fifth Amendment at fiery Senate hearing on Covid"
-  },
-  {
-   "title": "トランプ大統領、最近の攻撃への報復としてイランに「打撃」を与えると誓う",
-   "link": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1",
-   "summary": "ワシントンはイラン政府が中東の米軍施設に弾道ミサイルを発射したと発表した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-30T02:54:46+09:00",
-   "lang": "en",
-   "title_orig": "Trump vows to deliver ‘beating’ to Iran in retaliation for latest attack"
   },
   {
    "title": "連邦捜査センターのドジャースオーナー、2024年に脳卒中を患う",
@@ -495,16 +589,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-07-29T20:42:24+09:00"
-  },
-  {
-   "title": "ポピュリズムは自らを蝕むだろう",
-   "link": "https://www.ft.com/content/0c197937-672a-43a0-b186-9bf9b7f8ccd1?syn-25a6b1a6=1",
-   "summary": "好戦と対立を称賛する運動は最後にはひとり歩きする",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-07-29T20:22:20+09:00",
-   "lang": "en",
-   "title_orig": "Populism will eat itself"
   },
   {
    "title": "総務省、KDDIに厳重注意　762万人のパスワード流出で",
@@ -795,14 +879,6 @@
    "published": "2026-07-29T13:00:00+09:00"
   },
   {
-   "title": "消費減税に賛成6社、反対29社　7割は賛否明かさず　107社調査",
-   "link": "https://www.asahi.com/articles/ASV7X1JNMV7XULFA00ZM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-29T13:00:00+09:00"
-  },
-  {
    "title": "｢学ぶほど考える力がつく｣は勘違い→科学が積み上げてきた考えるための\"考えない\"技術 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952515?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢学べば学ぶほど考える力がつく｣と思いきや､学問の歴史はむしろ｢考えなくて済む｣ための営みだった──。天動説から地動説､中世哲学の｢オッカムのカミソリ｣などを題材に､知の本質に迫ります。なぜ学びは\"…",
@@ -827,36 +903,12 @@
    "published": "2026-07-29T12:34:00+09:00"
   },
   {
-   "title": "サムスンが折りたたみスマホを3路線に拡大､iPhone参入前夜に始まった新フォームファクタ競争の行方 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952586?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "各社が注目するフォルダブルスマホ市場に､サムスンが新たな一手を放ちました。パスポートサイズのGalaxy Z Fold8を皮切りに､ユーザーの多様なニーズに応える全方位戦略が始動。果たして､iPho…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-29T12:30:00+09:00"
-  },
-  {
    "title": "コラム：日銀の利上げ加速、「におわせ」だけでもリスキーな理由＝上野泰也氏 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd0s5b3VkdGdSNEFLZjNCdlpXQ1JDSUtYMDBTMkFrRjZvZEJsTUdOWG5xQVBLWnVfVXpwcUpMVmQzOTl0QXRhOEkxN0FGVTd2N29JcDA2QXhrNlZBWjVZZXh1djJiVUVUVzhuc2V5bVhlSml4SG8zQUhlZVF5bTdwRkx3VFlvS0JQ?oc=5",
    "summary": "コラム：日銀の利上げ加速、「におわせ」だけでもリスキーな理由＝上野泰也氏&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-29T12:10:00+09:00"
-  },
-  {
-   "title": "市場はウォーシュ新議長のバランスシート縮小を過小評価している…インフレ抑制へ縮小急げば､株式市場への影響は甚大 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953042?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "米連邦準備制度理事会（FRB）の新議長･ウォーシュ氏が就任後2度目のFOMCを迎え､金融政策の転換に注目が集まっています。フォワードガイダンス廃止やバランスシート縮小の本気度が市場にどのような影響を…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-29T12:00:00+09:00"
-  },
-  {
-   "title": "アップルが｢iPhoneをできるだけ長く使って｣と言い切る経営戦略､最後はロボットが資源へ生まれ変わらせる | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952386?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "iPhoneは｢壊れにくく､長く使える｣──アップルの環境へのこだわりは､リサイクルロボットDaisyの開発やTrade Inなど多彩な施策にまで及ぶ。不要になった端末が資源へと生まれ変わる､その舞…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-29T12:00:00+09:00"
   },
   {
    "title": "製造たばこの小売定価の認可",
@@ -883,14 +935,6 @@
    "published": "2026-07-29T11:30:00+09:00"
   },
   {
-   "title": "原因は親にある？｢本を読んでも\"読解力\"が伸びない子｣の残念な共通点　親が見落としがちな｢大事な作業｣とは？ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/951336?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢本をよく読む子｣が､必ずしも｢国語力｣｢読解力｣を伸ばせるとは限りません。偏差値70以上の進学校で多くの東大合格者を輩出してきた市野瀬早織氏が､親が見落としがちな｢大事な盲点｣を指摘します。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-07-29T11:30:00+09:00"
-  },
-  {
    "title": "最低賃金の目安 時給1176円に決定",
    "link": "https://news.yahoo.co.jp/pickup/6589750?source=rss",
    "summary": "",
@@ -907,28 +951,12 @@
    "published": "2026-07-29T11:10:00+09:00"
   },
   {
-   "title": "エシロールルックスオティカ、上期は予想以上の増益 米関税還付など - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ocW1LWktKR240ckd0RzN3RTJ0MW9ZXzM0cE1wTld1Q1dHNEI2RmVBQUl5RFhYbHpaeU5haGcwTERnZ3h5UTZOMU1qcnhjODFmQXNNQjdOeFNYbG42Wm1Xd0Y2RVg3TmtpNWhXZFA0TFhCTFVoVUc3ZA?oc=5",
-   "summary": "エシロールルックスオティカ、上期は予想以上の増益 米関税還付など&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-29T10:59:00+09:00"
-  },
-  {
    "title": "エネルギー対策特別会計の借入金の入札予定（令和8年7月29日公表）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer260729.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-29T10:30:00+09:00"
-  },
-  {
-   "title": "メルセデスＣＥＯ「米事業守る」、中国系株主巡り販売禁止リスク - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zdzdtS2lESXpRdGtvWjM4dExqOHpGWGQ2YWU2dzVpbXppMDRwLWJOMkl0cXktQzRkYmZvd1kyaVVNVUh5MXhuQzhIaTF6VXNRakN1SkVrNnZFVS1pcVhfUzhiNGRsNHBrTEdwM1k1Y3ZEcWJDaVE?oc=5",
-   "summary": "メルセデスＣＥＯ「米事業守る」、中国系株主巡り販売禁止リスク&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-29T10:22:00+09:00"
   },
   {
    "title": "国債金利情報(令和8年7月28日)",
@@ -1023,16 +1051,6 @@
    "published": "2026-07-29T02:40:03+09:00",
    "lang": "en",
    "title_orig": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say"
-  },
-  {
-   "title": "スタートアップやブローカーが 24 時間 365 日取引できる AI エージェントを構築することで、ウォール街の未来がここにあります",
-   "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-   "summary": "証券会社、新興企業、さらには個人投資家さえも、ポートフォリオを監督し、胡が担当していた投資タスクを自動化するのに役立つ AI エージェントを構築しています。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-07-29T01:16:25+09:00",
-   "lang": "en",
-   "title_orig": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7"
   },
   {
    "title": "その他,審判手続状況一覧を更新しました。",
@@ -1177,14 +1195,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-07-28T10:00:00+09:00"
-  },
-  {
-   "title": "英No.2のドラッグストアがECを伸ばして「店舗も拡大」できるワケ　 “Z世代特有”の消費行動をどう攻略？",
-   "link": "https://www.itmedia.co.jp/business/articles/2607/28/news006.html",
-   "summary": "英国でナンバー2のドラッグストアチェーン「Superdrug」は、さまざまな施策で成長を続けている。ここでは施策を「3つの循環」に整理し、日本のドラッグストアチェーンが学ぶべきポイントを紹介していく。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-07-28T09:00:00+09:00"
   },
   {
    "title": "その他,新興運用業者促進プログラム（日本版EMP）特設ページを更新しました。",
