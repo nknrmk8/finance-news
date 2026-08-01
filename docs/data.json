@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T13:32:36.246463+09:00",
+ "generated_at": "2026-08-01T16:11:12.560523+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,22 @@
  "errors": [],
  "items": [
   {
+   "title": "円が再び急騰、連日の為替介入　米財務長官の手元に「円買い」メモも",
+   "link": "https://www.asahi.com/articles/ASV705742V70UHBI02NM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-01T15:55:00+09:00"
+  },
+  {
+   "title": "近鉄車両基地でフォトウェディング　挙式、披露宴しなくてもの新需要",
+   "link": "https://www.asahi.com/articles/ASV7Z310HV7ZPLFA00BM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-01T15:00:00+09:00"
+  },
+  {
    "title": "【熊本地震 企業影響 1日】工場・店舗の状況は 再開の動きも",
    "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193321000.html",
    "summary": "今回の地震の影響で、熊本県など九州にある大手メーカーの工場では操業に影響が出ています。",
@@ -69,12 +85,14 @@
    "published": "2026-08-01T13:26:47+09:00"
   },
   {
-   "title": "円が再び急騰、連日の為替介入の見方　米財務長官「円買い」のメモも",
-   "link": "https://www.asahi.com/articles/ASV705742V70UHBI02NM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-01T13:15:00+09:00"
+   "title": "状況認識は未来を正しく理解したが、過去を誤って読んだ",
+   "link": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
+   "summary": "レオポルド・アッシェンブレナー氏は、AI関連株は一方的な方向に進むだろうと考えていた。彼らは反対側に行きました。間違いは取引資金を借金で賄ったことだった",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-01T13:00:32+09:00",
+   "lang": "en",
+   "title_orig": "Situational Awareness got the future right but misread the past"
   },
   {
    "title": "戦争の配当金",
@@ -85,6 +103,16 @@
    "published": "2026-08-01T13:00:24+09:00",
    "lang": "en",
    "title_orig": "The war dividend"
+  },
+  {
+   "title": "市場にとっては厳しい時代",
+   "link": "https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1",
+   "summary": "投資家はついに、痛いほど明らかなナンセンスにうんざりしつつある兆候を示している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-01T13:00:24+09:00",
+   "lang": "en",
+   "title_orig": "Humbling times for markets"
   },
   {
    "title": "AI の「クッキー バナー」の瞬間: EU レーベルがボットを支持",
@@ -183,16 +211,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-01T11:17:03+09:00"
-  },
-  {
-   "title": "韓国ウォンが世界最高のパフォーマンスを誇る理由",
-   "link": "https://www.ft.com/content/1b8a5bf5-d043-4a28-a606-801a00bb8082?syn-25a6b1a6=1",
-   "summary": "ハイテク株の下落にもかかわらず、通貨は先月対ドルで8％近く上昇した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-01T11:10:27+09:00",
-   "lang": "en",
-   "title_orig": "Why South Korea’s won is one of world’s best performers"
   },
   {
    "title": "ひろゆきが泉房穂と組んで新党結成！ \"あなどれない政治的インパクト\"と妻･ゆか氏の｢不満ぶちまけ｣の波紋 | 政治・経済・投資 | 東洋経済オンライン",
@@ -493,16 +511,6 @@
    "published": "2026-08-01T06:35:27+09:00"
   },
   {
-   "title": "Amazon、OpenAIへの500億ドルの投資を完了",
-   "link": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
-   "summary": "電子商取引大手は株式取引後、AIラボの株式約5％を取得",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-01T06:29:58+09:00",
-   "lang": "en",
-   "title_orig": "Amazon completes $50bn investment in OpenAI"
-  },
-  {
    "title": "あなたが健康または裕福であれば、健康貯蓄口座は退職後の素晴らしいツールとなり得ます",
    "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
    "summary": "HSA は、老後の医療費を相殺することができます。しかし、ほとんどの人には待つ余裕がありません。",
@@ -723,6 +731,14 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-01T02:00:00+09:00"
+  },
+  {
+   "title": "米財務長官、世界中でイラン資産捜索 「資金はイラン国民に渡る」 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPekZwc1pGVVk2WTAydVhsYlhSc3M1ZlBEamI4N1RNeUpuSFptYnR6SWphXzNtdVVjZ3VQN1lPY0hlZWwyWjRRSnZReVYwUHFDaThUYUpfNHJydE9TSEQ3YW9VaE13NEJDcGthUzVUWEpoempUVzMta00yS2otS1JJNzl3?oc=5",
+   "summary": "米財務長官、世界中でイラン資産捜索 「資金はイラン国民に渡る」&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-01T01:36:09+09:00"
   },
   {
    "title": "なぜ状況認識ヘッジファンドは、おとなしい株式市場でも崩壊したのか",
@@ -949,14 +965,6 @@
    "published": "2026-07-31T19:10:48+09:00"
   },
   {
-   "title": "今後の利上げ、見極めポイントは「三つのリスク」日銀総裁の会見詳報",
-   "link": "https://www.asahi.com/articles/ASV70368XV70ULFA037M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-31T19:09:46+09:00"
-  },
-  {
    "title": "日本製紙 八代工場での9人の死亡を公表",
    "link": "http://www3.nhk.or.jp/news/html/20260731/k10015192381000.html",
    "summary": "日本製紙は、地震で煙突が倒壊するなどした熊本県八代市にある八代工場での被災状況を公表し、自社の社員6人、協力会社の社員3人の合わせて9人が死亡したことを明らかにしました。",
@@ -1083,14 +1091,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-31T16:00:00+09:00"
-  },
-  {
-   "title": "キオクシア、最大8000億円の自社株買い 1対3の株式分割も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03Rzgtd3FkVk9YT3l5b3Q1eHNJTWlCeXpuNFI5ZUdQMV82Rk5xYWNRRUdtdkxtdFJxNXVYZ0JMUnFKRFBZUTNCRFhwa0hhdHZmYlo0dW1QaWM3NVl6V1Jma0FfQnBsMkN0ZFd4VzliUVhCa2k4N2c?oc=5",
-   "summary": "キオクシア、最大8000億円の自社株買い 1対3の株式分割も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-31T15:59:46+09:00"
   },
   {
    "title": "人事異動(令和8年7月31日)",
