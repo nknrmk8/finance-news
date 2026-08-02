@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T02:41:18.939242+09:00",
+ "generated_at": "2026-08-03T03:38:29.432572+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,26 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "意見 | AI の数学はあなたにとってうまくいきます",
+   "link": "https://www.wsj.com/opinion/the-math-on-ai-works-out-well-for-you-eaf0f8c8?mod=rss_markets_main",
+   "summary": "データセンターを削減する取り組みは、私たちの社会にとって潜在的な金鉱を危険にさらしています。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-03T03:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | The Math on AI Works Out Well for You"
+  },
+  {
+   "title": "モンテ・デイ・パスキ、「対等合併」交渉決裂後、バンコBPM買収を検討",
+   "link": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1",
+   "summary": "MPSの最高経営責任者、バンコBPMの筆頭株主であるクレディ・アグリコルへのアプローチを検討",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-03T02:32:45+09:00",
+   "lang": "en",
+   "title_orig": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse"
+  },
   {
    "title": "私たちは60代で150万ドルを持っています。相続人間の争いを防ぐには、遺言よりも信託の方が効果的でしょうか？",
    "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
@@ -151,16 +171,6 @@
    "title_orig": "Opinion | How U.S. Treasury Is Helping Venezuela Rebuild"
   },
   {
-   "title": "意見 | AI の数学はあなたにとってうまくいきます",
-   "link": "https://www.wsj.com/opinion/the-math-on-ai-works-out-well-for-you-eaf0f8c8?mod=rss_markets_main",
-   "summary": "データセンターを削減する取り組みは、私たちの社会にとって潜在的な金鉱を危険にさらしています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-02T22:56:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | The Math on AI Works Out Well for You"
-  },
-  {
    "title": "ゴールドマンのトレーダーらは記録的な年に向けて順調に推移している。彼らがどのようにそれを行っているかを詳しく見てみましょう",
    "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
    "summary": "CNBCとの新しいインタビューで、ゴールドマンの幹部は、何が株価を動かしているのか、市場はどこへ向かっているのか、そして同行の株式デスクがどのように資金を供給しているのかについて詳しく語った。",
@@ -223,14 +233,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-02T21:30:00+09:00"
-  },
-  {
-   "title": "日米両政府が円安・ドル高阻止に向けた共同声明を発出する方向で調整している",
-   "link": "https://www.jiji.com/jc/article?k=2026080200310&g=flash&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-02T21:24:00+09:00"
   },
   {
    "title": "「この女性を潰せ」: eBay の嫌がらせキャンペーンがどのようにして 5,600 万ドルの支払いにつながったのか",
@@ -419,16 +421,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-02T08:00:00+09:00"
-  },
-  {
-   "title": "セウタが「侵略」を理由にスペイン、移民らを帰国へ追い込む",
-   "link": "https://www.ft.com/content/a551d1be-80a1-4d3c-8498-b1f82fdb0e41?syn-25a6b1a6=1",
-   "summary": "地元の反対にもかかわらず飛び地に残ることを望むモロッコ人を兵士らが一斉検挙",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-02T07:43:08+09:00",
-   "lang": "en",
-   "title_orig": "Spain pushes migrants home as Ceuta vents over ‘invasion’"
   },
   {
    "title": "｢地方移住｣成功の答え､いきなり田舎に住むと詰む？47都道府県を取材した編集者が明かす\"人口30万人都市\"が狙い目な理由 | ライフ | 東洋経済オンライン",
@@ -677,20 +669,20 @@
    "published": "2026-08-01T09:41:00+09:00"
   },
   {
+   "title": "米財務長官の「やることリスト」に円買い50億─100億ドル ロイターの写真で判明 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5YWU2bHBXRDdmYklHS2lOckpBcXc3SjBUSl80Y1Q3UV9yXzVhRFRWNG0yN2Z3VkVwaFRlNFZFMlV6aks2TEVHU3JMR3hKNVJ6YnVlNWx5M3B2a2ZDaUs1NHg5amtrWmUwYWJic0VJTExTVjlSZWhzZg?oc=5",
+   "summary": "米財務長官の「やることリスト」に円買い50億─100億ドル ロイターの写真で判明&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-01T09:00:09+09:00"
+  },
+  {
    "title": "「高市財政」は成長頼みの賭け　多難な前途、真の「責任」果たす道は",
    "link": "https://www.asahi.com/articles/ASV7Y3HZQV7YUPQJ00MM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-01T09:00:00+09:00"
-  },
-  {
-   "title": "米財務長官の「やることリスト」に円買い50億─100億ドル ロイターの写真で判明 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5YWU2bHBXRDdmYklHS2lOckpBcXc3SjBUSl80Y1Q3UV9yXzVhRFRWNG0yN2Z3VkVwaFRlNFZFMlV6aks2TEVHU3JMR3hKNVJ6YnVlNWx5M3B2a2ZDaUs1NHg5amtrWmUwYWJic0VJTExTVjlSZWhzZg?oc=5",
-   "summary": "米財務長官の「やることリスト」に円買い50億─100億ドル ロイターの写真で判明&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-01T08:56:00+09:00"
   },
   {
    "title": "アイシン工場が被災、自動車各社の生産に影響　10年前との違いは",
@@ -895,14 +887,6 @@
    "published": "2026-08-01T02:00:00+09:00"
   },
   {
-   "title": "米財務長官、世界中でイラン資産捜索 「資金はイラン国民に渡る」 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPekZwc1pGVVk2WTAydVhsYlhSc3M1ZlBEamI4N1RNeUpuSFptYnR6SWphXzNtdVVjZ3VQN1lPY0hlZWwyWjRRSnZReVYwUHFDaThUYUpfNHJydE9TSEQ3YW9VaE13NEJDcGthUzVUWEpoempUVzMta00yS2otS1JJNzl3?oc=5",
-   "summary": "米財務長官、世界中でイラン資産捜索 「資金はイラン国民に渡る」&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-01T01:36:09+09:00"
-  },
-  {
    "title": "なぜ状況認識ヘッジファンドは、おとなしい株式市場でも崩壊したのか",
    "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
    "summary": "レオポルド・アッシェンブレナー氏の450億ドルのヘッジファンドは、歴史的な勢いの反転がマージンコールを引き起こした後、公開株式ポジションの削減を余儀なくされた。",
@@ -1005,14 +989,6 @@
    "published": "2026-07-31T19:30:00+09:00"
   },
   {
-   "title": "基調物価「上振れリスク無視できず」と日銀総裁、10月利上げ予想も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZFg3MXpyYkRIZlhFN1c5U3hxbFhwOHUxQVNXWDNkcXg4RldPdkExSUlTTU1CRXdRWVBVZjhaanFaX1RSTlRXaHhkRzg5RTlZX0xSZXNGcXNnWlZDMzVNRjlfTnR5ZlQ3cDQtZm5pX3FOWTlkeURUVF9MRXBTUQ?oc=5",
-   "summary": "基調物価「上振れリスク無視できず」と日銀総裁、10月利上げ予想も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-31T19:10:51+09:00"
-  },
-  {
    "title": "外国為替平衡操作の実施状況(令和8年6月29日～令和8年7月29日)",
    "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260731.html",
    "summary": "",
@@ -1035,6 +1011,22 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-31T18:43:32+09:00"
+  },
+  {
+   "title": "ドルが1.5円超急落、一時158円台 すぐ持ち直す - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQUEzYkVmOGlhSC1lZU50WEZ6ZkE4WkVwNHZ2TEJVbG5DM01Bb19iRDBTZ2NTYzVpZy1MRmxkUEZqek00ZFEtVEhYZ0I4UDd1Qy1mT1pBV3pRX212bEJ4RWVqRkN4UlloanlhSkUtbVJUOGxySnlZWg?oc=5",
+   "summary": "ドルが1.5円超急落、一時158円台 すぐ持ち直す&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-31T18:35:43+09:00"
+  },
+  {
+   "title": "アドテスト株、日経ウエートの上限を超過 1月末に続き - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0p4VnFYOU53ODBtWVpRZHh3N0lXRGc0Q21uNWxLcTItaWtINDJSOXQzNXNNZFhhOW5OWUZFZS1LR20tN2hPMEkybElWc2EzX25GNDBBdjFuZW5TRHFNLXJEUWtiN0JtQlJDY1hTVVRhUkc1NHhCM2xCclY4U090OA?oc=5",
+   "summary": "アドテスト株、日経ウエートの上限を超過 1月末に続き&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-31T18:23:43+09:00"
   },
   {
    "title": "日米韓等「北朝鮮IT労働者に関する各国・企業等に対する注意喚起」の公表（令和8年7月31日）",
@@ -1267,22 +1259,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-07-31T07:00:00+09:00"
-  },
-  {
-   "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）（銀行代理業関係等）について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260730-2/20260730-2.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-31T03:00:00+09:00"
-  },
-  {
-   "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）（仕組預金関係）について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260730-3/20260730-3.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-31T03:00:00+09:00"
   }
  ]
 }
