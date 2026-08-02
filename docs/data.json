@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T01:34:26.567490+09:00",
+ "generated_at": "2026-08-03T02:41:18.939242+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,16 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "私たちは60代で150万ドルを持っています。相続人間の争いを防ぐには、遺言よりも信託の方が効果的でしょうか？",
+   "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+   "summary": "「検認は長期にわたり、公開され、高額な費用がかかる可能性があることを認識しています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-03T02:00:00+09:00",
+   "lang": "en",
+   "title_orig": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?"
+  },
   {
    "title": "消費者がコスト高に直面する中、米国最大手の企業は「盤石な」利益を報告",
    "link": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
@@ -233,16 +243,6 @@
    "title_orig": "‘Crush this lady’: how eBay harassment campaign led to $56mn payout"
   },
   {
-   "title": "投資家は金融株にシフトしている。 FRBの次の行動によって、ラリーがどこまで続くかが決まる可能性がある。",
-   "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-   "summary": "金融株は今月、市場で最も好調な銘柄の一つとなった。しかし、FRBの次の動きによって、ローテーションがどの程度進むかが決まるかもしれない。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-02T21:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs."
-  },
-  {
    "title": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
    "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
    "summary": "歴史的な円安に歯止めをかけるため政府・日銀は、7月30日から8月1日にかけて断続的に市場介入を実施しました。アメリカの通貨当局と連携し、円安の是正に向けて異例の協調介入を行ったということで政府は3日、一連の対応を踏まえた日米共同の声明を発表することにしています。",
@@ -293,6 +293,14 @@
    "published": "2026-08-02T15:35:24+09:00"
   },
   {
+   "title": "片山財務相、日米の円安是正の取り組みを3日に説明へ＝関係者 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sR0x6MG05YjBVSzJzNVlTa2ZaWU96a1pIU0FlYmlMSVFOTmN1dUlkRXM2ekR3UzlOZmxUZGNjd0RkQkpoUXVEVEVIQnV0d2pGTHVuMXFIbV80Yk91SHJjNU5vNWdEVklpMGJNbFhiWXYxMEdUWi1XUQ?oc=5",
+   "summary": "片山財務相、日米の円安是正の取り組みを3日に説明へ＝関係者&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-02T13:38:41+09:00"
+  },
+  {
    "title": "Apple、AI「バグ」ハンターと歩調を合わせるのに苦戦中",
    "link": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
    "summary": "iPhoneメーカーは、相次ぐ報告に対処するために研究者が提出できる脆弱性の数を制限している",
@@ -337,14 +345,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-02T10:30:00+09:00"
-  },
-  {
-   "title": "片山財務相、日米の円安是正の取り組みを3日に説明へ＝関係者 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sR0x6MG05YjBVSzJzNVlTa2ZaWU96a1pIU0FlYmlMSVFOTmN1dUlkRXM2ekR3UzlOZmxUZGNjd0RkQkpoUXVEVEVIQnV0d2pGTHVuMXFIbV80Yk91SHJjNU5vNWdEVklpMGJNbFhiWXYxMEdUWi1XUQ?oc=5",
-   "summary": "片山財務相、日米の円安是正の取り組みを3日に説明へ＝関係者&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-02T10:16:00+09:00"
   },
   {
    "title": "ジェリーシューズ なぜ大人が支持",
@@ -567,14 +567,6 @@
    "published": "2026-08-01T18:30:00+09:00",
    "lang": "en",
    "title_orig": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay"
-  },
-  {
-   "title": "米、ウイグル強制労働で新たに４３社から輸入禁止　中国は反発",
-   "link": "https://www.jiji.com/jc/article?k=2026080100327&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-01T17:43:00+09:00"
   },
   {
    "title": "BYDオート社長 EV補助金に見解",
@@ -903,6 +895,14 @@
    "published": "2026-08-01T02:00:00+09:00"
   },
   {
+   "title": "米財務長官、世界中でイラン資産捜索 「資金はイラン国民に渡る」 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPekZwc1pGVVk2WTAydVhsYlhSc3M1ZlBEamI4N1RNeUpuSFptYnR6SWphXzNtdVVjZ3VQN1lPY0hlZWwyWjRRSnZReVYwUHFDaThUYUpfNHJydE9TSEQ3YW9VaE13NEJDcGthUzVUWEpoempUVzMta00yS2otS1JJNzl3?oc=5",
+   "summary": "米財務長官、世界中でイラン資産捜索 「資金はイラン国民に渡る」&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-01T01:36:09+09:00"
+  },
+  {
    "title": "なぜ状況認識ヘッジファンドは、おとなしい株式市場でも崩壊したのか",
    "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
    "summary": "レオポルド・アッシェンブレナー氏の450億ドルのヘッジファンドは、歴史的な勢いの反転がマージンコールを引き起こした後、公開株式ポジションの削減を余儀なくされた。",
@@ -1005,6 +1005,14 @@
    "published": "2026-07-31T19:30:00+09:00"
   },
   {
+   "title": "基調物価「上振れリスク無視できず」と日銀総裁、10月利上げ予想も - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZFg3MXpyYkRIZlhFN1c5U3hxbFhwOHUxQVNXWDNkcXg4RldPdkExSUlTTU1CRXdRWVBVZjhaanFaX1RSTlRXaHhkRzg5RTlZX0xSZXNGcXNnWlZDMzVNRjlfTnR5ZlQ3cDQtZm5pX3FOWTlkeURUVF9MRXBTUQ?oc=5",
+   "summary": "基調物価「上振れリスク無視できず」と日銀総裁、10月利上げ予想も&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-31T19:10:51+09:00"
+  },
+  {
    "title": "外国為替平衡操作の実施状況(令和8年6月29日～令和8年7月29日)",
    "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260731.html",
    "summary": "",
@@ -1027,22 +1035,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-07-31T18:43:32+09:00"
-  },
-  {
-   "title": "ドルが1.5円超急落、一時158円台 すぐ持ち直す - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQUEzYkVmOGlhSC1lZU50WEZ6ZkE4WkVwNHZ2TEJVbG5DM01Bb19iRDBTZ2NTYzVpZy1MRmxkUEZqek00ZFEtVEhYZ0I4UDd1Qy1mT1pBV3pRX212bEJ4RWVqRkN4UlloanlhSkUtbVJUOGxySnlZWg?oc=5",
-   "summary": "ドルが1.5円超急落、一時158円台 すぐ持ち直す&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-31T18:35:43+09:00"
-  },
-  {
-   "title": "アドテスト株、日経ウエートの上限を超過 1月末に続き - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0p4VnFYOU53ODBtWVpRZHh3N0lXRGc0Q21uNWxLcTItaWtINDJSOXQzNXNNZFhhOW5OWUZFZS1LR20tN2hPMEkybElWc2EzX25GNDBBdjFuZW5TRHFNLXJEUWtiN0JtQlJDY1hTVVRhUkc1NHhCM2xCclY4U090OA?oc=5",
-   "summary": "アドテスト株、日経ウエートの上限を超過 1月末に続き&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-31T18:23:43+09:00"
   },
   {
    "title": "日米韓等「北朝鮮IT労働者に関する各国・企業等に対する注意喚起」の公表（令和8年7月31日）",
