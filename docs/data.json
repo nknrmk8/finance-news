@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T10:12:01.651436+09:00",
+ "generated_at": "2026-08-02T13:35:33.134818+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,96 @@
  "errors": [],
  "items": [
   {
-   "title": "ジェリーシューズ 支持集める理由",
-   "link": "https://news.yahoo.co.jp/pickup/6590222?source=rss",
+   "title": "ドイツの自動車メーカー、斧を振り回した後、雇用市場に経営者を殺到",
+   "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1",
+   "summary": "フォルクスワーゲン、退任する数百人のマネージャーのポストを見つけるためにヘッドハンターにアプローチ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-02T13:00:06+09:00",
+   "lang": "en",
+   "title_orig": "German carmakers flood jobs market with managers after wielding axe"
+  },
+  {
+   "title": "Apple、AI「バグ」ハンターと歩調を合わせるのに苦戦中",
+   "link": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
+   "summary": "iPhoneメーカーは、相次ぐ報告に対処するために研究者が提出できる脆弱性の数を制限している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-02T13:00:06+09:00",
+   "lang": "en",
+   "title_orig": "Apple struggles to keep pace with AI ‘bug’ hunters"
+  },
+  {
+   "title": "ジョークが政治的暴力につながるわけがないなどと考えないでください",
+   "link": "https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1",
+   "summary": "政治的暴力に関するタブーは揺らぎつつあるが、言論の制限は解決策ではない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-02T13:00:05+09:00",
+   "lang": "en",
+   "title_orig": "Don’t pretend jokes can’t lead to political violence"
+  },
+  {
+   "title": "トランプ大統領、中東同盟国の要請を受けてイランへの新たな攻撃を中止",
+   "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
+   "summary": "「合意の境界線は合意された」と米大統領が主張",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-02T12:01:25+09:00",
+   "lang": "en",
+   "title_orig": "Trump cancels new strikes on Iran after Middle East allies’ request"
+  },
+  {
+   "title": "ジョン･カビラ父子が描く｢沖縄｣の原点､台湾で育った父と語る川平家と日本･沖縄･アメリカに通じる激動の150年史 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "著名タレントであるジョン･カビラさんの父親である川平朝清さんは､沖縄､台湾､日本､アメリカを舞台に､激動の時代を生き抜きました。川平家の歴史は一家族の物語であると同時に､近現代の国際社会と沖縄を映し…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-02T11:30:00+09:00"
+  },
+  {
+   "title": "中国のVC企業、3年に及ぶ干ばつを受けて資金調達を急ぐ",
+   "link": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
+   "summary": "経営者は米国市場への賭けを「ヘッジ」したいという投資家の願望を利用する",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-02T11:00:01+09:00",
+   "lang": "en",
+   "title_orig": "Chinese VC firms rush to raise funds after 3-year drought"
+  },
+  {
+   "title": "アメリカは株式市場のバブルを引き起こし、それを無視するのが得意です",
+   "link": "https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0?mod=rss_markets_main",
+   "summary": "いつかバストが大きくなる日が来るでしょう。しかし今のところ、AI関連株の下落は他の銘柄の上昇によってほぼ完全に相殺されている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-02T11:00:00+09:00",
+   "lang": "en",
+   "title_orig": "America Is Great at Creating Stock Market Bubbles—and Shrugging Them Off"
+  },
+  {
+   "title": "フォルクスワーゲンはいつから｢高級車｣になったのか？　データで追う購入者10年間の構造変化 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/952637?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "かつて｢手の届くドイツ車｣として人気を誇ったフォルクスワーゲン（VW）。しかし､今や平均車両価格は500万円超､購入者の約半数は60代以上､SUVが主流となりました。VWはなぜこれほど変貌し､どんな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-02T10:30:00+09:00"
+  },
+  {
+   "title": "片山財務相、日米の円安是正の取り組みを3日に説明へ＝関係者 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sR0x6MG05YjBVSzJzNVlTa2ZaWU96a1pIU0FlYmlMSVFOTmN1dUlkRXM2ekR3UzlOZmxUZGNjd0RkQkpoUXVEVEVIQnV0d2pGTHVuMXFIbV80Yk91SHJjNU5vNWdEVklpMGJNbFhiWXYxMEdUWi1XUQ?oc=5",
+   "summary": "片山財務相、日米の円安是正の取り組みを3日に説明へ＝関係者&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-02T10:16:00+09:00"
+  },
+  {
+   "title": "ジェリーシューズ なぜ大人が支持",
+   "link": "https://news.yahoo.co.jp/pickup/6590228?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
-   "published": "2026-08-02T09:34:26+09:00"
+   "published": "2026-08-02T10:15:35+09:00"
   },
   {
    "title": "打倒秀吉！で家康とせっかく組んだのに…信長の次男《織田信雄》が秀吉と和睦した\"なるほどな理由\" | キャリア・教育 | 東洋経済オンライン",
@@ -141,14 +225,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-02T07:28:48+09:00"
-  },
-  {
-   "title": "米ＦＲＢ、市場の信認揺らぐ　物価安定の本気度に疑念",
-   "link": "https://www.jiji.com/jc/article?k=2026080100278&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-02T07:09:00+09:00"
   },
   {
    "title": "｢国債はいくらでも発行できる｣の危うさ､MMTブームの先に待つ円安･インフレ･国家財政破綻の歴史的教訓･下 | 政治・経済・投資 | 東洋経済オンライン",
@@ -243,14 +319,6 @@
    "published": "2026-08-02T06:00:00+09:00"
   },
   {
-   "title": "｢国債はいくらでも発行できる｣の危うさ､MMTブームの先に待つ円安･インフレ･国家財政破綻の歴史的教訓･上 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952917?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "2026年夏､日本の株価急落の裏に潜む真の危機とは何か。国債の急増と｢現代貨幣理論｣への過度な依存が､第1次世界大戦後のドイツや旧ユーゴスラビアのようなハイパーインフレを招くのか。私たちの通貨と経済…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-02T06:00:00+09:00"
-  },
-  {
    "title": "「私たちは常に礼儀正しくしてきました」: 妹は私に代わる遺言執行者になることを拒否しています。彼女が死ぬ前に辞めてもいいでしょうか？",
    "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
    "summary": "「20年以上前の母の葬儀以来、妹に会っていません。」",
@@ -259,14 +327,6 @@
    "published": "2026-08-02T06:00:00+09:00",
    "lang": "en",
    "title_orig": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?"
-  },
-  {
-   "title": "世界の自動車大手が中国で現地開発したクルマを世界展開…日産はピックアップトラックをラテンアメリカに輸出 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953119?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "世界の自動車大手が､中国で現地開発したクルマのグローバル展開に動き出しています。日産自動車はピックアップトラックをラテンアメリカ市場に輸出。VWは中央アジアへの輸出事業の統括権限を中国法人に移管しま…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-02T05:50:00+09:00"
   },
   {
    "title": "ゴールドマンのトレーダーらは記録的な年に向けて順調に推移している。彼らがどのようにそれを行っているかを詳しく見てみましょう",
@@ -339,32 +399,12 @@
    "title_orig": "Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis"
   },
   {
-   "title": "インファンティーノのUターンでFIFAでの将来に対する疑念が高まる",
-   "link": "https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1",
-   "summary": "サッカー統括団体の会長は無投票で再選に立候補すると予想されていたが、現在では批判が高まっている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-02T00:32:29+09:00",
-   "lang": "en",
-   "title_orig": "Infantino’s U-turn fuels doubts about his future at Fifa"
-  },
-  {
    "title": "「やること　円買う」米財務長官の後押し　円安阻止へ日米「新局面」",
    "link": "https://www.asahi.com/articles/ASV813GTCV81ULFA006M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-01T21:34:54+09:00"
-  },
-  {
-   "title": "米国での大規模なタングステン発見はNASAの障害に陥る可能性がある",
-   "link": "https://www.ft.com/content/6abf82dc-6b66-4fc7-8bf7-aa196dbd8e97?syn-25a6b1a6=1",
-   "summary": "マイナーは重要な防衛金属のアメリカ最大の鉱床を発見したかもしれないが、宇宙機関が開発を妨害している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-01T21:00:05+09:00",
-   "lang": "en",
-   "title_orig": "Massive US tungsten discovery could run into Nasa roadblock"
   },
   {
    "title": "円相場 再び円高方向に 円安是正で日米が異例の協調対応か",
@@ -409,14 +449,6 @@
    "title_orig": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay"
   },
   {
-   "title": "米、ウイグル強制労働で新たに４３社から輸入禁止　中国は反発",
-   "link": "https://www.jiji.com/jc/article?k=2026080100327&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-01T17:43:00+09:00"
-  },
-  {
    "title": "BYDオート社長 EV補助金に見解",
    "link": "https://news.yahoo.co.jp/pickup/6590164?source=rss",
    "summary": "",
@@ -455,36 +487,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-01T13:20:00+09:00"
-  },
-  {
-   "title": "状況認識は未来を正しく理解したが、過去を誤って読んだ",
-   "link": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
-   "summary": "レオポルド・アッシェンブレナー氏は、AI関連株は一方的な方向に進むだろうと考えていた。彼らは反対側に行きました。間違いは取引資金を借金で賄ったことだった",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-01T13:00:32+09:00",
-   "lang": "en",
-   "title_orig": "Situational Awareness got the future right but misread the past"
-  },
-  {
-   "title": "戦争の配当金",
-   "link": "https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1",
-   "summary": "外部の脅威により、将来的に西側社会の二極化は緩和されるはずです",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-01T13:00:24+09:00",
-   "lang": "en",
-   "title_orig": "The war dividend"
-  },
-  {
-   "title": "市場にとっては厳しい時代",
-   "link": "https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1",
-   "summary": "投資家はついに、痛いほど明らかなナンセンスにうんざりしつつある兆候を示している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-01T13:00:24+09:00",
-   "lang": "en",
-   "title_orig": "Humbling times for markets"
   },
   {
    "title": "日銀の金融政策 利上げ加速が焦点",
@@ -697,14 +699,6 @@
    "published": "2026-08-01T06:00:00+09:00"
   },
   {
-   "title": "米国株式市場＝続伸、アマゾン好決算でＡＩ投資懸念和らぐ アップルは下落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWWpJOWhCNHRqT1pCM0ZCM3lXYldlcUx0ZmN4LTc1X294aWpEVFdLSnJtaTdHNFNDVUlUbkxsVnFhM05NdE16NzBSaFBYcjlZQ0RYMV9Rcmc3dkdFdlVBUElXekRSU2VBOV9rUlpHTzNNaU4yT1hiTzZKdXI0dzBmMQ?oc=5",
-   "summary": "米国株式市場＝続伸、アマゾン好決算でＡＩ投資懸念和らぐ アップルは下落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-01T05:47:52+09:00"
-  },
-  {
    "title": "介入の兆候で円高",
    "link": "https://www.wsj.com/finance/currencies/yens-focus-on-boj-gov-uedas-guidance-1917e93b?mod=rss_markets_main",
    "summary": "当局が日本の通貨支援に向けた介入が差し迫っている可能性があると示唆したため、ドルは円に対して下落した。",
@@ -733,16 +727,6 @@
    "title_orig": "U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes"
   },
   {
-   "title": "最近の収益ではアマゾンが急騰、アップルが下落",
-   "link": "https://www.wsj.com/finance/stocks/amazon-surges-and-apple-falls-on-latest-earnings-9f3f3c8b?mod=rss_markets_main",
-   "summary": "さらに、テスラは中国事業の売却を検討しており、アンスロピックは自社のソフトウェアが3社をハッキングしたことを明らかにしている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-01T05:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Amazon Surges and Apple Falls on Latest Earnings"
-  },
-  {
    "title": "レオポルド・アシェンブレナーはどのようにして450億ドルのAIヘッジファンドを構築し、その大部分を数日で失ったのか",
    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
    "summary": "元OpenAI研究者からヘッジファンドマネージャーに転身したレオポルド・アッシェンブレナー氏は、今週、自身のAIに特化したファンド「Situational Awar」の株価が大幅に下落したことを確認した。",
@@ -769,14 +753,6 @@
    "published": "2026-08-01T03:46:45+09:00",
    "lang": "en",
    "title_orig": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings"
-  },
-  {
-   "title": "ＦＲＢ現行策、物価抑制に十分か「際どい判断」─リッチモンド連銀総裁＝報道 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzZ2NDE5UlJNaDViTjhWVHdDaTFBU3RGakR2My10Slc3SWhnRE5GcFVrQjFVX3hUbm54UGJyTnhDTzhPb3Znck9MQlVrV2dzRGU1VE5Sc0hVbzF2ZEdSdTdCYlFLbW9fNzN3bkZvekNOYnJ0N2xvVjcxMERHR3ExZA?oc=5",
-   "summary": "ＦＲＢ現行策、物価抑制に十分か「際どい判断」─リッチモンド連銀総裁＝報道&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-01T03:19:06+09:00"
   },
   {
    "title": "「預金取扱等金融機関モニタリング・分析レポート」について公表しました。",
@@ -893,6 +869,14 @@
    "published": "2026-08-01T01:14:54+09:00",
    "lang": "en",
    "title_orig": "Why Situational Awareness hedge fund imploded, even in a tame stock market"
+  },
+  {
+   "title": "米アップル一時10％安、時価総額5000億ドル消失へ 部品不足で見通し軟調 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jLTZsTkVNdkowcHA3elF0Y1NQMkF2enFDWTVlRXlwdXo1Q3c1dkh4UlJJRlpzV3pQSmtGMVJ0eDJYSUQtdDNYQ1RDeGJQZFotYjhfT0lNOVVzdFlCRWxodGlPdlBBcVBCX2lDcS13LWZibWlYcnpUTw?oc=5",
+   "summary": "米アップル一時10％安、時価総額5000億ドル消失へ 部品不足で見通し軟調&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-01T01:03:43+09:00"
   },
   {
    "title": "アマゾン15％超急伸、クラウド事業好調でＡＩ投資巡る懸念後退 - ロイター",
