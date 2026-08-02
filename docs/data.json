@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T20:50:41.903940+09:00",
+ "generated_at": "2026-08-02T21:51:17.791029+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,54 @@
  "errors": [],
  "items": [
   {
+   "title": "OPECプラス有志国が9月増産で合意　戦闘再開で先行きは見通せず",
+   "link": "https://www.asahi.com/articles/ASV823RKLV82UHBI00XM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-02T21:30:00+09:00"
+  },
+  {
+   "title": "トランプ大統領、中東同盟国の要請を受けてイラン攻撃を中止したと発言",
+   "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
+   "summary": "米大統領、攻撃予告から数日後に紛争終結に向けた「合意の境界線」が合意されたと主張",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-02T21:28:13+09:00",
+   "lang": "en",
+   "title_orig": "Trump says he cancelled Iran strikes after Middle East allies’ request"
+  },
+  {
+   "title": "「この女性を潰せ」: eBay の嫌がらせキャンペーンがどのようにして 5,600 万ドルの支払いにつながったのか",
+   "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1",
+   "summary": "不気味な配達を伴うボストンのカップルに対する従業員によるネットストーカー行為、懲役刑と金銭和解で終結",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-02T21:00:05+09:00",
+   "lang": "en",
+   "title_orig": "‘Crush this lady’: how eBay harassment campaign led to $56mn payout"
+  },
+  {
+   "title": "投資家は金融株にシフトしている。 FRBの次の行動によって、ラリーがどこまで続くかが決まる可能性がある。",
+   "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+   "summary": "金融株は今月、市場で最も好調な銘柄の一つとなった。しかし、FRBの次の動きによって、ローテーションがどの程度進むかが決まるかもしれない。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-02T21:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs."
+  },
+  {
+   "title": "金融株が押しつぶしている。これらのチャートは、「ブレイクアウト」ラリーが始まったばかりである理由を示しています。",
+   "link": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
+   "summary": "銀行株の過去最高値更新に加え、その堅調な収益と有利なバリュエーションは、金融セクターにとって今後さらなる好機が訪れることを示唆している",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-02T21:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun."
+  },
+  {
    "title": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
    "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
    "summary": "歴史的な円安に歯止めをかけるため政府・日銀は、7月30日から8月1日にかけて断続的に市場介入を実施しました。アメリカの通貨当局と連携し、円安の是正に向けて異例の協調介入を行ったということで政府は3日、一連の対応を踏まえた日米共同の声明を発表することにしています。",
@@ -105,16 +153,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-02T17:54:59+09:00"
-  },
-  {
-   "title": "トランプ大統領、中東同盟国の要請を受けてイラン攻撃を中止したと発言",
-   "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
-   "summary": "米大統領、攻撃予告から数日後に紛争終結に向けた「合意の境界線」が合意されたと主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-02T17:45:59+09:00",
-   "lang": "en",
-   "title_orig": "Trump says he cancelled Iran strikes after Middle East allies’ request"
   },
   {
    "title": "「見せる延長コード」開発の情熱",
@@ -179,16 +217,6 @@
    "title_orig": "German carmakers flood jobs market with managers after wielding axe"
   },
   {
-   "title": "ジョークが政治的暴力につながるわけがないなどと考えないでください",
-   "link": "https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1",
-   "summary": "政治的暴力に関するタブーは揺らぎつつあるが、言論の制限は解決策ではない",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-02T13:00:05+09:00",
-   "lang": "en",
-   "title_orig": "Don’t pretend jokes can’t lead to political violence"
-  },
-  {
    "title": "ジョン･カビラ父子が描く｢沖縄｣の原点､台湾で育った父と語る川平家と日本･沖縄･アメリカに通じる激動の150年史 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "著名タレントであるジョン･カビラさんの父親である川平朝清さんは､沖縄､台湾､日本､アメリカを舞台に､激動の時代を生き抜きました。川平家の歴史は一家族の物語であると同時に､近現代の国際社会と沖縄を映し…",
@@ -245,6 +273,16 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-02T09:00:00+09:00"
+  },
+  {
+   "title": "住宅所有者協会はさらに多くの居住者に差し押さえを行っている",
+   "link": "https://www.wsj.com/real-estate/homeowners-associations-are-foreclosing-on-more-residents-aba6f027?mod=rss_markets_main",
+   "summary": "郊外のコンドミニアムから高級住宅に至るまで、HOAによる差し押さえが急増している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-02T09:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Homeowners Associations Are Foreclosing on More Residents"
   },
   {
    "title": "女性は｢決意するまで｣男性は｢別居･離婚が現実になってから｣　夫婦問題で浮き彫りになる男女の\"温度差\"《メンタルケア男性編》 | ライフ | 東洋経済オンライン",
@@ -427,26 +465,6 @@
    "title_orig": "Let’s elect candidates who will make the wealthy pay taxes"
   },
   {
-   "title": "「私のように騙されないでください」: 間違ったパスポートのウェブサイトに 185 ドルを支払いました。お金を返してもらえますか？",
-   "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
-   "summary": "「優良企業局に苦情を申し立てます。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-02T03:15:00+09:00",
-   "lang": "en",
-   "title_orig": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?"
-  },
-  {
-   "title": "メディケア パート D 保険料の上昇により、より多くの人がメディケア アドバンテージ プランに加入する可能性がある",
-   "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
-   "summary": "メディケア・アドバンテージ計画は、メディカーの費用を維持するプログラムを早期に終了するというトランプ政権の決定の勝者となる可能性がある",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-02T03:06:00+09:00",
-   "lang": "en",
-   "title_orig": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans"
-  },
-  {
    "title": "「やること　円買う」米財務長官の後押し　円安阻止へ日米「新局面」",
    "link": "https://www.asahi.com/articles/ASV813GTCV81ULFA006M.html?ref=rss",
    "summary": "",
@@ -534,7 +552,7 @@
    "summary": "ムサレム総裁、米ＦＲＢの物価対策の信頼性強化訴え＝ＦＴ&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-01T13:21:43+09:00"
+   "published": "2026-08-01T13:20:00+09:00"
   },
   {
    "title": "日銀の金融政策 利上げ加速が焦点",
@@ -733,16 +751,6 @@
    "title_orig": "Yen Strengthens on Signs of Intervention"
   },
   {
-   "title": "アマゾンの利益がアップルチップの苦境を相殺し、米国株が上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-amazon-earnings-offset-apple-chip-woes-21a670dc?mod=rss_markets_main",
-   "summary": "アマゾンが人工知能の回復を続けたため、米国株は上昇して落ち着いた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-01T05:40:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes"
-  },
-  {
    "title": "レオポルド・アシェンブレナーはどのようにして450億ドルのAIヘッジファンドを構築し、その大部分を数日で失ったのか",
    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
    "summary": "元OpenAI研究者からヘッジファンドマネージャーに転身したレオポルド・アッシェンブレナー氏は、今週、自身のAIに特化したファンド「Situational Awar」の株価が大幅に下落したことを確認した。",
@@ -913,14 +921,6 @@
    "published": "2026-08-01T00:00:00+09:00"
   },
   {
-   "title": "米ミシガン大消費者信頼感、7月確報は55.2に改善 生活費高騰になお懸念も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdwRDBRYUJHZGlRUE1PN2Rjd2xnWnZ2Z2RTSFRjN0ZPVzk4eHhKbDliTzk1Skd2dXNyT2J5RWVhZnBHd0dZcXQtampBSGxwdUFoeGFmV0tUWFR3QzhicTBYbUM0OFh0LVZweGZOelpnMjRuam5TUTRtVV9aRU9yaA?oc=5",
-   "summary": "米ミシガン大消費者信頼感、7月確報は55.2に改善 生活費高騰になお懸念も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-07-31T23:44:18+09:00"
-  },
-  {
    "title": "利上げに賛成票を投じたFRB当局者ら、インフレに対して今すぐ行動が必要だと語る",
    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
    "summary": "",
@@ -955,14 +955,6 @@
    "published": "2026-07-31T21:01:38+09:00"
   },
   {
-   "title": "首都高、10月から値上げ　普通車は1割増　維持管理費が上昇",
-   "link": "https://www.asahi.com/articles/ASV703K1LV70ULFA02RM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-31T21:00:00+09:00"
-  },
-  {
    "title": "令和８年熊本地震に関連する有価証券報告書等の提出期限について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260731/20260731.html",
    "summary": "",
@@ -979,36 +971,20 @@
    "published": "2026-07-31T20:45:54+09:00"
   },
   {
-   "title": "日銀総裁「利上げ、次回以降でしっかり議論」9月も半々との見方も",
-   "link": "https://www.asahi.com/articles/ASV7Y4KG4V7YULFA01VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-31T20:30:36+09:00"
-  },
-  {
-   "title": "不活動の宗教法人、売買され不正利用も　文化庁が都道府県向け指針案",
-   "link": "https://www.asahi.com/articles/ASV703CD2V70UCVL01QM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-31T20:30:00+09:00"
-  },
-  {
-   "title": "日銀・植田総裁、今回も登場したキーワード　9月の利上げ排除せず",
-   "link": "https://www.asahi.com/articles/ASV703QXPV70ULFA038M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-07-31T20:25:18+09:00"
-  },
-  {
    "title": "令和８年熊本地震の影響を受けた事業者への資金繰り支援の徹底等について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20260731-2/20260731-2.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-31T20:00:00+09:00"
+  },
+  {
+   "title": "30日の円買い介入は6.4―9.6兆円規模か、3日当預予想で市場推計 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0eU9JaFhDczU0dUtnUGpVa0J6RjdNSmVLdC1RU2JZUmkxbUlDX0U3aVU0UFFIS2ctUnBMakgtV25YbHBTZ1l4WW1kaVB4ZlBGRXg4ejNJMFJLQmg4OXV3VXNUdmNDdktmZk1aRXhFUlN2VWJ2MTNJNw?oc=5",
+   "summary": "30日の円買い介入は6.4―9.6兆円規模か、3日当預予想で市場推計&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-07-31T19:59:06+09:00"
   },
   {
    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年7月31日(金曜日))",
@@ -1281,14 +1257,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-07-31T03:00:00+09:00"
-  },
-  {
-   "title": "「金融分野におけるITレジリエンスに関する分析レポート」について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260730/20260730.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-07-30T21:00:00+09:00"
   }
  ]
 }
