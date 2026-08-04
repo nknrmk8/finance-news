@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T16:08:46.548358+09:00",
+ "generated_at": "2026-08-04T18:47:55.383347+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,30 @@
  "errors": [],
  "items": [
   {
+   "title": "スチュワードシップ・コードの受入れを表明した機関投資家のリスト（令和８年（2026年）６月30日時点）について公表しました。",
+   "link": "https://www.fsa.go.jp/singi/stewardship/list/20171225.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-05T02:00:00+09:00"
+  },
+  {
+   "title": "「決済に関する規制の見直し」に係る規制の政策評価（RIA）について公表しました。",
+   "link": "https://www.fsa.go.jp/seisaku/r8ria.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-05T02:00:00+09:00"
+  },
+  {
+   "title": "その他,G7サイバー・エキスパート・グループによる再接続枠組みのベストプラクティスに関する技術的付属文書について公表しました。",
+   "link": "https://www.fsa.go.jp/inter/etc/20260804/reconnection.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-05T02:00:00+09:00"
+  },
+  {
    "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in大阪」の開催について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260804/20260804.html",
    "summary": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in大阪」の開催について公表しました。詳しくは特設サイトをご覧ください。",
@@ -69,14 +93,112 @@
    "published": "2026-08-04T23:00:00+09:00"
   },
   {
-   "title": "国債は上昇、米国債の上昇に追随",
-   "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-89af7200?mod=rss_markets_main",
-   "summary": "国債は、夜間の米国債の価格上昇に追随し、東京序盤の取引で小幅上昇した。",
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-9a2fe984?mod=rss_markets_main",
+   "summary": "ヘルスケアを対象とした最新のマーケット トークで、バイエル、パークウェイ ライフ、フレゼニウス メディカル ケアなどに関する洞察を見つけてください。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-08-04T15:59:00+09:00",
+   "published": "2026-08-04T18:43:00+09:00",
    "lang": "en",
-   "title_orig": "JGBs Edge Higher, Tracking Gains in U.S. Treasurys"
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "職場での AI の置き換えは増加しており、最も影響を受けるのは若者です",
+   "link": "https://www.marketwatch.com/story/ai-displacement-in-the-workplace-is-increasing-and-affecting-young-people-most-22ab61cc?mod=mw_rss_topstories",
+   "summary": "モルガン・スタンレー、AIの破壊により現在失業率が15ベーシスポイント増加していると発表",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-04T18:39:00+09:00",
+   "lang": "en",
+   "title_orig": "AI displacement in the workplace is increasing – and affecting young people most"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-33f3805e?mod=rss_markets_main",
+   "summary": "基本的な材料をカバーする最新のマーケットトークで、フォーテスキュー、ファイアフライメタル、西アフリカ資源などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-04T18:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "トヨタ 今年度の事業見通しを上方修正 営業利益は3兆4000億円",
+   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195831000.html",
+   "summary": "トヨタ自動車は今年度1年間の業績見通しについて、営業収益をこれまでの51兆円から54兆円に、営業利益を3兆円から3兆4000億円にそれぞれ上方修正しました。想定する為替レートを円安方向に変更したことや、中東向けの物流ルートを確保できたことなどが要因だとしています。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T18:32:39+09:00"
+  },
+  {
+   "title": "円安を止められるのは日本銀行だけ",
+   "link": "https://www.wsj.com/world/asia/only-the-bank-of-japan-can-arrest-the-yens-decline-dc351568?mod=rss_markets_main",
+   "summary": "米国との利回り格差の拡大に対処するには金利の引き上げが必要だ。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-04T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Only the Bank of Japan Can Arrest the Yen’s Decline"
+  },
+  {
+   "title": "円相場 値下がり",
+   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196221000.html",
+   "summary": "4日の東京外国為替市場、円相場はドルに対して値下がりしました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T18:27:47+09:00"
+  },
+  {
+   "title": "ソニー生命、金銭詐取また判明　顧客の保険を解約させ遊興費などに",
+   "link": "https://www.asahi.com/articles/ASV8430Z4V84ULFA01CM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T18:25:03+09:00"
+  },
+  {
+   "title": "エネルギーショックにより BP の利益は 144% 増加",
+   "link": "https://www.marketwatch.com/story/energy-shock-delivers-144-boost-in-profits-for-bp-a5337d03?mod=mw_rss_topstories",
+   "summary": "英国の石油大手は第2四半期に57億ドルの純利益を報告し、ウォール街のコンセンサスを上回った。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-04T18:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy shock delivers 144% boost in profits for BP"
+  },
+  {
+   "title": "もう一つの電話番号、副業や推し活需要高まる　KDDIが新サービス",
+   "link": "https://www.asahi.com/articles/ASV842TFSV84ULFA01JM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T18:10:35+09:00"
+  },
+  {
+   "title": "ドコモのシェアサイクルでシステム不具合 サービスの提供停止",
+   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196131000.html",
+   "summary": "NTTドコモの子会社が全国およそ6000か所で提供するシェアサイクルが、システムの不具合によって4日午後から利用できなくなっています。会社では現時点で復旧のめどは立っていないとしています。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T18:03:20+09:00"
+  },
+  {
+   "title": "中部電力に不正アクセス 約7万4000人の個人情報漏えいの可能性",
+   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196091000.html",
+   "summary": "中部電力は4日、会社が利用するシステムへの不正アクセスが確認されたと発表しました。関係機関や取引先のほか、グループの役職員などあわせておよそ7万4000人の氏名やメールアドレスなどの個人情報が漏えいした可能性があるとしています。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T18:01:59+09:00"
+  },
+  {
+   "title": "メグ・ライアン、1525万ドルの絵のように美しいハンプトンの不動産の買い手を見つける",
+   "link": "https://www.marketwatch.com/story/meg-ryan-finds-a-buyer-for-picturesque-15-25-million-hamptons-property-7d40dda5?mod=mw_rss_topstories",
+   "summary": "女優のメグ・ライアンは、ハンプトンの豪邸の買い手を確保してから、不動産を上場してからわずか数週間で眠れない夜が減った",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-04T18:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Meg Ryan finds a buyer for picturesque $15.25 million Hamptons property"
   },
   {
    "title": "ドル上昇 vs.円は調整パターンの可能性、テクニカル分析が示す",
@@ -84,9 +206,213 @@
    "summary": "ストーンＸ氏によると、１時間足チャートに基づくと、ドルは対円で調整パターンの可能性があり、上昇しているという。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-08-04T15:54:00+09:00",
+   "published": "2026-08-04T18:00:00+09:00",
    "lang": "en",
    "title_orig": "Dollar Rising Vs. Yen in Possible Corrective Pattern, Technical Analysis Shows"
+  },
+  {
+   "title": "ウクライナの無人機、夜間攻撃でワイルドベリーの倉庫を直撃",
+   "link": "https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1",
+   "summary": "ロシアの小売業者は、プーチン大統領の戦争を国内に近づけることを目指しており、キエフにとって重要な標的となっている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-04T17:57:29+09:00",
+   "lang": "en",
+   "title_orig": "Ukrainian drones hit Wildberries warehouses in overnight strikes"
+  },
+  {
+   "title": "中部電 7万人超の情報漏えい恐れ",
+   "link": "https://news.yahoo.co.jp/pickup/6590517?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-04T17:30:30+09:00"
+  },
+  {
+   "title": "九州道 8月後半には通行可能に",
+   "link": "https://news.yahoo.co.jp/pickup/6590514?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-04T17:25:00+09:00"
+  },
+  {
+   "title": "米国株は上昇継続の見通し、原油は不確実性から反発",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-look-to-extend-rally-oil-rebounds-on-uncertainty-be1b5842?mod=rss_markets_main",
+   "summary": "投資家が6月の米求人統計を待つ中、欧州取引序盤で原油が小幅上昇する一方、米株先物は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-04T17:22:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stocks Look to Extend Rally, Oil Rebounds on Uncertainty"
+  },
+  {
+   "title": "日本製紙 熊本地震で9人死亡 あす社長らが会見へ",
+   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196071000.html",
+   "summary": "先月28日の地震で熊本県八代市の工場の煙突が倒壊するなどして9人が死亡した日本製紙は、5日に地震のあと初めて市内で社長らが記者会見を行うと発表しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T17:12:51+09:00"
+  },
+  {
+   "title": "HSBC、四半期利益大幅増、10億ドルの自社株買いを計画",
+   "link": "https://www.wsj.com/business/earnings/hsbc-posts-sharply-higher-quarterly-profit-plans-1-bln-share-buyback-00845c03?mod=rss_markets_main",
+   "summary": "ロンドンに本拠を置く同銀行は、第2四半期の純利益が前年同期比68％増の76億9000万ドルになったと発表し、最大10億ドルの自社株買いを発表した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-04T17:12:00+09:00",
+   "lang": "en",
+   "title_orig": "HSBC Posts Sharply Higher Quarterly Profit, Plans $1 Billion Share Buyback"
+  },
+  {
+   "title": "円安・中東情勢の影響緩和…トヨタ上方修正　苦戦中国どう巻き返す",
+   "link": "https://www.asahi.com/articles/ASV842GHHV84ULFA02ZM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T17:10:00+09:00"
+  },
+  {
+   "title": "大企業の賃上げ率5.37% 春闘集計",
+   "link": "https://news.yahoo.co.jp/pickup/6590512?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-04T17:05:50+09:00"
+  },
+  {
+   "title": "国内の設備投資計画、26年度は19.7%増　AI・原発など伸びる",
+   "link": "https://www.asahi.com/articles/ASV842JXMV84ULFA017M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T17:04:00+09:00"
+  },
+  {
+   "title": "ホルムズ海峡再開の見通しの中で原油下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospects-for-reopening-of-strait-of-hormuz-79d7e674?mod=rss_markets_main",
+   "summary": "世界の石油の5分の1が通過する重要な水路であるホルムズ海峡の再開見通しのなか、アジア貿易初期で原油下落",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-04T17:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Falls Amid Prospects for Reopening of Strait of Hormuz"
+  },
+  {
+   "title": "英ＢＰ、石油価格上昇で2倍超の増益 設備投資予想引き上げ - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNb25CbHhPSnNuN2s5d3ZsbGNmM0Z4Zkl5bVB6cmNvVUpFd1FiVldocmMxYXl6THNKZXJaenhpMjVCR2ZPZUl2VGZpdU9QVXdLM1k5THV0dElmOFI3Tjc1LUFLdWFOSmdfX2ZiaFdSaVEwSFZOdFFMSA?oc=5",
+   "summary": "英ＢＰ、石油価格上昇で2倍超の増益 設備投資予想引き上げ&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-04T17:01:43+09:00"
+  },
+  {
+   "title": "誕生から半世紀　京都・高島屋洛西店が閉店　ニュータウン再生も課題",
+   "link": "https://www.asahi.com/articles/ASV840RJXV84PLZB004M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T17:00:00+09:00"
+  },
+  {
+   "title": "「経営にスピード感、進化の礎に」　矢作建設工業の竹下英司新社長",
+   "link": "https://www.asahi.com/articles/ASV841J8SV84ULFA01NM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T17:00:00+09:00"
+  },
+  {
+   "title": "日本銀行が保有する国債の銘柄別残高",
+   "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260731.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-04T17:00:00+09:00"
+  },
+  {
+   "title": "日本銀行が受入れている担保の残高（7月末）",
+   "link": "http://www.boj.or.jp/statistics/boj/other/col/col2607.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-04T17:00:00+09:00"
+  },
+  {
+   "title": "買入消却入札による買入れの詳細及び累計（令和8年7月実施分）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/ichiran222.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-04T17:00:00+09:00"
+  },
+  {
+   "title": "金の上昇。米国の労働データに注目",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-focus-on-u-s-labor-data-239f754a?mod=rss_markets_main",
+   "summary": "金は序盤の取引で上昇した。市場が急速に変化する中間価格との間で争う中、貴金属は数週間にわたりレンジ内で取引されている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-04T16:59:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Rises; Focus on U.S. Labor Data"
+  },
+  {
+   "title": "農水産物の上半期輸出額、10.9%増で過去最高　緑茶、ブリ好調",
+   "link": "https://www.asahi.com/articles/ASV842CT6V84ULFA02RM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T16:52:46+09:00"
+  },
+  {
+   "title": "小学館 社長ら26人 役員報酬の一部自主返納 漫画家起用問題で",
+   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195971000.html",
+   "summary": "小学館の漫画アプリの編集部が、性加害事件を起こして連載が中止となった漫画家を別のペンネームで原作者として再び起用していた問題で、小学館は4日、社長ら26人が役員報酬の一部を自主返納すると発表しました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T16:45:22+09:00"
+  },
+  {
+   "title": "大企業の賃上げ5.37%、金額は過去最高　経団連が春闘最終集計",
+   "link": "https://www.asahi.com/articles/ASV842660V84ULFA006M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T16:30:00+09:00"
+  },
+  {
+   "title": "株価 小幅に値上がり 値下がりした銘柄買い戻す動き",
+   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195691000.html",
+   "summary": "4日の東京株式市場は午後に入って値下がりした銘柄を買い戻す動きも出て、株価は小幅に値上がりしました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T16:29:12+09:00"
+  },
+  {
+   "title": "BP、利益急増で米国のバイオガス事業を売却へ",
+   "link": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
+   "summary": "最高経営責任者は、英国の石油メジャーは北海資産に関していくつかのアプローチを持っていると述べた",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-04T16:24:06+09:00",
+   "lang": "en",
+   "title_orig": "BP to sell US biogas business as profits soar"
+  },
+  {
+   "title": "「中東と長期的なパートナーシップを」　三井物産社長が説く重要性",
+   "link": "https://www.asahi.com/articles/ASV831RJKV83ULFA02NM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-04T16:00:00+09:00"
+  },
+  {
+   "title": "丸井Ｇ、発行済み株式の5.58％・200億円を上限に自社株買い - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3haWlRaZUZnazNSUGYwSkZURlZZMmpkM083V2JpNkJ1VW5IT2ZNQ0VKWEFlV0xLclQ5ZjNkcF92anpLcm05UkpBUlJyM19MYXJucnJ5TmdVaHhlcnNvNkkwODhMWklrc2dvbG16VlBGUVAyTzBHem1FQkFHU3NXLQ?oc=5",
+   "summary": "丸井Ｇ、発行済み株式の5.58％・200億円を上限に自社株買い&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-04T15:55:00+09:00"
   },
   {
    "title": "農林水産物 食品の輸出額 上半期2年連続で過去最高に",
@@ -97,9 +423,9 @@
    "published": "2026-08-04T15:53:44+09:00"
   },
   {
-   "title": "日鉄、今期の純利益予想を700億円上方修正 市場予想上回る - ロイター",
+   "title": "日鉄、今期の純利益予想を700億円上方修正 市場予想上回る - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JRHBGRW1NUmlTd2kzZFIyZGt1aFR1bGQtWXRUa2dScVp4X2Y5bzRuVlp6X0xnRm4xeEZWbTR4b3g1TW1ZOVRCYzNBZEY2aFRYNW1XV0oyU3RMcllXU0pDcUZvRlhxdlA3N2x5UkJaZnltbGxCTEdoOQ?oc=5",
-   "summary": "日鉄、今期の純利益予想を700億円上方修正 市場予想上回る&nbsp;&nbsp;ロイター",
+   "summary": "日鉄、今期の純利益予想を700億円上方修正 市場予想上回る&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T15:53:00+09:00"
@@ -121,30 +447,12 @@
    "published": "2026-08-04T15:30:00+09:00"
   },
   {
-   "title": "BP、利益急増で米国のバイオガス事業を売却へ",
-   "link": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
-   "summary": "最高経営責任者は、英国の石油メジャーは北海資産に関していくつかのアプローチを持っていると述べた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-04T15:23:26+09:00",
-   "lang": "en",
-   "title_orig": "BP to sell US biogas business as profits soar"
-  },
-  {
    "title": "10年利付国債（第383回）の第II非価格競争入札結果（令和8年8月4日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260804a.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-04T15:15:00+09:00"
-  },
-  {
-   "title": "ベネズエラ原油輸出、7月は2カ月連続減 対米7年ぶり高水準 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kT1loY1hfVnFERnlkWHJ5TGNDMmlBb19QdElKb0ZfNDZ2TllqMnJKWC02dHRiWDhnUjZFZG0yME5SQ2pLRzRQWUFMWG9qUUd0QlQ0RzdfWkZLbmRrNGkwUjF1SWtIQnF2Rl91ZVprcy1GSkhVSTA0WUF3?oc=5",
-   "summary": "ベネズエラ原油輸出、7月は2カ月連続減 対米7年ぶり高水準&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-04T15:06:00+09:00"
   },
   {
    "title": "全国のイオンモールでイベント中止　涼しさ兼ね集客も爆発で点検優先",
@@ -195,32 +503,6 @@
    "published": "2026-08-04T15:00:00+09:00"
   },
   {
-   "title": "HSBC、四半期利益大幅増、10億ドルの自社株買いを計画",
-   "link": "https://www.wsj.com/business/earnings/hsbc-posts-sharply-higher-quarterly-profit-plans-1-bln-share-buyback-00845c03?mod=rss_markets_main",
-   "summary": "ロンドンに本拠を置く同銀行は、第2四半期の純利益が前年同期比68％増の76億9000万ドルになったと発表し、最大10億ドルの自社株買いを発表した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-04T14:52:00+09:00",
-   "lang": "en",
-   "title_orig": "HSBC Posts Sharply Higher Quarterly Profit, Plans $1 Billion Share Buyback"
-  },
-  {
-   "title": "トヨタ 今年度の業績見通しを上方修正",
-   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195831000.html",
-   "summary": "トヨタ自動車は今年度1年間の業績見通しについて、売り上げにあたる営業収益をこれまでの51兆円から54兆円に営業利益を3兆円から3兆4000億円にそれぞれ上方修正しました。想定する為替レートをこれまでの1ドル＝150円から1ドル＝160円へ円安方向に変更したことや、中東向けの代替の物流ルートを確保したことなどが要因だとしています。一方、今回の熊本地震による事業への影響は精査中で、今回の見通しには反映",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-04T14:45:36+09:00"
-  },
-  {
-   "title": "トヨタ、今期純利益予想3兆2500億円に上方修正 円安が寄与 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RcTdFeUFiNWk2ZDZCOExueTVGczdnTF9SV2pOU0RnV3otYTAxZ2dBODNZYnMwdkRXTThkOHg0SWpiek0xc0xWN01oX2FpR2g0el9xY3BETmpqdllSZ2cxaFBxMF9HVXctLXZqcnpFQ0x2OF9faDRBcA?oc=5",
-   "summary": "トヨタ、今期純利益予想3兆2500億円に上方修正 円安が寄与&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-04T14:40:00+09:00"
-  },
-  {
    "title": "HSBC、四半期利益が101億ドルに急増、自社株買いを再開",
    "link": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
    "summary": "欧州最大の金融機関、香港の資産管理と保険事業で成長",
@@ -231,17 +513,17 @@
    "title_orig": "HSBC resumes share buybacks as quarterly profit soars to $10.1bn"
   },
   {
-   "title": "クボタ、今期純利益54％増予想 円安進行で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GYmhjX0Y1bENYX2c2TXdFVnZrYTRQQzdUNXJLMTVtWHI3aWt6aWFBeV9nLVZzR21KM0x4SXJ4b2NQRUtFNjJGb1hyVkJxSE1FYjhkbkxvMzJId3luX3RncFVINWN3WWliV19reWFfRE5DQXlrVEFqMg?oc=5",
-   "summary": "クボタ、今期純利益54％増予想 円安進行で&nbsp;&nbsp;ロイター",
+   "title": "住友大阪セメント、9月30日の株主に1対3の株式分割 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYmFpaWVFWTJWM3FTeXZySUlKX29fU2Jrc2RkcFF5YW9fRzdiWWxraWJkaHJ2R0wzS05EdjhyQjZ0M3JReTY3LVFYTkNSei1qTDdQWE03OGNMY0VQWVlYYTlxYXU3MEFNNUkxRjVaek8zcVhZQkE?oc=5",
+   "summary": "住友大阪セメント、9月30日の株主に1対3の株式分割&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-04T14:30:00+09:00"
+   "published": "2026-08-04T14:38:00+09:00"
   },
   {
-   "title": "クボタ、発行済み株式の1.6％・400億円上限に自社株買い - ロイター",
+   "title": "クボタ、発行済み株式の1.6％・400億円上限に自社株買い - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BUl9iZ2UzREpxNEFfYXNNRUY4NjUtbnhtTFM5MDUzMjJzVFFrcEEzcUtjcDgzb0xwenJtdkN1N05kR0RIdWk0QkNGZVBBRGVFUzlSaXRSLVVNSTZvS3F4c0ZHbWVSdEsxY3ZBNHlwVnhmbzVPakE?oc=5",
-   "summary": "クボタ、発行済み株式の1.6％・400億円上限に自社株買い&nbsp;&nbsp;ロイター",
+   "summary": "クボタ、発行済み株式の1.6％・400億円上限に自社株買い&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T14:28:00+09:00"
@@ -263,44 +545,12 @@
    "published": "2026-08-04T14:21:20+09:00"
   },
   {
-   "title": "ＳＨＥＩＮ、香港ＩＰＯで最大400億ドルの評価額目指す＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pSkhyUU1tSWN0dEh1N0hMb2paXzFyQmU4VUhBVmk3MktTR1U3V1NjY0ZpTUFtX3cxVUFnZjZILVh1UFRaRkJnUlk2dHRyNU52QllhMWladE5wMVh1MWFUc0lManAtc2tMd2N3TUl2QzNhUllKSXpnRA?oc=5",
-   "summary": "ＳＨＥＩＮ、香港ＩＰＯで最大400億ドルの評価額目指す＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-04T14:16:00+09:00"
-  },
-  {
-   "title": "ＨＳＢＣ、上期利益23％増 金利上昇や資産運用業務が寄与 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yWEZ5cDc2SkZ5UW94NkxlX2F5VUZEUnFfTGkxRjJGcE80eU9TdmtvU3kwUkVLTHg5NVRfbUFMU2xFWjdDcS1LV1lmYmFyTWRMVGVqMjJBbThNMDB4dU43YmFxUmFDS2Nob2EtdmhpTVVnWlhXUFE?oc=5",
-   "summary": "ＨＳＢＣ、上期利益23％増 金利上昇や資産運用業務が寄与&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-04T13:59:00+09:00"
-  },
-  {
    "title": "【きょうのおはBiz 8月4日(火)】広がる食品ロス削減アプリ",
    "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195571000.html",
    "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-04T13:17:54+09:00"
-  },
-  {
-   "title": "令和8年熊本地震関連情報",
-   "link": "https://www.mof.go.jp/public_relations/disaster/202607_kumamoto-jishin/20260729093052.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-04T13:10:00+09:00"
-  },
-  {
-   "title": "奈良観光「滞在型」へ転換なるか",
-   "link": "https://news.yahoo.co.jp/pickup/6590473?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-04T13:00:32+09:00"
   },
   {
    "title": "Revolutの社長ニック・ストロンスキー氏、3億5000万ユーロのスーパーヨットをめぐってブローカーから訴えられる",
@@ -313,16 +563,6 @@
    "title_orig": "Revolut chief Nik Storonsky sued by broker over €350mn superyacht"
   },
   {
-   "title": "インファンティーノは問題じゃない",
-   "link": "https://www.ft.com/content/76d27b15-f73c-4408-9455-a85831eb2fec",
-   "summary": "FIFAの規制機能は商業活動から分離されなければならない",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-04T13:00:16+09:00",
-   "lang": "en",
-   "title_orig": "Infantino is not the problem"
-  },
-  {
    "title": "Google の Anthropic のための 2,000 億ドルのウォール街金融機構の内部",
    "link": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
    "summary": "プライベートクレジット、チップリース、データセンター保証がAI支出の巨大な新しいモデルを支える",
@@ -331,6 +571,16 @@
    "published": "2026-08-04T13:00:16+09:00",
    "lang": "en",
    "title_orig": "Inside Google’s $200bn Wall Street finance machine for Anthropic"
+  },
+  {
+   "title": "インファンティーノは問題じゃない",
+   "link": "https://www.ft.com/content/76d27b15-f73c-4408-9455-a85831eb2fec",
+   "summary": "FIFAの規制機能は商業活動から分離されなければならない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-04T13:00:16+09:00",
+   "lang": "en",
+   "title_orig": "Infantino is not the problem"
   },
   {
    "title": "UAEの帝国主義によるアフリカ進出",
@@ -361,30 +611,20 @@
    "published": "2026-08-04T13:00:00+09:00"
   },
   {
-   "title": "株価 値下がり 半導体関連などに売り注文",
-   "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195691000.html",
-   "summary": "4日の東京株式市場、半導体関連の銘柄などに売り注文が出て株価は値下がりしています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-04T12:47:12+09:00"
-  },
-  {
-   "title": "ベッセントの円介入は米国の「通貨積極主義」の新時代を示唆",
-   "link": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1",
-   "summary": "日本通貨支援への入札は、米国が自国の利益に反する取引を阻止する用意があることを示している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-04T12:35:46+09:00",
-   "lang": "en",
-   "title_orig": "Bessent’s yen intervention signals new era of US ‘currency activism’"
-  },
-  {
    "title": "10年利付国債（第383回）の入札結果（令和8年8月4日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260804.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-04T12:35:00+09:00"
+  },
+  {
+   "title": "ＵＢＳ、米規制当局から1億2500万ドルの制裁金 資金洗浄対策不備で - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDZvR3RhMm9SYWplcm55c0l2aUR6R2pfN3h3TGItaWg4bFR3d0dfX01hRWU0eVMtNUtSaEdvUHlUMld2bUlsV1pxaE9MWjRTNkVXbmFwSzNhMkREYURFa2QzZVNGaGs1MmlWVGRrYWhMR20wQ0JaZ3lqbzc5OExtTQ?oc=5",
+   "summary": "ＵＢＳ、米規制当局から1億2500万ドルの制裁金 資金洗浄対策不備で&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-04T12:34:00+09:00"
   },
   {
    "title": "｢高市ゴリ押し減税｣に自民党内から\"退陣待望論\"まで噴出？ ｢財源なき見切り発車｣が招く28年参院選への\"時限爆弾\" | 政治・経済・投資 | 東洋経済オンライン",
@@ -411,17 +651,17 @@
    "published": "2026-08-04T12:00:00+09:00"
   },
   {
-   "title": "ANA機と国の飛行検査機 異常接近",
-   "link": "https://news.yahoo.co.jp/pickup/6590478?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-04T11:51:33+09:00"
+   "title": "ロシア西部港の原油輸出、8月は4％増へ 攻撃で国内製油能力が低下 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXJ2Ti1RbkplWjZfRjYzMDJNR0hDOXJ2R3lLLW9YSkdlYy03RzNJYUhBYU9GMUJ0RERzUDJwV2ZQZU94Z0xMbXA1VThkSTVicVNFUkRTMFJTdDFRMnB0Vmo4RGNpaVFpTmc4SnFpVFlWMUxLbVdpTWwxaTh2aGF0Mg?oc=5",
+   "summary": "ロシア西部港の原油輸出、8月は4％増へ 攻撃で国内製油能力が低下&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-04T11:52:00+09:00"
   },
   {
-   "title": "熊本地震、経済への影響に留意必要 半導体工場など集積＝城内経財相 - ロイター",
+   "title": "熊本地震、経済への影響に留意必要 半導体工場など集積＝城内経財相 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOERMVGxkWkxodGhFWmtiQmZlOVhpY182NFB1TTMxbURnNHJHU2t4amEzSDdUZkVPYWh3a2l6UFViZzJiRDl2eW5XLTJETG1oRXdKUnVOOHZRLUp4RVZnR3R6dzRtRVRtOVFjQVpaNHIwbmQ5OWdhYUdXX1NPTlBSNQ?oc=5",
-   "summary": "熊本地震、経済への影響に留意必要 半導体工場など集積＝城内経財相&nbsp;&nbsp;ロイター",
+   "summary": "熊本地震、経済への影響に留意必要 半導体工場など集積＝城内経財相&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T11:48:00+09:00"
@@ -491,9 +731,9 @@
    "published": "2026-08-04T10:42:18+09:00"
   },
   {
-   "title": "アングル：日米協調介入効果の持続力に注目、投機抑制には日銀追加利上げ不可欠か - ロイター",
+   "title": "アングル：日米協調介入効果の持続力に注目、投機抑制には日銀追加利上げ不可欠か - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYVG5memVfTTRPVWRvZ3J0c1I3N1AwZWhKZ2hLQTdVTG9uUTZzdXV2a0xkak8walBxeDlrVU95SnBVZXYyUFBQbWVNbXk0ZGwtS2x3RVhKYno3M2NOVFNXMGtPVkpqMlZEUWt3aWliUVk2MmZPa25uLQ?oc=5",
-   "summary": "アングル：日米協調介入効果の持続力に注目、投機抑制には日銀追加利上げ不可欠か&nbsp;&nbsp;ロイター",
+   "summary": "アングル：日米協調介入効果の持続力に注目、投機抑制には日銀追加利上げ不可欠か&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T10:42:00+09:00"
@@ -547,9 +787,9 @@
    "published": "2026-08-04T10:00:00+09:00"
   },
   {
-   "title": "豪カンタス、ジェットスター・ジャパンから撤退 82億円で株式売却 - ロイター",
+   "title": "豪カンタス、ジェットスター・ジャパンから撤退 82億円で株式売却 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMVJmV1lGSGtWOHlrdmFvQ3pWSFlCTHcyWnZlbU9nVWttMm1vcG9waVYweFdUQUZSQnlUR2c0dVpmeXVkWU41Vmx5bFhaSlRpZkhvR1hYcU55Y0lyU0xGYW5oM0g1Vzh4WG9LN0JQUXlDV3ZBQmc?oc=5",
-   "summary": "豪カンタス、ジェットスター・ジャパンから撤退 82億円で株式売却&nbsp;&nbsp;ロイター",
+   "summary": "豪カンタス、ジェットスター・ジャパンから撤退 82億円で株式売却&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T09:57:00+09:00"
@@ -561,16 +801,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-04T09:45:00+09:00"
-  },
-  {
-   "title": "金の上昇。米国の労働データに注目",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-focus-on-u-s-labor-data-239f754a?mod=rss_markets_main",
-   "summary": "金は序盤の取引で上昇した。市場が急速に変化する中間価格との間で争う中、貴金属は数週間にわたりレンジ内で取引されている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-04T09:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Rises; Focus on U.S. Labor Data"
   },
   {
    "title": "養育費も払い､面会権もあったのに…トム･クルーズとブラッド･ピットが｢実子の心｣を失うまでの知られざる苦悩 | ライフ | 東洋経済オンライン",
@@ -597,32 +827,12 @@
    "published": "2026-08-04T09:30:00+09:00"
   },
   {
-   "title": "日経平均はチップ株主導で0.4％上昇",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-chip-stocks-e1d183bc?mod=rss_markets_main",
-   "summary": "昨晩の米国テクノロジー株の上昇を受けて、日本株は序盤の取引で上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-04T09:18:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Rises 0.4%, Led by Chip Stocks"
-  },
-  {
    "title": "ジャングリア 人員使いすぎと識者",
    "link": "https://news.yahoo.co.jp/pickup/6590460?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-04T09:17:31+09:00"
-  },
-  {
-   "title": "ホルムズ海峡再開の見通しの中で原油下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospects-for-reopening-of-strait-of-hormuz-79d7e674?mod=rss_markets_main",
-   "summary": "世界の石油の5分の1が通過する重要な水路であるホルムズ海峡の再開見通しのなか、アジア貿易初期で原油下落",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-04T09:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Falls Amid Prospects for Reopening of Strait of Hormuz"
   },
   {
    "title": "8月から｢高額療養費制度｣が改定…医療費の上限引き上げで負担増？ ｢年間上限｣が新設されても本当に損しない？ | ライフ | 東洋経済オンライン",
@@ -669,12 +879,20 @@
    "title_orig": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?"
   },
   {
-   "title": "今日の株式見通し＝弱もちあい、引き続き円高を警戒 トヨタの決算に関心 - ロイター",
+   "title": "今日の株式見通し＝弱もちあい、引き続き円高を警戒 トヨタの決算に関心 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlBIdUJhRUxNYUdaZnJOdGlXODNiMjc2TS00dk5faUE0eGJodzhHYVhYS2RTVWtDcDRfaXh1UzlNUkRxWk1qbVUxb3BIWVJXMHZocGxIX2NNaGlWcmZfd3RYbHg0M0ZJWnV1SkVxR2ZaS3FKNlg0ekNVTHRGeUpxMw?oc=5",
-   "summary": "今日の株式見通し＝弱もちあい、引き続き円高を警戒 トヨタの決算に関心&nbsp;&nbsp;ロイター",
+   "summary": "今日の株式見通し＝弱もちあい、引き続き円高を警戒 トヨタの決算に関心&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T08:07:23+09:00"
+  },
+  {
+   "title": "米財務省の第3四半期借入額見通し7390億ドル、5月から680億ドル上振れ - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wMlg4bm1IejliODNvbFJMdDVPc0dWYmltcUtRUzhVVlpKZ0QzWG5UQjdVeXVsb3VnZnhUVjNqdThEbWhOTm44ak9ZNEJSeXdhYXN5SllocVhmYk1NVXhONVRpYzE1cnIzclFfdy1xeVBKMHd5c2tJaQ?oc=5",
+   "summary": "米財務省の第3四半期借入額見通し7390億ドル、5月から680億ドル上振れ&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-04T08:03:44+09:00"
   },
   {
    "title": "心臓病や脳卒中だけじゃなかった…｢肥満｣はがんリスクも高める　\"危ない肥り方\"や\"減量で予防可能\"か､医師が解説 | ライフ | 東洋経済オンライン",
@@ -739,30 +957,12 @@
    "title_orig": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?"
   },
   {
-   "title": "コラム：日米協調介入、自力では円安を防げなくなった日本＝植野大作氏 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalNRV2E5UFdTcmpjb01qcU56LWJTX3NweUM3eDZwU0Vfb2tjektXZE5mb3BwTUZtNXNDWDBJTFhtZk5VbUlFYXhWbFhSNDV1dUlTbTM3R2hhY0k4S253THc4UXU0UWVwNkdsWFVZYmtXaTJFMElsNDBHRk1WS2hnYi1IS255X3cw?oc=5",
-   "summary": "コラム：日米協調介入、自力では円安を防げなくなった日本＝植野大作氏&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-04T07:19:11+09:00"
-  },
-  {
-   "title": "コラム：日米が本気の協調介入、円安の流れは反転できるのか＝熊野英生氏 - ロイター",
+   "title": "コラム：日米が本気の協調介入、円安の流れは反転できるのか＝熊野英生氏 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWpycU9aZGdyWXpnOUFRVDhTU19SNGllRFhPaWFveDMzSE9mVFByU0NTWnNCU3hYSXhubnZUMkZia0RvcWt3MDExNldDNXJUOEcxM25pRVMtQmxQVmVXYXh4QjhrYW0zZjZLQ08tYXN5U3hLd1JhZ04tdXdCM3h1cklETlkyMVF3?oc=5",
-   "summary": "コラム：日米が本気の協調介入、円安の流れは反転できるのか＝熊野英生氏&nbsp;&nbsp;ロイター",
+   "summary": "コラム：日米が本気の協調介入、円安の流れは反転できるのか＝熊野英生氏&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T07:18:11+09:00"
-  },
-  {
-   "title": "70 歳で現金 100 万ドルで家を購入した場合、90 歳までにお金がなくなってしまいますか?",
-   "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-   "summary": "人生の後半に家を購入すると、賃貸よりも経済的に有利になる損益分岐点に達しない可能性があります。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-04T07:15:00+09:00",
-   "lang": "en",
-   "title_orig": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?"
   },
   {
    "title": "「転勤のメリットは」「AIでどう変わる」　労組と学生が語り合う",
@@ -813,16 +1013,6 @@
    "published": "2026-08-04T07:00:00+09:00"
   },
   {
-   "title": "AI が急速な成長を促進し、Palantir の株価は決算後に上昇",
-   "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
-   "summary": "CEOのAlex Karp氏によると、企業はAIモデルとデータの自律性を高めるためにPalantirに注目しているという。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-04T06:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth"
-  },
-  {
    "title": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
    "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195341000.html",
    "summary": "日米の通貨当局は歴史的な円安を阻止するために先週、協調して円買い介入を実施し、3日、追加の協調介入も辞さないという姿勢を示しました。日本側は、円買い介入の原資となるドルを十分に調達するため今後、アメリカの通貨当局の仕組みを活用する予定だとしていて日米が連携して円安の流れを阻止できるかが焦点となります。",
@@ -839,74 +1029,12 @@
    "published": "2026-08-04T06:45:00+09:00"
   },
   {
-   "title": "IMAX で「スパイダーマン」が「オデッセイ」に加わる中、プレミアム映画スクリーンには追加料金を払う価値があるのでしょうか?",
-   "link": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
-   "summary": "映画ファンの中には、プレミアム上映を「ギミック」と呼ぶ人もいます。 Imax 70mm で「オデッセイ」を見るために車で 6 時間もかかる人もいます。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-04T06:33:00+09:00",
-   "lang": "en",
-   "title_orig": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?"
-  },
-  {
-   "title": "NYダウ、約1カ月ぶりに最高値を更新　中東情勢に期待して原油下落",
-   "link": "https://www.asahi.com/articles/ASV83722KV83UHBI002M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-04T06:32:36+09:00"
-  },
-  {
-   "title": "WSJドル指数は0.09%上昇して96.19",
-   "link": "https://www.wsj.com/finance/currencies/yen-weakens-slightly-on-likely-technical-correction-cda7c245?mod=rss_markets_main",
-   "summary": "ＷＳＪドル指数は０．１％上昇し、４営業日の連敗を止めた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-04T06:26:00+09:00",
-   "lang": "en",
-   "title_orig": "WSJ Dollar Index Rises 0.09% to 96.19"
-  },
-  {
-   "title": "米国株式市場＝続伸、ダウ終値で最高値 アマゾン時価総額3兆ドル突破 - ロイター",
+   "title": "米国株式市場＝続伸、ダウ終値で最高値 アマゾン時価総額3兆ドル突破 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFVYRGs0a0lXNFUtdTJXWTdFLXBmbFV4cUZzWTNJNnU0OUNGeHByWmp0bTM2cm90Y3o4cGNzR3JyUnRQdF9hTUp3YkIybGFqZXQ2dU9SWnFfbUxqUjhKeXV4OEpraHlmdUhfQWlQVWRTR1RNaWVkQ0ZvNEZ0bGdncQ?oc=5",
-   "summary": "米国株式市場＝続伸、ダウ終値で最高値 アマゾン時価総額3兆ドル突破&nbsp;&nbsp;ロイター",
+   "summary": "米国株式市場＝続伸、ダウ終値で最高値 アマゾン時価総額3兆ドル突破&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T06:19:34+09:00"
-  },
-  {
-   "title": "米国の介入後も投資家は円相場に依然として懐疑的",
-   "link": "https://www.wsj.com/finance/currencies/global-stocks-markets-dow-news-08-03-2026-a91fee80?mod=rss_markets_main",
-   "summary": "米国と日本による共同の動き以来、通貨は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-04T06:06:00+09:00",
-   "lang": "en",
-   "title_orig": "Investors Remain Skeptical About the Yen After U.S. Intervention"
-  },
-  {
-   "title": "「笑う、食べる、話すの健康をすべて担いたい」　ライオン・竹森社長",
-   "link": "https://www.asahi.com/articles/ASV7Y2R8SV7YULFA00BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-04T06:00:00+09:00"
-  },
-  {
-   "title": "「大阪を副首都に」期待する大阪財界　維新がめざす「都構想とは別」",
-   "link": "https://www.asahi.com/articles/ASV7030P6V70PLFA00BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-04T06:00:00+09:00"
-  },
-  {
-   "title": "ヒートテックなどを生んだ東レ　100歳になって次に向かう先は？",
-   "link": "https://www.asahi.com/articles/ASV831R6TV83ULFA01XM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-04T06:00:00+09:00"
   },
   {
    "title": "7月の「円安」倒産は5件、1～7月累計50件で過去ペース超え　コスト高が中小企業を圧迫",
@@ -989,9 +1117,9 @@
    "title_orig": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions"
   },
   {
-   "title": "米アマゾン、時価総額3兆ドル突破 ＡＩ巡る楽観ムード再燃 - ロイター",
+   "title": "米アマゾン、時価総額3兆ドル突破 ＡＩ巡る楽観ムード再燃 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1UxOUJEREV3R281QlFZZ2JqM2dtakdZektwdUNCNjZ4QVN6cWZpemphNjZnbDRTZERUVlJSUERQcTRhOHRWLVpVcTNQWV9RSnh4c0IxWnc4Z1JIZG1tUjVvSDlwdTNIT3FvM0tESnlKNVg4Ulk5amM3VGJwN3h3WQ?oc=5",
-   "summary": "米アマゾン、時価総額3兆ドル突破 ＡＩ巡る楽観ムード再燃&nbsp;&nbsp;ロイター",
+   "summary": "米アマゾン、時価総額3兆ドル突破 ＡＩ巡る楽観ムード再燃&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-04T00:38:47+09:00"
@@ -1021,14 +1149,6 @@
    "published": "2026-08-03T22:42:20+09:00"
   },
   {
-   "title": "半導体生産スピード復旧、10年前と違う要因　自動車・物流は不透明",
-   "link": "https://www.asahi.com/articles/ASV832PGYV83ULFA020M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T22:36:11+09:00"
-  },
-  {
    "title": "市場前に大きな動きをする銘柄: アリババ、ブリストル・マイヤーズ スクイブ、eBay など",
    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-premarket-baba-azn-ebay-more.html",
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
@@ -1039,68 +1159,12 @@
    "title_orig": "Stocks making the biggest moves premarket: Alibaba, Bristol-Myers Squibb, eBay & more"
   },
   {
-   "title": "日米が円安阻止で協調、その裏で米国が抱いた他の狙い　有識者に聞く",
-   "link": "https://www.asahi.com/articles/ASV833V1LV83ULFA02VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T21:31:25+09:00"
-  },
-  {
-   "title": "協調介入、透ける米国側の思惑　円安の流れ生む「根本的な原因」",
-   "link": "https://www.asahi.com/articles/ASV833WMKV83ULFA02BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T21:25:42+09:00"
-  },
-  {
-   "title": "30-31日の為替介入 計11兆円超か",
-   "link": "https://news.yahoo.co.jp/pickup/6590420?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-03T21:20:08+09:00"
-  },
-  {
    "title": "大手企業が3か月決算発表 熊本の地震や中東情勢の影響も",
    "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195061000.html",
    "summary": "大手企業のことし4月から6月までの3か月間の決算発表が相次いでいます。令和8年熊本地震の影響や中東情勢の影響など、企業側の発言などとともにまとめました。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-03T21:14:57+09:00"
-  },
-  {
-   "title": "羽田空港 荷物預け入れ締め切りを出発30分前に 出発の遅れ対策",
-   "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194531000.html",
-   "summary": "羽田空港を発着する国内線の空の便で出発の遅れが増えるなど定時運航が課題となっています。こうした中、来月から全日空や日本航空など各社が、羽田空港で乗客が荷物を預ける際の締め切り時刻を10分前倒しして出発時刻の30分前に早めることになりました。記事後半では新幹線と航空機の“3時間の壁”などについても詳しくお伝えしています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T20:49:44+09:00"
-  },
-  {
-   "title": "日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”",
-   "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194421000.html",
-   "summary": "片山財務大臣は歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしたうえで、今後も協調介入の実施をちゅうちょしないという考えを示しました。日本の通貨当局からは「日米通貨同盟の完成形」との受け止めも出ていて、今後、日米が連携して円安に歯止めをかけることができるかが焦点です。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T20:40:27+09:00"
-  },
-  {
-   "title": "猛暑でハンガリーの原発が運転停止　日本は大丈夫？電力会社に聞いた",
-   "link": "https://www.asahi.com/articles/ASV833GVQV83ULFA014M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T20:30:00+09:00"
-  },
-  {
-   "title": "石破氏、消費減税に異論　日本の財政「世界最悪」",
-   "link": "https://www.jiji.com/jc/article?k=2026080300893&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-03T19:52:00+09:00"
   },
   {
    "title": "観光価格競争により、中国の個人消費のまれな明るい部分が暗くなる恐れがある",
@@ -1111,38 +1175,6 @@
    "published": "2026-08-03T19:32:09+09:00",
    "lang": "en",
    "title_orig": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending"
-  },
-  {
-   "title": "日産が2年ぶり黒字確保　4～6月期、世界販売の見通しは引き下げ",
-   "link": "https://www.asahi.com/articles/ASV832C9BV83ULFA02FM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T19:31:44+09:00"
-  },
-  {
-   "title": "円相場 一時1ドル＝155円台前半まで値上がり",
-   "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195161000.html",
-   "summary": "3日の外国為替市場、日本とアメリカが協調して市場介入を行ったと正式に発表されたあと、円が再び急速に買われる場面が見られ、円相場は一時、1ドル＝155円台前半まで値上がりしました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T18:43:08+09:00"
-  },
-  {
-   "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
-   "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194801000.html",
-   "summary": "大規模な爆発が起きた熊本県嘉島町のイオンモール熊本で、従業員2人が死亡した雑貨店の運営会社が、2人が一時、避難したあと、売上金を金庫に戻すために建物の中に戻るよう指示していたことを明らかにしました。会社は2日、遺族に経緯を説明し、謝罪したということです。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T18:22:17+09:00"
-  },
-  {
-   "title": "【熊本地震】特産品の梨やいぐさの生産地にも被害",
-   "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195001000.html",
-   "summary": "震度7の揺れを観測した熊本県氷川町では、特産の梨が枝から落ちる被害が相次ぎ、被害を免れた一部が選果場に持ち込まれています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-03T17:45:08+09:00"
   },
   {
    "title": "金融市場調節取引の2026年度対象先公募等について",
@@ -1239,14 +1271,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-03T07:00:00+09:00"
-  },
-  {
-   "title": "管理職の約9割がプレイヤー兼務　「管理職は罰ゲーム」なのか、増える負担の実態",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/03/news019.html",
-   "summary": "日本経営協会が実施した調査によると、部下を持つミドルマネジャーの約9割がプレイヤー業務を兼務していた。「管理職は罰ゲーム」と言われることもあるが、実際にどのような負担があるのか。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-03T05:30:00+09:00"
   },
   {
    "title": "ゴールドマンのトレーダーらは記録的な年に向けて順調に推移している。彼らがどのようにそれを行っているかを詳しく見てみましょう",
