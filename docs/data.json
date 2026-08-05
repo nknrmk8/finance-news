@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T00:24:24.705052+09:00",
+ "generated_at": "2026-08-06T01:56:50.188726+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,7 +58,9 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
    "title": "その他,G7サイバー・エキスパート・グループによる2026年クロスボーダー協調演習実施について公表しました。",
@@ -109,6 +111,156 @@
    "published": "2026-08-06T01:58:00+09:00"
   },
   {
+   "title": "オゼンピックのメーカー、ノボ ノルディスクが GLP-1 減量薬で首位を破った経緯。ヨーロッパは一か八かの世界経済で競争できるでしょうか?",
+   "link": "https://www.marketwatch.com/story/how-ozempic-maker-novo-nordisk-blew-its-lead-in-glp-1-weight-loss-drugs-can-europe-compete-in-the-high-stakes-global-economy-0a2bcfd0?mod=mw_rss_topstories",
+   "summary": "デンマークの会社は、世界がこれまで見た中で最も儲かる新薬を開発した。その後、アメリカのイーライリリーがそれを打ち破り、ディビジョンを掌握しました。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-06T01:52:00+09:00",
+   "lang": "en",
+   "title_orig": "How Ozempic maker Novo Nordisk blew its lead in GLP-1 weight-loss drugs. Can Europe compete in the high-stakes global economy?"
+  },
+  {
+   "title": "GoogleがAIの主要幹部をまた一人失うと、Alphabetの株価が下落",
+   "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
+   "summary": "Googleの主任科学者で同社の最初の従業員の1人であるジェフ・ディーンが、自身の会社を立ち上げるために退職する。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-06T01:45:00+09:00",
+   "lang": "en",
+   "title_orig": "Alphabet’s stock drops as Google loses another key AI executive"
+  },
+  {
+   "title": "米国先物は上昇、ホルムズ島再開が近いとの期待から原油価格は80ドル前後を維持",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-oil-holds-around-80-on-hopes-for-imminent-hormuz-reopening-6e924f34?mod=rss_markets_main",
+   "summary": "ホルムズ海峡再開に向けた米国とイランの合意見通しが地合いを押し上げ、世界の株式市場の上昇が続いた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:40:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Futures Higher, Oil Holds Around $80 on Hopes for Imminent Hormuz Reopening"
+  },
+  {
+   "title": "マスク氏のスペースX、豪華なAI投資計画で投資家を動揺させる",
+   "link": "https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1",
+   "summary": "同グループは四半期売上高がほぼ2倍になったと発表しているにもかかわらず、市場前取引で株価が下落",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-06T01:39:39+09:00",
+   "lang": "en",
+   "title_orig": "Musk’s SpaceX unnerves investors with lavish AI spending plans"
+  },
+  {
+   "title": "Google DeepMind CEOのデミス・ハサビス氏が辞任し会長に就任",
+   "link": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
+   "summary": "ロンドンに本拠を置くAIラボは親会社Alphabetに吸収される",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-06T01:27:09+09:00",
+   "lang": "en",
+   "title_orig": "Google DeepMind CEO Demis Hassabis steps down to become chair"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b0021b1a?mod=rss_markets_main",
+   "summary": "エネルギーと公共事業をカバーする最新のマーケット トークで、石油先物やシートリウムなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-054bdd7a?mod=rss_markets_main",
+   "summary": "自動車と輸送をカバーする最新のマーケットトークで、タイ国際航空、コンチネンタル、起亜航空などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-e658bc9c?mod=rss_markets_main",
+   "summary": "ヘルスケアを対象とした最新のマーケット トークで、ノボ ノルディスク、フレゼニウスなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-d5acb429?mod=rss_markets_main",
+   "summary": "金融サービスをカバーする最新のマーケットトークで、ユナイテッド・オーバーシーズ・バンク、HSBC、L&Gなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8f0f4?mod=rss_markets_main",
+   "summary": "基本的な材料をカバーする最新のマーケット トークで、世界の化学セクター、グレンコア、リオ ティントなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-60e57249?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Disney、Shopify、Uber などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:22:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "バンク・オブ・アメリカは社員向けのGLP-1薬に年間2億5000万ドルを支出しているとCEOが語る",
+   "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+   "summary": "雇用主は、患者1人当たり年間数千ドルの費用がかかる可能性がある、オゼンピックやウィゴビーなどのGLP-1薬に対する需要の急増に対処している。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-06T01:18:29+09:00",
+   "lang": "en",
+   "title_orig": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says"
+  },
+  {
+   "title": "ケン・グリフィン氏のシタデル、状況認識株をかき集めて数年で最高の月を記録",
+   "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+   "summary": "7月の上昇は、シタデルが先月末、シタチュエーショナル・アウェアネスが以前保有していた公開株ポートフォリオの大部分を取得した後に生じた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-06T01:17:55+09:00",
+   "lang": "en",
+   "title_orig": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks"
+  },
+  {
+   "title": "中東外交に焦点を当て、ドル安で金は4,300ドルを超える",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-middle-east-uncertainty-bd032b9b?mod=rss_markets_main",
+   "summary": "トレーダーらは中東情勢と米国経済指標の動向を注視する一方、米ドル安と米国債利回りの低下を受けて金価格は４％上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-06T01:04:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Above $4,300 on Weaker Dollar, With Focus on Middle East Diplomacy"
+  },
+  {
+   "title": "株式市場の最近の急速な復活について投資家が知っておくべき5つのこと",
+   "link": "https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories",
+   "summary": "1週間でなんと大きな違いが生じるのでしょうか。 Ｓ＆Ｐ５００種指数は過去５日間で６％以上上昇し、昨年の関税癇癪以来最大の上昇となった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-06T01:02:00+09:00",
+   "lang": "en",
+   "title_orig": "5 things investors should know about the stock market’s latest rapid-fire comeback"
+  },
+  {
    "title": "【イベント中止のご案内】金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in旭川」の中止について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260713/20260713.html",
    "summary": "",
@@ -117,24 +269,34 @@
    "published": "2026-08-06T01:00:00+09:00"
   },
   {
+   "title": "ウォール街がAI支出の規模に怯え、スペースXの株価が下落",
+   "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
+   "summary": "モルガン・スタンレーは今年、スペースXからの設備投資が640億ドルになると予想している。同社は AI への投資を大幅に強化しています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-06T00:56:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending"
+  },
+  {
    "title": "状況認識ヘッジファンドのメルトダウンはレバレッジ市場への警告だった、BofA CEOが語る",
    "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
    "summary": "バンク・オブ・アメリカは、レオポルド・アッシェンブレナー氏が運営するヘッジファンドの主要ブローカーの一つだった。",
    "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-08-06T00:22:47+09:00",
+   "published": "2026-08-06T00:55:01+09:00",
    "lang": "en",
    "title_orig": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says"
   },
   {
-   "title": "米国の原油在庫、週間で増加",
-   "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-inventories-post-weekly-increase-62e7d890?mod=rss_markets_main",
-   "summary": "商業用原油在庫は7月31日までの週に250万バレル増加したが、在庫は120万バール減少すると予想されていた",
-   "source": "WSJ マーケット",
+   "title": "Nvidia 株は注目度の高い支持の光を浴びている",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
+   "summary": "SpaceX CEO のイーロン・マスク氏は、自社が AI を構築するためにのみ Nvidia のチップを使用すると述べた。",
+   "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-08-06T00:13:00+09:00",
+   "published": "2026-08-06T00:51:00+09:00",
    "lang": "en",
-   "title_orig": "U.S. Crude Oil Inventories Post Weekly Increase"
+   "title_orig": "Nvidia’s stock is basking in the glow of a high-profile endorsement"
   },
   {
    "title": "米国経済は勢いを維持しているが、コスト上昇により新規雇用が抑制されている",
@@ -157,16 +319,6 @@
    "title_orig": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?"
   },
   {
-   "title": "バンク・オブ・アメリカは社員向けのGLP-1薬に年間2億5000万ドルを支出しているとCEOが語る",
-   "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
-   "summary": "雇用主は、患者1人当たり年間数千ドルの費用がかかる可能性がある、オゼンピックやウィゴビーなどのGLP-1薬に対する需要の急増に対処している。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-05T23:59:45+09:00",
-   "lang": "en",
-   "title_orig": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says"
-  },
-  {
    "title": "ショッピファイの株価は、同社が成長軌道に「疑いの余地を残さなかった」ことを受けて、1年で最高の日を迎える",
    "link": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
    "summary": "アナリストらによると、同社はコストを抑制しながら、明るい成長傾向を示しているという。",
@@ -175,36 +327,6 @@
    "published": "2026-08-05T23:59:00+09:00",
    "lang": "en",
    "title_orig": "Shopify’s stock heads for best day in a year after the company ‘left no doubt’ about its growth trajectory"
-  },
-  {
-   "title": "米国天然ガス先物取引開始、ほとんど変化なし",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-session-little-changed-1dd6928c?mod=rss_markets_main",
-   "summary": "米国の天然ガス先物相場は序盤の取引で少しずつ上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-05T23:55:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Futures Start Session Little Changed"
-  },
-  {
-   "title": "私が誓う 3 つのお金のルール — そしてそれが機能する理由",
-   "link": "https://www.marketwatch.com/story/3-money-rules-i-swear-by-and-why-they-work-f7a1ad65?mod=mw_rss_topstories",
-   "summary": "お金の管理はストレスがかかります。 Don't Short Yourself の新しい声が、実際に使えるヒントやツールを共有するためにここにいます。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-05T23:46:00+09:00",
-   "lang": "en",
-   "title_orig": "3 money rules I swear by — and why they work"
-  },
-  {
-   "title": "AIクレジット市場への投資にはここ数年で最悪の時期だ：「上昇面はほとんどなく、下降面が多い」",
-   "link": "https://www.marketwatch.com/story/its-the-worst-time-in-years-to-invest-in-ai-credit-markets-almost-no-upside-and-plenty-of-downside-a200d5c7?mod=mw_rss_topstories",
-   "summary": "アンドロメダ キャピタル マネジメントの研究者らは、AI 設備投資のボナンザに資金を提供している投資家にとって投資収益率が不確実であることを懸念しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-05T23:44:00+09:00",
-   "lang": "en",
-   "title_orig": "It’s the worst time in years to invest in AI credit markets: ‘Almost no upside and plenty of downside’"
   },
   {
    "title": "ゴールドマンのトレーダーらは記録的な年に向けて順調に推移している。彼らがどのようにそれを行っているかを詳しく見てみましょう",
@@ -217,16 +339,6 @@
    "title_orig": "Goldman traders are on pace for a record year. A close-up look at how they're doing it"
   },
   {
-   "title": "マスク氏のスペースX、豪華なAI投資計画で投資家を動揺させる",
-   "link": "https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1",
-   "summary": "同グループは四半期売上高がほぼ2倍になったと発表しているにもかかわらず、市場前取引で株価が下落",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-05T23:36:16+09:00",
-   "lang": "en",
-   "title_orig": "Musk’s SpaceX unnerves investors with lavish AI spending plans"
-  },
-  {
    "title": "一か八かのミシガン州民主党上院予備選は僅差でコールできない",
    "link": "https://www.ft.com/content/65633475-0a89-4522-9c2c-5cbd22fd9aac?syn-25a6b1a6=1",
    "summary": "2万票未満で中道派議員ヘイリー・スティーブンス氏と進歩派挑戦者アブドゥル・エルサイード氏の差がついた",
@@ -235,94 +347,6 @@
    "published": "2026-08-05T23:23:28+09:00",
    "lang": "en",
    "title_orig": "High-stakes Michigan Democratic Senate primary too close to call"
-  },
-  {
-   "title": "SpaceX はより大型のロケットを機能させる必要がある",
-   "link": "https://www.wsj.com/finance/spacex-needs-to-make-its-bigger-rockets-work-c800f9c2?mod=rss_markets_main",
-   "summary": "同社の最も野心的な計画はどれも、Starship ロケットの成功なしには不可能です。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-05T23:06:00+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX Needs to Make Its Bigger Rockets Work"
-  },
-  {
-   "title": "友達から招待メールが2通届きました。これはフィッシング詐欺ですか? それとも私が突然人気者になったのでしょうか?",
-   "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-   "summary": "「ゲストリストに自分が載っていることに驚き、そして光栄に思いました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-05T23:00:00+09:00",
-   "lang": "en",
-   "title_orig": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?"
-  },
-  {
-   "title": "米国先物は上昇、ホルムズ島再開が近いとの期待から原油価格は80ドル前後を維持",
-   "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-oil-holds-around-80-on-hopes-for-imminent-hormuz-reopening-6e924f34?mod=rss_markets_main",
-   "summary": "ホルムズ海峡再開に向けた米国とイランの合意見通しが地合いを押し上げ、世界の株式市場の上昇が続いた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-05T23:00:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Futures Higher, Oil Holds Around $80 on Hopes for Imminent Hormuz Reopening"
-  },
-  {
-   "title": "S&P 500 は最高値を更新したばかりです。 「ビッグ・ショート」の投資家マイケル・バリー氏は、1987年のような下落をもたらす可能性があると考えている。",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-just-hit-a-new-high-big-short-investor-michael-burry-thinks-it-could-bring-a-1987-style-fall-775c3b95?mod=mw_rss_topstories",
-   "summary": "著名な投資家は、火曜日のS&P500指数の急騰には注意が必要だと語った。同氏は一部の弱気なテクノロジー業界の見方から一歩も譲っていない。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-05T22:49:00+09:00",
-   "lang": "en",
-   "title_orig": "The S&P 500 just hit a new high. ‘Big Short’ investor Michael Burry thinks it could bring a 1987-style fall."
-  },
-  {
-   "title": "最新の決算報告にもかかわらずAMDの株価が下落している3つの理由",
-   "link": "https://www.marketwatch.com/story/3-reasons-amds-stock-is-falling-in-the-face-of-its-latest-earnings-report-c2e16c71?mod=mw_rss_topstories",
-   "summary": "アナリストらは、同社の業績の上値は抑えられ、マージン見通しで一部の投資家を圧倒し、単に逆境に陥ったと指摘した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-05T22:48:00+09:00",
-   "lang": "en",
-   "title_orig": "3 reasons AMD’s stock is falling in the face of its latest earnings report"
-  },
-  {
-   "title": "米ＡＤＰ民間雇用、7月4.4万人増 伸び鈍化し予想下回る - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTBSZ3daQTBQQzM1cTNkdUtqRDg5b1A1cnBFY0R0MWFaMVJyaHc1ajZlbmJXcTVMMDFzS0VBZlVzcHMwOVViT0tISlcxMGh2Nlk1WHdlSWFWYVo2cWo2Uk5SWmE5Si1wTlNtUUtGOXFvSGIteWlXeEI3ZkIzSWRicg?oc=5",
-   "summary": "米ＡＤＰ民間雇用、7月4.4万人増 伸び鈍化し予想下回る&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T22:45:02+09:00"
-  },
-  {
-   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-05T22:32:00+09:00",
-   "lang": "en",
-   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
-  },
-  {
-   "title": "原油先物はホルムズ合意を待って地盤を維持",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospects-of-u-s-iran-deal-to-reopen-strait-of-hormuz-47e592e5?mod=rss_markets_main",
-   "summary": "市場がホルムズ海峡の再開に向けた合意に達するかどうかを待つ中、原油先物は小幅上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-05T22:22:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Hold Their Ground Awaiting Hormuz Agreement"
-  },
-  {
-   "title": "投資家が金曜日の雇用統計を先取りする中、米国債利回りはまちまち",
-   "link": "https://www.wsj.com/finance/investing/jgbs-mixed-may-track-gains-in-u-s-treasurys-bdedc242?mod=rss_markets_main",
-   "summary": "中東の調停当局がホルムズ海峡の再開に向けて取り組んでいる中、国債利回りはまちまちとなった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-05T22:13:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields Mixed As Investors Look Ahead To Friday’s Jobs Data"
   },
   {
    "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
@@ -407,26 +431,6 @@
    "title_orig": "China launches global tax hunt going back decades"
   },
   {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-d5acb429?mod=rss_markets_main",
-   "summary": "金融サービスをカバーする最新のマーケットトークで、ユナイテッド・オーバーシーズ・バンク、HSBC、L&Gなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-05T20:23:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "ケン・グリフィン氏のシタデル、状況認識株をかき集めて数年で最高の月を記録",
-   "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
-   "summary": "7月の上昇は、シタデルが先月末、シタチュエーショナル・アウェアネスが以前保有していた公開株ポートフォリオの大部分を取得した後に生じた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-05T20:13:46+09:00",
-   "lang": "en",
-   "title_orig": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks"
-  },
-  {
    "title": "ホンダ純利益4千億円に上方修正、3月期　円安効果、中国は苦境続く",
    "link": "https://www.asahi.com/articles/ASV853DNNV85ULFA024M.html?ref=rss",
    "summary": "",
@@ -459,6 +463,22 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-05T19:59:45+09:00"
+  },
+  {
+   "title": "木原官房長官、国債買い入れ要請「コメントできず」　野党幹部は批判",
+   "link": "https://www.jiji.com/jc/article?k=2026080500590&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-05T19:49:00+09:00"
+  },
+  {
+   "title": "消費減税は「無理筋」　村上前総務相が批判",
+   "link": "https://www.jiji.com/jc/article?k=2026080500998&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-05T19:46:00+09:00"
   },
   {
    "title": "トヨタや日産が生産再開へ　地震で供給網が混乱、ホンダは停止延長",
@@ -621,14 +641,6 @@
    "published": "2026-08-05T16:27:25+09:00"
   },
   {
-   "title": "来春から食品の消費税1％に、政府が閣議決定 2年間限定で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVFIc2dqUmFnLXpUeFpqMUtLRU0xaGlzdGxxcFJFa2JpMFgzNm12RGVsYnlocVBOT0QzS0E5NjQ0amNBaGpLbkZqbUZ1bE9Fb0NDd1Nxc1VGSHJCS2xHeF9SVmhCbnY3MzlRd3JQbU5BV253WmpjV1UtRGFVS2RMYw?oc=5",
-   "summary": "来春から食品の消費税1％に、政府が閣議決定 2年間限定で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T16:23:43+09:00"
-  },
-  {
    "title": "減税支持する「あいまいな弱者」専門家「SNSは流れ加速しただけ」",
    "link": "https://www.asahi.com/articles/ASV843RBZV84ULFA00HM.html?ref=rss",
    "summary": "",
@@ -651,14 +663,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-05T16:19:30+09:00"
-  },
-  {
-   "title": "ホンダ、今期4000億円の最終黒字に上方修正 円安が押し上げ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YYzJITG85SHJ6bklycmRfTHNMUDhRMmJIcmsyZzF6bzIxOUs4VFcyUVJOVWotcjdwLVRvTFBCT2F5ZmRxMURjMGl5b3NUZEhremhnRVFBWWVNTlRKem5FMU1PNktSTHNxX3RXMTFMakxSdUxuR3EzOQ?oc=5",
-   "summary": "ホンダ、今期4000億円の最終黒字に上方修正 円安が押し上げ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T15:50:00+09:00"
   },
   {
    "title": "日本製紙会見 社長「深くおわび」",
@@ -709,14 +713,6 @@
    "published": "2026-08-05T14:51:41+09:00"
   },
   {
-   "title": "アングル：米ビッグテック5社、未開始リース契約の支払約束1兆ドル超 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEh5NGZseTMtWU9qWFpScFYzTklIUXdVZnF1Mno4emtNcGdGY2VXZHlrQ2lldTh1bmdER0tyZ2xlZV9yX1NrbVgzazRsUklCWWItTmM4bXU4M1BvMjZYU2p5andua0RKbUZWaEVYZ1FueGlIUUx5WE95MjlEWk1XQQ?oc=5",
-   "summary": "アングル：米ビッグテック5社、未開始リース契約の支払約束1兆ドル超&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T14:36:00+09:00"
-  },
-  {
    "title": "ケニアの大繁盛女性店主に学ぶ考え方｢観光客と地元客で値段が違う？｣｟視点の移動｠で人類学的に物を売る方法 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953121?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "職場や家庭でのすれ違いや誤解に悩んだことはありませんか？異文化のフィールドワーク経験を持つ松木省吾氏は､人類学を活用してコミュニケーションの質を高める方法を紹介します。相手の立場に立つ｢視点の移動｣…",
@@ -741,14 +737,6 @@
    "published": "2026-08-05T14:00:00+09:00"
   },
   {
-   "title": "市場の信認確保には丁寧な対話必要、政府に要請へ＝自民政調会長 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5WXdLaXMtejFWMm9kODk5MFdMaDBYRjh2U2Y3VDkzZVpoZzEyR01BZU1nOHpKZW50RHk1dXdGRWI1TTN3dnZfNGRhX2I3V0M3LVdydTlRTGRuNDZJbW9QelFENWZoN0ExQXdVZGNlazlaRnZXald0T3ZhSlB3UQ?oc=5",
-   "summary": "市場の信認確保には丁寧な対話必要、政府に要請へ＝自民政調会長&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T13:42:00+09:00"
-  },
-  {
    "title": "｢伸びる子｣と｢伸び悩む子｣の決定的な違いとは何か？ プロ家庭教師が語る｢家庭環境｣の秘密 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/947873?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "中学受験の現場で45年を超える指導歴を持つプロ家庭教師･西村則康氏と､眼科医･経営者の窪田良氏が｢伸びる子｣と｢伸び悩む子｣の違いに迫る特別対談。伸びる子どもに共通する家庭環境､親の関わり方､そして…",
@@ -763,16 +751,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-05T13:03:21+09:00"
-  },
-  {
-   "title": "SpaceX、四半期利益に対する主張を強化",
-   "link": "https://www.ft.com/content/6b91e575-9d43-4339-9ad5-eea81aef67e0?syn-25a6b1a6=1",
-   "summary": "過去3ヶ月間にイーロン・マスク氏のロケットメーカーの財務に何が起こったのかは全く無関係である",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-05T13:00:30+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX bolsters the case against quarterly earnings"
   },
   {
    "title": "｢なんとなく過ごす夜｣が翌日の仕事のパフォーマンスを下げる訳　世界の超一流が\"平日の夜\"に必ずやっている習慣とは | ライフ | 東洋経済オンライン",
@@ -831,36 +809,12 @@
    "published": "2026-08-05T12:30:00+09:00"
   },
   {
-   "title": "焦点：消費減税、宙に浮く財源 成長投資・防衛費と「三重苦」の様相 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMWRrN1B1MklJaUhEdjJXZWRZeVBhVnR0anFEX1ViMUd3bnZkZ0NrRnpZOWdZeHRxTjZZUm51R0pDaGowb1pub1JVbTkzQnhjbzc4NTNVVTVPcjA0cjJuaHgxSDV1eGViZEtrME9VSE0tSEotekExenkzcG5yUQ?oc=5",
-   "summary": "焦点：消費減税、宙に浮く財源 成長投資・防衛費と「三重苦」の様相&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T12:14:00+09:00"
-  },
-  {
    "title": "オンワード 貴重品携行を義務付け",
    "link": "https://news.yahoo.co.jp/pickup/6590595?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-05T12:11:05+09:00"
-  },
-  {
-   "title": "午前の日経平均は大幅続伸、一時3％超高 好決算銘柄への買いが支え - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3lDU1NrNW9Sdl9KeGlQb0FvcUNfRm1ZUkx1aDduSTFYellLOG12d19Gb19JZ296OWFJWlVhOURBN1dPZ3VTcXh1MjVOSGhfWk9zRGVEeVROaXAwN3pCRTg2VVFWcE5GOVRUZDBIV1NmQTRLU096TmdTcm1wME1qVw?oc=5",
-   "summary": "午前の日経平均は大幅続伸、一時3％超高 好決算銘柄への買いが支え&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T12:06:00+09:00"
-  },
-  {
-   "title": "マクロスコープ：高市氏の「思惑通り」だった消費減税議論、背景にある戦略と構造変化 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wbXlqTnE2VXNzTjFaTWgwVHYtRTU2ZFlzaUJMeDdiYU1YdTQ5Rmh5SnJlU1doTHB0bDM1UG5CRWlGNkM5RXA5UGxvTDk1YU95cGVqamZJaHlMcnFlekR0YUpRQVRzdGllZnFVQndNb05VTU9mdXRmaXRMbGhMZw?oc=5",
-   "summary": "マクロスコープ：高市氏の「思惑通り」だった消費減税議論、背景にある戦略と構造変化&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T12:03:00+09:00"
   },
   {
    "title": "｢そんなに怒ってないのに｣子どもが傷つく理由→親の｢ひと言｣と子どもの脳の間にある大きなズレ | キャリア・教育 | 東洋経済オンライン",
@@ -887,14 +841,6 @@
    "published": "2026-08-05T11:30:00+09:00"
   },
   {
-   "title": "企業の自然損失対策「迅速さ欠く」、国連生物多様性トップが指摘 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40SFlRd1ZMSHp2R1JuNkJBMG5QanNFVlVnUGpnM09qVnNVUFFvUnloWDRreG9pRWlDX1h6TEZKU2ExdzM0NGNMYkFVcFJCOVlDazVJTDBmanQyNHoyN1JyN1ZvRVd2VVhMSF9HYm9LbFZOd0lfSzUxVg?oc=5",
-   "summary": "企業の自然損失対策「迅速さ欠く」、国連生物多様性トップが指摘&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T11:23:43+09:00"
-  },
-  {
    "title": "被災中小企業・小規模事業者等の既往債務の負担軽減に係る対応について要請しました",
    "link": "https://www.mof.go.jp/public_relations/disaster/202607_kumamoto-jishin/20260803202410.html",
    "summary": "",
@@ -917,14 +863,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-05T11:00:00+09:00"
-  },
-  {
-   "title": "食品消費税「実質ゼロ」、問われる効果 慎重派は党内手続き欠席 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHpnQXh4aHUxZF96dGlHUks2eUstbGpKcGlzN3N4MHRIRFdWekdyLUpPcTdLSjB1dVdILTRESWtuNXBsUU1jRkZMUnRONWlSZzMxbmVYMXRPVmpFeE5yMl9ieVpIdWZCSnROWDd3MzlOdTlSSEJlWUdjdHdKQVg5SA?oc=5",
-   "summary": "食品消費税「実質ゼロ」、問われる効果 慎重派は党内手続き欠席&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T10:59:00+09:00"
   },
   {
    "title": "マツダ、業績がV字回復　関税「300億円の逆風」でも勝ち取った黒字転換の裏側",
@@ -1015,28 +953,12 @@
    "published": "2026-08-05T08:50:00+09:00"
   },
   {
-   "title": "ノボノルディスク、通期見通し上方修正 新薬不振で株価下落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jOU1UemlHZ05aWFN3bUw0ZUhIWXJ0LWcwODA5WW1pcXVjc3pQMXJ6S0hMZnl1WF9xcG1TaXpGazRlVHB2SmlFUi14aG0yVEtFc2dqTFNrV1p6UnBLc29PT2xDY3BSc2VZMXJXbzBOYm90b0lsT2c?oc=5",
-   "summary": "ノボノルディスク、通期見通し上方修正 新薬不振で株価下落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
+   "title": "高市首相、日銀総裁に「国債買い入れ」要請　積極財政にらみ、金利抑制狙う",
+   "link": "https://www.jiji.com/jc/article?k=2026080400781&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
    "category": "報道機関",
-   "published": "2026-08-05T08:41:43+09:00"
-  },
-  {
-   "title": "6月実質賃金は前年比1.6％増、6カ月連続プラス＝毎勤統計 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZjdSdlllbEFfLUR6SWQyX2I1YXlucWotbDhaZzdSb1RvazZZV2EyMF8tZ2V2bm9ETXhhU0wyTkd1c3J2VEM1RFE3VFVoNThDZ1BOUHQ5d3pabVVkQWNpS3Z5Zy1LZXlKTkVxeWFlLXlWNHNuVlJPcWNmRmFFT3JVbA?oc=5",
-   "summary": "6月実質賃金は前年比1.6％増、6カ月連続プラス＝毎勤統計&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T08:37:43+09:00"
-  },
-  {
-   "title": "今日の株式見通し＝買い先行、米株高を好感 ＡＩ株が押し上げ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnJKS1ByUjdpMjJpRWhTMmY5b2FSal9LX19jM2dPOFdiX0xFUGxsM3JxZTQ1SXdJdlg0NzJYcE1EUC1Xc2dKbmpJbWRYcXRHMHlGdklUUUR6bXk4YnFSRml4R2VSY0thenR0a3JfZjVNRU9WR1UtcnFQbUctdjljaA?oc=5",
-   "summary": "今日の株式見通し＝買い先行、米株高を好感 ＡＩ株が押し上げ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T08:04:30+09:00"
+   "published": "2026-08-05T07:32:00+09:00"
   },
   {
    "title": "鐘の後に最も大きな動きを見せている銘柄: SpaceX、AMD、Pinterest、Arista Networks、Wynn Resorts など",
@@ -1083,28 +1005,12 @@
    "title_orig": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'"
   },
   {
-   "title": "ＮＹ市場サマリー（4日）ダウ・Ｓ＆Ｐ最高値、円下落 利回り低下 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VRzEyNldEQnMyNmtsbjNtLVRhYVZadzRSTU5aTTg2NkZVODF1TjB4SGxjazd6a2I5LS1UbVVsZXZ3YTZfdk5GaGJDLUdJdlBBNm93Y2pnWkxHeG5PVWZ1b0ptR2E0OEl3U3BneVdmMDk1SWhNcGhMVQ?oc=5",
-   "summary": "ＮＹ市場サマリー（4日）ダウ・Ｓ＆Ｐ最高値、円下落 利回り低下&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T06:38:13+09:00"
-  },
-  {
    "title": "「やきまる」がザクになった？　岩谷産業がガンダムとコラボした“本当の狙い”",
    "link": "https://www.itmedia.co.jp/business/articles/2608/05/news022.html",
    "summary": "「シャア専用ザク」が焼肉グリルに？　岩谷産業が「やきまる」とガンダムを組み合わせた理由とは",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-05T06:00:00+09:00"
-  },
-  {
-   "title": "米ＡＭＤ、ＡＩ需要で売上高見通しが予想超え 期待高く株価急落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NcGRYZ0Vacnh6VkhXRzZaYWE1NVIyZ2tYRW5BRFZoTzd1MTNUa0xZQVBaVEU5WlZ0SjF5aHBGTGdmc2RXbGNqLVJEWHVDOWxwQzFyb1F2TnJZZnh2QndtYUphMGtVSmItMDBBeTgyRUZ1N2NzbklzRA?oc=5",
-   "summary": "米ＡＭＤ、ＡＩ需要で売上高見通しが予想超え 期待高く株価急落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-05T05:35:00+09:00"
   },
   {
    "title": "米国が“最先端AI”に制限をかけたワケ　投資額は20分の1なのに、なぜ「中国AI」を恐れるのか",
@@ -1323,6 +1229,38 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-04T02:00:00+09:00"
+  },
+  {
+   "title": "金融市場調節取引の2026年度対象先公募等について",
+   "link": "http://www.boj.or.jp/mopo/measures/select/s_release/srel260803a.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-03T16:00:00+09:00"
+  },
+  {
+   "title": "【記者会見】植田総裁（7月31日分）",
+   "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk260803a.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-03T14:45:00+09:00"
+  },
+  {
+   "title": "経済・物価情勢の展望（7月、全文）",
+   "link": "http://www.boj.or.jp/mopo/outlook/gor2607b.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-03T14:00:00+09:00"
+  },
+  {
+   "title": "日銀当座預金増減要因と金融調節（7月実績）",
+   "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf07.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-03T13:00:00+09:00"
   }
  ]
 }
