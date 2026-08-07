@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T03:11:44.014461+09:00",
+ "generated_at": "2026-08-08T04:12:28.485188+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,36 @@
  "errors": [],
  "items": [
   {
+   "title": "7月の雇用統計が予想より低かったことで株価が上昇",
+   "link": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?mod=rss_markets_main",
+   "summary": "先月米国経済が２万３０００人の雇用を失ったことを受け、７月の雇用統計が予想よりもはるかに低調だったことを受けて米国株は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T03:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Stocks Rise After Cooler-Than-Expected July Jobs Data"
+  },
+  {
+   "title": "ドナルド・トランプ氏、リサ・クックFRB総裁解任の脅しを復活",
+   "link": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
+   "summary": "この試みは、最高裁判所が6月に、事件が解決されるまで政策担当者がその職に留まることができるとの判決を下した後に行われた",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-08T03:27:01+09:00",
+   "lang": "en",
+   "title_orig": "Donald Trump revives threat to sack Fed governor Lisa Cook"
+  },
+  {
+   "title": "イーロン・マスクの Starlink インターネットが、高額な月額料金と 350 ドルの初期費用に見合う価値があるのは、次のときです。",
+   "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
+   "summary": "Starlink 対ファイバー、ケーブル、5G: 2026 年のインターネット オプションに関する賢明な消費者のガイド。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T03:13:00+09:00",
+   "lang": "en",
+   "title_orig": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost"
+  },
+  {
    "title": "私は失業中のソフトウェア開発者ですが、AI には懐疑的です。それでも技術系の仕事を見つけることはできますか?",
    "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
    "summary": "「救急車の配車に AI を活用したいと考えているある企業からアプローチを受けました。」",
@@ -101,19 +131,9 @@
    "title_orig": "Oil Futures Shake Off Early Weakness"
   },
   {
-   "title": "ドナルド・トランプ氏、リサ・クックFRB総裁解任の脅しを復活",
-   "link": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
-   "summary": "この試みは、最高裁判所が6月に、事件が解決されるまで政策担当者がその職に留まることができるとの判決を下した後に行われた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-08T02:29:37+09:00",
-   "lang": "en",
-   "title_orig": "Donald Trump revives threat to sack Fed governor Lisa Cook"
-  },
-  {
-   "title": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査 - jp.reuters.com",
+   "title": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2Rlam1LcTl1ZHdhX2w5V0p0bXdtVUt5MGw1RUpsRXZySU9XeXE2NVRKVUtnREZaRXRVVnRNWnFIQXROMTExSE5MNHJENGZiZHdIUDhhUU5WZHZ5UUtwa1c2b0ZEMXdDMVo4UG5udVg1dDBpV3ZVTXZWMFRzUzNHcw?oc=5",
-   "summary": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査&nbsp;&nbsp;jp.reuters.com",
+   "summary": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-08T02:19:43+09:00"
@@ -147,13 +167,14 @@
    "title_orig": "Singapore Billionaire Sues Brookfield for Allegedly Aborting Planned Real-Estate Joint Venture"
   },
   {
-   "title": "Jeanine Pirro, Trump’s legal crusader goes off script",
+   "title": "トランプ大統領の法廷運動家、ジャニーン・ピロ氏が台本を逸脱",
    "link": "https://www.ft.com/content/f9804df6-2380-495a-9981-007d95c7dad6?syn-25a6b1a6=1",
-   "summary": "The US attorney’s relationship with the president is on thin ice after her office rejected claims of vandalism at the Reflecting Pool",
+   "summary": "米国弁護士と大統領の関係は、リフレクティング・プールでの破壊行為の訴えを彼女の事務所が拒否したことで薄氷となっている",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-08T02:00:06+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Jeanine Pirro, Trump’s legal crusader goes off script"
   },
   {
    "title": "ＳＮＳ等におけるなりすまし詐欺広告に関する対策の強化について公表しました。",
@@ -182,16 +203,6 @@
    "published": "2026-08-08T01:53:49+09:00",
    "lang": "en",
    "title_orig": "US economy unexpectedly shed 23,000 jobs in July"
-  },
-  {
-   "title": "7月の雇用統計が予想より低かったことで株価が上昇",
-   "link": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?mod=rss_markets_main",
-   "summary": "先月米国経済が２万３０００人の雇用を失ったことを受け、７月の雇用統計が予想よりもはるかに低調だったことを受けて米国株は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-08T01:43:00+09:00",
-   "lang": "en",
-   "title_orig": "Stocks Rise After Cooler-Than-Expected July Jobs Data"
   },
   {
    "title": "裕福なアメリカ人は慈善活動として社会保障給付を放棄すべきでしょうか?",
@@ -234,9 +245,9 @@
    "title_orig": "Financial Services Roundup: Market Talk"
   },
   {
-   "title": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準 - jp.reuters.com",
+   "title": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYXdPVzAtRnJscGlvWmlpaS1jSklnVGpnZnBVc3had216SXc5dDlNTHZXVmJSVGxHS0hwNEVCQ2ZkRzNLUlhxdHZlTWx4anlCNmdMTWQzRnFWbUlEdUc4Q1B4NEV0V0VmcS1HbzBwT1EtZVRLUk1jZTE1dUQ3Qm1fNg?oc=5",
-   "summary": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準&nbsp;&nbsp;jp.reuters.com",
+   "summary": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-08T01:20:09+09:00"
@@ -278,16 +289,6 @@
    "published": "2026-08-08T00:36:00+09:00",
    "lang": "en",
    "title_orig": "This mom spent $2,000 on her kindergartner as viral ‘back-to-school hauls’ on TikTok and YouTube spin out of control"
-  },
-  {
-   "title": "医療 AI の興奮を受けて Doximity の株価は 50% 急騰しました。ラリーは続くだろうか？",
-   "link": "https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories",
-   "summary": "あるアナリストは、Doximity には魅力的な AI の機会があると考えているが、別のアナリストは、同社が中核事業である医療ネットを共食いする可能性があると懸念している",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-08T00:36:00+09:00",
-   "lang": "en",
-   "title_orig": "Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?"
   },
   {
    "title": "KDDI 楽天への回線提供の契約 9月で終了 一部では提供継続",
@@ -498,9 +499,9 @@
    "published": "2026-08-07T19:48:00+09:00"
   },
   {
-   "title": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査 - jp.reuters.com",
+   "title": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qQi1CQVJTVWZvSWU1NkgyRFJ6TkhTc2V5TE5hZWVHb2hQWUktNUpvRlhoQTZwelgxeTlSVU5kdzhmQUJPYUNaaHo4ejVyZHRyUUp3R25hcFlZN1M4WDNfYlNTdVJiV1VuWFJ4SVRQZVFMQy1iRkJWLU1n?oc=5",
-   "summary": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査&nbsp;&nbsp;jp.reuters.com",
+   "summary": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T19:03:47+09:00"
@@ -530,14 +531,6 @@
    "published": "2026-08-07T18:55:19+09:00"
   },
   {
-   "title": "大阪市「４区」に再編案決定　財政安定性を重視―都構想",
-   "link": "https://www.jiji.com/jc/article?k=2026080700987&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-07T18:47:00+09:00"
-  },
-  {
    "title": "公的年金積立金運用実績 四半期として過去最高の黒字 GPIF",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199351000.html",
    "summary": "公的年金の積立金を運用しているGPIF＝年金積立金管理運用独立行政法人は、ことし4月から6月までの運用実績が24兆円余りの黒字で、四半期としては過去最高になったと発表しました。",
@@ -546,9 +539,9 @@
    "published": "2026-08-07T18:42:50+09:00"
   },
   {
-   "title": "中国・香港株式市場・大引け＝上昇、中国輸出好調を好感 - jp.reuters.com",
+   "title": "中国・香港株式市場・大引け＝上昇、中国輸出好調を好感",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQk10X2U5eF9GTG81c0kwZHFPVmROc2g2U0Mzc3k1RjJCMnc1LXRHWUJQc1lOZUFyRmd4bmVjbDdlVk9GeEZFSmYxZ09ldmlpNEFYdHAwX0s2MS1ZLW5qZlRTZVJqakcyaEhabnJaalkzYmlZRVlzM0hRMkg4Tk5sYw?oc=5",
-   "summary": "中国・香港株式市場・大引け＝上昇、中国輸出好調を好感&nbsp;&nbsp;jp.reuters.com",
+   "summary": "中国・香港株式市場・大引け＝上昇、中国輸出好調を好感&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T18:35:39+09:00"
@@ -562,9 +555,9 @@
    "published": "2026-08-07T18:29:16+09:00"
   },
   {
-   "title": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準 - jp.reuters.com",
+   "title": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSkt0Wms2THNGWEFGZDRfRzBZQTJRQndadlJfSmF4LTBYdlJjTDZwbWNxemN6ZUdNaDkzVlp5VGdVRmVaaVFRbl84US1RLWpoYWlZaFI4cGNuTEktV0VTeU5Bc2VPZFdhM3ZXY0JILWlWd1NrUm04Sg?oc=5",
-   "summary": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準&nbsp;&nbsp;jp.reuters.com",
+   "summary": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T18:27:19+09:00"
@@ -586,9 +579,9 @@
    "published": "2026-08-07T17:36:50+09:00"
   },
   {
-   "title": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」 - jp.reuters.com",
+   "title": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT19GUUU4eG9feEkyb0JSSnFaZW1IUHV5XzJhUGtZWWlnX25keUFSYkNZNWFYUzEzZXNXWkRFUHB2bHJLZlY2TnhwX004aVk4TEFNalF6VVZvRGE0TTZfS2J4UzJsN2o3WERuYUh2ZHNoMFpEbnh5bXVacjZzUQ?oc=5",
-   "summary": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」&nbsp;&nbsp;jp.reuters.com",
+   "summary": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T17:03:43+09:00"
@@ -610,9 +603,9 @@
    "published": "2026-08-07T17:00:00+09:00"
   },
   {
-   "title": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る - jp.reuters.com",
+   "title": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FYUNlRGFMa2JCbzFzeTdmd1VNV1B3V3M5QndrcUFPbkpZT3BRczBuNDdHZkZYbmNRdVZGcUdCalU2bUVDSXhqU0M4ZUxGWkJBM3BSSzdibzhlX1U3UUtuUk9rQjdGNTFEU0pmRXRWY0RpclJoeWc?oc=5",
-   "summary": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T16:57:45+09:00"
@@ -626,17 +619,9 @@
    "published": "2026-08-07T16:43:00+09:00"
   },
   {
-   "title": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
-   "link": "https://www.jiji.com/jc/article?k=2026080700626&g=soc&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-07T16:43:00+09:00"
-  },
-  {
-   "title": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調 - jp.reuters.com",
+   "title": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGhfTjA1X1diQlNpZjdJeWozN0pjTFVxRF9JeHA0UDVPejVyQ3ZTMDhzZnZnMG9FczRicFlFU2d5TW5STVFLa2R5M2tEZEhmLUU0UHdBcV9LendmaVlRRmY5NWhtSFkwcEd5cjFVOW1VcC16dkRSYmVGeUJEWXJmaA?oc=5",
-   "summary": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調&nbsp;&nbsp;jp.reuters.com",
+   "summary": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T16:24:21+09:00"
@@ -658,9 +643,9 @@
    "published": "2026-08-07T16:00:00+09:00"
   },
   {
-   "title": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る - jp.reuters.com",
+   "title": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PWUlCWVZ2TllKWWNrLXZVZ1RCWVoyTnR5M2xybmZUR19GaURoam5LUXktak1SbnNkX2VxZl8xMS12OEYwZk1oTE5lMV9LcnVsMlZLazJJYnp0VHNBTXpTRmlEeUN1QTdWUFhZS3cxcjdscmNBOXJOeg?oc=5",
-   "summary": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T15:58:00+09:00"
@@ -672,14 +657,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-07T15:30:00+09:00"
-  },
-  {
-   "title": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SN0VlOVFGWDEybzVLalRkcGp2UTlnTDRzZDl6dGx0dVF3OVJVa0x1YXV1QmdSRmVfbkVQd052M3VVX2dJcHpOX2hmUV9URkNJNFV0el9qN0JMYlBxT3NfdG5zeWRvXzlHRUNFZGJEZ0piTWFUWW9RYQ?oc=5",
-   "summary": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T15:25:00+09:00"
   },
   {
    "title": "ビジョン体現する「キャプテン翼」SOMPO社長が描く海外事業",
@@ -756,25 +733,25 @@
    "published": "2026-08-07T14:00:00+09:00"
   },
   {
-   "title": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ - jp.reuters.com",
+   "title": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOEg2NnZNdFR1MVB6ZWxXSnZ0V3p1TDBUaEQ2U2lvWHF0VENsNTlqTGZhVTJGOXBCZXNjb3VKT3N3dE1kejh4a2FoY1F0S0J5cDJ4ZThNWG5JMEtONHNZZG9ncWNTeDJjeDZYaHBwUEdUaW0yMXc?oc=5",
-   "summary": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ&nbsp;&nbsp;jp.reuters.com",
+   "summary": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T13:56:00+09:00"
   },
   {
-   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で - jp.reuters.com",
+   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMjVhT01GZloxZVl4NmlUSHAwbTN0NE4zbUZTRzZsSngwY3lLSktDdU5NTDQ2bkhoVXQwWmVBUExBeDVxVjBud21LTFVIZGgyd3FvdHF0cUVhelhRdzZuZ0k1ZzFyYU5WT2pDakc1ZnNvQl9mTEdGaQ?oc=5",
-   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T13:50:00+09:00"
   },
   {
-   "title": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇 - jp.reuters.com",
+   "title": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSTZsa0FoVzI1WkRLX3NEaGJDcmhyLUhTMFZiWHJZSUpybFA2NGY1SzA4UERaQWpHamc2cF9UY3ByVTJzeDVhM3VNVjNQdkt1YmZ5WUhFTEo0NWprZDZnVmZXb0FzM19ScWI5YnVlM3h5NGM2bVZQWQ?oc=5",
-   "summary": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇&nbsp;&nbsp;jp.reuters.com",
+   "summary": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T13:38:00+09:00"
@@ -832,9 +809,9 @@
    "published": "2026-08-07T12:30:00+09:00"
   },
   {
-   "title": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で - jp.reuters.com",
+   "title": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxQmxFallBbGJpQ1RIU0JTMEYyeGwwQUJvaE5xZzVzclpiQU5CNWtDTkdmVTUxMFdSN0tjMlF4ZGhWNVBJUVc4U1plcHlPc2xCeThJNVJLQWlrdGNHS19wY29jb0lwZFJ3S184RFhPc2hmRHRNa2N2MUFHbnB1dw?oc=5",
-   "summary": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T12:28:00+09:00"
@@ -848,20 +825,20 @@
    "published": "2026-08-07T12:00:00+09:00"
   },
   {
-   "title": "サッポロビールが新中計、自己株取得に1700億円 成長投資枠4000億円 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUQU5ySUJsczFCc1hSS1ZWVk0wRGN2TWh4T3JScDdLZWRMTzVta2NoR0FYNkppN2NCOEFjU1VVa19FNzVoaWlPemVjemJPY2tyal9qRWxYXzI2Q3VBT295ZVhudVkxcmFiN2xTZDJwdV9DOXJEUzFETw?oc=5",
-   "summary": "サッポロビールが新中計、自己株取得に1700億円 成長投資枠4000億円&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T11:36:00+09:00"
-  },
-  {
    "title": "西鉄の駅で不適切音声 被害届検討",
    "link": "https://news.yahoo.co.jp/pickup/6590838?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-07T11:35:18+09:00"
+  },
+  {
+   "title": "英イージージェット、アポロが77億ドル買収に合意 キャッスルレイクは撤退",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHlQcTVseHN0NGtBSFZlYjhtMDVFQkFPd3p2M0dVaFhTWmd0dmM0MFRSZ0tid0dQQ2MxQ2d4WTNqVGJqdE9ZZDlVMkZZY0cwTVlJbk5OUGkwWHpTZk16UldrUmV1QjdybTRiUVk4dDJDMWpSS0o4N0J2RVZFa0Q1ZQ?oc=5",
+   "summary": "英イージージェット、アポロが77億ドル買収に合意 キャッスルレイクは撤退&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T11:31:00+09:00"
   },
   {
    "title": "消費減税、今と酷似する40年前　なぜ減税は実施されなかったのか",
@@ -934,6 +911,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T10:20:00+09:00"
+  },
+  {
+   "title": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02YXRkZkpCa0ZNcGd6SmpVSGFIV3RpUmgzemVnQVNEVHNXdXFIN0pvOXR1NTE5cV9WTVh6bzJScEVVc3ZrSzBfVWo5QVoxaFdrNm00bUF0ejFxejNfaWtCVW9GNi1hMDhqYTg3UWpvRG1vZmVxTTBWb2FR?oc=5",
+   "summary": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T10:15:00+09:00"
   },
   {
    "title": "全東信破産 539億円超焦げ付くか",
@@ -1322,6 +1307,22 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-06T07:00:00+09:00"
+  },
+  {
+   "title": "その他,G7サイバー・エキスパート・グループによる2026年クロスボーダー協調演習実施について公表しました。",
+   "link": "https://www.fsa.go.jp/inter/etc/20260805/cbce.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-06T02:00:00+09:00"
+  },
+  {
+   "title": "「サステナブルファイナンス有識者会議（第30回）意見要旨」について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/singi/20260805.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-06T02:00:00+09:00"
   }
  ]
 }
