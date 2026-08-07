@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T15:38:49.331383+09:00",
+ "generated_at": "2026-08-07T16:55:58.010887+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,122 @@
  "errors": [],
  "items": [
   {
+   "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/sonota/20260807-2/20260807-2.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-08T01:00:00+09:00"
+  },
+  {
    "title": "採用,職員を募集しています。（金融モニタリング業務に従事する職員【弁護士または行政書士】）",
    "link": "https://www.fsa.go.jp/common/recruit/r7/soumo-13/soumo-13.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-07T21:00:00+09:00"
+  },
+  {
+   "title": "日経平均はチップ関連株に引っ張られ0.7％下落",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea?mod=rss_markets_main",
+   "summary": "中東紛争やエネルギーコストをめぐる不確実性が根強く、日本株は序盤の取引で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-07T16:54:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 0.7%, Dragged by Chip-Related Stocks"
+  },
+  {
+   "title": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
+   "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-07T16:43:00+09:00"
+  },
+  {
+   "title": "「前例のない事態次々」危機感　「パパ活」、情報漏えいも―国税当局",
+   "link": "https://www.jiji.com/jc/article?k=2026080700626&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-07T16:43:00+09:00"
+  },
+  {
+   "title": "モンテ・デイ・パスキ、インテーサ・サークルとして戦略的オプションを検討",
+   "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-weighs-strategic-options-as-intesa-circles-f5ac73bb?mod=rss_markets_main",
+   "summary": "イタリアの銀行は、ライバルのインテーサ・サンパオロが350億ドルの買収を進める中、アドバイザーらとともに戦略的選択肢を分析していると述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-07T16:36:00+09:00",
+   "lang": "en",
+   "title_orig": "Monte dei Paschi Weighs Strategic Options as Intesa Circles"
+  },
+  {
+   "title": "株価 小幅に値下がり",
+   "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199011000.html",
+   "summary": "7日の東京株式市場、日経平均株価は小幅に値下がりしました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-07T16:32:49+09:00"
+  },
+  {
+   "title": "土地取得ルール「届け出必要な対象拡大を」国交省の有識者会議",
+   "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199271000.html",
+   "summary": "不適切な土地の利用による住民とのトラブルなどを防ぐため、国土交通省の有識者会議は土地を取得する際に届け出が必要となる対象を広げるべきなどとする提言をまとめました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-07T16:31:38+09:00"
+  },
+  {
+   "title": "米国債市場の下落を受けて国債先物相場も下落",
+   "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-8e8ed0f7?mod=rss_markets_main",
+   "summary": "国債先物相場は、夜間の米国債市場の価格下落に追随し、東京序盤の取引で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-07T16:20:00+09:00",
+   "lang": "en",
+   "title_orig": "JGB Futures Fall, Tracking Declines in U.S. Treasury Market"
+  },
+  {
+   "title": "東京株式市場・大引け＝日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGhfTjA1X1diQlNpZjdJeWozN0pjTFVxRF9JeHA0UDVPejVyQ3ZTMDhzZnZnMG9FczRicFlFU2d5TW5STVFLa2R5M2tEZEhmLUU0UHdBcV9LendmaVlRRmY5NWhtSFkwcEd5cjFVOW1VcC16dkRSYmVGeUJEWXJmaA?oc=5",
+   "summary": "東京株式市場・大引け＝日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T16:17:43+09:00"
+  },
+  {
+   "title": "7月の「物価高」倒産、円安局面で最多の93件　小・零細中心に負債は小口化",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/07/news077.html",
+   "summary": "物価高を理由とする企業倒産が過去最多を更新した。7月は93件に達し、前年同月比で2割超増加。一方、負債総額は減少しており、資材高や人件費高騰に耐えられない小・零細企業へと倒産の裾野が広がっている。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-07T16:03:00+09:00"
+  },
+  {
+   "title": "日本生命、長期金利上昇にどう対応?　保険の差別化へ「安心圏」構築",
+   "link": "https://www.asahi.com/articles/ASV870SZZV87ULFA016M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-07T16:00:00+09:00"
+  },
+  {
+   "title": "4月-6月決算ピーク イラン情勢の不透明感後退で上方修正相次ぐ",
+   "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199191000.html",
+   "summary": "上場企業のことし4月から6月の決算発表がピークを迎え、原油の先物価格が一時期より下落していることなどから今年度の業績見通しを上方修正する企業が相次いでいます。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-07T15:49:08+09:00"
+  },
+  {
+   "title": "ＩＮＰＥＸ、発行済み株式の4.3％・1400億円上限に自社株買い - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EdnNib2JlOVNQcWQ0bTlCZHU5aUl3TEZyNDhwZkpxY0ZGOFp5T1M2cDFhUHduV1RlWEhxU0plTVpCVFRwNU1HZDNVX2NWd2ZIT0JMbk1oOFlNcVFWTzl2YzRCYjZ0YWItWm9laFBTX1NtZUNWYVE?oc=5",
+   "summary": "ＩＮＰＥＸ、発行済み株式の4.3％・1400億円上限に自社株買い&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T15:44:00+09:00"
   },
   {
    "title": "食料自給率 過去最低 ここにも“米騒動”の影響が【Q＆A】",
@@ -85,9 +195,9 @@
    "published": "2026-08-07T15:30:00+09:00"
   },
   {
-   "title": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる - jp.reuters.com",
+   "title": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SN0VlOVFGWDEybzVLalRkcGp2UTlnTDRzZDl6dGx0dVF3OVJVa0x1YXV1QmdSRmVfbkVQd052M3VVX2dJcHpOX2hmUV9URkNJNFV0el9qN0JMYlBxT3NfdG5zeWRvXzlHRUNFZGJEZ0piTWFUWW9RYQ?oc=5",
-   "summary": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる&nbsp;&nbsp;jp.reuters.com",
+   "summary": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T15:25:00+09:00"
@@ -143,14 +253,6 @@
    "published": "2026-08-07T14:22:27+09:00"
   },
   {
-   "title": "詐取金元手に競艇、１億円脱税疑い　２０代税務署員を免職・送検・告発―調査資産家に「実家仕送り」うそ・国税当局",
-   "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-07T14:04:00+09:00"
-  },
-  {
    "title": "食料自給率37％ 過去最低に コメの価格高騰が低下招く",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199091000.html",
    "summary": "昨年度のカロリーベースの食料自給率は、前の年度より1ポイント下がって37％と過去最低になりました。価格高騰でコメの消費が減ったことが大きく響きました。",
@@ -199,17 +301,17 @@
    "published": "2026-08-07T14:00:00+09:00"
   },
   {
-   "title": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ - jp.reuters.com",
+   "title": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOEg2NnZNdFR1MVB6ZWxXSnZ0V3p1TDBUaEQ2U2lvWHF0VENsNTlqTGZhVTJGOXBCZXNjb3VKT3N3dE1kejh4a2FoY1F0S0J5cDJ4ZThNWG5JMEtONHNZZG9ncWNTeDJjeDZYaHBwUEdUaW0yMXc?oc=5",
-   "summary": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ&nbsp;&nbsp;jp.reuters.com",
+   "summary": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T13:56:00+09:00"
   },
   {
-   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で - jp.reuters.com",
+   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMjVhT01GZloxZVl4NmlUSHAwbTN0NE4zbUZTRzZsSngwY3lLSktDdU5NTDQ2bkhoVXQwWmVBUExBeDVxVjBud21LTFVIZGgyd3FvdHF0cUVhelhRdzZuZ0k1ZzFyYU5WT2pDakc1ZnNvQl9mTEdGaQ?oc=5",
-   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T13:50:00+09:00"
@@ -221,6 +323,14 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-07T13:47:46+09:00"
+  },
+  {
+   "title": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSTZsa0FoVzI1WkRLX3NEaGJDcmhyLUhTMFZiWHJZSUpybFA2NGY1SzA4UERaQWpHamc2cF9UY3ByVTJzeDVhM3VNVjNQdkt1YmZ5WUhFTEo0NWprZDZnVmZXb0FzM19ScWI5YnVlM3h5NGM2bVZQWQ?oc=5",
+   "summary": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T13:38:00+09:00"
   },
   {
    "title": "ByteDance、Anthropic の神話に近いメガ AI モデルをターゲットに",
@@ -279,14 +389,6 @@
    "published": "2026-08-07T13:00:00+09:00"
   },
   {
-   "title": "中国輸出、２３．９％増　貿易黒字が高水準―７月",
-   "link": "https://www.jiji.com/jc/article?k=2026080700479&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-07T12:50:00+09:00"
-  },
-  {
    "title": "きょうのおはBiz 8月7日(金) 春の原油価格上昇 物価押し上げへ",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198891000.html",
    "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
@@ -309,14 +411,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T12:30:00+09:00"
-  },
-  {
-   "title": "日経平均株価 値下がり AI・半導体関連中心に売り注文",
-   "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199011000.html",
-   "summary": "7日の東京株式市場、AI・半導体関連の銘柄を中心に売り注文が広がり、日経平均株価は値下がりしています。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-07T12:05:52+09:00"
   },
   {
    "title": "｢田舎への移住｣や｢会社を辞めて海外留学｣エイヤーと思い切る前に試すべき､自分の\"無意識の本音\"を確認する方法 | ライフ | 東洋経済オンライン",
@@ -343,14 +437,6 @@
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-07T11:53:02+09:00"
-  },
-  {
-   "title": "サッポロビールが新中計、自己株取得に1700億円 成長投資枠4000億円 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUQU5ySUJsczFCc1hSS1ZWVk0wRGN2TWh4T3JScDdLZWRMTzVta2NoR0FYNkppN2NCOEFjU1VVa19FNzVoaWlPemVjemJPY2tyal9qRWxYXzI2Q3VBT295ZVhudVkxcmFiN2xTZDJwdV9DOXJEUzFETw?oc=5",
-   "summary": "サッポロビールが新中計、自己株取得に1700億円 成長投資枠4000億円&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T11:36:00+09:00"
   },
   {
    "title": "西鉄の駅で不適切音声 被害届検討",
@@ -557,14 +643,12 @@
    "published": "2026-08-07T10:20:00+09:00"
   },
   {
-   "title": "米国債市場の下落を受けて国債先物相場も下落",
-   "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-8e8ed0f7?mod=rss_markets_main",
-   "summary": "国債先物相場は、夜間の米国債市場の価格下落に追随し、東京序盤の取引で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T10:17:00+09:00",
-   "lang": "en",
-   "title_orig": "JGB Futures Fall, Tracking Declines in U.S. Treasury Market"
+   "title": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02YXRkZkpCa0ZNcGd6SmpVSGFIV3RpUmgzemVnQVNEVHNXdXFIN0pvOXR1NTE5cV9WTVh6bzJScEVVc3ZrSzBfVWo5QVoxaFdrNm00bUF0ejFxejNfaWtCVW9GNi1hMDhqYTg3UWpvRG1vZmVxTTBWb2FR?oc=5",
+   "summary": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T10:15:00+09:00"
   },
   {
    "title": "全東信破産 539億円超焦げ付くか",
@@ -639,16 +723,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T09:30:00+09:00"
-  },
-  {
-   "title": "日経平均はチップ関連株に引っ張られ0.7％下落",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea?mod=rss_markets_main",
-   "summary": "中東紛争やエネルギーコストをめぐる不確実性が根強く、日本株は序盤の取引で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T09:23:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Falls 0.7%, Dragged by Chip-Related Stocks"
   },
   {
    "title": "金の上昇。中東の進展と米国の雇用データに焦点を当てる",
@@ -847,14 +921,6 @@
    "published": "2026-08-07T07:48:18+09:00"
   },
   {
-   "title": "「辞めプル」包囲網？　退職者の行動を一斉調査「嫌がらせだ」憤りも",
-   "link": "https://www.asahi.com/articles/ASV8530ZYV85ULFA00BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-07T07:00:00+09:00"
-  },
-  {
    "title": "住宅ローン金利上昇、マンション価格1億円超……消費者襲う負担、金融・不動産業界どう出るか？",
    "link": "https://www.itmedia.co.jp/business/articles/2608/07/news020.html",
    "summary": "住宅ローン金利が上昇している。足元では都内のマンション価格が1億円を超えており、消費者の負担が増えている。銀行や不動産デベロッパーはどう対応するのか。",
@@ -889,9 +955,9 @@
    "title_orig": "Stocks making the biggest moves after hours: Twilio, Airbnb, DraftKings, Trade Desk and more"
   },
   {
-   "title": "ＮＹ市場サマリー（6日）円158円台半ば、株下落 利回り上昇 - jp.reuters.com",
+   "title": "ＮＹ市場サマリー（6日）円158円台半ば、株下落 利回り上昇 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SQ1lxYjBETXlidl93N1d1S2MzQXJ1UDc3Zm1XSFg4WVF4bjJWbDFQWEx4RUtUNlJjTnc3a2w0V1pPVjBoU2hQOWhMYTczbGJucEhtcGVVRmY4V2NJUldYS3ZScE9vZU5sTFlTMGtmc3lGWEtaaEZFRA?oc=5",
-   "summary": "ＮＹ市場サマリー（6日）円158円台半ば、株下落 利回り上昇&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＮＹ市場サマリー（6日）円158円台半ば、株下落 利回り上昇&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T06:41:45+09:00"
@@ -907,19 +973,9 @@
    "title_orig": "Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside"
   },
   {
-   "title": "意見 |暗号ロビーは透明性法に反対",
-   "link": "https://www.wsj.com/opinion/crypto-lobby-stable-coins-clarity-act-d3943e04?mod=rss_markets_main",
-   "summary": "彼らはそれが支払いの抜け穴を塞ぐと言っています。そうではありません。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T06:36:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | The Crypto Lobby Objects on the Clarity Act"
-  },
-  {
-   "title": "米金融大手数十社にランサム攻撃、ブラックストーンなど標的 - jp.reuters.com",
+   "title": "米金融大手数十社にランサム攻撃、ブラックストーンなど標的 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVFxUGVWaXdzUkNIZUFEWEF3bjlETTBhWmY1aFpCMExkVWJvLV9WMHJ3RU8tVGJxNFFDRXE3NmRzM296bzhSUGlvTDhtbHdvaXVTTHBtOUhuLXZQUk1rV291ei05by1Vb3dYdE8yYnRHb1R3WWU3di1mLVJXb1dVVw?oc=5",
-   "summary": "米金融大手数十社にランサム攻撃、ブラックストーンなど標的&nbsp;&nbsp;jp.reuters.com",
+   "summary": "米金融大手数十社にランサム攻撃、ブラックストーンなど標的&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T06:10:00+09:00"
@@ -953,6 +1009,14 @@
    "published": "2026-08-07T05:07:51+09:00",
    "lang": "en",
    "title_orig": "Copper jumps to its highest level ever. What the metal is telling us"
+  },
+  {
+   "title": "原油先物3ドル超高、イランが「敵対的」船舶のホルムズ通航禁止審議との報で - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VWXpycHF4SWEtaTI2clpwU3BqMnMtNk4tbUZFV3F0UnpGYzBBOVBzSkNHS0RsemdlS3IyV1FJcE1TRXVaa0hETnhvd2xTWFh3TGhaRmtyUm9NZTBHYlFuU09vNDk5a2loeVFKTVo1MnpXeVc3V28zdg?oc=5",
+   "summary": "原油先物3ドル超高、イランが「敵対的」船舶のホルムズ通航禁止審議との報で&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T04:45:44+09:00"
   },
   {
    "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
@@ -1113,28 +1177,12 @@
    "published": "2026-08-06T16:00:00+09:00"
   },
   {
-   "title": "株価 値下がり 半導体関連銘柄中心に売り注文",
-   "link": "http://www3.nhk.or.jp/news/html/20260806/k10015198001000.html",
-   "summary": "6日の東京株式市場、このところ値上がりしていた半導体関連の銘柄を中心に当面の利益を確定しようという売り注文が広がり、日経平均株価は値下がりしました。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-06T15:58:43+09:00"
-  },
-  {
-   "title": "ＴＯＰＩＸ採用企業は今期27.9％増益予想、2桁増益視野＝ＳＭＢＣ日興集計 - jp.reuters.com",
+   "title": "ＴＯＰＩＸ採用企業は今期27.9％増益予想、2桁増益視野＝ＳＭＢＣ日興集計 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEF5NGdOeXh3c0FNUm53VGxxQmphR0szOXprc2J6N2V4cXliY29HOVZubUp5T1haVTlaQ2s4dzdsVE5QNWFmSzJidGgzb0g5aTdfTEhCU1h1OGlqVHR3U2NrVkRNb0pTZ1lrOHdkTHM0SlNyU3o1YlczWTlVd19QXw?oc=5",
-   "summary": "ＴＯＰＩＸ採用企業は今期27.9％増益予想、2桁増益視野＝ＳＭＢＣ日興集計&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＴＯＰＩＸ採用企業は今期27.9％増益予想、2桁増益視野＝ＳＭＢＣ日興集計&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-06T15:57:00+09:00"
-  },
-  {
-   "title": "シノペック、ロシア極東産原油の購入拡大 中東産減少で＝関係筋 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aVFBXLWpVdFhRclBEajViLUNHWHUxOWloMGstdEd4Z3lTOTdRYjlGUTA3aUZ4WVF0RWN5WDVNZ2VzSHBtbkZ3WGY4eEh1eC1ZU2VHNWtaV0hhYmVvc0FiSVA3MThlZGlCOXN0N1Nudm1TWnRSLXFvUDlJWGdkQQ?oc=5",
-   "summary": "シノペック、ロシア極東産原油の購入拡大 中東産減少で＝関係筋&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-06T15:51:00+09:00"
   },
   {
    "title": "30年利付国債（第91回）の第II非価格競争入札結果（令和8年8月6日入札）",
@@ -1145,9 +1193,9 @@
    "published": "2026-08-06T15:15:00+09:00"
   },
   {
-   "title": "イラン国営石油の銀行口座、国内銀が凍結 債務増大で＝通信社 - jp.reuters.com",
+   "title": "イラン国営石油の銀行口座、国内銀が凍結 債務増大で＝通信社 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TczVjSXB1TGRuQ1JtenlRanEyNmpoRVVHRW1aVkpCTHF5aHMyX3BZZHgwbDF2TWxCLVB2clZRWEdrR2R2N04yRUpyOERkOXQ5aEhfQUdtSm9nT0lGbVc2ZEc2ZUxHRXBIeVczbXdLRGZYaEVBLW10Mw?oc=5",
-   "summary": "イラン国営石油の銀行口座、国内銀が凍結 債務増大で＝通信社&nbsp;&nbsp;jp.reuters.com",
+   "summary": "イラン国営石油の銀行口座、国内銀が凍結 債務増大で＝通信社&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-06T14:06:00+09:00"
@@ -1161,17 +1209,9 @@
    "published": "2026-08-06T13:45:00+09:00"
   },
   {
-   "title": "きょうのおはBiz 8月6日(木) 食料品 消費税1％ 今後の論点は",
-   "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197821000.html",
-   "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-   "source": "NHK 経済",
-   "category": "報道機関",
-   "published": "2026-08-06T12:58:18+09:00"
-  },
-  {
-   "title": "世界的な食料インフレ到来へ、戦争とエルニーニョで＝ＦＡＯ幹部 - jp.reuters.com",
+   "title": "世界的な食料インフレ到来へ、戦争とエルニーニョで＝ＦＡＯ幹部 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd3NqNnd1NUtjUS0yWUh1MHRPaEltMWhIaHJsWHI4OHBjSktvLS01c2xqN0dUdHFaa19jczJNOXd2SHA5MzlyZk9HRFBSTDVpQW5tc2tLTWx1eGI5RjYyVDZhZXQ2aXQ1SDVJNHhjcE5aRFZhY01RVkF3?oc=5",
-   "summary": "世界的な食料インフレ到来へ、戦争とエルニーニョで＝ＦＡＯ幹部&nbsp;&nbsp;jp.reuters.com",
+   "summary": "世界的な食料インフレ到来へ、戦争とエルニーニョで＝ＦＡＯ幹部&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-06T11:45:00+09:00"
@@ -1193,14 +1233,6 @@
    "published": "2026-08-06T11:00:00+09:00"
   },
   {
-   "title": "円の上昇継続には日銀の利上げ必要＝フィッチ - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2ZWlFcnlmNXhIanhYdzRQV0YtSkxKazdUcHhKcWNnRWJvOUd2WUFDQVVFSnNJNzkwTDJJenNadXZvNnVURG5EOWZTaVFPcnVacXZFZk9NcGswVV9ZWVp1bGxjRDcwRGhHbG5FTFVaVm9IWmt6SXk5RA?oc=5",
-   "summary": "円の上昇継続には日銀の利上げ必要＝フィッチ&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-06T10:07:00+09:00"
-  },
-  {
    "title": "「休みたいけど休めない」会社員が4割超　体調不良でも働く人たちの本音",
    "link": "https://www.itmedia.co.jp/business/articles/2608/06/news017.html",
    "summary": "レバレジーズは 、企業で働く20代から50代の正社員に「体調不良時の出勤に関する実態調査」を実施した。その結果……。",
@@ -1209,9 +1241,9 @@
    "published": "2026-08-06T08:00:00+09:00"
   },
   {
-   "title": "米、無効判決の関税1000億ドル還付 徴収額の半分超 - jp.reuters.com",
+   "title": "米、無効判決の関税1000億ドル還付 徴収額の半分超 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XZFdzeGdadnVmYkZpcFkzNFpiaVl2M0F0V3V0TmlBVFJHbjlGQTdqNVFIcW1DOUc2SWFScktuZjF6dF91RXgycFl5SjJMc1VhcHd6LU02WVdDdlprcnNqcFlFRDRsUTdFSFlnaXR4Ym44SGNDTGxlTQ?oc=5",
-   "summary": "米、無効判決の関税1000億ドル還付 徴収額の半分超&nbsp;&nbsp;jp.reuters.com",
+   "summary": "米、無効判決の関税1000億ドル還付 徴収額の半分超&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-06T07:59:43+09:00"
@@ -1235,14 +1267,6 @@
    "published": "2026-08-06T07:30:00+09:00"
   },
   {
-   "title": "資金調達の「二極化」進む　勝ち抜く企業の条件は？　早大教授に聞く",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/06/news014.html",
-   "summary": "「AIによる審査の高度化」と「資金調達の多様化」は必ずしも同じ話ではない──ベンチャーファイナンスの第一人者である早稲田大学ビジネススクール（経営管理研究科）の長谷川博和教授は、こう指摘する。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-06T07:00:00+09:00"
-  },
-  {
    "title": "KDDIも40年前はスタートアップだった　高橋会長の“昔話”から考える、日本企業の成長戦略",
    "link": "https://www.itmedia.co.jp/business/articles/2608/06/news028.html",
    "summary": "KDDIはイケイケの人たちが作った――KDDIの高橋誠会長は、こう振り返る。“スタートアップ精神”で成長してきた同社から、企業の成長戦略を考える。",
@@ -1251,28 +1275,12 @@
    "published": "2026-08-06T07:00:00+09:00"
   },
   {
-   "title": "ＮＹ市場サマリー（5日）ダウ連日最高値、ドル157円台半ば 利回り低下 - jp.reuters.com",
+   "title": "ＮＹ市場サマリー（5日）ダウ連日最高値、ドル157円台半ば 利回り低下 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oaTlwdk1FU3VOWWVzTmJzSUFZYk5jR0ZoMjN2NUx0d0pGdHBNbnNtN05BTlFha3hsWDhWZGd5eEV3Z3VRSlNjU0p6aWJDRWdiM1VoVF85R3dxVFRCNHVIWVFIUzFkY3Faem5uVUhpYUJHT0Yza1piNw?oc=5",
-   "summary": "ＮＹ市場サマリー（5日）ダウ連日最高値、ドル157円台半ば 利回り低下&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＮＹ市場サマリー（5日）ダウ連日最高値、ドル157円台半ば 利回り低下&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-06T06:58:04+09:00"
-  },
-  {
-   "title": "クックＦＲＢ理事、インフレ「高すぎる」 鈍化なければ利上げの用意 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjZWckp2czJxLURHb2tBbF9aM294bUF5UkdOWDc2WkstVG9GbTdKTTF2T0JhZExXTExrMi1NWTJBU0tnZ0EtQTFPS2pmU0xsNXRtd0RRZlptUTRrdXhjNGgzQ2s5NVNFcTF0ZktGbjhwelJqeU1YaEpPZVF2QW8wUQ?oc=5",
-   "summary": "クックＦＲＢ理事、インフレ「高すぎる」 鈍化なければ利上げの用意&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-06T06:44:55+09:00"
-  },
-  {
-   "title": "米国株式市場＝ダウ連日最高値、ナスダック5日ぶり反落 スペースＸ大幅安 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnhCUkk5NzhoenktMjVzcjFQemxNWjRfaWthTklteE1BWUwwZU5jcE1BcVhVblhJTFNTalQ4VWNwZ0IyV0FZU2dnM0V4bTBjN0J0bFJsY3lxRlFKMU1BaFEwMktMV2ExNVh2WWNpS092eVlORWxxZnZ3UmZFZzBMeQ?oc=5",
-   "summary": "米国株式市場＝ダウ連日最高値、ナスダック5日ぶり反落 スペースＸ大幅安&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-06T06:19:40+09:00"
   },
   {
    "title": "クックFRB理事、インフレ対策のため利上げに「行動する用意がある」と発言",
@@ -1315,14 +1323,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-06T02:00:00+09:00"
-  },
-  {
-   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年７月30日）について掲載しました。",
-   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20260730-1.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-06T01:59:00+09:00"
   }
  ]
 }
