@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T00:32:15.004328+09:00",
+ "generated_at": "2026-08-08T01:30:38.109680+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,7 +58,9 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "財務省: <urlopen error [Errno -3] Temporary failure in name resolution>"
+ ],
  "items": [
   {
    "title": "人事異動（令和８年８月７日付）について公表しました。",
@@ -77,12 +79,122 @@
    "published": "2026-08-08T02:00:00+09:00"
   },
   {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-aa811068?mod=rss_markets_main",
+   "summary": "ヘルスケアをカバーする最新のマーケット トークで、Jamieson Wellness、Sanofi、Regeneron Pharmaceuticals などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T01:27:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-aba4c272?mod=rss_markets_main",
+   "summary": "基本的な資料をカバーする最新のマーケット トークで、ランクセス、エボリューション マイニング、グレンコアなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T01:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-78c77f4f?mod=rss_markets_main",
+   "summary": "金融サービスを対象とした最新のマーケット トークで、ミュンヘン再保険、オーバーシーチャイニーズ バンキング コーポレーション、アッシクラツィオーニ ジェネラリなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b8cf37e0?mod=rss_markets_main",
+   "summary": "自動車と輸送を対象とした最新のマーケット トークで、DHL グループ、ダイムラー トラック、ステランティスなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-2b511aa4?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Take-Two Interactive、Fox Corp. などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "「冷酷なことはしたくない」: 私の年老いた親戚は、もう自分のことは自分でできなくなっています。彼の世話を国に任せるのは間違っているでしょうか?",
+   "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+   "summary": "「彼は決して特別に寛大だったり、育ててくれたりしたことはありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T01:16:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+  },
+  {
    "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260807-2/20260807-2.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-08T01:00:00+09:00"
+  },
+  {
+   "title": "「これは精神的に難しい時期です」: 私の兄はガンを患っており、父は94歳です。私はこの責任をどのように負えばよいでしょうか?",
+   "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+   "summary": "「父はウィスコンシン州の60万ドルの自宅を取消可能な信託に設定し、受益者として兄を指名しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T01:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
+  },
+  {
+   "title": "米国経済、7月に予想外に2万3000人の雇用を削減",
+   "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+   "summary": "精彩のない数字を受け、トレーダーらはFRB利上げへの賭けを縮小",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-08T00:50:39+09:00",
+   "lang": "en",
+   "title_orig": "US economy unexpectedly shed 23,000 jobs in July"
+  },
+  {
+   "title": "意見 |最後に、暗号通貨の法的確実性",
+   "link": "https://www.wsj.com/opinion/finally-legal-certainty-for-cryptocurrency-51dd83c1?mod=rss_markets_main",
+   "summary": "ワイオミング州のシンシア・ルミス上院議員は、暗号通貨の透明性に関する法律を擁護している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T00:44:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | Finally, Legal Certainty for Cryptocurrency"
+  },
+  {
+   "title": "TikTokとYouTubeでの「新学期の宣伝」が制御不能になり、この母親は幼稚園児に2,000ドルを費やした",
+   "link": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
+   "summary": "インフレとソーシャルメディアのトレンドのせいで、生徒と保護者は新学期の予算を割ってしまっています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T00:36:00+09:00",
+   "lang": "en",
+   "title_orig": "This mom spent $2,000 on her kindergartner as viral ‘back-to-school hauls’ on TikTok and YouTube spin out of control"
+  },
+  {
+   "title": "医療 AI の興奮を受けて Doximity の株価は 50% 急騰しました。ラリーは続くだろうか？",
+   "link": "https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories",
+   "summary": "あるアナリストは、Doximity には魅力的な AI の機会があると考えているが、別のアナリストは、同社が中核事業である医療ネットを共食いする可能性があると懸念している",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T00:36:00+09:00",
+   "lang": "en",
+   "title_orig": "Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?"
   },
   {
    "title": "7月の非農業部門雇用統計後、​​金は4,400ドルを超える",
@@ -169,64 +281,12 @@
    "published": "2026-08-07T23:16:05+09:00"
   },
   {
-   "title": "私は失業中のソフトウェア開発者ですが、AI には懐疑的です。それでも技術系の仕事を見つけることはできますか?",
-   "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
-   "summary": "「救急車の配車に AI を活用したいと考えているある企業からアプローチを受けました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-07T23:15:00+09:00",
-   "lang": "en",
-   "title_orig": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?"
-  },
-  {
-   "title": "67歳のガールフレンドと結婚した場合、彼女は補足保障収入と離婚した配偶者手当を失うことになりますか?",
-   "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-   "summary": "「彼女は私と一緒に4年間住んでいます。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-07T23:00:00+09:00",
-   "lang": "en",
-   "title_orig": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?"
-  },
-  {
-   "title": "雇用統計が予想を下回った後、株価は上昇して始まる",
-   "link": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?mod=rss_markets_main",
-   "summary": "先月米国経済が２万３０００人の雇用を失ったことを受け、７月の雇用統計が予想よりもはるかに低調だったことを受けて米国株は急騰した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T22:54:00+09:00",
-   "lang": "en",
-   "title_orig": "Stocks Open Higher After Jobs Data Misses Forecasts"
-  },
-  {
-   "title": "米国の天然ガス先物は序盤の取引で上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-3a5578de?mod=rss_markets_main",
-   "summary": "米国の天然ガス先物相場は、在庫余剰の拡大により前取引で下落した後、いくらか持ち直した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T22:48:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Futures Pick Up in Early Trading"
-  },
-  {
-   "title": "社会保障は創設 91 周年を迎えます。それがすぐには消えない理由がここにあります。",
-   "link": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
-   "summary": "今後、2032 年に社会保障が「資金不足になる」と言うのをやめるということに全員で同意しましょう。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-07T22:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Social Security is celebrating its 91st birthday. Here’s why it’s not  going away anytime soon."
-  },
-  {
-   "title": "米国経済、7月に予想外に2万3000人の雇用を削減",
-   "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
-   "summary": "精彩のない数字を受け、トレーダーらはFRB利上げへの賭けを縮小",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-07T22:38:45+09:00",
-   "lang": "en",
-   "title_orig": "US economy unexpectedly shed 23,000 jobs in July"
+   "title": "７月の米雇用、２．３万人減　予想外の縮小、失業率４．１％に改善",
+   "link": "https://www.jiji.com/jc/article?k=2026080701110&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-07T22:49:00+09:00"
   },
   {
    "title": "FRBが9月に利上げする確率は7月の大型雇用の失敗を受けて低下",
@@ -237,16 +297,6 @@
    "published": "2026-08-07T22:34:44+09:00",
    "lang": "en",
    "title_orig": "Odds the Fed will hike in September tumble following big July jobs miss"
-  },
-  {
-   "title": "S&P 500 オプションの動きはメモリ株のボラティリティ上昇の説明にどのように役立つか",
-   "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
-   "summary": "IBKRのソスニック氏によると、強気のデリバティブ賭けは押し目買いの心理と噛み合うという。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-07T22:30:00+09:00",
-   "lang": "en",
-   "title_orig": "How S&P 500 options action may help explain the rising volatility in memory stocks"
   },
   {
    "title": "石油元売りに新交付金案 原油の代替調達促す 経産省会合で",
@@ -299,16 +349,6 @@
    "published": "2026-08-07T22:19:19+09:00"
   },
   {
-   "title": "雇用統計を前に米国債利回りは低下、ドルは堅調",
-   "link": "https://www.wsj.com/finance/currencies/nikkei-falls-0-7-dragged-by-chip-related-stocks-f3f924b2?mod=rss_markets_main",
-   "summary": "１２３０ＧＭＴ（日本時間午後１時３０分）の米非農業部門雇用者数の発表を前に、ドルはバスケット通貨に対して横ばいとなった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T22:19:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields Fall, Dollar Steady Ahead of Jobs Data"
-  },
-  {
    "title": "NY外国為替市場 円高ドル安が進む 米雇用統計発表受け",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199721000.html",
    "summary": "7日のニューヨーク外国為替市場では、アメリカの雇用統計の発表を受けて、労働市場が減速しているという受け止めからドルを売って円を買う動きが強まりました。発表前、円相場は1ドル＝158円台前半で推移していましたが、一時、1ドル＝156円台後半まで1円以上、円高ドル安が進みました。",
@@ -317,42 +357,12 @@
    "published": "2026-08-07T22:14:20+09:00"
   },
   {
-   "title": "ホルムズ再開合意への期待で原油先物は下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-supply-disruption-concerns-7bdd3ec3?mod=rss_markets_main",
-   "summary": "市場は依然としてホルムズ海峡の再開に向けた何らかの合意を期待しており、原油先物は昨日の上昇分の一部を取り戻していた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T22:12:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Move Lower in Expectation of Deal to Reopen Hormuz"
-  },
-  {
-   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T22:08:00+09:00",
-   "lang": "en",
-   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
-  },
-  {
    "title": "食料自給率37％ 過去最低に コメの価格高騰が低下招く",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199091000.html",
    "summary": "昨年度のカロリーベースの食料自給率は、前の年度より1ポイント下がって37％と過去最低になりました。価格高騰でコメの消費が減ったことが大きく響きました。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-07T22:06:39+09:00"
-  },
-  {
-   "title": "少数の注目銘柄が「ツイン」ファンドを他人のように振る舞わせる方法",
-   "link": "https://www.wsj.com/finance/investing/how-a-few-hot-stocks-can-make-twin-funds-act-like-strangers-0ef7c52b?mod=rss_markets_main",
-   "summary": "同じように投資しているように見えるインデックスファンドの今年のパフォーマンスは大きく異なっています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T22:00:00+09:00",
-   "lang": "en",
-   "title_orig": "How a Few Hot Stocks Can Make ‘Twin’ Funds Act Like Strangers"
   },
   {
    "title": "食料品の消費税減税 ねらいは カギを握る片山財務相に聞く",
@@ -519,6 +529,14 @@
    "published": "2026-08-07T18:29:16+09:00"
   },
   {
+   "title": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSkt0Wms2THNGWEFGZDRfRzBZQTJRQndadlJfSmF4LTBYdlJjTDZwbWNxemN6ZUdNaDkzVlp5VGdVRmVaaVFRbl84US1RLWpoYWlZaFI4cGNuTEktV0VTeU5Bc2VPZFdhM3ZXY0JILWlWd1NrUm04Sg?oc=5",
+   "summary": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T18:27:19+09:00"
+  },
+  {
    "title": "ＳＫハイニックス、国内2工場に380億ドル投資へ 取締役会承認",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CSTNlbDBuazVvN1hSN19teGRUYVcwdE9nUF85OGVFUkFIMTR5MFptMFA3Qmh3Vm9CXzJZVXlja3BpRG1NVm9vRlY4aUhiWHgzRjdhRUs3RnVYVG10a2dPUnhqeWNtU21pTzBHcXl1aS02Ul85VFE?oc=5",
    "summary": "ＳＫハイニックス、国内2工場に380億ドル投資へ 取締役会承認&nbsp;&nbsp;Reuters",
@@ -569,6 +587,22 @@
    "published": "2026-08-07T17:00:00+09:00"
   },
   {
+   "title": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
+   "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-07T16:43:00+09:00"
+  },
+  {
+   "title": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
+   "link": "https://www.jiji.com/jc/article?k=2026080700626&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-07T16:43:00+09:00"
+  },
+  {
    "title": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGhfTjA1X1diQlNpZjdJeWozN0pjTFVxRF9JeHA0UDVPejVyQ3ZTMDhzZnZnMG9FczRicFlFU2d5TW5STVFLa2R5M2tEZEhmLUU0UHdBcV9LendmaVlRRmY5NWhtSFkwcEd5cjFVOW1VcC16dkRSYmVGeUJEWXJmaA?oc=5",
    "summary": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調&nbsp;&nbsp;Reuters",
@@ -601,20 +635,20 @@
    "published": "2026-08-07T15:58:00+09:00"
   },
   {
-   "title": "ＩＮＰＥＸ、発行済み株式の4.3％・1400億円上限に自社株買い",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EdnNib2JlOVNQcWQ0bTlCZHU5aUl3TEZyNDhwZkpxY0ZGOFp5T1M2cDFhUHduV1RlWEhxU0plTVpCVFRwNU1HZDNVX2NWd2ZIT0JMbk1oOFlNcVFWTzl2YzRCYjZ0YWItWm9laFBTX1NtZUNWYVE?oc=5",
-   "summary": "ＩＮＰＥＸ、発行済み株式の4.3％・1400億円上限に自社株買い&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T15:44:00+09:00"
-  },
-  {
    "title": "秋田にAIデータセンター計画　UAEが投資方針、大使は現地視察へ",
    "link": "https://www.asahi.com/articles/ASV871RSMV87OXIE05JM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-07T15:30:00+09:00"
+  },
+  {
+   "title": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SN0VlOVFGWDEybzVLalRkcGp2UTlnTDRzZDl6dGx0dVF3OVJVa0x1YXV1QmdSRmVfbkVQd052M3VVX2dJcHpOX2hmUV9URkNJNFV0el9qN0JMYlBxT3NfdG5zeWRvXzlHRUNFZGJEZ0piTWFUWW9RYQ?oc=5",
+   "summary": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T15:25:00+09:00"
   },
   {
    "title": "ビジョン体現する「キャプテン翼」SOMPO社長が描く海外事業",
@@ -629,14 +663,6 @@
    "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
    "summary": "",
    "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-07T15:00:00+09:00"
-  },
-  {
-   "title": "人事異動(令和8年8月7日)",
-   "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.08.07_45.pdf",
-   "summary": "",
-   "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T15:00:00+09:00"
   },
@@ -699,14 +725,6 @@
    "published": "2026-08-07T13:56:00+09:00"
   },
   {
-   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMjVhT01GZloxZVl4NmlUSHAwbTN0NE4zbUZTRzZsSngwY3lLSktDdU5NTDQ2bkhoVXQwWmVBUExBeDVxVjBud21LTFVIZGgyd3FvdHF0cUVhelhRdzZuZ0k1ZzFyYU5WT2pDakc1ZnNvQl9mTEdGaQ?oc=5",
-   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T13:50:00+09:00"
-  },
-  {
    "title": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSTZsa0FoVzI1WkRLX3NEaGJDcmhyLUhTMFZiWHJZSUpybFA2NGY1SzA4UERaQWpHamc2cF9UY3ByVTJzeDVhM3VNVjNQdkt1YmZ5WUhFTEo0NWprZDZnVmZXb0FzM19ScWI5YnVlM3h5NGM2bVZQWQ?oc=5",
    "summary": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇&nbsp;&nbsp;Reuters",
@@ -766,14 +784,6 @@
    "summary": "｢新規事業にサラリーマンは無理｣という常識が崩壊し､生成AIの進化によって新規事業開発の現場は劇的に変化しています。従来のMVPに加え､AI活用で完成品に近い段階まで一気に市場投入が可能になった今､…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
-   "published": "2026-08-07T12:30:00+09:00"
-  },
-  {
-   "title": "国庫短期証券（第1399回）の入札結果",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260807.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
    "published": "2026-08-07T12:30:00+09:00"
   },
   {
@@ -857,36 +867,12 @@
    "published": "2026-08-07T10:30:00+09:00"
   },
   {
-   "title": "流動性供給(第459回)入札の発行予定額等",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260807.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T10:30:00+09:00"
-  },
-  {
-   "title": "国庫短期証券（第1400回）の発行予定額等",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260807.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T10:20:00+09:00"
-  },
-  {
-   "title": "国庫短期証券（第1399回）の入札発行",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260807.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T10:20:00+09:00"
-  },
-  {
    "title": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02YXRkZkpCa0ZNcGd6SmpVSGFIV3RpUmgzemVnQVNEVHNXdXFIN0pvOXR1NTE5cV9WTVh6bzJScEVVc3ZrSzBfVWo5QVoxaFdrNm00bUF0ejFxejNfaWtCVW9GNi1hMDhqYTg3UWpvRG1vZmVxTTBWb2FR?oc=5",
    "summary": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-07T10:15:43+09:00"
+   "published": "2026-08-07T10:15:00+09:00"
   },
   {
    "title": "全東信破産 539億円超焦げ付くか",
@@ -905,43 +891,11 @@
    "published": "2026-08-07T10:00:00+09:00"
   },
   {
-   "title": "日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催 （令和8年8月6日）",
-   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260807081834.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T10:00:00+09:00"
-  },
-  {
-   "title": "政府調達情報",
-   "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T10:00:00+09:00"
-  },
-  {
-   "title": "入札、落札結果情報（工事等）",
-   "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T10:00:00+09:00"
-  },
-  {
    "title": "女性が40歳になって一番後悔するのは､資産形成 元HKT48兒玉遥が､未来の自分のために続ける｢先取り投資術｣ | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951148?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢お金がなくても幸せ｣という考え方に疑問を投げかけ､お金の知識と投資で人生の選択肢と安心を広げることの大切さを説く本記事。キャリアや子育ての不安を抱える女性にこそ知ってほしい､｢お金｣と向き合う力と…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
-   "published": "2026-08-07T09:30:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年8月6日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
    "published": "2026-08-07T09:30:00+09:00"
   },
   {
@@ -973,30 +927,6 @@
    "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
    "summary": "",
    "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "貿易統計(令和8年7月上中旬分速報)【税関ホームページ】",
-   "link": "https://www.mof.go.jp/outside_link/20260806131147.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "外貨準備等の状況（令和8年7月末現在）",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0807.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "外国為替平衡操作の実施状況(令和8年4月～令和8年6月)",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_2Q.html",
-   "summary": "",
-   "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T08:50:00+09:00"
   },
@@ -1221,30 +1151,6 @@
    "published": "2026-08-06T17:30:00+09:00"
   },
   {
-   "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要(令和8年8月5日(水曜日))",
-   "link": "https://www.mof.go.jp/public_relations/conference/my20260805.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-06T17:00:00+09:00"
-  },
-  {
-   "title": "個人向け国債の応募額（令和8年7月）",
-   "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20260806.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-06T16:00:00+09:00"
-  },
-  {
-   "title": "30年利付国債（第91回）の第II非価格競争入札結果（令和8年8月6日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260806a.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-06T15:15:00+09:00"
-  },
-  {
    "title": "2度の上方修正を超え、過去最高益のメルカリ　山田CEOが語るAIで会社が“劇的に変わった”1年",
    "link": "https://www.itmedia.co.jp/business/articles/2608/06/news066.html",
    "summary": "AIを全社の基盤に据える「AIネイティブカンパニー」への変革を掲げてから1年。メルカリはエンジニア1人当たりの開発量7.6倍、生産性49.5万時間分向上などの成果を示した。決算説明会では、山田進太郎CEOがトップ自らのAI活用や組織改革の狙いを語った。",
@@ -1319,6 +1225,14 @@
   {
    "title": "日銀当座預金増減要因（8月見込み）",
    "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2608.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-05T08:50:00+09:00"
+  },
+  {
+   "title": "金融政策決定会合議事要旨（6月15、16日開催分）",
+   "link": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260616.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
