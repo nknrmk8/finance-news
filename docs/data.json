@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T01:30:38.109680+09:00",
+ "generated_at": "2026-08-08T02:30:00.888496+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,10 +58,26 @@
    "category": "海外金融"
   }
  ],
- "errors": [
-  "財務省: <urlopen error [Errno -3] Temporary failure in name resolution>"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2Rlam1LcTl1ZHdhX2w5V0p0bXdtVUt5MGw1RUpsRXZySU9XeXE2NVRKVUtnREZaRXRVVnRNWnFIQXROMTExSE5MNHJENGZiZHdIUDhhUU5WZHZ5UUtwa1c2b0ZEMXdDMVo4UG5udVg1dDBpV3ZVTXZWMFRzUzNHcw?oc=5",
+   "summary": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-08T02:19:43+09:00"
+  },
+  {
+   "title": "撤退を目指すプライベート・エクイティ会社が人気のIPO市場に襲い掛かる",
+   "link": "https://www.wsj.com/finance/investing/private-equity-firms-eager-for-exits-pounce-on-hot-ipo-market-e07a70ef?mod=rss_markets_main",
+   "summary": "取引の停滞で買い手を見つけるのが難しくなっているため、企業を株式公開する企業が増えている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T02:19:00+09:00",
+   "lang": "en",
+   "title_orig": "Private-Equity Firms Eager for Exits Pounce on Hot IPO Market"
+  },
   {
    "title": "人事異動（令和８年８月７日付）について公表しました。",
    "link": "https://www.fsa.go.jp/common/about/jinji/index.html",
@@ -71,12 +87,62 @@
    "published": "2026-08-08T02:15:00+09:00"
   },
   {
+   "title": "シンガポールの億万長者、計画中の不動産合弁事業を中止した疑いでブルックフィールド社を提訴",
+   "link": "https://www.wsj.com/business/deals/singapore-billionaire-sues-brookfield-for-allegedly-aborting-planned-real-estate-joint-venture-51066f8c?mod=rss_markets_main",
+   "summary": "シンガポールの不動産会社ソイルビルド・グループ・ホールディングスのリム・チャップ・ハート執行会長は、ブルックフィールドがN国との不動産取引を横取りしたと主張している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T02:03:00+09:00",
+   "lang": "en",
+   "title_orig": "Singapore Billionaire Sues Brookfield for Allegedly Aborting Planned Real-Estate Joint Venture"
+  },
+  {
    "title": "ＳＮＳ等におけるなりすまし詐欺広告に関する対策の強化について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260807/20260807.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-08T02:00:00+09:00"
+  },
+  {
+   "title": "スペースXの株価は史上最高の日を迎えている – 最初のロックアップ期限が過ぎた今",
+   "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+   "summary": "内部関係者が株式を売却できるようになると、株価に圧力がかかることがありますが、それはスペースXの場合です。そのリスクはすでに織り込まれている可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T01:54:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX’s stock is having one of its best days ever — with the first lockup expiration now behind it"
+  },
+  {
+   "title": "米国経済、7月に予想外に2万3000人の雇用を削減",
+   "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+   "summary": "精彩のない数字を受け、トレーダーらはFRB利上げへの賭けを縮小",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-08T01:53:49+09:00",
+   "lang": "en",
+   "title_orig": "US economy unexpectedly shed 23,000 jobs in July"
+  },
+  {
+   "title": "7月の雇用統計が予想より低かったことで株価が上昇",
+   "link": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?mod=rss_markets_main",
+   "summary": "先月米国経済が２万３０００人の雇用を失ったことを受け、７月の雇用統計が予想よりもはるかに低調だったことを受けて米国株は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-08T01:43:00+09:00",
+   "lang": "en",
+   "title_orig": "Stocks Rise After Cooler-Than-Expected July Jobs Data"
+  },
+  {
+   "title": "裕福なアメリカ人は慈善活動として社会保障給付を放棄すべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+   "summary": "ある読者は，「おそらく私は給付金を拒否する立場になるだろう」と書いています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T01:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?"
   },
   {
    "title": "ヘルスケアのまとめ: マーケットトーク",
@@ -157,26 +223,6 @@
    "title_orig": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
   },
   {
-   "title": "米国経済、7月に予想外に2万3000人の雇用を削減",
-   "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
-   "summary": "精彩のない数字を受け、トレーダーらはFRB利上げへの賭けを縮小",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-08T00:50:39+09:00",
-   "lang": "en",
-   "title_orig": "US economy unexpectedly shed 23,000 jobs in July"
-  },
-  {
-   "title": "意見 |最後に、暗号通貨の法的確実性",
-   "link": "https://www.wsj.com/opinion/finally-legal-certainty-for-cryptocurrency-51dd83c1?mod=rss_markets_main",
-   "summary": "ワイオミング州のシンシア・ルミス上院議員は、暗号通貨の透明性に関する法律を擁護している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-08T00:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | Finally, Legal Certainty for Cryptocurrency"
-  },
-  {
    "title": "TikTokとYouTubeでの「新学期の宣伝」が制御不能になり、この母親は幼稚園児に2,000ドルを費やした",
    "link": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
    "summary": "インフレとソーシャルメディアのトレンドのせいで、生徒と保護者は新学期の予算を割ってしまっています。",
@@ -195,16 +241,6 @@
    "published": "2026-08-08T00:36:00+09:00",
    "lang": "en",
    "title_orig": "Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?"
-  },
-  {
-   "title": "7月の非農業部門雇用統計後、​​金は4,400ドルを超える",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-focus-on-middle-east-progress-u-s-jobs-data-d4aef937?mod=rss_markets_main",
-   "summary": "投資家がインターチェンジに関する更なる手掛かりを求めて金曜日後半に発表される主要な米国雇用統計を待つ中、金価格は週間で1月以来最大の上昇を記録した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-08T00:20:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Above $4,400 After July Nonfarm Payrolls Data"
   },
   {
    "title": "ターゲットデートファンドは長生きするアメリカ人に悪影響を及ぼしているのだろうか？",
@@ -235,50 +271,12 @@
    "published": "2026-08-08T00:04:09+09:00"
   },
   {
-   "title": "お金の使い方が上手になる簡単なメンタルトリック",
-   "link": "https://www.wsj.com/personal-finance/savings/brain-hacking-better-with-money-e61514ce?mod=rss_markets_main",
-   "summary": "デジタル環境のおかげで、お金を使うのがとても簡単になりました。重要なのは、私たちと私たちの購入の間に少し摩擦を置くことです。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-08T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "The Simple Mental Tricks That Make Us Better With Money"
-  },
-  {
    "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199701000.html",
    "summary": "円相場や株価に影響を及ぼすアメリカの雇用統計が発表され、7月の農業分野以外の就業者は減少に転じ、市場の予想を大幅に下回りました。アメリカのFRB＝連邦準備制度理事会が早期に利上げに踏み切るという観測がいくぶん後退し、外国為替市場では、公表後にドルを売って円を買う動きが進みました。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-07T23:53:24+09:00"
-  },
-  {
-   "title": "ミシガン州は、シクロスポラの発生が減少するにつれて、サラダを再び食べ始めても問題ないと発表",
-   "link": "https://www.marketwatch.com/story/michigan-says-its-ok-to-start-eating-salads-again-as-cyclospora-outbreak-wanes-b6e9a2c2?mod=mw_rss_topstories",
-   "summary": "米国最大のシクロスポラ症発生の中心地である同州は今週、シクロスポラ症の新規感染者数が過去最高を記録したと発表した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-07T23:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Michigan says it’s OK to start eating salads again as cyclospora outbreak wanes"
-  },
-  {
-   "title": "「私はゆっくりと退職生活を送っています」: 私は 80,000 ドルの年金を受け取っています。どこに安全に投資できますか？",
-   "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-   "summary": "「401(k) 口座から分配金を受け取るまでには数年かかると予想しています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-07T23:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?"
-  },
-  {
-   "title": "米7月雇用は予想外の2.3万人減、過去分も下方改定 失業率4.1％に低下",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXM1UTBFRk1xWk80N3k5R1JLZDRNcjlRaWJ1WkRGMGpZTXNNTzNVQUdZYW5MZm5MU19nWENYb2tIMi1tZHNoUzVPMGJnWTdoWDk4S1JqSk9fRDRpX0dVY2JXWENObWRjX01YaHhsYU41Q2w5eDBJT04yc2Y4b0xlVw?oc=5",
-   "summary": "米7月雇用は予想外の2.3万人減、過去分も下方改定 失業率4.1％に低下&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T23:16:05+09:00"
   },
   {
    "title": "７月の米雇用、２．３万人減　予想外の縮小、失業率４．１％に改善",
@@ -587,6 +585,14 @@
    "published": "2026-08-07T17:00:00+09:00"
   },
   {
+   "title": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FYUNlRGFMa2JCbzFzeTdmd1VNV1B3V3M5QndrcUFPbkpZT3BRczBuNDdHZkZYbmNRdVZGcUdCalU2bUVDSXhqU0M4ZUxGWkJBM3BSSzdibzhlX1U3UUtuUk9rQjdGNTFEU0pmRXRWY0RpclJoeWc?oc=5",
+   "summary": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T16:57:45+09:00"
+  },
+  {
    "title": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
    "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
    "summary": "",
@@ -627,14 +633,6 @@
    "published": "2026-08-07T16:00:00+09:00"
   },
   {
-   "title": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PWUlCWVZ2TllKWWNrLXZVZ1RCWVoyTnR5M2xybmZUR19GaURoam5LUXktak1SbnNkX2VxZl8xMS12OEYwZk1oTE5lMV9LcnVsMlZLazJJYnp0VHNBTXpTRmlEeUN1QTdWUFhZS3cxcjdscmNBOXJOeg?oc=5",
-   "summary": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T15:58:00+09:00"
-  },
-  {
    "title": "秋田にAIデータセンター計画　UAEが投資方針、大使は現地視察へ",
    "link": "https://www.asahi.com/articles/ASV871RSMV87OXIE05JM.html?ref=rss",
    "summary": "",
@@ -663,6 +661,14 @@
    "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
    "summary": "",
    "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-07T15:00:00+09:00"
+  },
+  {
+   "title": "人事異動(令和8年8月7日)",
+   "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.08.07_45.pdf",
+   "summary": "",
+   "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T15:00:00+09:00"
   },
@@ -725,12 +731,12 @@
    "published": "2026-08-07T13:56:00+09:00"
   },
   {
-   "title": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSTZsa0FoVzI1WkRLX3NEaGJDcmhyLUhTMFZiWHJZSUpybFA2NGY1SzA4UERaQWpHamc2cF9UY3ByVTJzeDVhM3VNVjNQdkt1YmZ5WUhFTEo0NWprZDZnVmZXb0FzM19ScWI5YnVlM3h5NGM2bVZQWQ?oc=5",
-   "summary": "アングル：ＡＩブームに乗った新興国市場、ハイテク偏重でボラティリティー上昇&nbsp;&nbsp;Reuters",
+   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMjVhT01GZloxZVl4NmlUSHAwbTN0NE4zbUZTRzZsSngwY3lLSktDdU5NTDQ2bkhoVXQwWmVBUExBeDVxVjBud21LTFVIZGgyd3FvdHF0cUVhelhRdzZuZ0k1ZzFyYU5WT2pDakc1ZnNvQl9mTEdGaQ?oc=5",
+   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-07T13:38:00+09:00"
+   "published": "2026-08-07T13:50:00+09:00"
   },
   {
    "title": "大手ボーナス増 裏側で広がる格差",
@@ -785,6 +791,22 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-07T12:30:00+09:00"
+  },
+  {
+   "title": "国庫短期証券（第1399回）の入札結果",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260807.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T12:30:00+09:00"
+  },
+  {
+   "title": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxQmxFallBbGJpQ1RIU0JTMEYyeGwwQUJvaE5xZzVzclpiQU5CNWtDTkdmVTUxMFdSN0tjMlF4ZGhWNVBJUVc4U1plcHlPc2xCeThJNVJLQWlrdGNHS19wY29jb0lwZFJ3S184RFhPc2hmRHRNa2N2MUFHbnB1dw?oc=5",
+   "summary": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T12:28:00+09:00"
   },
   {
    "title": "｢田舎への移住｣や｢会社を辞めて海外留学｣エイヤーと思い切る前に試すべき､自分の\"無意識の本音\"を確認する方法 | ライフ | 東洋経済オンライン",
@@ -867,6 +889,30 @@
    "published": "2026-08-07T10:30:00+09:00"
   },
   {
+   "title": "流動性供給(第459回)入札の発行予定額等",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260807.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T10:30:00+09:00"
+  },
+  {
+   "title": "国庫短期証券（第1400回）の発行予定額等",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260807.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T10:20:00+09:00"
+  },
+  {
+   "title": "国庫短期証券（第1399回）の入札発行",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260807.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T10:20:00+09:00"
+  },
+  {
    "title": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02YXRkZkpCa0ZNcGd6SmpVSGFIV3RpUmgzemVnQVNEVHNXdXFIN0pvOXR1NTE5cV9WTVh6bzJScEVVc3ZrSzBfVWo5QVoxaFdrNm00bUF0ejFxejNfaWtCVW9GNi1hMDhqYTg3UWpvRG1vZmVxTTBWb2FR?oc=5",
    "summary": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案&nbsp;&nbsp;Reuters",
@@ -891,11 +937,43 @@
    "published": "2026-08-07T10:00:00+09:00"
   },
   {
+   "title": "日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催 （令和8年8月6日）",
+   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260807081834.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T10:00:00+09:00"
+  },
+  {
+   "title": "政府調達情報",
+   "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T10:00:00+09:00"
+  },
+  {
+   "title": "入札、落札結果情報（工事等）",
+   "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T10:00:00+09:00"
+  },
+  {
    "title": "女性が40歳になって一番後悔するのは､資産形成 元HKT48兒玉遥が､未来の自分のために続ける｢先取り投資術｣ | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951148?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢お金がなくても幸せ｣という考え方に疑問を投げかけ､お金の知識と投資で人生の選択肢と安心を広げることの大切さを説く本記事。キャリアや子育ての不安を抱える女性にこそ知ってほしい､｢お金｣と向き合う力と…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
+   "published": "2026-08-07T09:30:00+09:00"
+  },
+  {
+   "title": "国債金利情報(令和8年8月6日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
    "published": "2026-08-07T09:30:00+09:00"
   },
   {
@@ -927,6 +1005,30 @@
    "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
    "summary": "",
    "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-07T08:50:00+09:00"
+  },
+  {
+   "title": "貿易統計(令和8年7月上中旬分速報)【税関ホームページ】",
+   "link": "https://www.mof.go.jp/outside_link/20260806131147.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T08:50:00+09:00"
+  },
+  {
+   "title": "外貨準備等の状況（令和8年7月末現在）",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0807.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-07T08:50:00+09:00"
+  },
+  {
+   "title": "外国為替平衡操作の実施状況(令和8年4月～令和8年6月)",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_2Q.html",
+   "summary": "",
+   "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T08:50:00+09:00"
   },
@@ -977,14 +1079,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-07T07:55:43+09:00"
-  },
-  {
-   "title": "米、タングステンスクラップと電池廃材の輸出禁止 供給確保へ",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemJTREZyRERQNVBfbWptUVdwNXRUVWliTXRob3VXS0NZRWp6TGVmRW56VHVlcHNsbVhxYkI1Y2ltYTZIcEZuS3ZfQmFNUXpHdlZ0TUJmQ295eHU1VHJHWXQ0UFJ3SXA2eG1YY2QxZDdrdG05TWY3OGpxamg5Qm1zTU9jeEpEUQ?oc=5",
-   "summary": "米、タングステンスクラップと電池廃材の輸出禁止 供給確保へ&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T07:35:44+09:00"
   },
   {
    "title": "住宅ローン金利上昇、マンション価格1億円超……消費者襲う負担、金融・不動産業界どう出るか？",
@@ -1151,6 +1245,30 @@
    "published": "2026-08-06T17:30:00+09:00"
   },
   {
+   "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要(令和8年8月5日(水曜日))",
+   "link": "https://www.mof.go.jp/public_relations/conference/my20260805.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-06T17:00:00+09:00"
+  },
+  {
+   "title": "個人向け国債の応募額（令和8年7月）",
+   "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20260806.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-06T16:00:00+09:00"
+  },
+  {
+   "title": "30年利付国債（第91回）の第II非価格競争入札結果（令和8年8月6日入札）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260806a.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-06T15:15:00+09:00"
+  },
+  {
    "title": "2度の上方修正を超え、過去最高益のメルカリ　山田CEOが語るAIで会社が“劇的に変わった”1年",
    "link": "https://www.itmedia.co.jp/business/articles/2608/06/news066.html",
    "summary": "AIを全社の基盤に据える「AIネイティブカンパニー」への変革を掲げてから1年。メルカリはエンジニア1人当たりの開発量7.6倍、生産性49.5万時間分向上などの成果を示した。決算説明会では、山田進太郎CEOがトップ自らのAI活用や組織改革の狙いを語った。",
@@ -1205,38 +1323,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-06T02:00:00+09:00"
-  },
-  {
-   "title": "「サステナブルファイナンス有識者会議（第30回）意見要旨」について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/singi/20260805.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-06T02:00:00+09:00"
-  },
-  {
-   "title": "「サステナブルファイナンス有識者会議」（第30回）議事録について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/sustainable_finance/gijiroku/20260623.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-06T02:00:00+09:00"
-  },
-  {
-   "title": "日銀当座預金増減要因（8月見込み）",
-   "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2608.xlsx",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-05T08:50:00+09:00"
-  },
-  {
-   "title": "金融政策決定会合議事要旨（6月15、16日開催分）",
-   "link": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260616.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-05T08:50:00+09:00"
   }
  ]
 }
