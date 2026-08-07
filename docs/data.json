@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T20:28:44.974502+09:00",
+ "generated_at": "2026-08-07T21:07:27.660687+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -91,6 +91,44 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-07T21:00:00+09:00"
+  },
+  {
+   "title": "ビール大手3社 中間決算 各社売り上げ増 国内のビール販売好調",
+   "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199561000.html",
+   "summary": "大手ビールメーカー3社のことし上半期の決算は、国内のビール販売が好調だったことなどから、いずれも売り上げが伸び、このうち2社では、この時期として過去最高となりました。",
+   "source": "NHK 経済",
+   "category": "報道機関",
+   "published": "2026-08-07T20:54:54+09:00"
+  },
+  {
+   "title": "市場前に大きな動きをする銘柄: Atlassian Corporation、Wendy's、Vista Corp、First Solar、Airbnb など",
+   "link": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html",
+   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-07T20:51:49+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: Atlassian Corporation, Wendy's, Vista Corp, First Solar, Airbnb & more"
+  },
+  {
+   "title": "サウジアラビア、トルコ、パキスタンがメッカで防衛協定に署名",
+   "link": "https://www.ft.com/content/a988ae61-a218-4872-a4d7-a3061c6ca7ab?syn-25a6b1a6=1",
+   "summary": "同盟国3か国は戦争と不安定に対処するため地域安全保障協力を深めることを目指す",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-07T20:37:33+09:00",
+   "lang": "en",
+   "title_orig": "Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca"
+  },
+  {
+   "title": "雇用統計を前に米国債利回りは低下、ドルは堅調",
+   "link": "https://www.wsj.com/finance/currencies/nikkei-falls-0-7-dragged-by-chip-related-stocks-f3f924b2?mod=rss_markets_main",
+   "summary": "１２３０ＧＭＴ（日本時間午後１時３０分）の米非農業部門雇用者数の発表を前に、ドルはバスケット通貨に対して横ばいとなった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-07T20:36:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields Fall, Dollar Steady Ahead of Jobs Data"
   },
   {
    "title": "金融サービスのまとめ: マーケットトーク",
@@ -205,16 +243,6 @@
    "title_orig": "Energy & Utilities Roundup: Market Talk"
   },
   {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b8cf37e0?mod=rss_markets_main",
-   "summary": "自動車と交通機関を対象とした最新のマーケット トークで、Lyft、Wizz Air、DHL Group などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T19:49:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
-  },
-  {
    "title": "スーパーのコメ平均価格 5キロ3198円 6週連続で値下がり",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199341000.html",
    "summary": "全国のスーパーで今月2日までの1週間に販売されたコメの平均価格は、5キロあたり税込み3198円と、前の週より100円以上、下がりました。値下がりは6週連続で、およそ1年10か月ぶりの水準です。",
@@ -241,14 +269,12 @@
    "title_orig": "Health Care Roundup: Market Talk"
   },
   {
-   "title": "雇用統計を前に原油価格は上昇、米国先物は堅調",
-   "link": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?mod=rss_markets_main",
-   "summary": "投資家は、大いに期待されている雇用統計や中東交渉の進展の可能性を前に、自らの立場を保った。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-07T19:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Ticks Higher, U.S. Futures Steady Ahead of Jobs Report"
+   "title": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qQi1CQVJTVWZvSWU1NkgyRFJ6TkhTc2V5TE5hZWVHb2hQWUktNUpvRlhoQTZwelgxeTlSVU5kdzhmQUJPYUNaaHo4ejVyZHRyUUp3R25hcFlZN1M4WDNfYlNTdVJiV1VuWFJ4SVRQZVFMQy1iRkJWLU1n?oc=5",
+   "summary": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T19:03:47+09:00"
   },
   {
    "title": "債券利回りの高さが持続するのには十分な理由がある、とこのストラテジストは言う",
@@ -449,14 +475,6 @@
    "published": "2026-08-07T16:00:00+09:00"
   },
   {
-   "title": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PWUlCWVZ2TllKWWNrLXZVZ1RCWVoyTnR5M2xybmZUR19GaURoam5LUXktak1SbnNkX2VxZl8xMS12OEYwZk1oTE5lMV9LcnVsMlZLazJJYnp0VHNBTXpTRmlEeUN1QTdWUFhZS3cxcjdscmNBOXJOeg?oc=5",
-   "summary": "ＩＮＰＥＸ、今期の純利益と配当予想を上方修正 市場予想上回る&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T15:58:40+09:00"
-  },
-  {
    "title": "4月-6月決算ピーク イラン情勢の不透明感後退で上方修正相次ぐ",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199191000.html",
    "summary": "上場企業のことし4月から6月の決算発表がピークを迎え、原油の先物価格が一時期より下落していることなどから今年度の業績見通しを上方修正する企業が相次いでいます。",
@@ -627,16 +645,6 @@
    "published": "2026-08-07T13:38:00+09:00"
   },
   {
-   "title": "ByteDance、Anthropic の神話に近いメガ AI モデルをターゲットに",
-   "link": "https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1",
-   "summary": "TikTok オーナーが Moonshot の Kim K3 の 3 倍大きいモデルをトレーニング",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-07T13:36:03+09:00",
-   "lang": "en",
-   "title_orig": "ByteDance targets mega AI model nearing Anthropic’s Mythos"
-  },
-  {
    "title": "大手ボーナス増 裏側で広がる格差",
    "link": "https://news.yahoo.co.jp/pickup/6590856?source=rss",
    "summary": "",
@@ -735,12 +743,12 @@
    "published": "2026-08-07T12:00:00+09:00"
   },
   {
-   "title": "米 半導体や太陽光パネルの材料に追加関税 中国を念頭か",
-   "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198941000.html",
-   "summary": "アメリカのトランプ大統領は、半導体や太陽光パネルの主な材料となる「ポリシリコン」やその派生品に追加関税などを課す文書に署名しました。この材料の生産で高いシェアを占める中国を念頭にした措置とみられます。",
-   "source": "NHK 経済",
+   "title": "サッポロビールが新中計、自己株取得に1700億円 成長投資枠4000億円 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUQU5ySUJsczFCc1hSS1ZWVk0wRGN2TWh4T3JScDdLZWRMTzVta2NoR0FYNkppN2NCOEFjU1VVa19FNzVoaWlPemVjemJPY2tyal9qRWxYXzI2Q3VBT295ZVhudVkxcmFiN2xTZDJwdV9DOXJEUzFETw?oc=5",
+   "summary": "サッポロビールが新中計、自己株取得に1700億円 成長投資枠4000億円&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-07T11:53:02+09:00"
+   "published": "2026-08-07T11:36:00+09:00"
   },
   {
    "title": "西鉄の駅で不適切音声 被害届検討",
@@ -1097,14 +1105,6 @@
    "title_orig": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital"
   },
   {
-   "title": "米の中東産原油輸入、8月は対イラン戦争以降で最高水準へ＝船舶データ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUR5dnNGUmZYbE82QWxBdDZrbElNLUJnV2JiYklpaDUzdmxhcGl4RGlyUVM2Rks1b084b25ZNExjZktRWVRraVFDWFp2TUFhR2VXVGxHUWM5a0U1X0RFUDZ2Zy1pQjlUSmNYZnN4RTRWbk1NcnpIRmNuZy1rZldpUQ?oc=5",
-   "summary": "米の中東産原油輸入、8月は対イラン戦争以降で最高水準へ＝船舶データ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T05:29:05+09:00"
-  },
-  {
    "title": "銅は過去最高値に急上昇。金属が私たちに伝えてくれること",
    "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
    "summary": "かつては経済の健全性を測る信頼できる指標だった「ドクター・カッパー」が、今年は複雑なシグナルを発しているかもしれない。",
@@ -1307,18 +1307,16 @@
    "published": "2026-08-06T07:00:00+09:00"
   },
   {
-   "title": "クックFRB理事、インフレ対策のため利上げに「行動する用意がある」と発言",
-   "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-   "summary": "クック氏は先週、中銀の指標借入金利を３．５─３．７５％の範囲に維持することを投票した９対３の多数派の一員だった。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-06T05:36:16+09:00",
-   "lang": "en",
-   "title_orig": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation"
-  },
-  {
    "title": "その他,G7サイバー・エキスパート・グループによる2026年クロスボーダー協調演習実施について公表しました。",
    "link": "https://www.fsa.go.jp/inter/etc/20260805/cbce.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-06T02:00:00+09:00"
+  },
+  {
+   "title": "「サステナブルファイナンス有識者会議（第30回）意見要旨」について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/singi/20260805.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
