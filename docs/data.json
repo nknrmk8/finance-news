@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T22:23:28.499635+09:00",
+ "generated_at": "2026-08-08T23:02:41.814129+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,36 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "バークシャー・ハサウェイ、130億ドル近くの投資利益により利益が2倍に",
+   "link": "https://www.marketwatch.com/story/berkshire-hathaway-profit-doubles-fueled-by-a-near-13-billion-investment-gain-26982ecf?mod=mw_rss_topstories",
+   "summary": "バークシャー・ハサウェイは最新四半期に130億ドル近くの投資利益を計上し、山積みの現金のうち320億ドルを活用した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-08T22:43:00+09:00",
+   "lang": "en",
+   "title_orig": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain"
+  },
+  {
+   "title": "バークシャーの利益は前四半期に増加し、CEOのグレッグ・アベルはバフェット氏の膨大な現金を活用し始めている",
+   "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+   "summary": "エネルギー、鉄道、製造事業全体の好調さが保険業績の低迷を補って余りある。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-08T22:28:00+09:00",
+   "lang": "en",
+   "title_orig": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard"
+  },
+  {
+   "title": "海峡再開交渉にもかかわらず、イランのミサイルがUAEタンカーを標的に",
+   "link": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+   "summary": "イランがホルムズ経由の輸送を管理するオマーンとの協定締結が近づいていると発表したことを受けて、最近の攻撃が開始された",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-08T22:27:18+09:00",
+   "lang": "en",
+   "title_orig": "Iranian missile targets UAE tanker despite talks to reopen strait"
+  },
   {
    "title": "バークシャー・ハサウェイ、新CEOのもと、積み上げた現金を使い始める",
    "link": "https://www.wsj.com/finance/stocks/berkshire-hathaway-earnings-q2-2026-brk-a-stock-e394a0e7?mod=rss_markets_main",
@@ -155,16 +185,6 @@
    "published": "2026-08-08T20:00:00+09:00",
    "lang": "en",
    "title_orig": "SpaceX’s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say"
-  },
-  {
-   "title": "移民をめぐる緊張高まる中、スペインがイタリアとの国境管理を再開",
-   "link": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1",
-   "summary": "この動きでペドロ・サンチェス政権と右派イタリア首相ジョルジア・メローニとの亀裂が拡大",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-08T18:45:12+09:00",
-   "lang": "en",
-   "title_orig": "Spain reinstates border controls on Italy as tensions rise over migrants"
   },
   {
    "title": "この夏最も注目の腕キャンディはプライベート・エクイティのボーイフレンド",
@@ -535,16 +555,6 @@
    "published": "2026-08-08T06:00:00+09:00"
   },
   {
-   "title": "パランティアの株価は2024年以来最高の週を記録、もはやAIの敗者ではないことを示す",
-   "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
-   "summary": "Palantir の AI ソリューションに対する需要が急増し、同社への信頼が回復しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-08T05:54:00+09:00",
-   "lang": "en",
-   "title_orig": "Palantir’s stock stages best week since 2024, showing it’s no longer an AI loser"
-  },
-  {
    "title": "雇用統計で利上げ懸念が和らぎ、米国株が新記録を更新",
    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-notch-fresh-record-after-jobs-report-eases-rate-hike-fears-339b687b?mod=rss_markets_main",
    "summary": "主要３株価指数はすべて上昇し、Ｓ＆Ｐとナスダックは４月以来最高の週を記録した。",
@@ -563,6 +573,14 @@
    "published": "2026-08-08T05:33:00+09:00",
    "lang": "en",
    "title_orig": "Markets Rally on Surprise U.S. Job Losses"
+  },
+  {
+   "title": "米金利先物市場、9月のＦＲＢ利上げ観測後退 雇用統計受け - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVJLUC1uUnozUVRMaV9uVXNtcmpNQWVWRTM4WmxIaUtCMjRiM0gyTzRlak1pX3plbFFvbnphaDJIaFIzel9UU0dHdWxJTDFfVFVyV2VzR1NTZ0t6R0I4RklxSGVBc1oxUEljZzVCWkZ0VXRib0NkZUZUU2x2NFB0Tw?oc=5",
+   "summary": "米金利先物市場、9月のＦＲＢ利上げ観測後退 雇用統計受け&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-08T04:14:59+09:00"
   },
   {
    "title": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査 - ロイター",
@@ -817,6 +835,14 @@
    "published": "2026-08-07T18:27:19+09:00"
   },
   {
+   "title": "ＳＫハイニックス、国内2工場に380億ドル投資へ 取締役会承認 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CSTNlbDBuazVvN1hSN19teGRUYVcwdE9nUF85OGVFUkFIMTR5MFptMFA3Qmh3Vm9CXzJZVXlja3BpRG1NVm9vRlY4aUhiWHgzRjdhRUs3RnVYVG10a2dPUnhqeWNtU21pTzBHcXl1aS02Ul85VFE?oc=5",
+   "summary": "ＳＫハイニックス、国内2工場に380億ドル投資へ 取締役会承認&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T18:01:43+09:00"
+  },
+  {
    "title": "KDDI社長「楽天とのローミング9月で終了」　一部地方では継続",
    "link": "https://www.asahi.com/articles/ASV872S5XV87ULFA01FM.html?ref=rss",
    "summary": "",
@@ -905,14 +931,6 @@
    "published": "2026-08-07T15:30:00+09:00"
   },
   {
-   "title": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SN0VlOVFGWDEybzVLalRkcGp2UTlnTDRzZDl6dGx0dVF3OVJVa0x1YXV1QmdSRmVfbkVQd052M3VVX2dJcHpOX2hmUV9URkNJNFV0el9qN0JMYlBxT3NfdG5zeWRvXzlHRUNFZGJEZ0piTWFUWW9RYQ?oc=5",
-   "summary": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T15:25:00+09:00"
-  },
-  {
    "title": "ビジョン体現する「キャプテン翼」SOMPO社長が描く海外事業",
    "link": "https://www.asahi.com/articles/ASV8711CZV87ULFA025M.html?ref=rss",
    "summary": "",
@@ -943,14 +961,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-07T14:00:00+09:00"
-  },
-  {
-   "title": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOEg2NnZNdFR1MVB6ZWxXSnZ0V3p1TDBUaEQ2U2lvWHF0VENsNTlqTGZhVTJGOXBCZXNjb3VKT3N3dE1kejh4a2FoY1F0S0J5cDJ4ZThNWG5JMEtONHNZZG9ncWNTeDJjeDZYaHBwUEdUaW0yMXc?oc=5",
-   "summary": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T13:56:00+09:00"
   },
   {
    "title": "国庫短期証券（第1399回）の入札結果",
@@ -1217,16 +1227,6 @@
    "published": "2026-08-06T22:25:12+09:00",
    "lang": "en",
    "title_orig": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says"
-  },
-  {
-   "title": "市場前に大きな動きをする銘柄: Zillow、Peloton、Sandisk、Moderna など",
-   "link": "https://www.cnbc.com/2026/08/06/stocks-making-the-biggest-moves-premarket-.html",
-   "summary": "これらはプレマーケットで最大の動きを見せた銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-06T21:14:08+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: Zillow, Peloton, Sandisk, Moderna & more"
   },
   {
    "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
