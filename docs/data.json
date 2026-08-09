@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T08:18:41.507571+09:00",
+ "generated_at": "2026-08-10T08:53:52.833363+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,88 @@
  "errors": [],
  "items": [
   {
+   "title": "金融政策決定会合における主な意見（7月30、31日開催分）",
+   "link": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-10T08:50:00+09:00"
+  },
+  {
+   "title": "貸出・預金動向（7月）",
+   "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2607.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-10T08:50:00+09:00"
+  },
+  {
+   "title": "「貸出先別貸出金」（2026年6月）等の公表について",
+   "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260810a.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-10T08:50:00+09:00"
+  },
+  {
+   "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-10T08:50:00+09:00"
+  },
+  {
+   "title": "令和8年上半期中 国際収支状況（速報）の概要",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2026half.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-10T08:50:00+09:00"
+  },
+  {
+   "title": "令和8年6月中 国際収支状況（速報）の概要",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202606.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-10T08:50:00+09:00"
+  },
+  {
    "title": "投資家がインフレ統計を待ち、イランの不確実性の増大に取り組む中、米国株先物は下落",
    "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
    "summary": "イランからの新たな要求によりホルムズ海峡がいつ再開されるかについて新たな疑念が生じた後、日曜日の米国の株価指数先物はほとんど変化しなかった。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-08-10T08:15:00+09:00",
+   "published": "2026-08-10T08:40:00+09:00",
    "lang": "en",
    "title_orig": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty"
+  },
+  {
+   "title": "米民主党、下院多数派奪還ならトランプ氏周辺企業を徹底調査へ 弾劾は証拠次第 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjZHS3BNeThfTmJhUTZrRm9XZzRYRDhqN3pSM05Ldm1DYmV5WHN1aFdyaEpOeWhieGFKMDIxMEVJTmg5YkJQcGFjV2c0bm5odkpGMHU3ZXN5c2pNZUJrQUtUY3lWUkFpbzNUdi1rSEt0Y290bTBxeUgzMmhEQ2Nzc0Nn?oc=5",
+   "summary": "米民主党、下院多数派奪還ならトランプ氏周辺企業を徹底調査へ 弾劾は証拠次第&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-10T08:33:50+09:00"
+  },
+  {
+   "title": "｢公務員の年収｣が高い自治体ランキング…3位は東京都武蔵野市で2位は神奈川県川崎市､では1位は？〈再配信〉 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954111?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "物価高騰と人材確保競争が加熱する中､地方公務員の年収はどう変化しているのでしょうか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-10T08:30:00+09:00"
+  },
+  {
+   "title": "67歳のガールフレンドと結婚した場合、彼女は補足保障収入と離婚した配偶者手当を失うことになりますか?",
+   "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+   "summary": "「彼女は私と一緒に4年間住んでいます。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-10T08:30:00+09:00",
+   "lang": "en",
+   "title_orig": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?"
   },
   {
    "title": "家電激戦池袋 ヨドバシが狙う商圏",
@@ -83,6 +157,14 @@
    "link": "https://toyokeizai.net/articles/-/953236?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "全長4メートル未満のトールワゴン｢ルーミー｣と｢ソリオ｣。軽自動車から乗り換えるユーザーや少人数世帯に人気の理由は何か？　ミニバンとの価格差や使い勝手､保有台数データから､知られざるユーザー像と需要…",
    "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-10T08:00:00+09:00"
+  },
+  {
+   "title": "情報サービス業の倒産、過去10年で最多ペース　DX需要続くも「下請け」に逆風、なぜ？",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/10/news014.html",
+   "summary": "ソフトウェア開発やWebサイト制作などを請け負う「情報サービス業」の倒産が増加している。東京商工リサーチの調査によると、2026年上半期（1～6月）に発生した情報サービス業の倒産は166件だった。前年同期から18.5％増となり、2017年以降、過去10年間で最多となった。",
+   "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-10T08:00:00+09:00"
   },
@@ -389,26 +471,6 @@
    "title_orig": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?"
   },
   {
-   "title": "「彼女の銀行口座はメディケイドによって剥奪された」: 私の亡くなった友人はクレジットカードで 20,000 ドルの借金を抱えていました。彼女の生命保険はそれを支払ってくれるでしょうか？",
-   "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
-   "summary": "「彼女は30歳の息子と32歳の娘を残しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-09T21:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?"
-  },
-  {
-   "title": "AIは「永久的な下層階級」を生み出す可能性があるだろうか?",
-   "link": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
-   "summary": "サンフランシスコの言葉は誇張的だが、テクノロジーは労働市場を二分化する可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-09T20:30:10+09:00",
-   "lang": "en",
-   "title_orig": "Could AI create a ‘permanent underclass’?"
-  },
-  {
    "title": "「陪審員義務」詐欺で被害者は数千ドルを失う",
    "link": "https://www.wsj.com/tech/victims-are-losing-thousands-of-dollars-on-the-jury-duty-scam-c8fbafb2?mod=rss_markets_main",
    "summary": "さらに、ホルムズ海峡の再開を求めるイランの新たな要求はトランプ大統領の選択肢を狭め、不動産売却の競争は激化している。",
@@ -417,6 +479,16 @@
    "published": "2026-08-09T20:10:00+09:00",
    "lang": "en",
    "title_orig": "Victims Are Losing Thousands of Dollars on the ‘Jury Duty’ Scam"
+  },
+  {
+   "title": "米国の社会保障は間もなく破綻する可能性がある",
+   "link": "https://www.ft.com/content/b25139e3-e748-407f-bc49-7389b3434455?syn-25a6b1a6=1",
+   "summary": "しかし、議会はそれを救う勇気があるだろうか？",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-09T20:00:09+09:00",
+   "lang": "en",
+   "title_orig": "US social security could soon be insolvent"
   },
   {
    "title": "あなたのマンション管理組合が近々会費を値上げするかもしれない理由",
@@ -513,14 +585,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-09T12:00:00+09:00"
-  },
-  {
-   "title": "｢UR団地｣が子どもの居場所･宿題を解決！ 涼しい集会所を無料開放､大学生による学習サポートも ｢DANCHIつながるーむ｣の凄み | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954010?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "夏休みの子どもたちの｢居場所｣問題に応えるUR都市機構の｢DANCHIつながるーむ｣とは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-09T11:30:00+09:00"
   },
   {
    "title": "自転車通勤者の12.9％が「青切符」や指導警告　浮かぶ企業の課題",
@@ -655,14 +719,6 @@
    "published": "2026-08-08T06:00:00+09:00"
   },
   {
-   "title": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2Rlam1LcTl1ZHdhX2w5V0p0bXdtVUt5MGw1RUpsRXZySU9XeXE2NVRKVUtnREZaRXRVVnRNWnFIQXROMTExSE5MNHJENGZiZHdIUDhhUU5WZHZ5UUtwa1c2b0ZEMXdDMVo4UG5udVg1dDBpV3ZVTXZWMFRzUzNHcw?oc=5",
-   "summary": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T02:19:43+09:00"
-  },
-  {
    "title": "人事異動（令和８年８月７日付）について公表しました。",
    "link": "https://www.fsa.go.jp/common/about/jinji/index.html",
    "summary": "",
@@ -685,14 +741,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-08T01:50:23+09:00"
-  },
-  {
-   "title": "米7月雇用統計、労働市場の現状反映＝リッチモンド連銀総裁 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWVEYmZIeEt4OG9WQmpvMjlZN01GM3N3cXZSYXd2V1RpbjJPMmR5dkVIMTd5SXMxS0pCZU5uZExmc2lWLTNEbWpKM3lzTmMtcEp0NFJnRU1paHJDM3NJNWZhV25CN3F0UGw2ZDVZT2dUTTZvRFdFZzRXTXFld3A2bA?oc=5",
-   "summary": "米7月雇用統計、労働市場の現状反映＝リッチモンド連銀総裁&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T01:42:36+09:00"
   },
   {
    "title": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準 - ロイター",
@@ -867,14 +915,6 @@
    "published": "2026-08-07T18:27:19+09:00"
   },
   {
-   "title": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT19GUUU4eG9feEkyb0JSSnFaZW1IUHV5XzJhUGtZWWlnX25keUFSYkNZNWFYUzEzZXNXWkRFUHB2bHJLZlY2TnhwX004aVk4TEFNalF6VVZvRGE0TTZfS2J4UzJsN2o3WERuYUh2ZHNoMFpEbnh5bXVacjZzUQ?oc=5",
-   "summary": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T17:03:43+09:00"
-  },
-  {
    "title": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FYUNlRGFMa2JCbzFzeTdmd1VNV1B3V3M5QndrcUFPbkpZT3BRczBuNDdHZkZYbmNRdVZGcUdCalU2bUVDSXhqU0M4ZUxGWkJBM3BSSzdibzhlX1U3UUtuUk9rQjdGNTFEU0pmRXRWY0RpclJoeWc?oc=5",
    "summary": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る&nbsp;&nbsp;ロイター",
@@ -931,12 +971,28 @@
    "published": "2026-08-07T14:00:00+09:00"
   },
   {
+   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMjVhT01GZloxZVl4NmlUSHAwbTN0NE4zbUZTRzZsSngwY3lLSktDdU5NTDQ2bkhoVXQwWmVBUExBeDVxVjBud21LTFVIZGgyd3FvdHF0cUVhelhRdzZuZ0k1ZzFyYU5WT2pDakc1ZnNvQl9mTEdGaQ?oc=5",
+   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T13:51:44+09:00"
+  },
+  {
    "title": "国庫短期証券（第1399回）の入札結果",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260807.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T12:30:00+09:00"
+  },
+  {
+   "title": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxQmxFallBbGJpQ1RIU0JTMEYyeGwwQUJvaE5xZzVzclpiQU5CNWtDTkdmVTUxMFdSN0tjMlF4ZGhWNVBJUVc4U1plcHlPc2xCeThJNVJLQWlrdGNHS19wY29jb0lwZFJ3S184RFhPc2hmRHRNa2N2MUFHbnB1dw?oc=5",
+   "summary": "中国レアアース輸出、7月は4カ月ぶりの低水準 需要低迷で&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T12:28:00+09:00"
   },
   {
    "title": "投資の機を逃す「残念な会社がいっぱい」――ソフトバンクG投資の秘訣、“金庫番”が語る",
@@ -1001,54 +1057,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-07T09:30:00+09:00"
-  },
-  {
-   "title": "オペレーション（7月）",
-   "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "マネタリーベースと日本銀行の取引（7月）",
-   "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2607.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "日本銀行の対政府取引（7月）",
-   "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "貿易統計(令和8年7月上中旬分速報)【税関ホームページ】",
-   "link": "https://www.mof.go.jp/outside_link/20260806131147.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "外貨準備等の状況（令和8年7月末現在）",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0807.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
-  },
-  {
-   "title": "外国為替平衡操作の実施状況(令和8年4月～令和8年6月)",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_2Q.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-07T08:50:00+09:00"
   }
  ]
 }
