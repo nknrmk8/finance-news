@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-09T18:21:45.940936+09:00",
+ "generated_at": "2026-08-09T19:01:19.468722+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,26 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "自動車事故に遭った場合、リスクが高まると保険金が支払われなくなる",
+   "link": "https://www.wsj.com/finance/if-you-get-in-a-car-crash-the-risk-is-growing-your-insurance-wont-pay-1522236c?mod=rss_markets_main",
+   "summary": "ウォール・ストリート・ジャーナルの分析によると、自動車保険会社は昨年解決した自動車賠償責任および医療保険請求の45％を支払っていなかった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-09T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "If You Get in a Car Crash, the Risk Is Growing Your Insurance Won’t Pay"
+  },
+  {
+   "title": "民間信用資金はどの程度流動性があるのでしょうか? 「流動性」をどのように定義するかによって異なります",
+   "link": "https://www.wsj.com/articles/how-liquid-are-private-credit-funds-it-depends-how-you-define-liquidity-854ebcb0?mod=rss_markets_main",
+   "summary": "民間信用管理者は指標の報告方法が異なり、強さを予測するために積極的な計算を使用する人もいます。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-09T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’"
+  },
   {
    "title": "米Z世代 高リスク投資に走る背景",
    "link": "https://news.yahoo.co.jp/pickup/6591098?source=rss",
@@ -485,14 +505,6 @@
    "published": "2026-08-08T15:10:11+09:00"
   },
   {
-   "title": "エヌビディア、データセンター開発ランシウムに最大30億ドル出資へ＝報道 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWhCLXkxSUFJamVzT3hZMU1GR19neHV2V3drYlZkN3pfSy1ZWW9rM0s3a0ROM0dzQnN3X0V0Q2IxVi05aUlTUXMzUWh5LWhJeHVOVVUyS3Y2RTh3MlowdjdnTjVGel9HcHo4UDA4Z3ZfMUtIaHJTNG5RTVQyRUxrWQ?oc=5",
-   "summary": "エヌビディア、データセンター開発ランシウムに最大30億ドル出資へ＝報道&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T14:34:00+09:00"
-  },
-  {
    "title": "大分 被害なしでも旅先変更相次ぐ",
    "link": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
    "summary": "",
@@ -571,40 +583,12 @@
    "title_orig": "Energy & Utilities Roundup: Market Talk"
   },
   {
-   "title": "ヘルスケアのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-aa811068?mod=rss_markets_main",
-   "summary": "ヘルスケアをカバーする最新のマーケット トークで、Jamieson Wellness、Sanofi、Regeneron Pharmaceuticals などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-08T06:09:00+09:00",
-   "lang": "en",
-   "title_orig": "Health Care Roundup: Market Talk"
-  },
-  {
-   "title": "ＮＹ外為市場＝ドル下落、対円で157円台半ば 米雇用悪化で利上げ観測後退 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OcWZqYXVjMGxGMUd2OFdZYXRRUDlSNWFldjVNelppcTBRZDhYbksydXVGRFpZalBOdmpNdUlESkdOM3FOZXVkbzRKZzRGeEliRW5Kb3VwaXpvT3pxRXhOZDkwVGdwaGY2bHpYM2Qtc2dQMEdlbkc5eA?oc=5",
-   "summary": "ＮＹ外為市場＝ドル下落、対円で157円台半ば 米雇用悪化で利上げ観測後退&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T06:01:44+09:00"
-  },
-  {
    "title": "「銀行員の平均年収」684万円に上昇　トップは初の900万円超え",
    "link": "https://www.itmedia.co.jp/business/articles/2608/08/news002.html",
    "summary": "東京商工リサーチは、国内銀98の「平均年間給与」調査を実施した。その結果……。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-08T06:00:00+09:00"
-  },
-  {
-   "title": "雇用統計で利上げ懸念が和らぎ、米国株が新記録を更新",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-notch-fresh-record-after-jobs-report-eases-rate-hike-fears-339b687b?mod=rss_markets_main",
-   "summary": "主要３株価指数はすべて上昇し、Ｓ＆Ｐとナスダックは４月以来最高の週を記録した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-08T05:52:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Notch Fresh Record After Jobs Report Eases Rate-Hike Fears"
   },
   {
    "title": "米上院、故グラム議員主導の対ロ制裁法案を可決 大統領に新たな関税権限 - ロイター",
@@ -639,20 +623,20 @@
    "published": "2026-08-08T02:00:00+09:00"
   },
   {
-   "title": "米7月雇用は予想外の2.3万人減、過去分も下方改定 失業率4.1％に低下 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXM1UTBFRk1xWk80N3k5R1JLZDRNcjlRaWJ1WkRGMGpZTXNNTzNVQUdZYW5MZm5MU19nWENYb2tIMi1tZHNoUzVPMGJnWTdoWDk4S1JqSk9fRDRpX0dVY2JXWENObWRjX01YaHhsYU41Q2w5eDBJT04yc2Y4b0xlVw?oc=5",
-   "summary": "米7月雇用は予想外の2.3万人減、過去分も下方改定 失業率4.1％に低下&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T01:50:23+09:00"
-  },
-  {
    "title": "米7月雇用統計、労働市場の現状反映＝リッチモンド連銀総裁 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWVEYmZIeEt4OG9WQmpvMjlZN01GM3N3cXZSYXd2V1RpbjJPMmR5dkVIMTd5SXMxS0pCZU5uZExmc2lWLTNEbWpKM3lzTmMtcEp0NFJnRU1paHJDM3NJNWZhV25CN3F0UGw2ZDVZT2dUTTZvRFdFZzRXTXFld3A2bA?oc=5",
    "summary": "米7月雇用統計、労働市場の現状反映＝リッチモンド連銀総裁&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-08T01:42:36+09:00"
+  },
+  {
+   "title": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYXdPVzAtRnJscGlvWmlpaS1jSklnVGpnZnBVc3had216SXc5dDlNTHZXVmJSVGxHS0hwNEVCQ2ZkRzNLUlhxdHZlTWx4anlCNmdMTWQzRnFWbUlEdUc4Q1B4NEV0V0VmcS1HbzBwT1EtZVRLUk1jZTE1dUQ3Qm1fNg?oc=5",
+   "summary": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-08T01:20:09+09:00"
   },
   {
    "title": "ロシア大統領、首都モスクワ主要空港の保有株売却承認 財政改善狙いか - ロイター",
@@ -931,6 +915,14 @@
    "published": "2026-08-07T15:44:00+09:00"
   },
   {
+   "title": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SN0VlOVFGWDEybzVLalRkcGp2UTlnTDRzZDl6dGx0dVF3OVJVa0x1YXV1QmdSRmVfbkVQd052M3VVX2dJcHpOX2hmUV9URkNJNFV0el9qN0JMYlBxT3NfdG5zeWRvXzlHRUNFZGJEZ0piTWFUWW9RYQ?oc=5",
+   "summary": "午後3時のドルは158円前半で小動き、米雇用統計控え様子見姿勢強まる&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T15:25:00+09:00"
+  },
+  {
    "title": "コール市場残高（7月）",
    "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
    "summary": "",
@@ -953,6 +945,14 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-07T14:00:00+09:00"
+  },
+  {
+   "title": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMjVhT01GZloxZVl4NmlUSHAwbTN0NE4zbUZTRzZsSngwY3lLSktDdU5NTDQ2bkhoVXQwWmVBUExBeDVxVjBud21LTFVIZGgyd3FvdHF0cUVhelhRdzZuZ0k1ZzFyYU5WT2pDakc1ZnNvQl9mTEdGaQ?oc=5",
+   "summary": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-07T13:51:44+09:00"
   },
   {
    "title": "国庫短期証券（第1399回）の入札結果",
