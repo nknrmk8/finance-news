@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T00:18:39.436939+09:00",
+ "generated_at": "2026-08-10T00:54:12.421130+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,26 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "ネタニヤフ首相、トランプ大統領のガザ武装解除計画を拒否",
+   "link": "https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1",
+   "summary": "イスラエル首相、「ハマスが武装解除するまで」軍はパレスチナ飛び地から撤退しないと発言",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-10T00:17:33+09:00",
+   "lang": "en",
+   "title_orig": "Netanyahu rejects Trump’s Gaza disarmament plan"
+  },
+  {
+   "title": "アメリカの隠れたM&Aブーム",
+   "link": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1",
+   "summary": "米国の最大の輸出品の一つである高等教育にそれが潜んでいる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-10T00:00:00+09:00",
+   "lang": "en",
+   "title_orig": "America’s hidden M&A boom"
+  },
   {
    "title": "大ヒット収益が株価の記録的な伸びを強化",
    "link": "https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889?mod=rss_markets_main",
@@ -285,16 +305,6 @@
    "title_orig": "Investors return to European stocks as strong earnings lift Iran war gloom"
   },
   {
-   "title": "でっち上げの政府機関がどのようにしてナイジェリアの予算に侵入したのか",
-   "link": "https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1",
-   "summary": "架空の投資評議会のトップとされる人物に政府資金が割り当てられ、政府高官と面会した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-09T13:00:09+09:00",
-   "lang": "en",
-   "title_orig": "How a made-up agency found its way into Nigeria’s budget"
-  },
-  {
    "title": "フランス、大統領選挙が迫る中、予算対決に直面",
    "link": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
    "summary": "デビッド・アミエル大臣、野党に対し、財政赤字削減に協力し、次期指導者に混乱を残さないように要請",
@@ -335,16 +345,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-09T10:30:00+09:00"
-  },
-  {
-   "title": "中国の AI 上場の大成功を支えた銀行",
-   "link": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
-   "summary": "CICCはテクノロジー競争で米国と競争しようとする北京の動きにおいて支配的な資金提供者となった",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-09T10:22:52+09:00",
-   "lang": "en",
-   "title_orig": "The bank behind China’s AI listings bonanza"
   },
   {
    "title": "｢単位落とすかも…｣と悩む｢大学生の塾通い｣が急増中！？　その背景にある保護者の｢よかれ｣行動 | ライフ | 東洋経済オンライン",
@@ -881,6 +881,14 @@
    "published": "2026-08-07T16:43:00+09:00"
   },
   {
+   "title": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
+   "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-07T16:43:00+09:00"
+  },
+  {
    "title": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGhfTjA1X1diQlNpZjdJeWozN0pjTFVxRF9JeHA0UDVPejVyQ3ZTMDhzZnZnMG9FczRicFlFU2d5TW5STVFLa2R5M2tEZEhmLUU0UHdBcV9LendmaVlRRmY5NWhtSFkwcEd5cjFVOW1VcC16dkRSYmVGeUJEWXJmaA?oc=5",
    "summary": "日経平均は続落、米雇用統計控え見送り ＴＯＰＩＸ堅調&nbsp;&nbsp;ロイター",
@@ -1189,14 +1197,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-07T01:00:00+09:00"
-  },
-  {
-   "title": "「2026年 保険モニタリングレポート」について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/hoken/20260806/20260806.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-07T00:30:00+09:00"
   }
  ]
 }
