@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-09T13:07:30.333214+09:00",
+ "generated_at": "2026-08-09T14:15:55.432111+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,17 +58,67 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
-   "title": "イラン戦争の影響が緩和されるにつれ、中国の月次インフレは鈍化",
-   "link": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
-   "summary": "7月のCPI上昇率は1月以来最も遅いペースとなる一方、ファクトリーゲート価格の伸びは減速する",
+   "title": "夜発朝着の東海道新幹線 同乗取材",
+   "link": "https://news.yahoo.co.jp/pickup/6591080?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-09T14:00:47+09:00"
+  },
+  {
+   "title": "トルコのサイバー法で大統領に圧倒的な権限が移る",
+   "link": "https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1",
+   "summary": "この動きにより、ソーシャルメディアとゲームプラットフォーム間の「デジタル絶対服従」に対する懸念が高まる",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-08-09T12:05:38+09:00",
+   "published": "2026-08-09T13:00:10+09:00",
    "lang": "en",
-   "title_orig": "China’s monthly inflation cools as impact from Iran war eases"
+   "title_orig": "Turkey’s cyber law shifts sweeping powers to presidency"
+  },
+  {
+   "title": "好決算でイラン戦争の暗雲が晴れる中、投資家は欧州株に戻る",
+   "link": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+   "summary": "Stoxx Europe 600 の企業は第 2 四半期に 22% の利益増加を達成する軌道に乗っています",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-09T13:00:09+09:00",
+   "lang": "en",
+   "title_orig": "Investors return to European stocks as strong earnings lift Iran war gloom"
+  },
+  {
+   "title": "でっち上げの政府機関がどのようにしてナイジェリアの予算に侵入したのか",
+   "link": "https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1",
+   "summary": "架空の投資評議会のトップとされる人物に政府資金が割り当てられ、政府高官と面会した",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-09T13:00:09+09:00",
+   "lang": "en",
+   "title_orig": "How a made-up agency found its way into Nigeria’s budget"
+  },
+  {
+   "title": "バイユーのタペストリー ローンはパルテノン神殿の大理石のモデルです",
+   "link": "https://www.ft.com/content/d45a8e1b-1d45-4a3d-a3d2-5a3ce15b0e9d",
+   "summary": "バーナムには、遺物をギリシャに返還するプロセスを加速する立法上の切り出しを創設するチャンスがある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-09T13:00:09+09:00",
+   "lang": "en",
+   "title_orig": "The Bayeux Tapestry loan is a model for the Parthenon Marbles"
+  },
+  {
+   "title": "フランス、大統領選挙が迫る中、予算対決に直面",
+   "link": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
+   "summary": "デビッド・アミエル大臣、野党に対し、財政赤字削減に協力し、次期指導者に混乱を残さないように要請",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-09T13:00:09+09:00",
+   "lang": "en",
+   "title_orig": "France faces budget showdown as presidential election looms"
   },
   {
    "title": "｢安さ｣のウラに潜む動物の命の搾取､ヤミ繁殖屋で苦しむ純血種の猫犬たちの現実には人間の責任ある選択が必要だ | ライフ | 東洋経済オンライン",
@@ -93,16 +143,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-09T11:00:00+09:00"
-  },
-  {
-   "title": "カシミールでの死者を出した抗議活動がパキスタンの軍事支配者を試す",
-   "link": "https://www.ft.com/content/2be78a9f-1431-4519-b5c4-c4dd5026dd3c?syn-25a6b1a6=1",
-   "summary": "この地域で数十年で最悪の暴力で数十人が死亡",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-09T10:50:21+09:00",
-   "lang": "en",
-   "title_orig": "Deadly protests in Kashmir test Pakistan’s military rulers"
   },
   {
    "title": "湘南･辻堂の地図にある\"奇妙な区画\"の正体…観光地に隠れた｢旧海軍演習場｣の過去と美しい海岸に眠る銃声の記憶 | ライフ | 東洋経済オンライン",
@@ -341,16 +381,6 @@
    "title_orig": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?"
   },
   {
-   "title": "海峡再開交渉にもかかわらず、イランのミサイルがUAEタンカーを標的に",
-   "link": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
-   "summary": "イランがホルムズ経由の輸送を管理するオマーンとの協定締結が近づいていると発表したことを受けて、最近の攻撃が開始された",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-09T01:20:14+09:00",
-   "lang": "en",
-   "title_orig": "Iranian missile targets UAE tanker despite talks to reopen strait"
-  },
-  {
    "title": "グレッグ・エイベル氏がついにバフェット氏の資金を活用する",
    "link": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
    "summary": "バークシャー・ハサウェイのトップが株式投資に純200億ドルをつぎ込み、3年以上の連続売却に終止符を打つ",
@@ -371,16 +401,6 @@
    "title_orig": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists"
   },
   {
-   "title": "米上院、僅差でトッド・ブランチ氏を司法長官に承認",
-   "link": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5?syn-25a6b1a6=1",
-   "summary": "ドナルド・トランプ大統領の同盟者を据えることに対する超党派の懸念が露呈した緊迫した戦いの後に投票が行われる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-08T23:24:48+09:00",
-   "lang": "en",
-   "title_orig": "US Senate narrowly confirms Todd Blanche as US attorney-general"
-  },
-  {
    "title": "バークシャー・ハサウェイ、新CEOのもと、積み上げた現金を使い始める",
    "link": "https://www.wsj.com/finance/stocks/berkshire-hathaway-earnings-q2-2026-brk-a-stock-e394a0e7?mod=rss_markets_main",
    "summary": "この複合企業は68億ドルの取引を締結し、バークシャー株を買い戻し、その他の株を買い越し、同時に四半期利益を2倍以上に増やした。",
@@ -399,16 +419,6 @@
    "published": "2026-08-08T22:28:00+09:00",
    "lang": "en",
    "title_orig": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard"
-  },
-  {
-   "title": "画期的な仮想通貨法案、2億2500万ドルの支出押し上げにもかかわらず米上院で停滞",
-   "link": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
-   "summary": "法案をめぐって議員らが争う中、ロビー団体は議会での最優先事項の可決に苦戦している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-08T20:00:03+09:00",
-   "lang": "en",
-   "title_orig": "Landmark crypto bill stalls in US Senate despite $225mn spending push"
   },
   {
    "title": "この夏最も注目の腕キャンディはプライベート・エクイティのボーイフレンド",
@@ -535,14 +545,6 @@
    "published": "2026-08-08T07:28:58+09:00"
   },
   {
-   "title": "イオンの従業員誘導 規定に抵触か",
-   "link": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-08T07:26:44+09:00"
-  },
-  {
    "title": "基本的な材料のまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-aba4c272?mod=rss_markets_main",
    "summary": "基本的な資料をカバーする最新のマーケットトークで、ランクセス、ノーザンスター、エボリューションマイニングなどに関する洞察を見つけてください。",
@@ -573,14 +575,6 @@
    "title_orig": "Health Care Roundup: Market Talk"
   },
   {
-   "title": "ＮＹ外為市場＝ドル下落、対円で157円台半ば 米雇用悪化で利上げ観測後退 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OcWZqYXVjMGxGMUd2OFdZYXRRUDlSNWFldjVNelppcTBRZDhYbksydXVGRFpZalBOdmpNdUlESkdOM3FOZXVkbzRKZzRGeEliRW5Kb3VwaXpvT3pxRXhOZDkwVGdwaGY2bHpYM2Qtc2dQMEdlbkc5eA?oc=5",
-   "summary": "ＮＹ外為市場＝ドル下落、対円で157円台半ば 米雇用悪化で利上げ観測後退&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T06:01:44+09:00"
-  },
-  {
    "title": "「銀行員の平均年収」684万円に上昇　トップは初の900万円超え",
    "link": "https://www.itmedia.co.jp/business/articles/2608/08/news002.html",
    "summary": "東京商工リサーチは、国内銀98の「平均年間給与」調査を実施した。その結果……。",
@@ -599,30 +593,6 @@
    "title_orig": "U.S. Stocks Notch Fresh Record After Jobs Report Eases Rate-Hike Fears"
   },
   {
-   "title": "欧州市場サマリー（7日） - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hdkk0UDduX0pNQlJVRGEtUnZHMldHMlpZR2NxS1VXNFZYOWJhWkgwSkpXam5pV2stNExZajZ1clpWZnlwZ0Q2MmJlUXZUYjhDcUhURHRNb0EtaXRWSDBlNVRNZkRCd3FNUzdfenA0TlMzZkZQckIwQQ?oc=5",
-   "summary": "欧州市場サマリー（7日）&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T04:44:33+09:00"
-  },
-  {
-   "title": "米金利先物市場、9月のＦＲＢ利上げ観測後退 雇用統計受け - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVJLUC1uUnozUVRMaV9uVXNtcmpNQWVWRTM4WmxIaUtCMjRiM0gyTzRlak1pX3plbFFvbnphaDJIaFIzel9UU0dHdWxJTDFfVFVyV2VzR1NTZ0t6R0I4RklxSGVBc1oxUEljZzVCWkZ0VXRib0NkZUZUU2x2NFB0Tw?oc=5",
-   "summary": "米金利先物市場、9月のＦＲＢ利上げ観測後退 雇用統計受け&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T04:14:59+09:00"
-  },
-  {
-   "title": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2Rlam1LcTl1ZHdhX2w5V0p0bXdtVUt5MGw1RUpsRXZySU9XeXE2NVRKVUtnREZaRXRVVnRNWnFIQXROMTExSE5MNHJENGZiZHdIUDhhUU5WZHZ5UUtwa1c2b0ZEMXdDMVo4UG5udVg1dDBpV3ZVTXZWMFRzUzNHcw?oc=5",
-   "summary": "米消費者のインフレ期待ほぼ横ばい、家計状況の見方改善＝ＮＹ連銀7月調査&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T02:19:43+09:00"
-  },
-  {
    "title": "人事異動（令和８年８月７日付）について公表しました。",
    "link": "https://www.fsa.go.jp/common/about/jinji/index.html",
    "summary": "",
@@ -637,38 +607,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-08T02:00:00+09:00"
-  },
-  {
-   "title": "米7月雇用は予想外の2.3万人減、過去分も下方改定 失業率4.1％に低下 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXM1UTBFRk1xWk80N3k5R1JLZDRNcjlRaWJ1WkRGMGpZTXNNTzNVQUdZYW5MZm5MU19nWENYb2tIMi1tZHNoUzVPMGJnWTdoWDk4S1JqSk9fRDRpX0dVY2JXWENObWRjX01YaHhsYU41Q2w5eDBJT04yc2Y4b0xlVw?oc=5",
-   "summary": "米7月雇用は予想外の2.3万人減、過去分も下方改定 失業率4.1％に低下&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T01:50:23+09:00"
-  },
-  {
-   "title": "米7月雇用統計、労働市場の現状反映＝リッチモンド連銀総裁 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWVEYmZIeEt4OG9WQmpvMjlZN01GM3N3cXZSYXd2V1RpbjJPMmR5dkVIMTd5SXMxS0pCZU5uZExmc2lWLTNEbWpKM3lzTmMtcEp0NFJnRU1paHJDM3NJNWZhV25CN3F0UGw2ZDVZT2dUTTZvRFdFZzRXTXFld3A2bA?oc=5",
-   "summary": "米7月雇用統計、労働市場の現状反映＝リッチモンド連銀総裁&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T01:42:36+09:00"
-  },
-  {
-   "title": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYXdPVzAtRnJscGlvWmlpaS1jSklnVGpnZnBVc3had216SXc5dDlNTHZXVmJSVGxHS0hwNEVCQ2ZkRzNLUlhxdHZlTWx4anlCNmdMTWQzRnFWbUlEdUc4Q1B4NEV0V0VmcS1HbzBwT1EtZVRLUk1jZTE1dUQ3Qm1fNg?oc=5",
-   "summary": "カナダ、7月雇用7.5万人増で予想を大幅上回る 失業率2年ぶり低水準&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T01:20:09+09:00"
-  },
-  {
-   "title": "ロシア大統領、首都モスクワ主要空港の保有株売却承認 財政改善狙いか - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xREpnRHhiQURQSDlNTDY4dVdqekh6Q1dtZ0V6NGxBNVJObE4zMGJkMzBWRU9CUEd6b21LMjQ0STBxVHE3S0xKMjBTdWp3Ml9uSGRTQ01NUjhIX1lpZ1hNbUlFd3pJR2JnWDlGbUxzNk5VOHhzZUhrSQ?oc=5",
-   "summary": "ロシア大統領、首都モスクワ主要空港の保有株売却承認 財政改善狙いか&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-08T01:17:45+09:00"
   },
   {
    "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
@@ -811,28 +749,12 @@
    "published": "2026-08-07T19:55:32+09:00"
   },
   {
-   "title": "アジア株式市場サマリー：引け（7日） - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnAtRk9GeV9yenlGOWhQS0VvNl9JQ1RVamNrT0ZCdVlDUWY0NHI5aW5UX1E1d2tUTVVYQ1BBOUNESjk5cXBMZ0FGODBWb1phQkFrVGhmd3NSMVUwMTFUck9jcTBOaWlNMkNQQ1dKdXV3cEV1bmdkalYydTZxNklLNw?oc=5",
-   "summary": "アジア株式市場サマリー：引け（7日）&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T19:50:02+09:00"
-  },
-  {
    "title": "スーパーのコメ平均価格 5キロ3198円 6週連続で値下がり",
    "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199341000.html",
    "summary": "全国のスーパーで今月2日までの1週間に販売されたコメの平均価格は、5キロあたり税込み3198円と、前の週より100円以上、下がりました。値下がりは6週連続で、およそ1年10か月ぶりの水準です。",
    "source": "NHK 経済",
    "category": "報道機関",
    "published": "2026-08-07T19:48:33+09:00"
-  },
-  {
-   "title": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qQi1CQVJTVWZvSWU1NkgyRFJ6TkhTc2V5TE5hZWVHb2hQWUktNUpvRlhoQTZwelgxeTlSVU5kdzhmQUJPYUNaaHo4ejVyZHRyUUp3R25hcFlZN1M4WDNfYlNTdVJiV1VuWFJ4SVRQZVFMQy1iRkJWLU1n?oc=5",
-   "summary": "米民主党進歩派の一部政策、無党派層が支持 富裕層増税など＝調査&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T19:03:47+09:00"
   },
   {
    "title": "「みんなで大家さん」運営会社、損失3千億円　債務超過「法に抵触」",
@@ -851,14 +773,6 @@
    "published": "2026-08-07T18:55:19+09:00"
   },
   {
-   "title": "中国・香港株式市場・大引け＝上昇、中国輸出好調を好感 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQk10X2U5eF9GTG81c0kwZHFPVmROc2g2U0Mzc3k1RjJCMnc1LXRHWUJQc1lOZUFyRmd4bmVjbDdlVk9GeEZFSmYxZ09ldmlpNEFYdHAwX0s2MS1ZLW5qZlRTZVJqakcyaEhabnJaalkzYmlZRVlzM0hRMkg4Tk5sYw?oc=5",
-   "summary": "中国・香港株式市場・大引け＝上昇、中国輸出好調を好感&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T18:35:39+09:00"
-  },
-  {
    "title": "東芝の純利益が4兆円超、4～6月期　キオクシア株の評価益膨らむ",
    "link": "https://www.asahi.com/articles/ASV8732WWV87ULFA01DM.html?ref=rss",
    "summary": "",
@@ -867,36 +781,12 @@
    "published": "2026-08-07T18:29:16+09:00"
   },
   {
-   "title": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSkt0Wms2THNGWEFGZDRfRzBZQTJRQndadlJfSmF4LTBYdlJjTDZwbWNxemN6ZUdNaDkzVlp5VGdVRmVaaVFRbl84US1RLWpoYWlZaFI4cGNuTEktV0VTeU5Bc2VPZFdhM3ZXY0JILWlWd1NrUm04Sg?oc=5",
-   "summary": "アングル：日本企業、円安で増益も「副作用」警戒 遠のく120円台の適正水準&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T18:27:19+09:00"
-  },
-  {
-   "title": "ＳＫハイニックス、国内2工場に380億ドル投資へ 取締役会承認 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CSTNlbDBuazVvN1hSN19teGRUYVcwdE9nUF85OGVFUkFIMTR5MFptMFA3Qmh3Vm9CXzJZVXlja3BpRG1NVm9vRlY4aUhiWHgzRjdhRUs3RnVYVG10a2dPUnhqeWNtU21pTzBHcXl1aS02Ul85VFE?oc=5",
-   "summary": "ＳＫハイニックス、国内2工場に380億ドル投資へ 取締役会承認&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T18:01:43+09:00"
-  },
-  {
    "title": "KDDI社長「楽天とのローミング9月で終了」　一部地方では継続",
    "link": "https://www.asahi.com/articles/ASV872S5XV87ULFA01FM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-07T17:36:50+09:00"
-  },
-  {
-   "title": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT19GUUU4eG9feEkyb0JSSnFaZW1IUHV5XzJhUGtZWWlnX25keUFSYkNZNWFYUzEzZXNXWkRFUHB2bHJLZlY2TnhwX004aVk4TEFNalF6VVZvRGE0TTZfS2J4UzJsN2o3WERuYUh2ZHNoMFpEbnh5bXVacjZzUQ?oc=5",
-   "summary": "中国、金融監督管理総局前トップの全人代代表資格剥奪 「重大な規律違反」&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T17:03:43+09:00"
   },
   {
    "title": "羽田空港の着陸料、計算方式を見直しへ　騒音対策のメリット拡大",
@@ -913,14 +803,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-07T17:00:00+09:00"
-  },
-  {
-   "title": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FYUNlRGFMa2JCbzFzeTdmd1VNV1B3V3M5QndrcUFPbkpZT3BRczBuNDdHZkZYbmNRdVZGcUdCalU2bUVDSXhqU0M4ZUxGWkJBM3BSSzdibzhlX1U3UUtuUk9rQjdGNTFEU0pmRXRWY0RpclJoeWc?oc=5",
-   "summary": "ＮＸＨＤ、通期純利益見通し700億円に上方修正 市場予想上回る&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-07T16:57:45+09:00"
   },
   {
    "title": "7月の「物価高」倒産、円安局面で最多の93件　小・零細中心に負債は小口化",
@@ -1249,14 +1131,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-06T15:15:00+09:00"
-  },
-  {
-   "title": "2度の上方修正を超え、過去最高益のメルカリ　山田CEOが語るAIで会社が“劇的に変わった”1年",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/06/news066.html",
-   "summary": "AIを全社の基盤に据える「AIネイティブカンパニー」への変革を掲げてから1年。メルカリはエンジニア1人当たりの開発量7.6倍、生産性49.5万時間分向上などの成果を示した。決算説明会では、山田進太郎CEOがトップ自らのAI活用や組織改革の狙いを語った。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-06T13:45:00+09:00"
   }
  ]
 }
