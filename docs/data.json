@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T06:54:46.654074+09:00",
+ "generated_at": "2026-08-11T07:23:47.679741+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,88 @@
  "errors": [],
  "items": [
   {
+   "title": "Nvidia、5,000億ドルのAIインフラ推進でウォール街の資産運用会社と提携",
+   "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+   "summary": "この資本政策は、人工知能ブームの費用を賄う上で民間資本の役割が増大していることを浮き彫りにしている。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-11T07:09:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push"
+  },
+  {
+   "title": "【重大な過失】破綻のユニゾ元社長に東京地裁が30億円賠償命令…LBO巡る経営判断で損害賠償が認められたケースは異例 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954444?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "経営破綻したユニゾホールディングスが元社長に約30億円の損害賠償を請求し勝訴――LBOスキームの策定に重大な過失があったとして､東京地裁が異例の判断を下しました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T07:03:00+09:00"
+  },
+  {
+   "title": "感染性ぶどう膜炎にPCR検査キット　9種の病原体を一度にカバー",
+   "link": "https://www.asahi.com/articles/ASV851HFSV85PLZB00DM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-11T07:00:00+09:00"
+  },
+  {
+   "title": "｢熊本に何しに行った？｣ 高市首相\"PV風\"視察動画が炎上も､メイクには絶賛の声…｢配慮の向き先｣で評価が一変のカラクリ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954403?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "熊本地震の被災地視察を伝える高市早苗首相の\"PV風\"動画が､SNSで大炎上。背景には､｢配慮の向き先｣に関する受け手側の認知の傾向がありました。なぜ同じ映像でも評価が2極化したのでしょうか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T07:00:00+09:00"
+  },
+  {
+   "title": "意見 |円は近いうちにさらなる介入が必要になるだろうか？",
+   "link": "https://www.wsj.com/opinion/bank-of-japan-yen-treasury-kazuo-ueda-6b37ad3a?mod=rss_markets_main",
+   "summary": "最近の政府の措置の影響はすでに薄れつつある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:58:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | Will the Yen Need Another Intervention Soon?"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3d35c5ab?mod=rss_markets_main",
+   "summary": "自動車と輸送をカバーする最新のマーケット トークで、ウィズ エア、ヒーロー モトコープ、カンタス航空などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:56:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "モルガン・スタンレー、1.5兆ドル規模のインフラ構想を推進",
+   "link": "https://www.wsj.com/finance/investing/morgan-stanley-to-facilitate-1-5-trillion-in-infrastructure-initiative-638bb970?mod=rss_markets_main",
+   "summary": "同社は、このイニシアチブは、経済と国家の中核となる企業、テクノロジー、インフラストラクチャーの構築と拡大を支援するクライアントであると述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:56:00+09:00",
+   "lang": "en",
+   "title_orig": "Morgan Stanley to Facilitate $1.5 Trillion in Infrastructure Initiative"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-a6402a50?mod=rss_markets_main",
+   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、石油先物やアドノックガスなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:54:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "城内経財相が市場の財政拡大懸念に反論､｢円安が継続するとは考えていない｣｢むしろ円に上昇圧力をかける可能性がある｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954486?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "高市政権が掲げる｢責任ある積極財政｣は､本当に日本経済の持続可能性と円高を実現できるのか。城内実経済財政担当相は､投資拡大と財政健全化の両立を強調し､懸念に反論します。市場や日銀との関係性､成長戦略…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:52:00+09:00"
+  },
+  {
    "title": "金融サービスのまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-6d27742e?mod=rss_markets_main",
    "summary": "金融サービスを対象とした最新のマーケット トークで、BNP パリバ、Plus500、セント ジェームス プレイスなどに関する洞察を見つけてください。",
@@ -69,6 +151,22 @@
    "published": "2026-08-11T06:51:00+09:00",
    "lang": "en",
    "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "メタが軽量AIモデル｢Muse Glimmer｣発表－グラフィックスカード1枚だけで動作できるほど小型､個人利用を想定 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954499?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "メタ･プラットフォームズは10日､コンピューター1台で実行でき､利用者がダウンロードやカスタマイズできる軽量な新AIモデルを発表した。発表によると､新モデル｢Muse Glimmer｣は､システム要…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:50:00+09:00"
+  },
+  {
+   "title": "コロンビア西部で強い地震､M7.4と米地質調査所…首都ボゴタでも揺れ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954498?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "南米コロンビアの西部を強い地震が襲い､首都ボゴタでも建物が揺れた。コロンビア地質調査所は､チョコ州サン･ホセ･デル･パルマー付近で現地時間10日午前7時34分にマグニチュード6.7の地震が発生したと…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:50:00+09:00"
   },
   {
    "title": "基本的な材料のまとめ: マーケットトーク",
@@ -81,24 +179,14 @@
    "title_orig": "Basic Materials Roundup: Market Talk"
   },
   {
-   "title": "Nvidiaとウォール街企業、5,000億ドルを目標にAI融資契約を締結",
-   "link": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db?mod=rss_markets_main",
-   "summary": "アポロ、ブラックストーン、ブラックロックはこの取引に参加した企業の一つだ。",
-   "source": "WSJ マーケット",
+   "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
+   "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+   "summary": "アポロ、ブラックストーン、ゴールドマン・サックスは、データセンターブームのための資金調達のためにチップメーカーと協力しているグループの1つである",
+   "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-08-11T06:47:00+09:00",
+   "published": "2026-08-11T06:42:54+09:00",
    "lang": "en",
-   "title_orig": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion"
-  },
-  {
-   "title": "Nvidia、5,000億ドルのAIインフラ推進でウォール街の資産運用会社と提携",
-   "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-   "summary": "この資本政策は、人工知能ブームの費用を賄う上で民間資本の役割が増大していることを浮き彫りにしている。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-11T06:42:53+09:00",
-   "lang": "en",
-   "title_orig": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push"
+   "title_orig": "Wall Street giants partner with Nvidia on $500bn AI financing deal"
   },
   {
    "title": "Rocket Lab、いくつかの大きな計画を明らかにしたが、業績がまちまちで株価は下落",
@@ -111,16 +199,6 @@
    "title_orig": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings"
   },
   {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-743c456f?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、AI 支出、HPE などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T06:37:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
    "title": "FRBのケビン・ウォーシュ議長は2％のインフレを約束するが、米国債務の急増によりそれは夢物語に",
    "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
    "summary": "アンクル・サムは今日の債務危機から逃れるために、経済成長だけでなくインフレも必要としている。",
@@ -129,6 +207,16 @@
    "published": "2026-08-11T06:32:00+09:00",
    "lang": "en",
    "title_orig": "Fed Chair Kevin Warsh promises 2% inflation, but skyrocketing U.S. debt makes that a pipe dream"
+  },
+  {
+   "title": "イランの最高指導者、トップ人事の掌握を強化",
+   "link": "https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1",
+   "summary": "イラン政府が米国との合意を巡り発言を強める中、軍や政権幹部の多数の動きが起こる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T06:30:27+09:00",
+   "lang": "en",
+   "title_orig": "Iran’s supreme leader tightens grip with top appointments"
   },
   {
    "title": "｢会社員で一生を終えていいのか…｣起業を煽る異業種交流会で感化された25歳に､定年まで3カ月の先輩が贈った\"金言\" | ライフ | 東洋経済オンライン",
@@ -287,26 +375,6 @@
    "title_orig": "EBay may dodge a GameStop takeover — but there’s a new twist in the Ryan Cohen saga"
   },
   {
-   "title": "原油高騰、ホルムズ合意の見通しなし",
-   "link": "https://www.wsj.com/finance/investing/oil-surges-with-no-hormuz-deal-in-sight-10ab080d?mod=rss_markets_main",
-   "summary": "さらに、Nvidia の大型取引と Intel の株式売却。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T05:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Surges With No Hormuz Deal in Sight"
-  },
-  {
-   "title": "中東の緊張とインフレ懸念の高まりで国債利回りが上昇",
-   "link": "https://www.wsj.com/finance/jgbs-edge-lower-amid-potentially-quicker-pace-of-boj-rate-hikes-d17b52c8?mod=rss_markets_main",
-   "summary": "ホルムズ問題をめぐる米国とイランの合意への期待が薄れ、米国債利回りが上昇したことを受けて、債券市場は原油価格の上昇で悪化した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T05:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields Rise as Middle East Tensions, Inflation Fears Increase"
-  },
-  {
    "title": "｢知事･市長｣の月給が高い自治体ランキング　5位は千葉県､4位は京都市､ではトップ3位は？ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954362?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "物価高と賃上げが注目される今､自治体のトップである首長たちはどれほどの給与を受け取っているのでしょうか。",
@@ -391,16 +459,6 @@
    "published": "2026-08-11T03:23:43+09:00"
   },
   {
-   "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
-   "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-   "summary": "アポロ、ブラックストーン、ゴールドマン・サックスは、データセンターブームのための資金調達のためにチップメーカーと協力しているグループの1つである",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T02:22:31+09:00",
-   "lang": "en",
-   "title_orig": "Wall Street giants partner with Nvidia on $500bn AI financing deal"
-  },
-  {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
    "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
    "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
@@ -461,6 +519,14 @@
    "title_orig": "Just how big is the hidden leverage of AI hyperscalers?"
   },
   {
+   "title": "無人機攻撃で１３人死亡　ウクライナ軍、石油企業標的か―ロシア中部",
+   "link": "https://www.jiji.com/jc/article?k=2026081000598&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-10T20:53:00+09:00"
+  },
+  {
    "title": "トランプとファフォ主義の失敗",
    "link": "https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1",
    "summary": "大統領の欠陥のある意思決定がついに追いつきつつある",
@@ -479,14 +545,6 @@
    "published": "2026-08-10T20:45:31+09:00",
    "lang": "en",
    "title_orig": "Ukrainian drone strike on oil-refining city in central Russia kills 13"
-  },
-  {
-   "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpEUEFpNDJkc2h6MFlKbEJxZ2IzWC1UaGdiZ3owcWRpM3E4bUFCLVNuRjYwU0ZzTmxidnJ4M1I0MHF1aGMyZkdIQm1faXJDQmx3Z2lYSXhwaWVRM3l1VllHVE90QjBSTENMZnZtYUc2NWlLakhPcQ?oc=5",
-   "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T20:15:45+09:00"
   },
   {
    "title": "サントリー、熊本工場復旧に3~4カ月　「可能な限り安定供給図る」",
@@ -563,14 +621,6 @@
    "published": "2026-08-10T17:42:09+09:00"
   },
   {
-   "title": "１７日から大規模米韓演習　ドローンなど現代戦反映",
-   "link": "https://www.jiji.com/jc/article?k=2026081000685&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-10T17:39:00+09:00"
-  },
-  {
    "title": "世界のＭ＆Ａ、7月は前年比27％減の3161億ドル＝ＬＳＥＧ - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkFfd19DOGRnMlc5cEhLTVEwcHBiekJZRDhwM0pySGhxdEFpV2EzcUpXZXAtNFdSZHdLUjU3NFg0Nk5xcjZQSFpNMmJ1SktPWnQ4WTE1QmI1d1pHVHdiOEVuU012bG1zamdIR3I1eDRUTXJfdDhSb19KYzRBSWJqeg?oc=5",
    "summary": "世界のＭ＆Ａ、7月は前年比27％減の3161億ドル＝ＬＳＥＧ&nbsp;&nbsp;ロイター",
@@ -609,16 +659,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-10T17:00:00+09:00"
-  },
-  {
-   "title": "中国への新たな玄関口として農村を開拓する香港の計画",
-   "link": "https://www.ft.com/content/61a23058-730d-4b13-bbbe-d491770d2a76?syn-25a6b1a6=1",
-   "summary": "市が経済の再発明に努める中、本土国境近くで立ち退きが進行中",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-10T16:57:31+09:00",
-   "lang": "en",
-   "title_orig": "Hong Kong’s plan to clear rural villages for a new gateway to China"
   },
   {
    "title": "所得連動給付、申請なくても給付可能　公金受取口座登録で　政府検討",
@@ -661,14 +701,6 @@
    "published": "2026-08-10T16:13:43+09:00"
   },
   {
-   "title": "｢時間をかけるしかない｣…クモの巣のごとく複雑に入り組んだ住専7社への融資表　住専アリ地獄② | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954000?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "1992年初夏、住宅金融専門会社（住専）の再建は、土田正顕の次の大蔵省銀行局長、寺村信行に託された。7月末、日本住宅金融（日住金）の設立母体である三和銀行（現三菱UFJ銀行）が銀行局に行った住専問題…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T16:00:00+09:00"
-  },
-  {
    "title": "NEC、AIだけの部門新設　「17人」が自律的に対応、判断は人間",
    "link": "https://www.asahi.com/articles/ASV8B2136V8BULFA00NM.html?ref=rss",
    "summary": "",
@@ -709,14 +741,6 @@
    "published": "2026-08-10T13:04:00+09:00"
   },
   {
-   "title": "【実行委員長･赤裸々の告白】｢祭りは儲からないなら､やめればいい…？｣祭りを続ける人が知る\"お金より大事な裏側\" | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952792?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "本日開催｢笠間納涼盆踊り花火大会｣の実行委員長をつとめる､気鋭のプロデューサー･安達勇人氏。｢祭りづくり｣の裏側と､｢なぜやるのか｣その本音を､赤裸々に語ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T13:00:00+09:00"
-  },
-  {
    "title": "米アンダーアーマー、通期売上高見通し引き下げ 主力市場の北米で需要低調 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oLTIway1kS2xOSTExejFMNU1Yemhab2ozcUd2dHJyekxnbnVFRXQ1RzBYS291bzVEcFI1WnFYNFkybG1iTFZWUEMzRVRiUkJXZDc0YWlZcEZBeGloVE5SS0RfM2hsOEpuTXdScG5uT1pFTjdJSnp4eA?oc=5",
    "summary": "米アンダーアーマー、通期売上高見通し引き下げ 主力市場の北米で需要低調&nbsp;&nbsp;ロイター",
@@ -733,20 +757,12 @@
    "published": "2026-08-10T12:41:02+09:00"
   },
   {
-   "title": "退職金2000万円はどう受け取るのがお得？｢一時金｣｢年金｣｢併用｣の手取りを比較してみた | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "退職金のもらい方で大きく手取り額が変わることをご存知ですか？ 知らないと損するかもしれない最新ルールや有利な選択肢を､具体的シミュレーションと共に詳しく解説します。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T12:30:00+09:00"
-  },
-  {
-   "title": "なぜ\"いい人\"なのに好かれないのか？ 相手のためと思っている我慢が､実は｢自己中心的な思考｣かもしれない | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952448?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢いい人｣と評価されながらもなぜか好かれない､信頼されない──そんな悩みを抱えていませんか？　善良な自己評価と周囲の本音､そのズレの正体に迫ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T12:00:00+09:00"
+   "title": "午前のドルは158円前半へ上昇、原油高で買い 日本の財政不安も意識 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TcF9qLUNBUGRScFBlVzhKbVB6Y21qWnA4QjBXU0dPd1NlVFhJQkJXWDl0aURsM3REZDg2MTNIS2R2cGdtSnRxVlFHX2lPNGpsV1dFS0ZycFk1cHZVdGtjTXhXeTRqZWJMa25GdHg4MHVsVUVEY0V3Zg?oc=5",
+   "summary": "午前のドルは158円前半へ上昇、原油高で買い 日本の財政不安も意識&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-10T12:39:00+09:00"
   },
   {
    "title": "世帯年収1000万円 理想とは遠い家",
@@ -755,14 +771,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-10T11:38:20+09:00"
-  },
-  {
-   "title": "自民党で勃発した｢静かなる反乱｣の波紋､\"大番頭\"世耕氏の復党見送りで顕在化した自民党内の権力闘争と秋政局の行方 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954352?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "世耕弘成氏の自民党への復党が党紀委員会で見送られました。地元からの賛同がありながら結論を見送った裏側には､どんな事情が潜んでいるのでしょうか？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T11:30:00+09:00"
   },
   {
    "title": "スシローが「京樽」を和食さとに譲渡　5年前に吉野家から買収、回転ずしに経営資源を集中",
@@ -923,22 +931,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-09T08:00:00+09:00"
-  },
-  {
-   "title": "若者に反AI感情のうねり　止まらぬ開発競争、ブームの震源地で何が",
-   "link": "https://www.asahi.com/articles/ASV7P5QBYV7PUHBI029M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-09T07:00:00+09:00"
-  },
-  {
-   "title": "マンションを「押し買い」された92歳女性　続けて押し売り被害も",
-   "link": "https://www.asahi.com/articles/ASV7S1QQGV7SULZU00XM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-09T07:00:00+09:00"
   },
   {
    "title": "ETF業界の次なる大きな動きは？金利の不確実性が続く中、なぜこれらのリスク資産が注目を集めているのか",
