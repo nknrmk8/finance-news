@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T02:32:28.837462+09:00",
+ "generated_at": "2026-08-11T03:29:52.381766+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,76 @@
  "errors": [],
  "items": [
   {
+   "title": "Nvidiaとウォール街企業、5,000億ドルを目標にAI融資契約を締結",
+   "link": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db?mod=rss_markets_main",
+   "summary": "アポロ、ブラックストーン、ブラックロックはこの取引に参加した企業の一つだ。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T03:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion"
+  },
+  {
+   "title": "世界のボラティリティが続く中、金は上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-focus-on-u-s-july-payrolls-7759613a?mod=rss_markets_main",
+   "summary": "世界的なボラティリティが続く中、金先物は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T03:12:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Climbs as World Volatility Stays in Play"
+  },
+  {
+   "title": "8月の株式市場の「暴落」がこれまでのところどれほど常軌を逸していたかを示す2つのグラフ",
+   "link": "https://www.marketwatch.com/story/2-charts-showing-just-how-insane-the-stock-markets-august-crash-up-has-been-so-far-b822404d?mod=mw_rss_topstories",
+   "summary": "7月の劇的な勢いの巻き戻しがオプトの兆しで終わったため、先月末に株価が急上昇し、多くの投資家は足をすくわれた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T03:08:00+09:00",
+   "lang": "en",
+   "title_orig": "2 charts showing just how insane the stock market’s August ‘crash-up’ has been so far"
+  },
+  {
+   "title": "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
+   "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+   "summary": "ゴールドマン・サックスのアショク・バラダン氏は、建設的な見通しの理由を3つ挙げた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-11T03:03:17+09:00",
+   "lang": "en",
+   "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
+  },
+  {
+   "title": "「冷酷なことはしたくない」: 私の年老いた親戚は、もう自分のことは自分でできなくなっています。彼の世話を国に任せるのは間違っているでしょうか?",
+   "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+   "summary": "「彼は決して特別に寛大だったり、育ててくれたりしたことはありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T03:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+  },
+  {
+   "title": "原油価格に伴い米国債利回り、ドルもさらに上昇",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-buoyed-by-reduced-fed-rate-hike-prospects-ac0ca68d?mod=rss_markets_main",
+   "summary": "日本の通貨を下支えしようとする当局者の努力にもかかわらず、ドルは円に対して上昇し続けた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T02:55:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields, Dollar Rise Further Alongside Oil Prices"
+  },
+  {
+   "title": "正午に最も大きな動きを見せた銘柄: NetApp、Intel、Apple、Doximity、Verisk Analytics など",
+   "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-midday-ntap-intc-aapl-docs-vrsk.html",
+   "summary": "これらは、正午に最も大きな値動きを記録した銘柄の一部です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-11T02:43:55+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more"
+  },
+  {
    "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
    "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
    "summary": "アポロ、ブラックストーン、ゴールドマン・サックスは、データセンターブームのための資金調達のためにチップメーカーと協力しているグループの1つである",
@@ -119,16 +189,6 @@
    "title_orig": "U.S. Stocks Hover Near Records"
   },
   {
-   "title": "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
-   "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-   "summary": "ゴールドマン・サックスのアショク・バラダン氏は、建設的な見通しの理由を3つ挙げた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-11T01:36:44+09:00",
-   "lang": "en",
-   "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
-  },
-  {
    "title": "エネルギーと公共事業のまとめ: マーケットトーク",
    "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-a6402a50?mod=rss_markets_main",
    "summary": "エネルギーと公益事業をカバーする最新のマーケット トークで、石油先物とアドノック ガスに関する洞察を見つけてください。",
@@ -139,16 +199,6 @@
    "title_orig": "Energy & Utilities Roundup: Market Talk"
   },
   {
-   "title": "世界のボラティリティが続く中、金は上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-focus-on-u-s-july-payrolls-7759613a?mod=rss_markets_main",
-   "summary": "世界的なボラティリティが続く中、金先物は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T01:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Climbs as World Volatility Stays in Play"
-  },
-  {
    "title": "基本的な材料のまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-84a36936?mod=rss_markets_main",
    "summary": "基本的な資料をカバーする最新のマーケット トークで、Barrick、Newmont、BASF などに関する洞察を見つけてください。",
@@ -157,36 +207,6 @@
    "published": "2026-08-11T01:25:00+09:00",
    "lang": "en",
    "title_orig": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-6d27742e?mod=rss_markets_main",
-   "summary": "金融サービスをカバーする最新のマーケット トークで、セント ジェームス プレイス、UOB などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T01:25:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3d35c5ab?mod=rss_markets_main",
-   "summary": "自動車と輸送をカバーする最新のマーケット トークで、ウィズ エア、ヒーロー モトコープ、カンタス航空などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T01:24:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
-  },
-  {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-743c456f?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Apple、SpaceX などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T01:23:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
   },
   {
    "title": "コロンビア地震で少なくとも47人死亡",
@@ -255,26 +275,6 @@
    "title_orig": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on."
   },
   {
-   "title": "「妻に最善の戦略を選んでほしい」: 妻の社会保障はわずか 900 ドルです。彼女は62歳になったら配偶者手当を請求すべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-   "summary": "「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?"
-  },
-  {
-   "title": "イーロン・マスクの Starlink インターネットが、高額な月額料金と 350 ドルの初期費用に見合う価値があるのは、次のときです。",
-   "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
-   "summary": "Starlink 対ファイバー、ケーブル、5G: 2026 年のインターネット オプションに関する賢明な消費者のガイド。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-10T23:51:00+09:00",
-   "lang": "en",
-   "title_orig": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost"
-  },
-  {
    "title": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5idmtuakw1NG5tamlJLVVzbW1oS1Y1ZTAxdmIyWnpxU2VPaURwWmdzaWxQMzRFdEp5cC1sMmlJMXpIcHIxYklMNXYxUm5NTmxNRFpod2xlR3BVdDJENnkyeUl3LW9KWUF6b2FEOWdrTnc5Q0hIZ2RKbg?oc=5",
    "summary": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に&nbsp;&nbsp;ロイター",
@@ -309,6 +309,16 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-10T22:13:43+09:00"
+  },
+  {
+   "title": "AI ハイパースケーラーの隠れた影響力はどれほど大きいのでしょうか?",
+   "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+   "summary": "とても",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-10T21:27:47+09:00",
+   "lang": "en",
+   "title_orig": "Just how big is the hidden leverage of AI hyperscalers?"
   },
   {
    "title": "無人機攻撃で１３人死亡　ウクライナ軍、石油企業標的か―ロシア中部",
@@ -377,6 +387,16 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T19:03:45+09:00"
+  },
+  {
+   "title": "マーク・ザッカーバーグ、メタがオープンモデルに戻る中、「クローズド」AIライバルを攻撃",
+   "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1",
+   "summary": "Meta の創設者は、強力な AI をより自由に利用できるようにするためのピッチで、OpenAI と Anthropic を引き立て役にしています",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-10T19:00:02+09:00",
+   "lang": "en",
+   "title_orig": "Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models"
   },
   {
    "title": "楽天の三木谷社長、KDDIとのローミング契約「順次縮小で合意」",
@@ -549,16 +569,6 @@
    "published": "2026-08-10T14:46:00+09:00"
   },
   {
-   "title": "あなたの動き、日銀",
-   "link": "https://www.ft.com/content/8ca25b96-f8eb-49b1-a259-b7314ef4741a?syn-25a6b1a6=1",
-   "summary": "さらに、雇用統計が弱い",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-10T14:30:04+09:00",
-   "lang": "en",
-   "title_orig": "Your move, BoJ"
-  },
-  {
    "title": "国債及び借入金並びに政府保証債務現在高（令和8年6月末現在）",
    "link": "https://www.mof.go.jp/jgbs/reference/gbb/202606.html",
    "summary": "",
@@ -573,16 +583,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T13:04:00+09:00"
-  },
-  {
-   "title": "ニューヨークは久しぶりの夏を過ごしています",
-   "link": "https://www.ft.com/content/36d87659-ceb8-4dab-84fa-2f84ba3fbb53?syn-25a6b1a6=1",
-   "summary": "新興企業からレストラン、不動産、さらには政治まで、どんなシーンであっても、街がかつてないほど賑やかになったように感じられることはありません。",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-10T13:00:15+09:00",
-   "lang": "en",
-   "title_orig": "New York is having a summer for the ages"
   },
   {
    "title": "【実行委員長･赤裸々の告白】｢祭りは儲からないなら､やめればいい…？｣祭りを続ける人が知る\"お金より大事な裏側\" | キャリア・教育 | 東洋経済オンライン",
