@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T01:39:46.067659+09:00",
+ "generated_at": "2026-08-11T02:32:28.837462+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,72 @@
  "errors": [],
  "items": [
   {
+   "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
+   "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+   "summary": "アポロ、ブラックストーン、ゴールドマン・サックスは、データセンターブームのための資金調達のためにチップメーカーと協力しているグループの1つである",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T02:22:31+09:00",
+   "lang": "en",
+   "title_orig": "Wall Street giants partner with Nvidia on $500bn AI financing deal"
+  },
+  {
+   "title": "アーチャー、AIによる航空変革を目指す最新の取り組みでボーイングとの契約を締結",
+   "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+   "summary": "アーチャー・アビエーションの株価は、同社がボーイングから3つの事業部門を買収することで合意したことを受けて急騰している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T02:22:00+09:00",
+   "lang": "en",
+   "title_orig": "Archer strikes deal with Boeing in latest bid to transform aviation through AI"
+  },
+  {
+   "title": "ホルムズ再開を求めるイランの要求で原油先物が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-doubts-over-strait-of-hormuzs-reopening-6e42507b?mod=rss_markets_main",
+   "summary": "イランがホルムズ海峡の海運に関してオマーンとの協議を継続する一方、ホルムズ海峡の再開について米国に厳しい要求を出したことを受け、原油先物は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T02:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Rise On Iranian Demands for Hormuz Reopening"
+  },
+  {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
    "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
    "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-11T02:00:00+09:00"
+  },
+  {
+   "title": "来月採決される大学スポーツ保護法: 移籍とチーム支出の意味",
+   "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
+   "summary": "大学スポーツ保護法が大学スポーツの経済にどのような影響を与える可能性があるかを見てみましょう。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T01:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending"
+  },
+  {
+   "title": "米国株は記録に近い水準で推移",
+   "link": "https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8?mod=rss_markets_main",
+   "summary": "新しい取引週の初め、米国株は小幅な上昇と下落の間で揺れ動いた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T01:40:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stocks Hover Near Records"
+  },
+  {
+   "title": "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
+   "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+   "summary": "ゴールドマン・サックスのアショク・バラダン氏は、建設的な見通しの理由を3つ挙げた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-11T01:36:44+09:00",
+   "lang": "en",
+   "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
   },
   {
    "title": "エネルギーと公共事業のまとめ: マーケットトーク",
@@ -127,16 +187,6 @@
    "published": "2026-08-11T01:23:00+09:00",
    "lang": "en",
    "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
-   "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-   "summary": "アポロ、ブラックストーン、ゴールドマン・サックスは、データセンターブームのための資金調達のためにチップメーカーと協力しているグループの1つである",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T01:22:57+09:00",
-   "lang": "en",
-   "title_orig": "Wall Street giants partner with Nvidia on $500bn AI financing deal"
   },
   {
    "title": "コロンビア地震で少なくとも47人死亡",
@@ -225,62 +275,12 @@
    "title_orig": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost"
   },
   {
-   "title": "「思いがけずお金が入ってきました」: CD に 20,000 ドルをつぎ込むのは賢い選択でしょうか?",
-   "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-   "summary": "「受益者が資金にアクセスできるよう、プロセスをできるだけ簡単にしたいと考えています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-10T23:45:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?"
-  },
-  {
-   "title": "サルモネラ菌の発生が続く中、テイラー・ファームズが26州でハラペーニョベースの食品をリコール",
-   "link": "https://www.marketwatch.com/story/taylor-farms-recalls-jalapeno-based-foods-in-26-states-amid-ongoing-salmonella-outbreak-f873657b?mod=mw_rss_topstories",
-   "summary": "農業大手は、これにはサルサ、ワカモレ、ピメントチーズのディップが含まれると述べた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-10T23:41:00+09:00",
-   "lang": "en",
-   "title_orig": "Taylor Farms recalls jalapeño-based foods in 26 states amid ongoing salmonella outbreak"
-  },
-  {
-   "title": "シェインのIPOは300億ドル未満の評価額で投資家に売り込んだ",
-   "link": "https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1",
-   "summary": "ファストファッション小売業者は過去 4 年間で評価額が約 70% 下落した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-10T23:15:24+09:00",
-   "lang": "en",
-   "title_orig": "Shein IPO pitched to investors at sub-$30bn valuation"
-  },
-  {
    "title": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5idmtuakw1NG5tamlJLVVzbW1oS1Y1ZTAxdmIyWnpxU2VPaURwWmdzaWxQMzRFdEp5cC1sMmlJMXpIcHIxYklMNXYxUm5NTmxNRFpod2xlR3BVdDJENnkyeUl3LW9KWUF6b2FEOWdrTnc5Q0hIZ2RKbg?oc=5",
    "summary": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T23:11:43+09:00"
-  },
-  {
-   "title": "ホルムズ再開を求めるイランの要求で原油先物が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-doubts-over-strait-of-hormuzs-reopening-6e42507b?mod=rss_markets_main",
-   "summary": "イランがホルムズ海峡の海運に関してオマーンとの協議を継続する一方、ホルムズ海峡の再開について米国に厳しい要求を出したことを受け、原油先物は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T23:08:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Rise On Iranian Demands for Hormuz Reopening"
-  },
-  {
-   "title": "欧州TTFガス、ホルムズ海運懸念で5%増",
-   "link": "https://www.wsj.com/articles/european-ttf-gas-up-5-on-hormuz-shipping-concerns-82eb7f35?mod=rss_markets_main",
-   "summary": "ホルムズ海峡の再開を巡る不確実性により供給への懸念が高まり、欧州の天然ガス価格は5％以上上昇した",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T23:05:00+09:00",
-   "lang": "en",
-   "title_orig": "European TTF Gas Up 5% on Hormuz Shipping Concerns"
   },
   {
    "title": "日米介入の効果が薄れ、円は下落",
@@ -327,6 +327,16 @@
    "published": "2026-08-10T20:51:43+09:00",
    "lang": "en",
    "title_orig": "Trump and the failure of the Fafo doctrine"
+  },
+  {
+   "title": "ウクライナがロシア中部の石油精製都市を無人機攻撃、13人死亡",
+   "link": "https://www.ft.com/content/ad0602c3-224f-422c-b052-ff96e2f9054c?syn-25a6b1a6=1",
+   "summary": "死者数は2022年以降、キエフによる1回の攻撃で最多の1つ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-10T20:45:31+09:00",
+   "lang": "en",
+   "title_orig": "Ukrainian drone strike on oil-refining city in central Russia kills 13"
   },
   {
    "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
@@ -945,22 +955,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-08T06:00:00+09:00"
-  },
-  {
-   "title": "人事異動（令和８年８月７日付）について公表しました。",
-   "link": "https://www.fsa.go.jp/common/about/jinji/index.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-08T02:15:00+09:00"
-  },
-  {
-   "title": "ＳＮＳ等におけるなりすまし詐欺広告に関する対策の強化について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260807/20260807.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-08T02:00:00+09:00"
   }
  ]
 }
