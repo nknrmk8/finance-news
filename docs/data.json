@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T00:45:59.464272+09:00",
+ "generated_at": "2026-08-11T01:39:46.067659+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -67,6 +67,96 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-11T02:00:00+09:00"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-a6402a50?mod=rss_markets_main",
+   "summary": "エネルギーと公益事業をカバーする最新のマーケット トークで、石油先物とアドノック ガスに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T01:34:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "世界のボラティリティが続く中、金は上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-focus-on-u-s-july-payrolls-7759613a?mod=rss_markets_main",
+   "summary": "世界的なボラティリティが続く中、金先物は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T01:31:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Climbs as World Volatility Stays in Play"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-84a36936?mod=rss_markets_main",
+   "summary": "基本的な資料をカバーする最新のマーケット トークで、Barrick、Newmont、BASF などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T01:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-6d27742e?mod=rss_markets_main",
+   "summary": "金融サービスをカバーする最新のマーケット トークで、セント ジェームス プレイス、UOB などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T01:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3d35c5ab?mod=rss_markets_main",
+   "summary": "自動車と輸送をカバーする最新のマーケット トークで、ウィズ エア、ヒーロー モトコープ、カンタス航空などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-743c456f?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Apple、SpaceX などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T01:23:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
+   "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+   "summary": "アポロ、ブラックストーン、ゴールドマン・サックスは、データセンターブームのための資金調達のためにチップメーカーと協力しているグループの1つである",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T01:22:57+09:00",
+   "lang": "en",
+   "title_orig": "Wall Street giants partner with Nvidia on $500bn AI financing deal"
+  },
+  {
+   "title": "コロンビア地震で少なくとも47人死亡",
+   "link": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1",
+   "summary": "マグニチュード7.4の地震でカリ、ペレイラ、マニサレスの都市で建物が倒壊",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T01:19:37+09:00",
+   "lang": "en",
+   "title_orig": "Colombian earthquake kills at least 47"
+  },
+  {
+   "title": "「これは精神的に難しい時期です」: 私の兄はガンを患っており、父は94歳です。私はこの責任をどのように負えばよいでしょうか?",
+   "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+   "summary": "「父はウィスコンシン州にある60万ドルの自宅を取消可能な信託に設定し、受益者として兄を指名しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T01:01:00+09:00",
+   "lang": "en",
+   "title_orig": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
   },
   {
    "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
@@ -155,26 +245,6 @@
    "title_orig": "Taylor Farms recalls jalapeño-based foods in 26 states amid ongoing salmonella outbreak"
   },
   {
-   "title": "一世帯が退職するのに100万ドルは十分ですか?答えは変わり続けます。",
-   "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-   "summary": "マネタリスト: 「一部の読者やカップルは、その半分の金額で退職できることに感謝するでしょう。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-10T23:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Is $1 million enough for a household to retire? The answer keeps changing."
-  },
-  {
-   "title": "ジェフ・ベゾスの投資家グループがリバプールFCの株式取得に迫る",
-   "link": "https://www.ft.com/content/49103d68-85be-4af6-9dfd-90d66dc78f38?syn-25a6b1a6=1",
-   "summary": "鉄鋼億万長者ラクシュミ・ミタル氏の義理の息子が率いるコンソーシアムがクラブ価値60億ドル超の取引に近づく",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-10T23:29:57+09:00",
-   "lang": "en",
-   "title_orig": "Jeff Bezos investor group closing in on Liverpool FC stake"
-  },
-  {
    "title": "シェインのIPOは300億ドル未満の評価額で投資家に売り込んだ",
    "link": "https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1",
    "summary": "ファストファッション小売業者は過去 4 年間で評価額が約 70% 下落した",
@@ -223,16 +293,6 @@
    "title_orig": "Yen sinks as effect of US-Japan intervention fades"
   },
   {
-   "title": "原油はほぼ横ばいで、米国の主要CPIデータを前に米国先物はほぼ上昇",
-   "link": "https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8?mod=rss_markets_main",
-   "summary": "中東和平合意が差し迫っていることへの疑念が根強く、米国債利回りは低下する一方、金は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T22:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Broadly Flat, U.S. Futures Mostly Higher Ahead of Key U.S. CPI Data"
-  },
-  {
    "title": "市場前に大きな動きをする銘柄: インテル、ゲームストップ、アーチャー・アビエーション、バークシャーなど",
    "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-premarket-aapl-hpe-rklb-and-more.html",
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
@@ -243,26 +303,6 @@
    "title_orig": "Stocks making the biggest moves premarket: Intel, GameStop, Archer Aviation, Berkshire and more"
   },
   {
-   "title": "米国のCPI統計を前にアジア通貨が下落",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-buoyed-by-reduced-fed-rate-hike-prospects-ac0ca68d?mod=rss_markets_main",
-   "summary": "水曜日に発表される米国の消費者物価指数（CPI）統計を前に、アジア通貨はポジション調整の可能性から対ドルで下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T22:46:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Currencies Weaken Ahead of U.S. CPI Data"
-  },
-  {
-   "title": "バリック・マイニング、ネバダ州ニューモント紛争を19億5000万ドルで和解",
-   "link": "https://www.wsj.com/business/barrick-mining-settles-newmont-nevada-dispute-for-1-95-billion-c8662b9f?mod=rss_markets_main",
-   "summary": "バリック・マイニングは、ネバダ州での事業をめぐるライバル、ニューモントとの長年にわたる紛争を解決し、19億5,000万ドルの現金支払いを確保し、事業への道を切り開いた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T22:29:00+09:00",
-   "lang": "en",
-   "title_orig": "Barrick Mining Settles Newmont Nevada Dispute for $1.95 Billion"
-  },
-  {
    "title": "協調介入 日銀利上げ示唆が決め手",
    "link": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
    "summary": "",
@@ -271,24 +311,12 @@
    "published": "2026-08-10T22:13:43+09:00"
   },
   {
-   "title": "ウォール街がインフレ統計の安定を期待し、米国債利回りが上昇",
-   "link": "https://www.wsj.com/finance/jgbs-edge-lower-amid-potentially-quicker-pace-of-boj-rate-hikes-d17b52c8?mod=rss_markets_main",
-   "summary": "今週後半に発表される米国のインフレ統計を前に、米国債利回りが上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T22:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields Rise as Wall Street Expects Stable Inflation Data"
-  },
-  {
-   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T21:55:00+09:00",
-   "lang": "en",
-   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
+   "title": "無人機攻撃で１３人死亡　ウクライナ軍、石油企業標的か―ロシア中部",
+   "link": "https://www.jiji.com/jc/article?k=2026081000598&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-10T20:53:00+09:00"
   },
   {
    "title": "トランプとファフォ主義の失敗",
@@ -301,32 +329,12 @@
    "title_orig": "Trump and the failure of the Fafo doctrine"
   },
   {
-   "title": "ウクライナ、ロシア中部の石油精製都市を無人機攻撃、13人死亡",
-   "link": "https://www.ft.com/content/ad0602c3-224f-422c-b052-ff96e2f9054c?syn-25a6b1a6=1",
-   "summary": "死者数は2022年以降、キエフによる1回の攻撃で最多の1つ",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-10T20:45:31+09:00",
-   "lang": "en",
-   "title_orig": "Ukrainian drone strike on oil-refining city in central Russia kills 13"
-  },
-  {
    "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpEUEFpNDJkc2h6MFlKbEJxZ2IzWC1UaGdiZ3owcWRpM3E4bUFCLVNuRjYwU0ZzTmxidnJ4M1I0MHF1aGMyZkdIQm1faXJDQmx3Z2lYSXhwaWVRM3l1VllHVE90QjBSTENMZnZtYUc2NWlLakhPcQ?oc=5",
    "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T20:15:45+09:00"
-  },
-  {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3d35c5ab?mod=rss_markets_main",
-   "summary": "自動車と輸送をカバーする最新のマーケット トークで、ウィズ エア、ヒーロー モトコープ、カンタス航空などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-10T20:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
   },
   {
    "title": "サントリー、熊本工場復旧に3~4カ月　「可能な限り安定供給図る」",
@@ -528,15 +536,7 @@
    "summary": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-10T14:47:45+09:00"
-  },
-  {
-   "title": "自動車市場、国内勢も苦戦　消費不振とＥＶ過当競争で―中国",
-   "link": "https://www.jiji.com/jc/article?k=2026081000068&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-10T14:31:00+09:00"
+   "published": "2026-08-10T14:46:00+09:00"
   },
   {
    "title": "あなたの動き、日銀",
@@ -961,14 +961,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-08T02:00:00+09:00"
-  },
-  {
-   "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260807-2/20260807-2.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-08T01:00:00+09:00"
   }
  ]
 }
