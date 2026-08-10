@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T03:29:52.381766+09:00",
+ "generated_at": "2026-08-11T04:30:39.639844+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,96 @@
  "errors": [],
  "items": [
   {
+   "title": "正午に最も大きな動きを見せた銘柄: NetApp、Intel、Apple、Doximity、Verisk Analytics など",
+   "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-midday-ntap-intc-aapl-docs-vrsk.html",
+   "summary": "これらは、正午に最も大きな値動きを記録した銘柄の一部です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-11T04:19:52+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more"
+  },
+  {
+   "title": "マイクロソフトの株価は戻りつつある。さらに 30% 上昇するケースは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/microsofts-stock-is-charging-back-heres-the-case-for-it-to-rally-another-30-1fe261cd?mod=mw_rss_topstories",
+   "summary": "Microsoft は AI に過剰な投資をしていると思いますか?バーンスタインのアナリストは、同社は実際には「慎重な」アプローチをとっていると述べた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T04:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Microsoft’s stock is charging back. Here’s the case for it to rally another 30%."
+  },
+  {
+   "title": "ホルムズ再開を求めるイランの要求で原油先物が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-doubts-over-strait-of-hormuzs-reopening-6e42507b?mod=rss_markets_main",
+   "summary": "イランがホルムズ海峡の海運に関してオマーンとの協議を継続する一方、ホルムズ海峡の再開について米国に厳しい要求を出したことを受け、原油先物は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T04:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Rise On Iranian Demands for Hormuz Reopening"
+  },
+  {
+   "title": "「妻に最善の戦略を選んでほしい」: 妻の社会保障はわずか 900 ドルです。彼女は62歳になったら配偶者手当を請求すべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+   "summary": "「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T04:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?"
+  },
+  {
+   "title": "Nvidia、5,000億ドルのAIインフラ推進でウォール街の資産運用会社と提携",
+   "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+   "summary": "この資本政策は、人工知能ブームの費用を賄う上で民間資本の役割が増大していることを浮き彫りにしている。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-11T03:58:47+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push"
+  },
+  {
+   "title": "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
+   "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+   "summary": "ゴールドマン・サックスのアショク・バラダン氏は、建設的な見通しの理由を3つ挙げた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-11T03:36:26+09:00",
+   "lang": "en",
+   "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
+  },
+  {
+   "title": "「思いがけずお金が入ってきました」: CD に 20,000 ドルをつぎ込むのは賢い選択でしょうか?",
+   "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+   "summary": "「受益者が資金にアクセスできるよう、プロセスをできるだけ簡単にしたいと考えています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T03:31:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?"
+  },
+  {
+   "title": "米国株は記録に近い水準で推移",
+   "link": "https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8?mod=rss_markets_main",
+   "summary": "新しい取引週の初め、米国株は小幅な上昇と下落の間で揺れ動いた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T03:31:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stocks Hover Near Records"
+  },
+  {
+   "title": "一世帯が退職するのに100万ドルは十分ですか?答えは変わり続けます。",
+   "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+   "summary": "「一部の読者やカップルは、その半分の金額で退職できることに感謝するでしょう。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T03:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Is $1 million enough for a household to retire? The answer keeps changing."
+  },
+  {
    "title": "Nvidiaとウォール街企業、5,000億ドルを目標にAI融資契約を締結",
    "link": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db?mod=rss_markets_main",
    "summary": "アポロ、ブラックストーン、ブラックロックはこの取引に参加した企業の一つだ。",
@@ -69,6 +159,14 @@
    "published": "2026-08-11T03:29:00+09:00",
    "lang": "en",
    "title_orig": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion"
+  },
+  {
+   "title": "米金融各社とエヌビディア、5000億ドルのＡＩ資金調達で提携＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRNNG1sN1dMdlRKcmh3ZDRpUHFjYTFhUV80NWZyalJmS1RweVNlRlJuU3BIRUJzcTJPc0xDSmtBWUoteE5DZkRYRDJZb1lZSXFrZjMyeUJtdXA1cGRTZU5ubUFPQ2JOYzAxRnB5Z05hUm8yc1J2akotT0xMczVQRQ?oc=5",
+   "summary": "米金融各社とエヌビディア、5000億ドルのＡＩ資金調達で提携＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T03:23:43+09:00"
   },
   {
    "title": "世界のボラティリティが続く中、金は上昇",
@@ -91,16 +189,6 @@
    "title_orig": "2 charts showing just how insane the stock market’s August ‘crash-up’ has been so far"
   },
   {
-   "title": "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
-   "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-   "summary": "ゴールドマン・サックスのアショク・バラダン氏は、建設的な見通しの理由を3つ挙げた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-11T03:03:17+09:00",
-   "lang": "en",
-   "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
-  },
-  {
    "title": "「冷酷なことはしたくない」: 私の年老いた親戚は、もう自分のことは自分でできなくなっています。彼の世話を国に任せるのは間違っているでしょうか?",
    "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
    "summary": "「彼は決して特別に寛大だったり、育ててくれたりしたことはありません。」",
@@ -119,16 +207,6 @@
    "published": "2026-08-11T02:55:00+09:00",
    "lang": "en",
    "title_orig": "Treasury Yields, Dollar Rise Further Alongside Oil Prices"
-  },
-  {
-   "title": "正午に最も大きな動きを見せた銘柄: NetApp、Intel、Apple、Doximity、Verisk Analytics など",
-   "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-midday-ntap-intc-aapl-docs-vrsk.html",
-   "summary": "これらは、正午に最も大きな値動きを記録した銘柄の一部です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-11T02:43:55+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more"
   },
   {
    "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
@@ -151,16 +229,6 @@
    "title_orig": "Archer strikes deal with Boeing in latest bid to transform aviation through AI"
   },
   {
-   "title": "ホルムズ再開を求めるイランの要求で原油先物が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-doubts-over-strait-of-hormuzs-reopening-6e42507b?mod=rss_markets_main",
-   "summary": "イランがホルムズ海峡の海運に関してオマーンとの協議を継続する一方、ホルムズ海峡の再開について米国に厳しい要求を出したことを受け、原油先物は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T02:15:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Rise On Iranian Demands for Hormuz Reopening"
-  },
-  {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
    "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
    "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
@@ -177,16 +245,6 @@
    "published": "2026-08-11T01:48:00+09:00",
    "lang": "en",
    "title_orig": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending"
-  },
-  {
-   "title": "米国株は記録に近い水準で推移",
-   "link": "https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8?mod=rss_markets_main",
-   "summary": "新しい取引週の初め、米国株は小幅な上昇と下落の間で揺れ動いた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T01:40:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Hover Near Records"
   },
   {
    "title": "エネルギーと公共事業のまとめ: マーケットトーク",
@@ -219,16 +277,6 @@
    "title_orig": "Colombian earthquake kills at least 47"
   },
   {
-   "title": "「これは精神的に難しい時期です」: 私の兄はガンを患っており、父は94歳です。私はこの責任をどのように負えばよいでしょうか?",
-   "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-   "summary": "「父はウィスコンシン州にある60万ドルの自宅を取消可能な信託に設定し、受益者として兄を指名しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T01:01:00+09:00",
-   "lang": "en",
-   "title_orig": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
-  },
-  {
    "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
    "link": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
    "summary": "",
@@ -237,42 +285,12 @@
    "published": "2026-08-11T01:00:00+09:00"
   },
   {
-   "title": "S&P 500 企業 17 社が売上高と利益率を伸ばしており、一部の株価は割安です",
-   "link": "https://www.marketwatch.com/story/17-s-p-500-companies-with-growing-revenue-and-profit-margins-and-some-of-their-stocks-are-cheap-e7c7fa14?mod=mw_rss_topstories",
-   "summary": "これらの企業は、売上総利益率と営業利益率を拡大しながら、一株当たりの四半期売上高を少なくとも 40% 増加させました。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T00:35:00+09:00",
-   "lang": "en",
-   "title_orig": "17 S&P 500 companies with growing revenue and profit margins — and some of their stocks are cheap"
-  },
-  {
-   "title": "スペースXの株価、ほぼ1カ月ぶりに公開価格を上回る",
-   "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
-   "summary": "スペースX株はここ数日でじりじりと値を戻しているが、依然として高値からはかなり離れている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T00:20:00+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX’s stock moves above its IPO price for the first time in almost a month"
-  },
-  {
    "title": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXVFMXVsQzJGYnVqUGNJMDVHc2I2N21taEJkdTJwamRlOE1oeDN5Tlh6bHo5SE16S1oybnFVbjF4VUdzOGZEZ0xhSE1ja1d1X3VoRTZlREdUUEh1UGZVSmppZGJpNzlJaE4xT2E0V0o5YmZ5U1NsX3lacFdZRHR3dw?oc=5",
    "summary": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T00:17:43+09:00"
-  },
-  {
-   "title": "米国の労働力の規模は過去1年で100万人以上減少した。ここで何が起こっているのかを説明します。",
-   "link": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
-   "summary": "7月の雇用報告書によると、働いているか仕事を探しているアメリカ人の割合はパンデミック以来これほど低くなっていないようだ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on."
   },
   {
    "title": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に - ロイター",
@@ -529,14 +547,6 @@
    "published": "2026-08-10T16:00:00+09:00"
   },
   {
-   "title": "午後3時のドルは158円前半に上昇、原油高で買い 乏しい円買い材料 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DcWdyX3phcjFDQlZ2cHZlX045V1pvOTZGcmx2VE90MElacnJEMmFZcVFWSGl4bWhKb1R6N1BhXzFjeUVWVGc1dlRoZThhaXk3Z1lESEhhWU5BVFJYRVdQSEFuUzVyUHBQOGVSOFdmRzVubEV3LUVqOA?oc=5",
-   "summary": "午後3時のドルは158円前半に上昇、原油高で買い 乏しい円買い材料&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T15:30:00+09:00"
-  },
-  {
    "title": "NEC、AIだけの部門新設　「17人」が自律的に対応、判断は人間",
    "link": "https://www.asahi.com/articles/ASV8B2136V8BULFA00NM.html?ref=rss",
    "summary": "",
@@ -551,14 +561,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-10T15:00:00+09:00"
-  },
-  {
-   "title": "セ硝子、通期予想を上方修正 値上げなど寄与 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeVRhcGtZWmZOem1oYWRJRnlCMlhJUmNMRl83SmpzSFB3UHJxVWI0T0Q4NW9FV3A4SVN6SmZQV0pWcGJkMTJXalIzY2ExZ3BKNklCMTgwUlRzY0NvVncwVmdmRGZXRVlUSHl2VlJYbGJ3NVVHU0NoXy1sQllFU2ZyVA?oc=5",
-   "summary": "セ硝子、通期予想を上方修正 値上げなど寄与&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T14:56:00+09:00"
   },
   {
    "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ロイター",
@@ -623,6 +625,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-10T12:30:00+09:00"
+  },
+  {
+   "title": "コラム：「中国ショック2.0」が生む、中国企業の勝ち組と負け組 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vRXdtd0FvVVZnTHZLRnNLSF9seHFzTlZPbFZjNjJOQk5GYjlZaXdoUDIyWEJISkRMOUZFV0V4dnMyQ3FhNkpabWl2S292SG5wTkpadmVDekhkS3hBaE9BcThOQmV4WGpPOVBoM2pRcVpKUlBTNWkzRw?oc=5",
+   "summary": "コラム：「中国ショック2.0」が生む、中国企業の勝ち組と負け組&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-10T12:21:00+09:00"
   },
   {
    "title": "なぜ\"いい人\"なのに好かれないのか？ 相手のためと思っている我慢が､実は｢自己中心的な思考｣かもしれない | ライフ | 東洋経済オンライン",
