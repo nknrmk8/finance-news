@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T06:07:35.225601+09:00",
+ "generated_at": "2026-08-11T06:54:46.654074+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,150 @@
  "errors": [],
  "items": [
   {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-6d27742e?mod=rss_markets_main",
+   "summary": "金融サービスを対象とした最新のマーケット トークで、BNP パリバ、Plus500、セント ジェームス プレイスなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:51:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-84a36936?mod=rss_markets_main",
+   "summary": "基本的な材料をカバーする最新のマーケットトークで、貴金属、特定のカナダ製品に対する米国の関税などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:50:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "Nvidiaとウォール街企業、5,000億ドルを目標にAI融資契約を締結",
+   "link": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db?mod=rss_markets_main",
+   "summary": "アポロ、ブラックストーン、ブラックロックはこの取引に参加した企業の一つだ。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:47:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion"
+  },
+  {
    "title": "Nvidia、5,000億ドルのAIインフラ推進でウォール街の資産運用会社と提携",
    "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
    "summary": "この資本政策は、人工知能ブームの費用を賄う上で民間資本の役割が増大していることを浮き彫りにしている。",
    "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-08-11T06:07:17+09:00",
+   "published": "2026-08-11T06:42:53+09:00",
    "lang": "en",
    "title_orig": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push"
+  },
+  {
+   "title": "Rocket Lab、いくつかの大きな計画を明らかにしたが、業績がまちまちで株価は下落",
+   "link": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+   "summary": "同社はヨーロッパでの事業範囲を拡大し、受注残を積み上げようとしている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T06:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-743c456f?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、AI 支出、HPE などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "FRBのケビン・ウォーシュ議長は2％のインフレを約束するが、米国債務の急増によりそれは夢物語に",
+   "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
+   "summary": "アンクル・サムは今日の債務危機から逃れるために、経済成長だけでなくインフレも必要としている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T06:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Fed Chair Kevin Warsh promises 2% inflation, but skyrocketing U.S. debt makes that a pipe dream"
+  },
+  {
+   "title": "｢会社員で一生を終えていいのか…｣起業を煽る異業種交流会で感化された25歳に､定年まで3カ月の先輩が贈った\"金言\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954376?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "真面目で仕事はできるものの、“何かがどうしようもなくズレている”若手社員、真締真一（まじめ・しんいち）。その教育係に任命された先輩の柔木美和（やわらき・みわ）は、彼に何かと翻弄される毎日を送っていま…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:30:00+09:00"
+  },
+  {
+   "title": "投資としてシンガポールで家を購入することを検討しました。住宅ローン金利が 2% だったにもかかわらず、私がそうしなかった理由は次のとおりです。",
+   "link": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
+   "summary": "シンガポールの住宅ローン金利は 2% 未満ですが、日本では約 1%、またはそれよりも低いです。これは、米国の住宅ローン金利とはまったく対照的です。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T06:14:00+09:00",
+   "lang": "en",
+   "title_orig": "I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate."
+  },
+  {
+   "title": "ホルムズ海峡再開への期待が再び打ち砕かれ、米国株が下落",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-hopes-for-strait-of-hormuz-reopening-are-dashed-again-03a4915a?mod=rss_markets_main",
+   "summary": "イランがホルムズ海峡の再開を拒否したことで原油価格のさらなる高騰とインフレ懸念が生じ、米国株は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T06:09:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stocks Fall as Hopes for Strait of Hormuz Reopening Are Dashed Again"
+  },
+  {
+   "title": "ＮＹ外為市場＝ドル上昇、対円で159円台 週内の米経済指標に注目 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EbXlQVnNwQ0x0dDNGa2lzYUtzRmp0MWtySGd0TkRQMmxFQWl5UThGTFdlc2hweGYyZ3BmNEc4eUFBZFhTX0hUTUlvUVpVb29welpoeDM5QzEwV0lVUTFKQUw0ZDlRalZ3d1VRVGEzNjBCTVNpWG15OA?oc=5",
+   "summary": "ＮＹ外為市場＝ドル上昇、対円で159円台 週内の米経済指標に注目&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T06:01:26+09:00"
+  },
+  {
+   "title": "牛の出産に「第2の目」を　自動車部品メーカーが畜産業界で一役",
+   "link": "https://www.asahi.com/articles/ASV86156XV86ULFA022M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-11T06:00:00+09:00"
+  },
+  {
+   "title": "｢漁師不足｣でも｢魚離れ｣でもない…世界で魚が増えているのに｢日本だけ｣減り続ける\"本当の理由\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954432?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "世界の漁業生産量が成長を続ける中､なぜ日本だけが過去最低の水準で減少の一途をたどっているのでしょうか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:00:00+09:00"
+  },
+  {
+   "title": "政府と日銀は通貨安政策を続けるという〈合理的期待〉が歴史的円安を生じさせている…高市ブレーンの誤解を整理する | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954368?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "円安が進む中､日本銀行の利上げの是非が議論されています。政府による財政拡張と日銀のハト派的な金融政策が続くなか､通貨としての円の価値が本質的に揺らぎつつあるという危機感が現実味を帯びています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:00:00+09:00"
+  },
+  {
+   "title": "中国発･格安ファッション｢シーイン｣､上場目論見書でわかった業績頭打ち…増収率は1％台､欧米で逆風の影響鮮明に | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953934?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "中国発格安ファッションEC大手SHEIN（シーイン）の業績が予想以上に伸び悩んでいることが上場申請時に提出した資料からわかりました。欧米での販売環境悪化が響いており､上場を目前に控え､世界最大級プラ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:00:00+09:00"
+  },
+  {
+   "title": "なぜ若者は広島を離れるのか　5万件の口コミ分析で見えた\"意外な理由\"",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/11/news006.html",
+   "summary": "広島県では若者の転出超過が5年連続で全国最多となった。なぜ若者は地元を離れるのか。5万件超の口コミや求人、転職データを分析すると、給料だけでは見えてこない意外な理由と、企業が取り組めるヒントが浮かび上がった。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T06:00:00+09:00"
   },
   {
    "title": "原油高と供給不足の二重苦に立ち向かう日本企業…佐川印刷は水性インキで\"脱石油\"､道路舗装のニチレキはAIも活用 | 政治・経済・投資 | 東洋経済オンライン",
@@ -129,24 +265,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-11T05:30:00+09:00"
-  },
-  {
-   "title": "Nvidiaとウォール街企業、5,000億ドルを目標にAI融資契約を締結",
-   "link": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db?mod=rss_markets_main",
-   "summary": "アポロ、ブラックストーン、ブラックロックはこの取引に参加した企業の一つだ。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T05:25:00+09:00",
-   "lang": "en",
-   "title_orig": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion"
-  },
-  {
-   "title": "米国株式市場＝ナスダック反落、半導体株が安い ホルムズ海峡巡る合意への期待後退 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUxLSDNUdnJvb0htUWpKbmQyT2xPei1LYjJGNndzN1Rwa0JNdmhCeW9LSkduejgyRTI0Wlc3dTUyM1NNYVZocW1DYVgxUWY1NHl1RGY5UlVGSGdTSDNpaGtkOTRwakJZU3Z1eTdyVTFhNVQ0dno5WmNaa0pRQWh5Ng?oc=5",
-   "summary": "米国株式市場＝ナスダック反落、半導体株が安い ホルムズ海峡巡る合意への期待後退&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T05:19:43+09:00"
   },
   {
    "title": "日米介入の効果が薄れ、円は下落",
@@ -227,16 +345,6 @@
    "title_orig": "Colombian earthquake kills at least 47"
   },
   {
-   "title": "短期的な天候の温暖化を受けて米国の天然ガス先物は反発",
-   "link": "https://www.wsj.com/articles/european-ttf-gas-up-5-on-hormuz-shipping-concerns-82eb7f35?mod=rss_markets_main",
-   "summary": "短期的な天気予報が見通しに熱を加え、LNG原料ガスの上昇と中東での紛争の継続を受けて、米国の天然ガス先物は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T04:44:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Futures Rebound As Near-Term Weather Warms"
-  },
-  {
    "title": "この Nvidia の変更は Micron にとって朗報となる可能性があります",
    "link": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
    "summary": "アナリストは、一部のチップの機能をダウングレードするという Nvidia の動きにより、高帯域幅メモリの消費が増加する可能性があると述べています。",
@@ -245,24 +353,6 @@
    "published": "2026-08-11T04:42:00+09:00",
    "lang": "en",
    "title_orig": "This Nvidia change could spell good news for Micron"
-  },
-  {
-   "title": "ＮＹ外為市場＝ドル上昇、対円で159円台 週内の米経済指標に注目 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EbXlQVnNwQ0x0dDNGa2lzYUtzRmp0MWtySGd0TkRQMmxFQWl5UThGTFdlc2hweGYyZ3BmNEc4eUFBZFhTX0hUTUlvUVpVb29welpoeDM5QzEwV0lVUTFKQUw0ZDlRalZ3d1VRVGEzNjBCTVNpWG15OA?oc=5",
-   "summary": "ＮＹ外為市場＝ドル上昇、対円で159円台 週内の米経済指標に注目&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T04:37:44+09:00"
-  },
-  {
-   "title": "FRBのケビン・ウォーシュ議長は2％のインフレを約束するが、米国債務の急増によりそれは夢物語に",
-   "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
-   "summary": "アンクル・サムは今日の債務危機から逃れるために、経済成長だけでなくインフレも必要としている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T04:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Fed Chair Kevin Warsh promises 2% inflation, but skyrocketing U.S. debt makes that a pipe dream"
   },
   {
    "title": "全国からファンが訪問｢水島臨海鉄道｣集客の秘訣　少ない社員数でイベント､クラファン…どう実現？ | ビジネス | 東洋経済オンライン",
@@ -283,36 +373,6 @@
    "title_orig": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more"
   },
   {
-   "title": "マイクロソフトの株価は戻りつつある。さらに 30% 上昇するケースは次のとおりです。",
-   "link": "https://www.marketwatch.com/story/microsofts-stock-is-charging-back-heres-the-case-for-it-to-rally-another-30-1fe261cd?mod=mw_rss_topstories",
-   "summary": "Microsoft は AI に過剰な投資をしていると思いますか?バーンスタインのアナリストは、同社は実際には「慎重な」アプローチをとっていると述べた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T04:18:00+09:00",
-   "lang": "en",
-   "title_orig": "Microsoft’s stock is charging back. Here’s the case for it to rally another 30%."
-  },
-  {
-   "title": "ホルムズ再開を求めるイランの要求で原油先物が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-doubts-over-strait-of-hormuzs-reopening-6e42507b?mod=rss_markets_main",
-   "summary": "イランがホルムズ海峡の海運に関してオマーンとの協議を継続する一方、ホルムズ海峡の再開について米国に厳しい要求を出したことを受け、原油先物は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T04:05:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Rise On Iranian Demands for Hormuz Reopening"
-  },
-  {
-   "title": "「妻に最善の戦略を選んでほしい」: 妻の社会保障はわずか 900 ドルです。彼女は62歳になったら配偶者手当を請求すべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-   "summary": "「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T04:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?"
-  },
-  {
    "title": "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
    "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
    "summary": "ゴールドマン・サックスのアショク・バラダン氏は、建設的な見通しの理由を3つ挙げた。",
@@ -323,32 +383,12 @@
    "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
   },
   {
-   "title": "米国株は記録に近い水準で推移",
-   "link": "https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8?mod=rss_markets_main",
-   "summary": "新しい取引週の初め、米国株は小幅な上昇と下落の間で揺れ動いた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T03:31:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Hover Near Records"
-  },
-  {
    "title": "米金融各社とエヌビディア、5000億ドルのＡＩ資金調達で提携＝関係筋 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRNNG1sN1dMdlRKcmh3ZDRpUHFjYTFhUV80NWZyalJmS1RweVNlRlJuU3BIRUJzcTJPc0xDSmtBWUoteE5DZkRYRDJZb1lZSXFrZjMyeUJtdXA1cGRTZU5ubUFPQ2JOYzAxRnB5Z05hUm8yc1J2akotT0xMczVQRQ?oc=5",
    "summary": "米金融各社とエヌビディア、5000億ドルのＡＩ資金調達で提携＝関係筋&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T03:23:43+09:00"
-  },
-  {
-   "title": "世界のボラティリティが続く中、金は上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-focus-on-u-s-july-payrolls-7759613a?mod=rss_markets_main",
-   "summary": "世界的なボラティリティが続く中、金先物は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T03:12:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Climbs as World Volatility Stays in Play"
   },
   {
    "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
@@ -439,6 +479,14 @@
    "published": "2026-08-10T20:45:31+09:00",
    "lang": "en",
    "title_orig": "Ukrainian drone strike on oil-refining city in central Russia kills 13"
+  },
+  {
+   "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpEUEFpNDJkc2h6MFlKbEJxZ2IzWC1UaGdiZ3owcWRpM3E4bUFCLVNuRjYwU0ZzTmxidnJ4M1I0MHF1aGMyZkdIQm1faXJDQmx3Z2lYSXhwaWVRM3l1VllHVE90QjBSTENMZnZtYUc2NWlLakhPcQ?oc=5",
+   "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-10T20:15:45+09:00"
   },
   {
    "title": "サントリー、熊本工場復旧に3~4カ月　「可能な限り安定供給図る」",
@@ -717,14 +765,6 @@
    "published": "2026-08-10T11:30:00+09:00"
   },
   {
-   "title": "1日12時間ゲームに没頭したフリーターが医学部へ､彼が変わった\"意外なきっかけ\"　｢安易にゲームを取り上げる親のワナ｣ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952825?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "ゲームをめぐる親子の攻防は､いつの時代も子育て家庭の悩みの種。しかし､医師の阿部智史さんは｢問題はゲーム自体ではない｣と語ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T11:00:00+09:00"
-  },
-  {
    "title": "スシローが「京樽」を和食さとに譲渡　5年前に吉野家から買収、回転ずしに経営資源を集中",
    "link": "https://www.itmedia.co.jp/business/articles/2608/10/news064.html",
    "summary": "回転ずし大手「スシロー」などを展開するフード＆ライフカンパニーズは7日、テイクアウト専門店「京樽」を運営する子会社、京樽を、和食レストラン「和食さと」のSRSホールディングス（HD）に9日1日付で譲渡すると発表した。",
@@ -733,28 +773,12 @@
    "published": "2026-08-10T10:54:00+09:00"
   },
   {
-   "title": "iOS 27でiPhoneが｢使うだけ｣から｢作れる｣端末へ､言葉でショートカットやSafariの機能を追加する方法 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953946?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "iOS 27が秋の正式リリースに向けて進化中。注目はAI｢Apple Intelligence｣の刷新で､普段使う日本語など自然な言葉だけでショートカットやSafariの機能拡張が作れるようになった…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T10:30:00+09:00"
-  },
-  {
    "title": "5年利付国債（8月債）の発行予定額等（令和8年8月10日公表）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260810.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-10T10:30:00+09:00"
-  },
-  {
-   "title": "まるで｢HAL9000｣のようにAIは人間の統制に抗うようになった…暴走する自律型サイバー攻撃と｢キルスイッチ｣の限界 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953954?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "1968年公開のスタンリー・キューブリック監督のSF映画『2001年宇宙の旅』では、人工知能「HAL.9000」が宇宙船ディスカバリー1号の乗組員を次々と殺害した。HALによる暗殺を免れたのは、デイ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T10:00:00+09:00"
   },
   {
    "title": "財政投融資分科会（令和8年7月15日開催）議事要旨",
@@ -771,14 +795,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-10T10:00:00+09:00"
-  },
-  {
-   "title": "高市政権の積極財政で一般国民は潤わない　泉房穂氏が明かす､本当に｢使えるお金を増やす｣政策の中身 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954122?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "消費税減税は本当に生活を救えるのか――国民の使えるお金をいかにして増やすかがいま問われています。参議院議員の泉房穂氏と危機管理学者･福田充氏の対談では､税や保険料だけでなく､賃金･給付金や公共料金ま…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T09:30:00+09:00"
   },
   {
    "title": "国債金利情報(令和8年8月7日)",
