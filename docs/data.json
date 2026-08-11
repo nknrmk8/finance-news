@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T07:01:08.128407+09:00",
+ "generated_at": "2026-08-12T07:58:27.408438+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,8 +58,72 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
+  {
+   "title": "ラ・ケスのブラックストーンがエア・カナダのアエロプラン・ロイヤルティ・プログラムの25％を買収へ",
+   "link": "https://www.wsj.com/business/blackstone-la-caisse-to-buy-25-of-air-canadas-aeroplan-loyalty-program-8831ca72?mod=rss_markets_main",
+   "summary": "資産運用会社ブラックストーンとケベック州ラ・ケス年金基金は、エア・カナダのロイヤルティ・ポイント・プログラムの株式25％を約2ドルで取得することで合意した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T07:45:00+09:00",
+   "lang": "en",
+   "title_orig": "Blackstone, La Caisse to Buy 25% of Air Canada’s Aeroplan Loyalty Program"
+  },
+  {
+   "title": "美容医療の低年齢化 親の意向も",
+   "link": "https://news.yahoo.co.jp/pickup/6591382?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-12T07:30:27+09:00"
+  },
+  {
+   "title": "｢ベルトがない！｣ 出先でズボンがズリ落ちる絶望…救世主は身近な日用品!?　二郎系ラーメン後も超快適な\"神着こなし術\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954427?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-12T07:30:00+09:00"
+  },
+  {
+   "title": "「思いがけずお金が入ってきました」: CD に 20,000 ドルをつぎ込むのは賢い選択でしょうか?",
+   "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+   "summary": "「受益者が資金にアクセスできるよう、プロセスをできるだけ簡単にしたいと考えています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T07:30:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?"
+  },
+  {
+   "title": "AI需要の高まりを受け、Lumentumの売上高は2倍以上になる見通し",
+   "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
+   "summary": "ルメンタムは爆発的な利益と明るい見通しを発表したが、株価は時間外でほぼ横ばいとなった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T07:22:00+09:00",
+   "lang": "en",
+   "title_orig": "Lumentum sees sales more than double as AI demand swells"
+  },
+  {
+   "title": "膝や腰が｢痛いから揉む｣はむしろ逆効果？…長引く｢腰痛･膝痛｣を悪化させる\"4つのNG習慣\"と\"意外な対処法\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953864?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢腰痛｣や｢膝痛｣に悩む多くの人が､正しいケアを知らずに症状を悪化させているかもしれません。この記事では､慢性的な痛みを根本から解決するロジカルなアプローチを解説します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-12T07:00:00+09:00"
+  },
+  {
+   "title": "【注目の企業】キオクシア、なぜこんなに話題？　今からでも間に合う“入門記事”まとめました",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/12/news024.html",
+   "summary": "話題を呼び続ける半導体メモリ大手のキオクシア。一体なぜこんなにも注目されるのか。同社の“今”が分かる記事をまとめた。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-12T07:00:00+09:00"
+  },
   {
    "title": "一世帯が退職するのに100万ドルは十分ですか?答えは変わり続けます。",
    "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
@@ -175,16 +239,6 @@
    "title_orig": "U.S. Stocks Down as Oil Rises Ahead of Inflation Data"
   },
   {
-   "title": "イラン、トランプ大統領の圧力に耐えるため経済停滞の悪化に備える",
-   "link": "https://www.wsj.com/finance/investing/iran-preps-for-worsening-economic-malaise-to-withstand-trumps-pressure-a60276c6?mod=rss_markets_main",
-   "summary": "さらに、トランプ大統領はイランの脅威について知らされた後、密かに飛行機を交換し、民間金融会社はローン緩和策を取り締まっている",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T06:19:00+09:00",
-   "lang": "en",
-   "title_orig": "Iran Preps for Worsening Economic Malaise to Withstand Trump’s Pressure"
-  },
-  {
    "title": "時間外に大きく値動きする銘柄: スーパーマイクロコンピューター、コアウィーブ、H&R ブロックなど",
    "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-after-hours-smci-crwv-hrb.html",
    "summary": "これらは、時間外取引で最大の動きを記録した銘柄です。",
@@ -215,16 +269,6 @@
    "title_orig": "‘I’m dreaming of cocktails at Château Marmont’: I found $100 in my Airbnb’s communal washer. What should I do?"
   },
   {
-   "title": "AI需要の高まりを受け、Lumentumの売上高は2倍以上になる見通し",
-   "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
-   "summary": "ルメンタムは爆発的な利益と明るい見通しを発表したが、株価は時間外でほぼ横ばいとなった。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T06:12:00+09:00",
-   "lang": "en",
-   "title_orig": "Lumentum sees sales more than double as AI demand swells"
-  },
-  {
    "title": "エルニーニョとイラン戦争で輸送が滞り、パナマ運河の料金が過去最高値に",
    "link": "https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1",
    "summary": "気象現象による水位の低下により、重要な海上交通路を通る輸送枠が制限される可能性がある",
@@ -233,22 +277,6 @@
    "published": "2026-08-12T06:07:28+09:00",
    "lang": "en",
    "title_orig": "Panama Canal fees hit record high as El Niño and Iran war choke shipping"
-  },
-  {
-   "title": "ノルウェー政府系ファンド、スペースＸ株12億ドル保有を初開示 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1F5ZU9PbkRnTWVLcTZURFZXeGd3b1VFY3Bac0dITFVjWVY1N09nTjlyLWMtQW5haHBfNlBrWFlxOGZobWp5MjZNRnBuTnN3MXZ1Y2RpZUZ1QVVtSjRfSDdVUnhlamdOTkVwVFhrVUpTQy1CQ3NfeWhpMW1XX0RSdA?oc=5",
-   "summary": "ノルウェー政府系ファンド、スペースＸ株12億ドル保有を初開示&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T06:05:44+09:00"
-  },
-  {
-   "title": "ＮＹ外為市場＝ドル横ばい、米ＣＰＩに注目 対円で159円台前半 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sS1ZidmIwOFBYa2RhM2dpcmZhb3d3VklvR2dEYllDeXpGSTZYVTdtNXNsMUhjTGZFMGJtemZJN0NMdXNNdXBneFVOaFR6UEJaMnE2V3plRkdPang2bWxpa09KdmFEZ0lrTHZjQUZXR3RGeERDSDNUeg?oc=5",
-   "summary": "ＮＹ外為市場＝ドル横ばい、米ＣＰＩに注目 対円で159円台前半&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T06:01:32+09:00"
   },
   {
    "title": "ジェンスン・ファンの5,000億ドルのAI資金調達計画が中国による大きなリスクに直面している理由",
@@ -321,16 +349,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-12T05:50:00+09:00"
-  },
-  {
-   "title": "一部の顧客がレタスを避けているにもかかわらず、Cavaは売上の増加を報告",
-   "link": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
-   "summary": "カヴァ・グループは、一部のダイナーはレタスを避けるために注文を変更したが、ファストカジュアルチェーンはそれでも売上を伸ばすことができたと述べた",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T05:41:00+09:00",
-   "lang": "en",
-   "title_orig": "Cava reports sales growth even as some customers steer clear of lettuce"
   },
   {
    "title": "メタプラネット､｢証券会社｣買収で広がる暗号資産への野心…保有ビットコインを裏付けとする金融商品を組成へ | ビジネス | 東洋経済オンライン",
@@ -433,14 +451,6 @@
    "title_orig": "US judge cites ‘concerning’ irregularities in Adani fraud case"
   },
   {
-   "title": "米中小企業楽観度指数、7月は11カ月ぶり高水準 雇用計画が急増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenU2dEdJdG9hRjhSeXpaaWNCRENRaUkyNmh1R09uSnE3dVBhMGpqSjJpOURleWlSWGw2LTRCTUpCOU9nWjZFbnZlcFhLSXR1cWVBNnBGRVZCSDJBd1kzUm5tUjBWajNuSVU3TEZ6TG0xTG5lOVUwdjJ5VW1LSUctWg?oc=5",
-   "summary": "米中小企業楽観度指数、7月は11カ月ぶり高水準 雇用計画が急増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T02:19:44+09:00"
-  },
-  {
    "title": "トヨタでHV投入前倒し、財界で変革めざすリーダー　奥田碩さん死去",
    "link": "https://www.asahi.com/articles/ASV8C5KJRV8CULFA002M.html?ref=rss",
    "summary": "",
@@ -457,14 +467,6 @@
    "published": "2026-08-12T02:00:53+09:00"
   },
   {
-   "title": "米自動車ローン新規融資、第2四半期は過去最高 全体の延滞率は低下＝ＮＹ連銀 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY055N1luNmZCVzlIb3NTZ2ZaTXFOZUtRWGUxaFh2MjhqOFhQV0drWUlnUHhRR2FKRUNHT3ZlODhHMjN4MkFBLUw0WlphVWVsRmNJeGxkYTliREgyVzBLR1didG5aRkxvMXo5RTZaUEZ0ZXdva29GVTdNZHNwUEUxUQ?oc=5",
-   "summary": "米自動車ローン新規融資、第2四半期は過去最高 全体の延滞率は低下＝ＮＹ連銀&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T01:27:43+09:00"
-  },
-  {
    "title": "イランでの失敗は米国の戦い方を変えるだろうか？",
    "link": "https://www.ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4",
    "summary": "退役軍人や有権者は、費用のかかる戦争を行った過去の政権を罰してきたが、最近では多くのアメリカ人が気にしていないようだ",
@@ -473,14 +475,6 @@
    "published": "2026-08-12T01:23:54+09:00",
    "lang": "en",
    "title_orig": "Will failure in Iran reshape how the US fights?"
-  },
-  {
-   "title": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVYwYUZuU0hkQUJfNHplWFcyanRGN0NYX0lwNldWazR1R2dCSXVsT0RsZF9kS3oxS04xN3V0OGhqZ08wdDJSWThZc2EyY213WkdsUlREeFlMQTRWVlEyd2toX3Q5N2F2RGs4b3JBQnpyRkk4UDZBYzdxQTR4cDVGNQ?oc=5",
-   "summary": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T23:37:43+09:00"
   },
   {
    "title": "ウォール街はジェンスン・ファン氏のAIに関する「大きなコンセプト」を支持したばかりだ。今は何ですか？",
@@ -507,14 +501,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-11T22:38:51+09:00"
-  },
-  {
-   "title": "新興国資産、7月は買い越しに転じる 株式売りが鈍化 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IVzVhMHlJZ0MtSXcweER4ZVNiaktHMXEtSWd0Y3BJb2RfV3ZQR0tqNWQyVUFXSFh1S21pQndvUGpKNl92bmJyY2pkREJvTE54VEhOcTVlM0d5YzYwXzBMMi1fZ0RtSlY3WGVna2lnSi1udFVZN3NnWQ?oc=5",
-   "summary": "新興国資産、7月は買い越しに転じる 株式売りが鈍化&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T22:29:44+09:00"
   },
   {
    "title": "イオン再入館 証言から浮かぶ混乱",
@@ -573,14 +559,6 @@
    "published": "2026-08-11T20:39:27+09:00"
   },
   {
-   "title": "アスベスト影響 半蔵門線運転再開",
-   "link": "https://news.yahoo.co.jp/pickup/6591350?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-11T19:39:32+09:00"
-  },
-  {
    "title": "ソニーGとTSMC、次世代画像センサー量産へ　計7470億円出資",
    "link": "https://www.asahi.com/articles/ASV8C3F5FV8CULFA00PM.html?ref=rss",
    "summary": "",
@@ -621,36 +599,12 @@
    "published": "2026-08-11T16:50:00+09:00"
   },
   {
-   "title": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05NllPMkZhN2ZjQWd5dE5xT1RKbXFvRVp4UGRUdmlpSHlrV2VyaThRZnVVOVlkMWR0NVc2M1J6cjZ4VlVUQVRXeWk1LWVVY3pDcUNQVkdvZEtxekFrMkVDVi1DaGVwMkNoalJBbXFlcVFIVFhXaXprNg?oc=5",
-   "summary": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T16:03:43+09:00"
-  },
-  {
-   "title": "原油先物は1週間ぶり高値付近で小動き、米イラン合意期待後退 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keGdTWm1BSkxhTTFUdk5CY3pTQXlDMGRBNHZSSjNsZE8yV2M3X0I4cTl6SDd4c3lFM3FxZGY5cWpEbHFsdjVFTG15dkE2elM5bHMyX0VkMUdwNjVJeDhVY1lpMzRhcTNCZ0VhTEhUU1pYZ25jUmtpQ3pn?oc=5",
-   "summary": "原油先物は1週間ぶり高値付近で小動き、米イラン合意期待後退&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T14:33:00+09:00"
-  },
-  {
    "title": "イオンモール熊本で木村知事が献花　爆発で7人犠牲「大変胸が痛む」",
    "link": "https://www.asahi.com/articles/ASV8B46TYV8BOXIE04MM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-11T13:15:36+09:00"
-  },
-  {
-   "title": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kMGwyYXdENlJtcWFVWC1nWTJ5N0l5SDhkXzhXMk80S1ZfckhUNndpRGxMa2NxNk1vb2pUdnhBRmFOM21CSUxrSkZoNlMwQXpfal9mcU5lR01sMjltV3JneDZLNURSNG5PUjAxcTR2QTBZaXhUVldmYg?oc=5",
-   "summary": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T12:46:00+09:00"
   },
   {
    "title": "イオン 避難後の一時入館認めた",
@@ -685,30 +639,6 @@
    "published": "2026-08-11T12:00:00+09:00"
   },
   {
-   "title": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUQwM2VsMkFCNzBUSUlDcXA3Q3k0eDNDYWllaXVkNWk1dlJ5MWJSQk1UVTdQS2RfcVkwYmllWnJvbVhqSGs2VlJzc3otUW1MTnZfMHhMamtJaHNaYzZjcGNuOV9GektsUFBfdVpQQW9DX1FWMDZ3UUVSdDdwbmE3bw?oc=5",
-   "summary": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T11:57:00+09:00"
-  },
-  {
-   "title": "モノは値上がりしてもサービス価格は停滞の怪　就業者の7割を占めるサービス業が直面する｢賃上げの限界｣ | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/952916?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "日本のCPI（消費者物価指数）は､私たちの生活に直結する｢物価｣の動きを示す重要な指標です。近年はコメ価格の急騰や円安の影響が注目され､統計と生活実感とのギャップも話題になりました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-11T11:30:00+09:00"
-  },
-  {
-   "title": "【宿題を全然しない子】｢怠けている｣と決めつける前に知っておきたい\"子どもの意外な本音\" | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953845?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "子どもの｢宿題しない｣行動の裏側にある\"意外な本音\"は？ 教え子5人に1人を東大合格に導いた元国語科専任教諭が､｢親子関係を変えるヒント｣を探ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-11T11:00:00+09:00"
-  },
-  {
    "title": "全東信の倒産で注目　「決済代行業」の売上高・利益が過去最高　市場拡大の裏で進む収益の二極化",
    "link": "https://www.itmedia.co.jp/business/articles/2608/11/news001.html",
    "summary": "全東信の倒産により、決済代行業の動向に注目が集まっている。東京商工リサーチの調査によると、全国の主な決済代行業31社の最新期（2025年）の売上高合計は5805億円（前期比21.7％増）、利益合計は546億円（同30.7％増）となり、ともに過去6年間で最高を更新した。",
@@ -723,14 +653,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-11T07:00:00+09:00"
-  },
-  {
-   "title": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yZ2I4eExwY3lua1dZeTJBOEZHcy03Z284VmM4X09xUlhURHJpZTVZNnl1UFlFTWlEZlJkNGYtQTJTSjlHTGltb21BV01Id2xUb0J6X1dzOWRzZDk5S0xDaHEtVTdveFR1TEJOWTV1dXd0cnhBT1NJSw?oc=5",
-   "summary": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T06:34:47+09:00"
   },
   {
    "title": "牛の出産に「第2の目」を　自動車部品メーカーが畜産業界で一役",
@@ -749,22 +671,6 @@
    "published": "2026-08-11T06:00:00+09:00"
   },
   {
-   "title": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW1nTDhlM1prLTloZ1JYMXI1Tk5ycTA2YTV1djJ5X1A1Y01xOVpwMUYyUXB3NWRZWG9fNU82eFZvS2hwWlI3MHpQWnVnNWJIQzlwYklpcFdoUS1uQXFGZVdhSE1VWXRmdEhXWWdpVm10UUZtTkJVNA?oc=5",
-   "summary": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T05:33:43+09:00"
-  },
-  {
-   "title": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRNNG1sN1dMdlRKcmh3ZDRpUHFjYTFhUV80NWZyalJmS1RweVNlRlJuU3BIRUJzcTJPc0xDSmtBWUoteE5DZkRYRDJZb1lZSXFrZjMyeUJtdXA1cGRTZU5ubUFPQ2JOYzAxRnB5Z05hUm8yc1J2akotT0xMczVQRQ?oc=5",
-   "summary": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T03:22:00+09:00"
-  },
-  {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
    "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
    "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
@@ -781,28 +687,12 @@
    "published": "2026-08-11T01:00:00+09:00"
   },
   {
-   "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpEUEFpNDJkc2h6MFlKbEJxZ2IzWC1UaGdiZ3owcWRpM3E4bUFCLVNuRjYwU0ZzTmxidnJ4M1I0MHF1aGMyZkdIQm1faXJDQmx3Z2lYSXhwaWVRM3l1VllHVE90QjBSTENMZnZtYUc2NWlLakhPcQ?oc=5",
-   "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T20:15:45+09:00"
-  },
-  {
    "title": "サントリー、熊本工場復旧に3~4カ月　「可能な限り安定供給図る」",
    "link": "https://www.asahi.com/articles/ASV8B3D0TV8BULFA015M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-10T19:49:23+09:00"
-  },
-  {
-   "title": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxbjdCZ2tPOTZ5VEhPbzNQMS1MTjNYZDZuai1ubFR3LUpFdWVjdUFtOXJBdi1LZU5VYzdTcllxeXNoSUdET3BQbWlCcFdpSDhDa1d2ZVpzMEwxazBTUEgzczRsNmNUcHZQT3BydEh0SEluTDhzczVocHlTeUE1TjA?oc=5",
-   "summary": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T19:03:45+09:00"
   },
   {
    "title": "楽天の三木谷社長、KDDIとのローミング契約「順次縮小で合意」",
@@ -979,14 +869,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-10T08:00:00+09:00"
-  },
-  {
-   "title": "最低賃金「1176円」　“年収の壁”崩壊で迫る「生き残る職場」と「消える職場」の分かれ道",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/10/news023.html",
-   "summary": "2026年度の最低賃金は全国平均1176円となる見込みだ。収入増への期待が高まる一方、その先には求人や「年収の壁」、働き方を巡る変化も待ち受ける。1500円時代を見据え、日本の労働市場はどう変わるのか。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-10T07:00:00+09:00"
   }
  ]
 }
