@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T13:09:14.475605+09:00",
+ "generated_at": "2026-08-11T14:19:24.681149+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,17 +61,95 @@
  "errors": [],
  "items": [
   {
-   "title": "イオンモール熊本で知事が献花　爆発で7人犠牲、経産省が原因を調査",
+   "title": "韓国、株価急落で大統領支持率ダウン　若年層の離脱顕著",
+   "link": "https://www.jiji.com/jc/article?k=2026081000662&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-11T13:19:00+09:00"
+  },
+  {
+   "title": "イオンモール熊本で木村知事が献花　爆発で7人犠牲「大変胸が痛む」",
    "link": "https://www.asahi.com/articles/ASV8B46TYV8BOXIE04MM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
-   "published": "2026-08-11T12:47:48+09:00"
+   "published": "2026-08-11T13:15:36+09:00"
   },
   {
-   "title": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で - ロイター",
+   "title": "中央処理装置はTSMCの新たな成長原動力となる可能性がある",
+   "link": "https://www.wsj.com/finance/stocks/central-processing-units-could-be-new-growth-driver-for-tsmc-7cf7ff95?mod=rss_markets_main",
+   "summary": "今年初めにエージェント AI が本格的に導入されたことにより、中央処理装置市場はより急速な成長を目指しており、市場の新たな成長原動力となる可能性があります。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T13:08:00+09:00",
+   "lang": "en",
+   "title_orig": "Central Processing Units Could Be New Growth Driver for TSMC"
+  },
+  {
+   "title": "EUの国境検査、主要空港で二重列に",
+   "link": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1",
+   "summary": "フランクフルトとアムステルダムでは待ち時間のピークが 2 時間に達する",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T13:01:01+09:00",
+   "lang": "en",
+   "title_orig": "EU border checks double queues at major airports"
+  },
+  {
+   "title": "スペインの移民恩赦は「非常に悪い考え」、スウェーデン首相が発言",
+   "link": "https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1",
+   "summary": "ウルフ・クリスターソン氏、大規模な正規化がシェンゲン自由旅行圏の完全性を脅かすと発言",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T13:00:13+09:00",
+   "lang": "en",
+   "title_orig": "Spain’s migrant amnesty a ‘very bad idea’, says Swedish PM"
+  },
+  {
+   "title": "インドの IT ジョブマシンに対する AI の脅威",
+   "link": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1",
+   "summary": "この国はテクノロジーサービスに大きく賭けてきたが、混乱が来ている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T13:00:04+09:00",
+   "lang": "en",
+   "title_orig": "The AI threat to India’s IT jobs machine"
+  },
+  {
+   "title": "マガはラシュモア山のさまざまな意味を無視している",
+   "link": "https://www.ft.com/content/d5abcd42-b3b4-4241-8fd1-1c53217ea81e",
+   "summary": "サウスダコタ州のブラックヒルズは、ラコタ族の宇宙論とアイデンティティの中心です",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T13:00:04+09:00",
+   "lang": "en",
+   "title_orig": "Maga ignores the many meanings of Mount Rushmore"
+  },
+  {
+   "title": "アフリカは人口が少なすぎますか？",
+   "link": "https://www.ft.com/content/6069de36-4e15-4b5f-b9e1-dd85c2b29673?syn-25a6b1a6=1",
+   "summary": "憂慮すべき人口爆発と一部の人が見ている現象は、まさに大陸が必要としているものかもしれない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T13:00:04+09:00",
+   "lang": "en",
+   "title_orig": "Does Africa have too few people?"
+  },
+  {
+   "title": "従業員 30 人の新興企業は、OpenAI に対する英国の答えを構築できるでしょうか?",
+   "link": "https://www.ft.com/content/02e29d7f-9e3e-4977-a5d3-ea3f2d9efd10?syn-25a6b1a6=1",
+   "summary": "ロンドンに本拠を置くコサイン社は「主権AI」モデルの構築を英国政府から支援されているが、はるかに優れたリソースを持つライバルに直面している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T13:00:04+09:00",
+   "lang": "en",
+   "title_orig": "Can a 30-person start-up build Britain’s answer to OpenAI?"
+  },
+  {
+   "title": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kMGwyYXdENlJtcWFVWC1nWTJ5N0l5SDhkXzhXMk80S1ZfckhUNndpRGxMa2NxNk1vb2pUdnhBRmFOM21CSUxrSkZoNlMwQXpfal9mcU5lR01sMjltV3JneDZLNURSNG5PUjAxcTR2QTBZaXhUVldmYg?oc=5",
-   "summary": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で&nbsp;&nbsp;ロイター",
+   "summary": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T12:46:00+09:00"
@@ -95,9 +173,9 @@
    "published": "2026-08-11T12:27:37+09:00"
   },
   {
-   "title": "豪企業景況感指数、7月は小幅改善 信頼感は低迷 - ロイター",
+   "title": "豪企業景況感指数、7月は小幅改善 信頼感は低迷 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOendjc1VzSHNHdld5eTFuaC0yZWxWclFpdFVuclZwM0kyY0RNR1pKV0FfU0toZ2lLa05MT2IxLWpmUDlGcnZMeXdsYjg4WmY2Z2NMUDF1TEh1QzlCQzJCZVVEZ3dYVTFXN0hVNkZRVDl3aFJ0b2xUS0d1T3pHanZtSg?oc=5",
-   "summary": "豪企業景況感指数、7月は小幅改善 信頼感は低迷&nbsp;&nbsp;ロイター",
+   "summary": "豪企業景況感指数、7月は小幅改善 信頼感は低迷&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T12:18:00+09:00"
@@ -127,9 +205,9 @@
    "published": "2026-08-11T12:00:00+09:00"
   },
   {
-   "title": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超 - ロイター",
+   "title": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUQwM2VsMkFCNzBUSUlDcXA3Q3k0eDNDYWllaXVkNWk1dlJ5MWJSQk1UVTdQS2RfcVkwYmllWnJvbVhqSGs2VlJzc3otUW1MTnZfMHhMamtJaHNaYzZjcGNuOV9GektsUFBfdVpQQW9DX1FWMDZ3UUVSdDdwbmE3bw?oc=5",
-   "summary": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超&nbsp;&nbsp;ロイター",
+   "summary": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T11:57:00+09:00"
@@ -179,16 +257,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-11T11:00:00+09:00"
-  },
-  {
-   "title": "日米介入の効果が薄れ、円は下落",
-   "link": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
-   "summary": "中央銀行間の「統一された意見」の欠如を理由に、通貨は投資家との共同行動による利益の半分近くを放棄",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T10:38:21+09:00",
-   "lang": "en",
-   "title_orig": "Yen sinks as effect of US-Japan intervention fades"
   },
   {
    "title": "｢アベンジャーズ並みのアクション｣なのに…実写『モアナと伝説の海』の出足が鈍い\"不運な理由\"　 | ライフ | 東洋経済オンライン",
@@ -241,16 +309,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-11T09:53:53+09:00"
-  },
-  {
-   "title": "共産主義ベトナムは成長促進のために韓国型の「財閥」に賭ける",
-   "link": "https://www.ft.com/content/35a093ea-9df0-4dbe-abe2-3d2341b85e4f?syn-25a6b1a6=1",
-   "summary": "ハノイは貿易と海外投資に依存した後、国内の複合企業を優先する",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T09:53:02+09:00",
-   "lang": "en",
-   "title_orig": "Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth"
   },
   {
    "title": "最大で巣の7割が何もしていないことも…巣の維持のため《あえて2割は働かない》アリたちの｢絶妙すぎる生存戦略｣ | ライフ | 東洋経済オンライン",
@@ -477,42 +535,20 @@
    "title_orig": "Morgan Stanley to Facilitate $1.5 Trillion in Infrastructure Initiative"
   },
   {
-   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-a6402a50?mod=rss_markets_main",
-   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、石油先物やアドノックガスなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T06:54:00+09:00",
-   "lang": "en",
-   "title_orig": "Energy & Utilities Roundup: Market Talk"
-  },
-  {
-   "title": "ウォール街の巨人企業、5,000億ドルのAI融資契約でNvidiaと提携",
-   "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-   "summary": "アポロ、ブラックストーン、ゴールドマン・サックスは、データセンターブームのための資金調達のためにチップメーカーと協力しているグループの1つである",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T06:42:54+09:00",
-   "lang": "en",
-   "title_orig": "Wall Street giants partner with Nvidia on $500bn AI financing deal"
-  },
-  {
-   "title": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落 - ロイター",
+   "title": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yZ2I4eExwY3lua1dZeTJBOEZHcy03Z284VmM4X09xUlhURHJpZTVZNnl1UFlFTWlEZlJkNGYtQTJTSjlHTGltb21BV01Id2xUb0J6X1dzOWRzZDk5S0xDaHEtVTdveFR1TEJOWTV1dXd0cnhBT1NJSw?oc=5",
-   "summary": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落&nbsp;&nbsp;ロイター",
+   "summary": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T06:34:47+09:00"
   },
   {
-   "title": "イランの最高指導者、トップ人事の掌握を強化",
-   "link": "https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1",
-   "summary": "イラン政府が米国との合意を巡り発言を強める中、軍や政権幹部の多数の動きが起こる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T06:30:27+09:00",
-   "lang": "en",
-   "title_orig": "Iran’s supreme leader tightens grip with top appointments"
+   "title": "ＮＹ外為市場＝ドル上昇、対円で159円台 週内の米経済指標に注目 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EbXlQVnNwQ0x0dDNGa2lzYUtzRmp0MWtySGd0TkRQMmxFQWl5UThGTFdlc2hweGYyZ3BmNEc4eUFBZFhTX0hUTUlvUVpVb29welpoeDM5QzEwV0lVUTFKQUw0ZDlRalZ3d1VRVGEzNjBCTVNpWG15OA?oc=5",
+   "summary": "ＮＹ外為市場＝ドル上昇、対円で159円台 週内の米経済指標に注目&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T06:01:26+09:00"
   },
   {
    "title": "牛の出産に「第2の目」を　自動車部品メーカーが畜産業界で一役",
@@ -531,9 +567,17 @@
    "published": "2026-08-11T06:00:00+09:00"
   },
   {
-   "title": "欧州市場サマリー（10日） - ロイター",
+   "title": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW1nTDhlM1prLTloZ1JYMXI1Tk5ycTA2YTV1djJ5X1A1Y01xOVpwMUYyUXB3NWRZWG9fNU82eFZvS2hwWlI3MHpQWnVnNWJIQzlwYklpcFdoUS1uQXFGZVdhSE1VWXRmdEhXWWdpVm10UUZtTkJVNA?oc=5",
+   "summary": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T05:33:43+09:00"
+  },
+  {
+   "title": "欧州市場サマリー（10日） - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6SkRCSkRDRGNMc3BRV1FOdG90U2N0MFJCRTU5QUhDcWJMTHpNR2VKQUJrdFdJM1Y5WUNvVF9kczJpNGowNFJaUkVwME44SVdCdzBjTTVpNGZGNS16aU1WUzNocEtMV1lMUXNrbFc2TEtESEFtSDFoOQ?oc=5",
-   "summary": "欧州市場サマリー（10日）&nbsp;&nbsp;ロイター",
+   "summary": "欧州市場サマリー（10日）&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T04:33:50+09:00"
@@ -559,22 +603,12 @@
    "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
   },
   {
-   "title": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携 - ロイター",
+   "title": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRNNG1sN1dMdlRKcmh3ZDRpUHFjYTFhUV80NWZyalJmS1RweVNlRlJuU3BIRUJzcTJPc0xDSmtBWUoteE5DZkRYRDJZb1lZSXFrZjMyeUJtdXA1cGRTZU5ubUFPQ2JOYzAxRnB5Z05hUm8yc1J2akotT0xMczVQRQ?oc=5",
-   "summary": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携&nbsp;&nbsp;ロイター",
+   "summary": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T03:22:00+09:00"
-  },
-  {
-   "title": "AIはグリーンエネルギーよりも石油とガスの生産を促進すると報告書が発見",
-   "link": "https://www.ft.com/content/8f16a902-3e80-462c-add8-b841494d1808?syn-25a6b1a6=1",
-   "summary": "最新の研究が引き起こした温室効果ガス排出に対するテクノロジーの影響をめぐる議論",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T02:38:07+09:00",
-   "lang": "en",
-   "title_orig": "AI will boost oil and gas production more than green energy, report finds"
   },
   {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
@@ -593,27 +627,17 @@
    "published": "2026-08-11T01:00:00+09:00"
   },
   {
-   "title": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか - ロイター",
+   "title": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXVFMXVsQzJGYnVqUGNJMDVHc2I2N21taEJkdTJwamRlOE1oeDN5Tlh6bHo5SE16S1oybnFVbjF4VUdzOGZEZ0xhSE1ja1d1X3VoRTZlREdUUEh1UGZVSmppZGJpNzlJaE4xT2E0V0o5YmZ5U1NsX3lacFdZRHR3dw?oc=5",
-   "summary": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか&nbsp;&nbsp;ロイター",
+   "summary": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T00:17:43+09:00"
   },
   {
-   "title": "シェインのIPOは300億ドル未満の評価額で投資家に売り込んだ",
-   "link": "https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1",
-   "summary": "ファストファッション小売業者は過去 4 年間で評価額が約 70% 下落した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-10T23:15:24+09:00",
-   "lang": "en",
-   "title_orig": "Shein IPO pitched to investors at sub-$30bn valuation"
-  },
-  {
-   "title": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に - ロイター",
+   "title": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5idmtuakw1NG5tamlJLVVzbW1oS1Y1ZTAxdmIyWnpxU2VPaURwWmdzaWxQMzRFdEp5cC1sMmlJMXpIcHIxYklMNXYxUm5NTmxNRFpod2xlR3BVdDJENnkyeUl3LW9KWUF6b2FEOWdrTnc5Q0hIZ2RKbg?oc=5",
-   "summary": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に&nbsp;&nbsp;ロイター",
+   "summary": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T23:10:00+09:00"
@@ -637,9 +661,9 @@
    "published": "2026-08-10T22:13:43+09:00"
   },
   {
-   "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
+   "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpEUEFpNDJkc2h6MFlKbEJxZ2IzWC1UaGdiZ3owcWRpM3E4bUFCLVNuRjYwU0ZzTmxidnJ4M1I0MHF1aGMyZkdIQm1faXJDQmx3Z2lYSXhwaWVRM3l1VllHVE90QjBSTENMZnZtYUc2NWlLakhPcQ?oc=5",
-   "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;ロイター",
+   "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T20:15:45+09:00"
@@ -653,17 +677,17 @@
    "published": "2026-08-10T19:49:23+09:00"
   },
   {
-   "title": "アジア株式市場サマリー：引け（10日） - ロイター",
+   "title": "アジア株式市場サマリー：引け（10日） - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFNPd3UwNXlJUFJPY3RJWkJLZEpueHdqUGtKLVRUQ0xNLWo4cmstMEQ1MG1rUHlXaklYNGpZOWFBS3pqaUVwQWhOZHo3dEQ5QzI1eVpqVl94TFlmVm1lVTBud3RJNHpOUmZIY3ZyT180UjZfc2tQT1JPay13QlFzNQ?oc=5",
-   "summary": "アジア株式市場サマリー：引け（10日）&nbsp;&nbsp;ロイター",
+   "summary": "アジア株式市場サマリー：引け（10日）&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T19:43:51+09:00"
   },
   {
-   "title": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請 - ロイター",
+   "title": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxbjdCZ2tPOTZ5VEhPbzNQMS1MTjNYZDZuai1ubFR3LUpFdWVjdUFtOXJBdi1LZU5VYzdTcllxeXNoSUdET3BQbWlCcFdpSDhDa1d2ZVpzMEwxazBTUEgzczRsNmNUcHZQT3BydEh0SEluTDhzczVocHlTeUE1TjA?oc=5",
-   "summary": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請&nbsp;&nbsp;ロイター",
+   "summary": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T19:03:45+09:00"
@@ -701,9 +725,17 @@
    "published": "2026-08-10T17:42:09+09:00"
   },
   {
-   "title": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ - ロイター",
+   "title": "世界のＭ＆Ａ、7月は前年比27％減の3161億ドル＝ＬＳＥＧ - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkFfd19DOGRnMlc5cEhLTVEwcHBiekJZRDhwM0pySGhxdEFpV2EzcUpXZXAtNFdSZHdLUjU3NFg0Nk5xcjZQSFpNMmJ1SktPWnQ4WTE1QmI1d1pHVHdiOEVuU012bG1zamdIR3I1eDRUTXJfdDhSb19KYzRBSWJqeg?oc=5",
+   "summary": "世界のＭ＆Ａ、7月は前年比27％減の3161億ドル＝ＬＳＥＧ&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-10T17:35:43+09:00"
+  },
+  {
+   "title": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT253RnZVTjNidWN4cmg3MUFDaG9RblF1a3Q1UDFhMWRNSWlQSlhVVXZmOThXWFE1cDFVU25OR2x5Z1N3dmljdlBHaXhtckN3T0VaWXRxLUVOLTVLMnhEbm01SnB1OW5lT3QwaEpqSG9nZFE0eDY2R1l3QlJ2bHpsNw?oc=5",
-   "summary": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ&nbsp;&nbsp;ロイター",
+   "summary": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T17:13:44+09:00"
@@ -741,22 +773,6 @@
    "published": "2026-08-10T16:39:39+09:00"
   },
   {
-   "title": "香港ファンドのオアシス、エムスリー株を大量保有 5.03％ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDhWWVpLbFpKM05QNk9IczJDWV9jQXBhQ3l4RWN0d3JQMkdNeU5GLVJSY2phQWl1V2VZalBjUWJjUXVaLXpfZFd4dTh3Y1gtVkQtXy14U1JIdl80b1k2NHZqVmp3ajNLOEtrMGZTbE5HWkd3RUw4alZELXBqV2QwNg?oc=5",
-   "summary": "香港ファンドのオアシス、エムスリー株を大量保有 5.03％&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T16:36:47+09:00"
-  },
-  {
-   "title": "ＪＰモルガン、年末のＳ＆Ｐ500目標8000に引き上げ ＡＩ投資評価 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81cW9tLXBHc1R6dFV4YnZMQ2ttN1pRTzhlOTU1SXJ6NFN3V2Naa3ZGdG01cGdzR3FlNHE2WHQ2cnB2a1lLalAwbDQ1NE1xQS1ZSGVBTWNYX1hmVFB4QmF2RkZSS0dFWEFwck5nVnRiTnhFQkN4aFoyNg?oc=5",
-   "summary": "ＪＰモルガン、年末のＳ＆Ｐ500目標8000に引き上げ ＡＩ投資評価&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T16:13:43+09:00"
-  },
-  {
    "title": "NEC、AIだけの部門新設　「17人」が自律的に対応、判断は人間",
    "link": "https://www.asahi.com/articles/ASV8B2136V8BULFA00NM.html?ref=rss",
    "summary": "",
@@ -771,14 +787,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-10T15:00:00+09:00"
-  },
-  {
-   "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVll0LXl1YTIwMmkzYjJEMVdILUFfcERBUFhJU2lZQ2pFOEdrdzNKMEJrZERsV0YzXy1McGpHVU4tYmgzTWwtYlZvVk9wMEFGNFV3X01Ya000aVA0RnlZamp4Mmo3cGVUTGZfZDFsSC1pamxQTlNpZXJn?oc=5",
-   "summary": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T14:46:00+09:00"
   },
   {
    "title": "国債及び借入金並びに政府保証債務現在高（令和8年6月末現在）",
