@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T20:26:26.938869+09:00",
+ "generated_at": "2026-08-11T21:05:28.973324+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,42 @@
  "errors": [],
  "items": [
   {
+   "title": "米国株先物は上昇",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-lower-oil-price-rises-on-middle-east-tension-38e37f9b?mod=rss_markets_main",
+   "summary": "米国株先物相場は、昨日の主要市場での小幅な下落を受けて上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T20:52:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stock Futures Climb"
+  },
+  {
+   "title": "Lumentum が収益に向けて準備を整える中、光学業界が巻き返しつつある兆候がここにある",
+   "link": "https://www.marketwatch.com/story/as-lumentum-gears-up-for-earnings-heres-a-sign-the-optical-trade-is-clawing-back-de284355?mod=mw_rss_topstories",
+   "summary": "A photonics-themed ETF saw better demand in its first trading day than a popular memory ETF did at the same point in its life cycle.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T20:46:00+09:00",
+   "lang": "en",
+   "title_orig": "As Lumentum gears up for earnings, here’s a sign the optical trade is clawing back"
+  },
+  {
    "title": "市場前に大きな動きをする銘柄: ライオット プラットフォーム、ヒムズ＆ハーズ ヘルス、インテルなど",
    "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-premarket-riot-hims-intc.html",
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
    "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-08-11T20:19:54+09:00",
+   "published": "2026-08-11T20:40:10+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more"
+  },
+  {
+   "title": "第2の麻辣湯 ビャンビャン麺とは",
+   "link": "https://news.yahoo.co.jp/pickup/6591353?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-11T20:39:27+09:00"
   },
   {
    "title": "道路、水道、通信塔は AI の誇大宣伝に打ち勝つことができます。このファンドマネージャーは、今買うべきインフラ株にフラグを立てます。",
@@ -131,13 +159,14 @@
    "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
   },
   {
-   "title": "Treasury Yields, Dollar Rise Along With Oil Prices",
+   "title": "原油価格とともに米国債利回り、ドルも上昇",
    "link": "https://www.wsj.com/articles/treasury-yields-rise-dollar-steady-as-iran-war-uncertainty-persists-634360fa?mod=rss_markets_main",
-   "summary": "Treasury yields rose as oil prices gained on concerns about an impasse in U.S.-Iran negotiations to reopen the Strait of Hormuz.",
+   "summary": "ホルムズ海峡再開に向けた米国とイランの交渉行き詰まりへの懸念から原油価格が上昇し、米国債利回りが上昇した。",
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-11T19:49:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Treasury Yields, Dollar Rise Along With Oil Prices"
   },
   {
    "title": "基本的な材料のまとめ: マーケットトーク",
@@ -196,13 +225,14 @@
    "title_orig": "These 11 midcaps are popular right now among investment newsletters but not because of their market valuations"
   },
   {
-   "title": "These Bonds Offer a Rare Buying Opportunity",
+   "title": "これらの債券は稀な購入機会を提供します",
    "link": "https://www.wsj.com/finance/stocks/these-bonds-offer-a-rare-buying-opportunity-4eeb7b7f?mod=rss_markets_main",
-   "summary": "Plus, oil prices jump again",
+   "summary": "さらに、原油価格は再び高騰",
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-11T19:28:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "These Bonds Offer a Rare Buying Opportunity"
   },
   {
    "title": "【人材育成のプロ・坂井風太】DeNAを辞めるきっかけになった本／「不安」は社員に伝染する／リーダーは「哲学」に学べ／レビューがない本は“お宝”／書店で選んだ「14冊」【達人に密着！本の選び方】 | ビジネス | 東洋経済オンライン",
@@ -251,32 +281,21 @@
    "published": "2026-08-11T18:50:47+09:00"
   },
   {
-   "title": "オン・ホールディングが価格面で規律を保っていると発表したロジャー・フェデラーの損失額は以下の通り",
-   "link": "https://www.marketwatch.com/story/heres-how-much-roger-federer-is-losing-as-on-holding-says-it-is-being-disciplined-on-price-d8ffb1f5?mod=mw_rss_topstories",
-   "summary": "アパレルメーカーのオン・ホールディングは、チューリヒに本社を置く米国上場企業の売上高が予想を下回ったため、市場前取引で株価が下落した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T18:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Here’s how much Roger Federer is losing as On Holding says it is being disciplined on price"
-  },
-  {
-   "title": "アメリカの住宅ローン王は6億ドルを失い、救済が必要だった",
-   "link": "https://www.wsj.com/finance/americas-mortgage-king-lost-600-million-and-needed-a-rescue-ab39465f?mod=rss_markets_main",
-   "summary": "億万長者のマット・イシュビア氏は、買収の失敗と金利の賭けのタイミングを誤ったことで窮地に陥った。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "America’s Mortgage King Lost $600 Million and Needed a Rescue"
-  },
-  {
    "title": "全国の鉄道・フライト 最新情報",
    "link": "https://news.yahoo.co.jp/pickup/6585817?source=rss",
    "summary": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-11T17:53:08+09:00"
+  },
+  {
+   "title": "Trump warns ditching Infantino would be ‘terrible mistake’",
+   "link": "https://www.ft.com/content/a2dadec1-173f-40a9-89c0-2cf83f78de2a?syn-25a6b1a6=1",
+   "summary": "Comments come as Fifa president faces pressure to resign over private fundraising fiasco",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T17:21:15+09:00",
+   "lang": "en"
   },
   {
    "title": "「若者の酒離れ」は本当か　市場3倍、サントリーが本気で仕掛ける「ジン」の可能性",
@@ -295,6 +314,16 @@
    "published": "2026-08-11T16:50:00+09:00"
   },
   {
+   "title": "ブラジル捜査でゴールドマン社員が容疑者に指名される",
+   "link": "https://www.ft.com/content/248cdbf4-b047-45d3-b543-a343135132b0?syn-25a6b1a6=1",
+   "summary": "調査対象はがん専門医オンコクリニックスをめぐる株主紛争に関するもの",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-11T16:47:09+09:00",
+   "lang": "en",
+   "title_orig": "Goldman staff named as suspects in Brazil investigation"
+  },
+  {
    "title": "イオン 再入館した人数確認できず",
    "link": "https://news.yahoo.co.jp/pickup/6591324?source=rss",
    "summary": "",
@@ -303,12 +332,20 @@
    "published": "2026-08-11T16:06:25+09:00"
   },
   {
-   "title": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導 - jp.reuters.com",
+   "title": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05NllPMkZhN2ZjQWd5dE5xT1RKbXFvRVp4UGRUdmlpSHlrV2VyaThRZnVVOVlkMWR0NVc2M1J6cjZ4VlVUQVRXeWk1LWVVY3pDcUNQVkdvZEtxekFrMkVDVi1DaGVwMkNoalJBbXFlcVFIVFhXaXprNg?oc=5",
-   "summary": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導&nbsp;&nbsp;jp.reuters.com",
+   "summary": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T16:03:43+09:00"
+  },
+  {
+   "title": "原油先物は1週間ぶり高値付近で小動き、米イラン合意期待後退 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keGdTWm1BSkxhTTFUdk5CY3pTQXlDMGRBNHZSSjNsZE8yV2M3X0I4cTl6SDd4c3lFM3FxZGY5cWpEbHFsdjVFTG15dkE2elM5bHMyX0VkMUdwNjVJeDhVY1lpMzRhcTNCZ0VhTEhUU1pYZ25jUmtpQ3pn?oc=5",
+   "summary": "原油先物は1週間ぶり高値付近で小動き、米イラン合意期待後退&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T14:33:00+09:00"
   },
   {
    "title": "イオンモール熊本で木村知事が献花　爆発で7人犠牲「大変胸が痛む」",
@@ -379,19 +416,9 @@
    "title_orig": "Does Africa have too few people?"
   },
   {
-   "title": "従業員 30 人の新興企業は、OpenAI に対する英国の答えを構築できるでしょうか?",
-   "link": "https://www.ft.com/content/02e29d7f-9e3e-4977-a5d3-ea3f2d9efd10?syn-25a6b1a6=1",
-   "summary": "ロンドンに本拠を置くコサイン社は「主権AI」モデルの構築を英国政府から支援されているが、はるかに優れたリソースを持つライバルに直面している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T13:00:04+09:00",
-   "lang": "en",
-   "title_orig": "Can a 30-person start-up build Britain’s answer to OpenAI?"
-  },
-  {
-   "title": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で - jp.reuters.com",
+   "title": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kMGwyYXdENlJtcWFVWC1nWTJ5N0l5SDhkXzhXMk80S1ZfckhUNndpRGxMa2NxNk1vb2pUdnhBRmFOM21CSUxrSkZoNlMwQXpfal9mcU5lR01sMjltV3JneDZLNURSNG5PUjAxcTR2QTBZaXhUVldmYg?oc=5",
-   "summary": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＯＰＥＣ原油生産、7月もさらに増加 湾岸諸国の供給再開で&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T12:46:00+09:00"
@@ -429,22 +456,12 @@
    "published": "2026-08-11T12:00:00+09:00"
   },
   {
-   "title": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超 - jp.reuters.com",
+   "title": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUQwM2VsMkFCNzBUSUlDcXA3Q3k0eDNDYWllaXVkNWk1dlJ5MWJSQk1UVTdQS2RfcVkwYmllWnJvbVhqSGs2VlJzc3otUW1MTnZfMHhMamtJaHNaYzZjcGNuOV9GektsUFBfdVpQQW9DX1FWMDZ3UUVSdDdwbmE3bw?oc=5",
-   "summary": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超&nbsp;&nbsp;jp.reuters.com",
+   "summary": "中国ロボット企業・宇樹科技の上海ＩＰＯ、個人投資家の応募8000倍超&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T11:57:00+09:00"
-  },
-  {
-   "title": "香港、「ビッグバン」税制改革に商社も参加へ",
-   "link": "https://www.ft.com/content/c9c7c2dc-979e-49b2-a57f-77bb461bb7db?syn-25a6b1a6=1",
-   "summary": "この提案は、一流の金融人材を求めてシンガポールと競争する中国領土による推進の一環である",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T11:50:15+09:00",
-   "lang": "en",
-   "title_orig": "Hong Kong set to include trading firms in ‘big bang’ tax reforms"
   },
   {
    "title": "モノは値上がりしてもサービス価格は停滞の怪　就業者の7割を占めるサービス業が直面する｢賃上げの限界｣ | 政治・経済・投資 | 東洋経済オンライン",
@@ -469,14 +486,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-11T10:30:00+09:00"
-  },
-  {
-   "title": "ANAが計58便欠航 台風がお盆直撃",
-   "link": "https://news.yahoo.co.jp/pickup/6591289?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-11T10:06:28+09:00"
   },
   {
    "title": "｢京大生より東大生のほうがAIをうまく使いこなせるワケ｣東大的思考パターンと東大生ばかり採る企業が陥る\"落とし穴\" | キャリア・教育 | 東洋経済オンライン",
@@ -585,9 +594,9 @@
    "published": "2026-08-11T07:00:00+09:00"
   },
   {
-   "title": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落 - jp.reuters.com",
+   "title": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yZ2I4eExwY3lua1dZeTJBOEZHcy03Z284VmM4X09xUlhURHJpZTVZNnl1UFlFTWlEZlJkNGYtQTJTSjlHTGltb21BV01Id2xUb0J6X1dzOWRzZDk5S0xDaHEtVTdveFR1TEJOWTV1dXd0cnhBT1NJSw?oc=5",
-   "summary": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T06:34:47+09:00"
@@ -609,9 +618,9 @@
    "published": "2026-08-11T06:00:00+09:00"
   },
   {
-   "title": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退 - jp.reuters.com",
+   "title": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW1nTDhlM1prLTloZ1JYMXI1Tk5ycTA2YTV1djJ5X1A1Y01xOVpwMUYyUXB3NWRZWG9fNU82eFZvS2hwWlI3MHpQWnVnNWJIQzlwYklpcFdoUS1uQXFGZVdhSE1VWXRmdEhXWWdpVm10UUZtTkJVNA?oc=5",
-   "summary": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退&nbsp;&nbsp;jp.reuters.com",
+   "summary": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T05:33:43+09:00"
@@ -637,9 +646,9 @@
    "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
   },
   {
-   "title": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携 - jp.reuters.com",
+   "title": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRNNG1sN1dMdlRKcmh3ZDRpUHFjYTFhUV80NWZyalJmS1RweVNlRlJuU3BIRUJzcTJPc0xDSmtBWUoteE5DZkRYRDJZb1lZSXFrZjMyeUJtdXA1cGRTZU5ubUFPQ2JOYzAxRnB5Z05hUm8yc1J2akotT0xMczVQRQ?oc=5",
-   "summary": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携&nbsp;&nbsp;jp.reuters.com",
+   "summary": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T03:22:00+09:00"
@@ -661,9 +670,9 @@
    "published": "2026-08-11T01:00:00+09:00"
   },
   {
-   "title": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか - jp.reuters.com",
+   "title": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXVFMXVsQzJGYnVqUGNJMDVHc2I2N21taEJkdTJwamRlOE1oeDN5Tlh6bHo5SE16S1oybnFVbjF4VUdzOGZEZ0xhSE1ja1d1X3VoRTZlREdUUEh1UGZVSmppZGJpNzlJaE4xT2E0V0o5YmZ5U1NsX3lacFdZRHR3dw?oc=5",
-   "summary": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか&nbsp;&nbsp;jp.reuters.com",
+   "summary": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T00:17:43+09:00"
@@ -679,9 +688,9 @@
    "title_orig": "Stocks making the biggest moves premarket: Intel, GameStop, Archer Aviation, Berkshire and more"
   },
   {
-   "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - jp.reuters.com",
+   "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpEUEFpNDJkc2h6MFlKbEJxZ2IzWC1UaGdiZ3owcWRpM3E4bUFCLVNuRjYwU0ZzTmxidnJ4M1I0MHF1aGMyZkdIQm1faXJDQmx3Z2lYSXhwaWVRM3l1VllHVE90QjBSTENMZnZtYUc2NWlLakhPcQ?oc=5",
-   "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;jp.reuters.com",
+   "summary": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T20:15:45+09:00"
@@ -695,9 +704,9 @@
    "published": "2026-08-10T19:49:23+09:00"
   },
   {
-   "title": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請 - jp.reuters.com",
+   "title": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxbjdCZ2tPOTZ5VEhPbzNQMS1MTjNYZDZuai1ubFR3LUpFdWVjdUFtOXJBdi1LZU5VYzdTcllxeXNoSUdET3BQbWlCcFdpSDhDa1d2ZVpzMEwxazBTUEgzczRsNmNUcHZQT3BydEh0SEluTDhzczVocHlTeUE1TjA?oc=5",
-   "summary": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請&nbsp;&nbsp;jp.reuters.com",
+   "summary": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T19:03:45+09:00"
@@ -727,9 +736,9 @@
    "published": "2026-08-10T17:42:09+09:00"
   },
   {
-   "title": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ - jp.reuters.com",
+   "title": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT253RnZVTjNidWN4cmg3MUFDaG9RblF1a3Q1UDFhMWRNSWlQSlhVVXZmOThXWFE1cDFVU25OR2x5Z1N3dmljdlBHaXhtckN3T0VaWXRxLUVOLTVLMnhEbm01SnB1OW5lT3QwaEpqSG9nZFE0eDY2R1l3QlJ2bHpsNw?oc=5",
-   "summary": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ&nbsp;&nbsp;jp.reuters.com",
+   "summary": "世界のＩＰＯ、7月は前年比71％増の208億ドル＝ＬＳＥＧ&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T17:13:44+09:00"
@@ -767,17 +776,17 @@
    "published": "2026-08-10T16:39:39+09:00"
   },
   {
-   "title": "香港ファンドのオアシス、エムスリー株を大量保有 5.03％ - jp.reuters.com",
+   "title": "香港ファンドのオアシス、エムスリー株を大量保有 5.03％ - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDhWWVpLbFpKM05QNk9IczJDWV9jQXBhQ3l4RWN0d3JQMkdNeU5GLVJSY2phQWl1V2VZalBjUWJjUXVaLXpfZFd4dTh3Y1gtVkQtXy14U1JIdl80b1k2NHZqVmp3ajNLOEtrMGZTbE5HWkd3RUw4alZELXBqV2QwNg?oc=5",
-   "summary": "香港ファンドのオアシス、エムスリー株を大量保有 5.03％&nbsp;&nbsp;jp.reuters.com",
+   "summary": "香港ファンドのオアシス、エムスリー株を大量保有 5.03％&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T16:36:47+09:00"
   },
   {
-   "title": "ＪＰモルガン、年末のＳ＆Ｐ500目標8000に引き上げ ＡＩ投資評価 - jp.reuters.com",
+   "title": "ＪＰモルガン、年末のＳ＆Ｐ500目標8000に引き上げ ＡＩ投資評価 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81cW9tLXBHc1R6dFV4YnZMQ2ttN1pRTzhlOTU1SXJ6NFN3V2Naa3ZGdG01cGdzR3FlNHE2WHQ2cnB2a1lLalAwbDQ1NE1xQS1ZSGVBTWNYX1hmVFB4QmF2RkZSS0dFWEFwck5nVnRiTnhFQkN4aFoyNg?oc=5",
-   "summary": "ＪＰモルガン、年末のＳ＆Ｐ500目標8000に引き上げ ＡＩ投資評価&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＪＰモルガン、年末のＳ＆Ｐ500目標8000に引き上げ ＡＩ投資評価&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T16:13:43+09:00"
@@ -799,9 +808,9 @@
    "published": "2026-08-10T15:00:00+09:00"
   },
   {
-   "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - jp.reuters.com",
+   "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVll0LXl1YTIwMmkzYjJEMVdILUFfcERBUFhJU2lZQ2pFOEdrdzNKMEJrZERsV0YzXy1McGpHVU4tYmgzTWwtYlZvVk9wMEFGNFV3X01Ya000aVA0RnlZamp4Mmo3cGVUTGZfZDFsSC1pamxQTlNpZXJn?oc=5",
-   "summary": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く&nbsp;&nbsp;jp.reuters.com",
+   "summary": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T14:46:00+09:00"
@@ -815,20 +824,12 @@
    "published": "2026-08-10T14:00:00+09:00"
   },
   {
-   "title": "アングル：欧州熱波、マクロ経済面からの市場注目ポイント - jp.reuters.com",
+   "title": "アングル：欧州熱波、マクロ経済面からの市場注目ポイント - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JU0xMQVA5MmFObUR3N1RKbkg5a2Jackx3VEFYSGUzMmFrdVJCVERMT3BJNHJ0dVRKU3Q4dmU0eUdaTGNlaVVWeG9zbWFyY0g5RHhrSlZHU2l1MzJFZFNtbG1BUnBsS3BzMWlfbV90N0RjczEzLXRTWQ?oc=5",
-   "summary": "アングル：欧州熱波、マクロ経済面からの市場注目ポイント&nbsp;&nbsp;jp.reuters.com",
+   "summary": "アングル：欧州熱波、マクロ経済面からの市場注目ポイント&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T13:04:00+09:00"
-  },
-  {
-   "title": "米アンダーアーマー、通期売上高見通し引き下げ 主力市場の北米で需要低調 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oLTIway1kS2xOSTExejFMNU1Yemhab2ozcUd2dHJyekxnbnVFRXQ1RzBYS291bzVEcFI1WnFYNFkybG1iTFZWUEMzRVRiUkJXZDc0YWlZcEZBeGloVE5SS0RfM2hsOEpuTXdScG5uT1pFTjdJSnp4eA?oc=5",
-   "summary": "米アンダーアーマー、通期売上高見通し引き下げ 主力市場の北米で需要低調&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-10T12:44:00+09:00"
   },
   {
    "title": "スシローが「京樽」を和食さとに譲渡　5年前に吉野家から買収、回転ずしに経営資源を集中",
