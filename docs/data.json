@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T02:35:56.448976+09:00",
+ "generated_at": "2026-08-12T03:31:36.899659+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,76 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "銀は下落、しかしトレーダーらは需要の増加を予想している",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-price-could-test-and-move-beyond-recent-highs-19f5e5e9?mod=rss_markets_main",
+   "summary": "金は0.5%高で決済され、3セッション連続の上昇となったが、銀は0.5%下落し、2セッションでの連勝が止まった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T03:23:00+09:00",
+   "lang": "en",
+   "title_orig": "Silver Falls, But Traders Anticipate a Demand Lift"
+  },
+  {
+   "title": "米国株先物は上昇",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-lower-oil-price-rises-on-middle-east-tension-38e37f9b?mod=rss_markets_main",
+   "summary": "米国株先物相場は、昨日の主要市場での小幅な下落を受けて上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T03:17:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stock Futures Climb"
+  },
+  {
+   "title": "CMEが先物契約を開始するにつれ、AIコンピューティング能力は取引可能な資産クラスになりつつある",
+   "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+   "summary": "同取引所はシリコンデータと提携し、10月5日に2つのコンピューティング先物契約を導入する予定だが、規制当局の審査が保留されている。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-12T03:09:08+09:00",
+   "lang": "en",
+   "title_orig": "AI computing power is becoming a tradable asset class as CME launches futures contracts"
+  },
+  {
+   "title": "医療保険会社はメディケア・アドバンテージプランを切り捨てている。何人の高齢者が影響を受ける可能性があるかは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
+   "summary": "来年、特に保険の選択肢が少ない地方市場では、高齢者が新しい医療保険を争うようになる可能性がある。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T03:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected."
+  },
+  {
+   "title": "創業 100 年の企業が失われたネオンカラーをどのように再現しているか",
+   "link": "https://www.wsj.com/finance/investing/how-this-100-year-old-company-is-recreating-a-lost-neon-color-bd7357a0?mod=rss_markets_main",
+   "summary": "残った職人たちが伝統を存続させようと奮闘する中、かつて街を照らしていたネオンサインがゆっくりと消えていく様子をご覧ください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T03:00:00+09:00",
+   "lang": "en",
+   "title_orig": "How This 100-Year-Old Company Is Recreating a Lost Neon Color"
+  },
+  {
+   "title": "モスクワ、ロシア刑務所で4年間服役した元米海兵隊員を釈放",
+   "link": "https://www.ft.com/content/c1296b77-a8a4-4cfc-aebc-a2f0d62af25f?syn-25a6b1a6=1",
+   "summary": "国務省、アメリカ人は捕虜交換やワシントンの譲歩なしに解放されたと発表",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-12T02:51:42+09:00",
+   "lang": "en",
+   "title_orig": "Moscow releases former US Marine after four-year stint in Russian prison"
+  },
+  {
+   "title": "「シャトー マーモントでカクテルを飲むのを夢見ています」: Airbnb の共同洗濯機で 100 ドルを見つけました。どうすればいいですか？",
+   "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+   "summary": "「家主は何ヶ月もここに来ていないので、前の入居者だったと思います。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T02:45:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I’m dreaming of cocktails at Château Marmont’: I found $100 in my Airbnb’s communal washer. What should I do?"
+  },
   {
    "title": "米国判事、アダニ詐欺事件の「懸念される」不正行為を引用",
    "link": "https://www.ft.com/content/5010fd54-5982-47c7-801a-e0a354a71c31?syn-25a6b1a6=1",
@@ -123,16 +193,6 @@
    "published": "2026-08-12T01:41:00+09:00",
    "lang": "en",
    "title_orig": "Oil Futures Gain As Market Looks for Hormuz Agreement"
-  },
-  {
-   "title": "米国株先物は上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-lower-oil-price-rises-on-middle-east-tension-38e37f9b?mod=rss_markets_main",
-   "summary": "米国株先物相場は、昨日の主要市場での小幅な下落を受けて上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T01:37:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stock Futures Climb"
   },
   {
    "title": "自動車と交通機関のまとめ: マーケットトーク",
@@ -203,16 +263,6 @@
    "title_orig": "Musk’s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service"
   },
   {
-   "title": "ナスダック、レベル・マーケットを買収へ",
-   "link": "https://www.wsj.com/finance/nasdaq-to-acquire-level-markets-8f4c64d6?mod=rss_markets_main",
-   "summary": "ナスダックは、取引所外株式執行会場の買収により、常時市場へのビジョンを前進させ、流動性を高める上での役割を拡大すると述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T01:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Nasdaq to Acquire LeveL Markets"
-  },
-  {
    "title": "JPモルガンが2028年のロサンゼルスオリンピックに多額の投資をする理由",
    "link": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
    "summary": "JPモルガンはオリンピック初の世界的な銀行パートナーとして9桁の賭けをしている。",
@@ -251,36 +301,6 @@
    "published": "2026-08-12T00:40:00+09:00",
    "lang": "en",
    "title_orig": "A historically strong stretch for the U.S. stock market is about to begin"
-  },
-  {
-   "title": "投資としてシンガポールで家を購入することを検討しました。住宅ローン金利が 2% だったにもかかわらず、私がそうしなかった理由は次のとおりです。",
-   "link": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
-   "summary": "私は世界中を見回して、私たちの貯蓄はどこまで続くのか、賃貸物件を購入することで投資ポートフォリオを多様化できるかどうかを確認しました。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T00:32:00+09:00",
-   "lang": "en",
-   "title_orig": "I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate."
-  },
-  {
-   "title": "「冷酷なことはしたくない」: 私の年老いた親戚は、もう自分のことは自分でできなくなっています。彼の世話を国に任せるのは間違っているでしょうか？",
-   "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-   "summary": "「彼は決して特別に寛大だったり、育ててくれたりしたことはありません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
-  },
-  {
-   "title": "投資家が流れ星に惹かれる理由",
-   "link": "https://www.wsj.com/finance/investing/why-investors-fall-for-shooting-stars-b116f862?mod=rss_markets_main",
-   "summary": "さらに、いくつかの有益な読み物といくつかの最新情報も含まれています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Why Investors Fall for Shooting Stars"
   },
   {
    "title": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し - ロイター",
@@ -441,16 +461,6 @@
    "published": "2026-08-11T18:50:47+09:00"
   },
   {
-   "title": "トランプ大統領、インファンティーノ監督の辞任は「ひどい間違い」になると警告",
-   "link": "https://www.ft.com/content/a2dadec1-173f-40a9-89c0-2cf83f78de2a?syn-25a6b1a6=1",
-   "summary": "民間資金調達の失敗でFIFA会長が辞任の圧力に直面している中、コメントが寄せられた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-11T17:21:15+09:00",
-   "lang": "en",
-   "title_orig": "Trump warns ditching Infantino would be ‘terrible mistake’"
-  },
-  {
    "title": "「若者の酒離れ」は本当か　市場3倍、サントリーが本気で仕掛ける「ジン」の可能性",
    "link": "https://www.itmedia.co.jp/business/articles/2608/11/news016.html",
    "summary": "若者の酒離れがいわれるようになって久しい。たしかに街中で泥酔する若者を見かける機会は減っている。しかし酒離れは、なにも若者だけに限った話でもなさそうだ。",
@@ -483,6 +493,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T16:03:43+09:00"
+  },
+  {
+   "title": "原油先物は1週間ぶり高値付近で小動き、米イラン合意期待後退 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keGdTWm1BSkxhTTFUdk5CY3pTQXlDMGRBNHZSSjNsZE8yV2M3X0I4cTl6SDd4c3lFM3FxZGY5cWpEbHFsdjVFTG15dkE2elM5bHMyX0VkMUdwNjVJeDhVY1lpMzRhcTNCZ0VhTEhUU1pYZ25jUmtpQ3pn?oc=5",
+   "summary": "原油先物は1週間ぶり高値付近で小動き、米イラン合意期待後退&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T14:33:00+09:00"
   },
   {
    "title": "イオンモール熊本で木村知事が献花　爆発で7人犠牲「大変胸が痛む」",
@@ -737,24 +755,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-11T01:00:00+09:00"
-  },
-  {
-   "title": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXVFMXVsQzJGYnVqUGNJMDVHc2I2N21taEJkdTJwamRlOE1oeDN5Tlh6bHo5SE16S1oybnFVbjF4VUdzOGZEZ0xhSE1ja1d1X3VoRTZlREdUUEh1UGZVSmppZGJpNzlJaE4xT2E0V0o5YmZ5U1NsX3lacFdZRHR3dw?oc=5",
-   "summary": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-11T00:17:43+09:00"
-  },
-  {
-   "title": "市場前に大きな動きをする銘柄: インテル、ゲームストップ、アーチャー・アビエーション、バークシャーなど",
-   "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-premarket-aapl-hpe-rklb-and-more.html",
-   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-10T22:52:22+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: Intel, GameStop, Archer Aviation, Berkshire and more"
   },
   {
    "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
