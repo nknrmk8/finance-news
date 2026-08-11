@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T16:33:36.404375+09:00",
+ "generated_at": "2026-08-11T17:34:29.699963+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,80 @@
  "errors": [],
  "items": [
   {
+   "title": "今日の株式市場: ブレント原油が90ドルに近づく",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2026?mod=rss_markets_main",
+   "summary": "中東の行き詰まりで株式先物は横ばい、米国債利回りは上昇",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T17:29:17+09:00",
+   "lang": "en",
+   "title_orig": "Stock Market Today: Brent Crude Nears $90"
+  },
+  {
+   "title": "「若者の酒離れ」は本当か　市場3倍、サントリーが本気で仕掛ける「ジン」の可能性",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/11/news016.html",
+   "summary": "若者の酒離れがいわれるようになって久しい。たしかに街中で泥酔する若者を見かける機会は減っている。しかし酒離れは、なにも若者だけに限った話でもなさそうだ。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-11T16:55:00+09:00"
+  },
+  {
+   "title": "イラン戦争の不確実性が続く中、財務省利回りは上昇、ドルは堅調",
+   "link": "https://www.wsj.com/articles/yen-strengthens-slightly-amid-prospects-of-coordinated-intervention-09589883?mod=rss_markets_main",
+   "summary": "ホルムズ海峡再開交渉が行き詰まり、原油価格が上昇したとみられる中、ドルは通貨バスケットに対して横ばいで取引された。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T16:55:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields Rise, Dollar Steady as Iran War Uncertainty Persists"
+  },
+  {
+   "title": "全国企業倒産、2カ月連続1千件超　14年ぶり、人件費・物価高重く",
+   "link": "https://www.asahi.com/articles/ASV8C2DYBV8CULFA00CM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-11T16:50:00+09:00"
+  },
+  {
+   "title": "テクニカル修正の可能性で原油先物相場は下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-f9200cf7?mod=rss_markets_main",
+   "summary": "原油先物は、一晩で先物が大幅に上昇した後のテクニカル調整の可能性があり、アジア取引序盤で小幅に下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T16:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Edge Lower on Likely Technical Correction"
+  },
+  {
+   "title": "中央処理装置はTSMCの新たな成長原動力となる可能性がある",
+   "link": "https://www.wsj.com/finance/stocks/central-processing-units-could-be-new-growth-driver-for-tsmc-7cf7ff95?mod=rss_markets_main",
+   "summary": "今年初めにエージェント AI が本格的に導入されたことにより、中央処理装置市場はより急速な成長を目指しており、市場の新たな成長原動力となる可能性があります。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-11T16:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Central Processing Units Could Be New Growth Driver for TSMC"
+  },
+  {
+   "title": "ベッセント債券市場のスコアカードはかつてほど好調ではないようだ",
+   "link": "https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories",
+   "summary": "ドナルド・トランプ大統領の就任以来、米国財務省証券は日本を除くすべての主要国債指数をアンダーパフォームしている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-11T16:35:00+09:00",
+   "lang": "en",
+   "title_orig": "The Bessent bond-market scorecard doesn’t look as strong as it once did"
+  },
+  {
+   "title": "半蔵門線の運転再開は「本日中」",
+   "link": "https://news.yahoo.co.jp/pickup/6591330?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-11T16:34:08+09:00"
+  },
+  {
    "title": "金は1オンス4,500ドルに向けてさらに反発する見通し、日足チャートが示す",
    "link": "https://www.wsj.com/articles/gold-price-could-test-and-move-beyond-recent-highs-19f5e5e9?mod=rss_markets_main",
    "summary": "金スポット価格は下落したが、主要な抵抗線であるオンス当たり4,500ドルに向けて反発する態勢が整っていた。",
@@ -95,16 +169,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-11T16:03:43+09:00"
-  },
-  {
-   "title": "イラン戦争の不確実性が続く中、財務省利回りは上昇、ドルは堅調",
-   "link": "https://www.wsj.com/articles/yen-strengthens-slightly-amid-prospects-of-coordinated-intervention-09589883?mod=rss_markets_main",
-   "summary": "ホルムズ海峡再開交渉が行き詰まり、原油価格が上昇したとみられる中、ドルは通貨バスケットに対して横ばいで取引された。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T16:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields Rise, Dollar Steady as Iran War Uncertainty Persists"
   },
   {
    "title": "意見 |円は近いうちにさらなる介入が必要になるだろうか？",
@@ -149,16 +213,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-11T13:15:36+09:00"
-  },
-  {
-   "title": "中央処理装置はTSMCの新たな成長原動力となる可能性がある",
-   "link": "https://www.wsj.com/finance/stocks/central-processing-units-could-be-new-growth-driver-for-tsmc-7cf7ff95?mod=rss_markets_main",
-   "summary": "今年初めにエージェント AI が本格的に導入されたことにより、中央処理装置市場はより急速な成長を目指しており、市場の新たな成長原動力となる可能性があります。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T13:08:00+09:00",
-   "lang": "en",
-   "title_orig": "Central Processing Units Could Be New Growth Driver for TSMC"
   },
   {
    "title": "EUの国境検査、主要空港で二重列に",
@@ -357,16 +411,6 @@
    "published": "2026-08-11T09:30:00+09:00"
   },
   {
-   "title": "テクニカル修正の可能性で原油先物相場は下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-f9200cf7?mod=rss_markets_main",
-   "summary": "原油先物は、一晩で先物が大幅に上昇した後のテクニカル調整の可能性があり、アジア取引序盤で小幅に下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T09:29:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Edge Lower on Likely Technical Correction"
-  },
-  {
    "title": "これは現在この国で最も熱い住宅市場がある郵便番号です",
    "link": "https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories",
    "summary": "今日の住宅用不動産市場は弱者向けではないと、Realtor.com がアメリカで最もホットな郵便番号と呼んでいるバイヤーの一人は述べています。",
@@ -455,16 +499,6 @@
    "title_orig": "Archer strikes deal with Boeing in latest bid to transform aviation through AI"
   },
   {
-   "title": "特に「全面ガラス」iPhone がなければ、Apple の株価は下落する可能性がある、とこのアナリストは警告",
-   "link": "https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories",
-   "summary": "ジェフリーズのアナリストは、アップルが収益性を高めるために劇的に高価なデバイスを投入するのは思ったよりも難しいかもしれないと語る",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-11T07:49:00+09:00",
-   "lang": "en",
-   "title_orig": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns"
-  },
-  {
    "title": "シャインマスカット 盗難相次ぐ",
    "link": "https://news.yahoo.co.jp/pickup/6591273?source=rss",
    "summary": "",
@@ -523,16 +557,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-11T07:00:00+09:00"
-  },
-  {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3d35c5ab?mod=rss_markets_main",
-   "summary": "自動車と輸送をカバーする最新のマーケット トークで、ウィズ エア、ヒーロー モトコープ、カンタス航空などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-11T06:56:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
   },
   {
    "title": "ＮＹ市場サマリー（10日）ドル・利回り上昇、株反落 - ロイター",
@@ -627,9 +651,9 @@
    "published": "2026-08-11T00:17:43+09:00"
   },
   {
-   "title": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に - ロイター",
+   "title": "米インテル、株式発行で200億ドル調達 株価急騰追い風に - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5idmtuakw1NG5tamlJLVVzbW1oS1Y1ZTAxdmIyWnpxU2VPaURwWmdzaWxQMzRFdEp5cC1sMmlJMXpIcHIxYklMNXYxUm5NTmxNRFpod2xlR3BVdDJENnkyeUl3LW9KWUF6b2FEOWdrTnc5Q0hIZ2RKbg?oc=5",
-   "summary": "米インテル、株式発行で150億ドル調達へ 株価急騰追い風に&nbsp;&nbsp;ロイター",
+   "summary": "米インテル、株式発行で200億ドル調達 株価急騰追い風に&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-10T23:10:00+09:00"
@@ -691,14 +715,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-10T18:49:23+09:00"
-  },
-  {
-   "title": "議員秘書を経て屋台バー営業 なぜ",
-   "link": "https://news.yahoo.co.jp/pickup/6591230?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-10T18:44:08+09:00"
   },
   {
    "title": "街角景気は3カ月続けて改善、7月調査　熊本地震の影響に懸念の声も",
