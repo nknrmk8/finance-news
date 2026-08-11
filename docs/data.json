@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T03:31:36.899659+09:00",
+ "generated_at": "2026-08-12T04:42:41.232035+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,76 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "米国の天然ガス先物はいくらかの利益を取り戻す",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-in-early-trading-19f06226?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物相場は前日の上昇分を一部戻した。軟調な LNG 需要と快適な貯蔵レベルにより、上昇の試みは抑制されている",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T04:09:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Give Back Some Gains"
+  },
+  {
+   "title": "市場がホルムズ合意を模索する中、原油先物は上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-f9200cf7?mod=rss_markets_main",
+   "summary": "市場がホルムズ海峡再開合意の兆しを慎重に待っていることから、原油先物はやや上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T04:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Gain As Market Looks for Hormuz Agreement"
+  },
+  {
+   "title": "JPモルガンが2028年のロサンゼルスオリンピックに多額の投資をする理由",
+   "link": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
+   "summary": "JPモルガンはオリンピック初の世界的な銀行パートナーとして9桁の賭けをしている。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-12T03:50:37+09:00",
+   "lang": "en",
+   "title_orig": "Why JPMorgan is investing big in the 2028 LA Olympics"
+  },
+  {
+   "title": "予測市場を利用した選挙への賭けは違法ですか?中間選挙が近づく中、多くの州が確信を持てていない",
+   "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+   "summary": "ピュー・リサーチによると、23の州で選挙への賭博を禁止する法律が制定されている。すべての州がこれらのルールが予測市場に適用されると確信しているわけではありません",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-12T03:44:16+09:00",
+   "lang": "en",
+   "title_orig": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach"
+  },
+  {
+   "title": "ベゾス氏はリバプール・サッカーチームの株式取得に近づいている投資家の一人に名を連ねている",
+   "link": "https://www.wsj.com/business/deals/bezos-is-among-investors-nearing-deal-for-liverpool-soccer-team-365f54b5?mod=rss_markets_main",
+   "summary": "投資家らは、残りのチームを獲得するオプション付きで、評価額80億ドルでフェンウェイ・スポーツ・グループとの合意を目指している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T03:43:00+09:00",
+   "lang": "en",
+   "title_orig": "Bezos Is Among Investors Nearing Deal for Stake in Liverpool Soccer Team"
+  },
+  {
+   "title": "社会保障、後遺障害申請を迅速化するために条件リストを 314 疾患に拡大",
+   "link": "https://www.marketwatch.com/story/social-security-expands-list-of-conditions-to-314-illnesses-for-faster-disability-claims-b1883c2d?mod=mw_rss_topstories",
+   "summary": "「思いやりのある手当」リストにより、手当の検討が迅速化されます。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T03:40:00+09:00",
+   "lang": "en",
+   "title_orig": "Social Security expands list of conditions to 314 illnesses for faster disability claims"
+  },
+  {
+   "title": "アナリストによると、NVIDIA は AI に対する市場の大きな不安を和らげたばかりだ",
+   "link": "https://www.marketwatch.com/story/nvidia-just-soothed-a-major-market-fear-about-ai-analysts-say-9ec6fa85?mod=mw_rss_topstories",
+   "summary": "BofA と BofA によると、NVIDIA と金融関係者との新たなパートナーシップは、同社が顧客との結びつきが強すぎるという懸念を軽減するのに役立ちます。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T03:36:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia just soothed a major market fear about AI, analysts say"
+  },
   {
    "title": "銀は下落、しかしトレーダーらは需要の増加を予想している",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-price-could-test-and-move-beyond-recent-highs-19f5e5e9?mod=rss_markets_main",
@@ -185,16 +255,6 @@
    "published": "2026-08-12T02:00:53+09:00"
   },
   {
-   "title": "市場がホルムズ合意を模索する中、原油先物は上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-f9200cf7?mod=rss_markets_main",
-   "summary": "市場がホルムズ海峡再開合意の兆しを慎重に待っていることから、原油先物はやや上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T01:41:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Gain As Market Looks for Hormuz Agreement"
-  },
-  {
    "title": "自動車と交通機関のまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?mod=rss_markets_main",
    "summary": "自動車と輸送をカバーする最新のマーケットトークで、揚子江造船とシェフラーに関する洞察を見つけてください。",
@@ -213,34 +273,6 @@
    "published": "2026-08-12T01:30:00+09:00",
    "lang": "en",
    "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "米自動車ローン新規融資、第2四半期は過去最高 全体の延滞率は低下＝ＮＹ連銀 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY055N1luNmZCVzlIb3NTZ2ZaTXFOZUtRWGUxaFh2MjhqOFhQV0drWUlnUHhRR2FKRUNHT3ZlODhHMjN4MkFBLUw0WlphVWVsRmNJeGxkYTliREgyVzBLR1didG5aRkxvMXo5RTZaUEZ0ZXdva29GVTdNZHNwUEUxUQ?oc=5",
-   "summary": "米自動車ローン新規融資、第2四半期は過去最高 全体の延滞率は低下＝ＮＹ連銀&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T01:27:43+09:00"
-  },
-  {
-   "title": "基本的な材料のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-22f39867?mod=rss_markets_main",
-   "summary": "基本的な材料をカバーする最新のマーケットトークで、金先物、セントバーバラの15マイル硫化物プロジェクトとシンベリ硫化物プロジェクト、ペレンティなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T01:26:00+09:00",
-   "lang": "en",
-   "title_orig": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-8717236d?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、TSMC、ASML Holding、Axiata などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T01:24:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
   },
   {
    "title": "イランでの失敗は米国の戦い方を変えるだろうか？",
@@ -263,16 +295,6 @@
    "title_orig": "Musk’s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service"
   },
   {
-   "title": "JPモルガンが2028年のロサンゼルスオリンピックに多額の投資をする理由",
-   "link": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
-   "summary": "JPモルガンはオリンピック初の世界的な銀行パートナーとして9桁の賭けをしている。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-12T00:45:44+09:00",
-   "lang": "en",
-   "title_orig": "Why JPMorgan is investing big in the 2028 LA Olympics"
-  },
-  {
    "title": "「妻も私も退職しました」: 2.9% の 30 万ドルの住宅ローンを返済するために、230 万ドルの投資につぎ込むべきでしょうか?",
    "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
    "summary": "「現在、私たちは投資から年間約10万ドルを引き出しています。」",
@@ -281,26 +303,6 @@
    "published": "2026-08-12T00:45:00+09:00",
    "lang": "en",
    "title_orig": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?"
-  },
-  {
-   "title": "この 1 つの質問に答えられれば、もうお金の心配をする必要はありません",
-   "link": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
-   "summary": "YNAB 創設者ジェシー・メカムの新しい本には、給料から給料への争いに終止符を打つシンプルなシステムが書かれています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T00:44:00+09:00",
-   "lang": "en",
-   "title_orig": "If you can answer this one question, you’ll never worry about money again"
-  },
-  {
-   "title": "米国株式市場の歴史的な上昇局面が始まろうとしている",
-   "link": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
-   "summary": "一部の投資家は、このAIを活用した強気相場が4周年を迎えるにあたり、少し長くなりつつあるのではないかと懸念している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T00:40:00+09:00",
-   "lang": "en",
-   "title_orig": "A historically strong stretch for the U.S. stock market is about to begin"
   },
   {
    "title": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し - ロイター",
@@ -723,16 +725,6 @@
    "title_orig": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more"
   },
   {
-   "title": "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
-   "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-   "summary": "ゴールドマン・サックスのアショク・バラダン氏は、建設的な見通しの理由を3つ挙げた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-11T03:36:26+09:00",
-   "lang": "en",
-   "title_orig": "Three reasons Goldman's co-head of global banking and markets says to stay invested"
-  },
-  {
    "title": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRNNG1sN1dMdlRKcmh3ZDRpUHFjYTFhUV80NWZyalJmS1RweVNlRlJuU3BIRUJzcTJPc0xDSmtBWUoteE5DZkRYRDJZb1lZSXFrZjMyeUJtdXA1cGRTZU5ubUFPQ2JOYzAxRnB5Z05hUm8yc1J2akotT0xMczVQRQ?oc=5",
    "summary": "エヌビディア、ＡＩインフラ整備で5000億ドル調達へ 金融6社と提携&nbsp;&nbsp;ロイター",
@@ -755,6 +747,14 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-11T01:00:00+09:00"
+  },
+  {
+   "title": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXVFMXVsQzJGYnVqUGNJMDVHc2I2N21taEJkdTJwamRlOE1oeDN5Tlh6bHo5SE16S1oybnFVbjF4VUdzOGZEZ0xhSE1ja1d1X3VoRTZlREdUUEh1UGZVSmppZGJpNzlJaE4xT2E0V0o5YmZ5U1NsX3lacFdZRHR3dw?oc=5",
+   "summary": "スペースＸ株、個人投資家が上場来初の売り越し 利益確定売りか&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T00:17:43+09:00"
   },
   {
    "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速 - ロイター",
