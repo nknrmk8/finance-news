@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T15:08:03.601770+09:00",
+ "generated_at": "2026-08-12T16:47:41.680364+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,22 +61,98 @@
  "errors": [],
  "items": [
   {
+   "title": "人が入る箱型冷房 建設業など注目",
+   "link": "https://news.yahoo.co.jp/pickup/6591455?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-12T16:30:39+09:00"
+  },
+  {
+   "title": "米国のインフレ統計を前にシンガポールドルが下落",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-56cca36d?mod=rss_markets_main",
+   "summary": "投資家が米国のインフレ統計を待つ中、シンガポールドルは対米ドルで下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T16:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Singapore Dollar Weakens Ahead of U.S. Inflation Data"
+  },
+  {
+   "title": "後継者争い激化でタタ会長辞任",
+   "link": "https://www.ft.com/content/89c3c50c-1fc5-4673-b67d-ddc0b824c6c5?syn-25a6b1a6=1",
+   "summary": "N・チャンドラセカラン氏、ノエル・タタ氏との紛争中、インド最大の複合企業を退社へ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-12T16:13:59+09:00",
+   "lang": "en",
+   "title_orig": "Tata chair resigns as succession row escalates"
+  },
+  {
+   "title": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnZSMi05dEk0OEpnclBfSDlMbjJ1dU9JTjZ1OVc4X3JOMmpwYm1Ccm5ta1kyMURWdUZJYTU3ZHRlZXZLcUtqMFZkR2tNMVV2VUdEU1J5dTBtaTJic0ppeDJHVldud3lPbHF3NXVERjE3TzRid3pBRktrdEdKRFhuUg?oc=5",
+   "summary": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T16:13:43+09:00"
+  },
+  {
+   "title": "「先見性に富んだ経営判断と果敢な行動力」　奥田さん死去に悼む声",
+   "link": "https://www.asahi.com/articles/ASV8D26CWV8DULFA017M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-12T16:13:13+09:00"
+  },
+  {
+   "title": "ユーロ圏国債利回りは米国のCPI統計を前に上昇",
+   "link": "https://www.wsj.com/economy/central-banking/treasury-yields-dollar-stable-ahead-of-u-s-inflation-data-36220339?mod=rss_markets_main",
+   "summary": "米国の消費者物価指数（ＣＰＩ）インフレ統計を前に投資家が警戒感を示し、ユーロ圏国債利回りが上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T16:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Eurozone Government Bond Yields Rise Ahead of U.S. CPI Data"
+  },
+  {
+   "title": "4～6月期のGDP実質成長率、年率1.67%　民間予測の平均値",
+   "link": "https://www.asahi.com/articles/ASV8D232QV8DULFA011M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-12T16:01:33+09:00"
+  },
+  {
+   "title": "〈教育DXの盲点〉AIを学校教育に活用するとき､本当に問うべきことが置き去りにされている | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953974?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "文部科学省が進めるGIGAスクール構想（1人1台の端末でICT〈情報通信技術〉を活用する教育の推進）は、今やAIとの連携を強めつつ個別最適な学びへと新たな段階に突入した。教科書や学習指導要領のデジタ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-12T16:00:00+09:00"
+  },
+  {
+   "title": "国債ＩＲ基礎資料（令和８年８月）",
+   "link": "https://www.mof.go.jp/jgbs/IR/jgb_investor_presentation_2608.pdf",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-12T16:00:00+09:00"
+  },
+  {
+   "title": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWVNha0hfSmY0ZjI1LXFXOVg0Z2I2NDMyQjNpTmJkaHNNb0JXVzNOelZma0xnaVpJVEl4T1psbU01OWpYZW5IRFRoWHVudFI0V2J4WmszbHdvX0VtN0RuR2s0cDgzVWV5OGNOUFZTSGFTVzkwWUE?oc=5",
+   "summary": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T15:20:00+09:00"
+  },
+  {
    "title": "今から約30年前､日本ではまだ馴染みの薄かったブルーベリーを広めるために一役買った《絶妙なパワーワード》 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952332?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢価値あるものも､世間の興味がなければ広まらない｣――ブルーベリー普及の経験から見えたのは､伝えたいことと伝わることの違いでした。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-12T14:30:00+09:00"
-  },
-  {
-   "title": "台湾、インドネシアとの海軍演習を巡り中国を非難",
-   "link": "https://www.ft.com/content/e0ca4cab-c8ba-47d6-9465-13e2d73285fc?syn-25a6b1a6=1",
-   "summary": "まれな共同演習は係争海域における中国政府のより強硬な行動に対する懸念を引き起こす",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-12T14:14:24+09:00",
-   "lang": "en",
-   "title_orig": "Taiwan hits out at China over naval drill with Indonesia"
   },
   {
    "title": "南米コロンビア地震､太平洋沿岸地域とアンデス山脈中部で死者180人超…政府が経済緊急事態宣言へ | 政治・経済・投資 | 東洋経済オンライン",
@@ -185,14 +261,6 @@
    "published": "2026-08-12T12:51:26+09:00"
   },
   {
-   "title": "米政権、供給網の「穴」ふさぎ中小企業底上げへ 外国企業進出拡大で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejVlVmJsYTJjYlE3NXA5akhWNmxUTkx1WTQwOXZWN21zN09oZ3JBSS04OTNkMjZWNTFRM29aR0FaYnVRbFp2OG1rendaWUp0WVlERzZhRklySU11Y0l0WnJPb2NNdF9Uek9JQmR5MVphNjBFdVhxUA?oc=5",
-   "summary": "米政権、供給網の「穴」ふさぎ中小企業底上げへ 外国企業進出拡大で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T12:46:00+09:00"
-  },
-  {
    "title": "10年物価連動国債（第31回）の入札結果（令和8年8月12日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260812.htm",
    "summary": "",
@@ -241,16 +309,6 @@
    "published": "2026-08-12T11:59:37+09:00",
    "lang": "en",
    "title_orig": "Singapore Airlines loses about S$1bn on Air India bet — with more pain forecast"
-  },
-  {
-   "title": "米国のインフレ統計を前にシンガポールドルが下落",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-56cca36d?mod=rss_markets_main",
-   "summary": "投資家が米国のインフレ統計を待つ中、シンガポールドルは対米ドルで下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T11:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Singapore Dollar Weakens Ahead of U.S. Inflation Data"
   },
   {
    "title": "トヨタと企業社会を変えた「財界総理」の決断力　奥田碩さんを悼む",
@@ -399,14 +457,6 @@
    "title_orig": "Nikkei Flat, Supported by Energy, Financial Stocks"
   },
   {
-   "title": "スイスのスポーツ用品大手オン、米州で成長鈍化 株価急落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTFo0M3JkdjF2czdEaGY1TURsTXpuU2tYWVhSdS1Jd19BUW1wc2FqaXVmR3UwN3JBOEF2a2hTUXpyQ0h0dDRiN1JDY0kzdVBaZlNyUUNuZ0duWm5iZUhZTlRuc1pDYW41ZnlOMG5zU25OWFRrTVJpNA?oc=5",
-   "summary": "スイスのスポーツ用品大手オン、米州で成長鈍化 株価急落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T09:30:00+09:00"
-  },
-  {
    "title": "｢ポジティブ思考で幸せになれる｣は非科学的カンチガイ…心理学の権威が明かす｢人間の幸福｣の不都合な真実 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952599?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢ポジティブ思考で幸せになれる｣という言葉をよく耳にしますが､本当に考え方を変えるだけで人は幸せになれるのでしょうか。進化心理学の視点から従来の幸福論の限界を明かし､｢幸せの本質｣に迫ります。あなた…",
@@ -537,14 +587,6 @@
    "published": "2026-08-12T08:17:08+09:00"
   },
   {
-   "title": "｢感染症対策｣で民衆がまさかのブチギレ！朝ドラ《風､薫る》でも描かれた\"明治期の感染症大流行\"その意外な実情 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954216?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "朝ドラ｢風､薫る｣でも描かれた明治期の感染症の恐怖。明治期にはコレラや赤痢といった感染症に多くの人々が苦しめられました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-12T08:00:00+09:00"
-  },
-  {
    "title": "中小企業の8割が賃上げへ　「人材確保」の裏で広がる企業規模・業種間の差",
    "link": "https://www.itmedia.co.jp/business/articles/2608/12/news018.html",
    "summary": "中小企業の約8割が2026年度に正社員の昇給・賃上げを予定している。一方、企業規模や業種によって対応には差がある。調査から見えた、賃上げの実態とは。",
@@ -569,14 +611,6 @@
    "published": "2026-08-12T08:00:00+09:00"
   },
   {
-   "title": "美容医療の低年齢化 親の意向も",
-   "link": "https://news.yahoo.co.jp/pickup/6591382?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-12T07:30:27+09:00"
-  },
-  {
    "title": "「思いがけずお金が入ってきました」: CD に 20,000 ドルをつぎ込むのは賢い選択でしょうか?",
    "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
    "summary": "「受益者が資金にアクセスできるよう、プロセスをできるだけ簡単にしたいと考えています。」",
@@ -585,14 +619,6 @@
    "published": "2026-08-12T07:30:00+09:00",
    "lang": "en",
    "title_orig": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?"
-  },
-  {
-   "title": "カナダ、米と貿易協議継続 19日の関税発動控え - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OZE5FYUtPN2Rkd2tXZC11M2RESkN3U3ZUTEdEd2xzVjN1dGlxNVppaTlwRWFpTU5udzRNbWhSLUtCeHJ0eFdWM0k1VDBYNjhHeTRnYkE4M0gwSW5qdkx3R2hKTHQ3eUNKc2xJMlJ4M0ZiR0hVVGQ4LWlB?oc=5",
-   "summary": "カナダ、米と貿易協議継続 19日の関税発動控え&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T07:21:44+09:00"
   },
   {
    "title": "コアウィーブ、四半期売上高が予想超え 通期設備投資計画引き上げ - ロイター",
@@ -631,16 +657,6 @@
    "title_orig": "WSJ Dollar Index Falls 0.001% to 96.15"
   },
   {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=rss_markets_main",
-   "summary": "金融サービスをカバーする最新の Market Talk で、Legal & General Group、M&G などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T06:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
    "title": "時間外に大きく値動きする銘柄: スーパーマイクロコンピューター、コアウィーブ、H&R ブロックなど",
    "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-after-hours-smci-crwv-hrb.html",
    "summary": "これらは、時間外取引で最大の動きを記録した銘柄です。",
@@ -667,14 +683,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-12T06:05:44+09:00"
-  },
-  {
-   "title": "ＮＹ外為市場＝ドル横ばい、米ＣＰＩに注目 対円で159円台前半 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sS1ZidmIwOFBYa2RhM2dpcmZhb3d3VklvR2dEYllDeXpGSTZYVTdtNXNsMUhjTGZFMGJtemZJN0NMdXNNdXBneFVOaFR6UEJaMnE2V3plRkdPang2bWxpa09KdmFEZ0lrTHZjQUZXR3RGeERDSDNUeg?oc=5",
-   "summary": "ＮＹ外為市場＝ドル横ばい、米ＣＰＩに注目 対円で159円台前半&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T06:01:32+09:00"
   },
   {
    "title": "ジェンスン・ファンの5,000億ドルのAI資金調達計画が中国による大きなリスクに直面している理由",
@@ -779,6 +787,14 @@
    "published": "2026-08-12T02:15:19+09:00"
   },
   {
+   "title": "米自動車ローン新規融資、第2四半期は過去最高 全体の延滞率は低下＝ＮＹ連銀 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY055N1luNmZCVzlIb3NTZ2ZaTXFOZUtRWGUxaFh2MjhqOFhQV0drWUlnUHhRR2FKRUNHT3ZlODhHMjN4MkFBLUw0WlphVWVsRmNJeGxkYTliREgyVzBLR1didG5aRkxvMXo5RTZaUEZ0ZXdva29GVTdNZHNwUEUxUQ?oc=5",
+   "summary": "米自動車ローン新規融資、第2四半期は過去最高 全体の延滞率は低下＝ＮＹ連銀&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T01:27:43+09:00"
+  },
+  {
    "title": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVYwYUZuU0hkQUJfNHplWFcyanRGN0NYX0lwNldWazR1R2dCSXVsT0RsZF9kS3oxS04xN3V0OGhqZ08wdDJSWThZc2EyY213WkdsUlREeFlMQTRWVlEyd2toX3Q5N2F2RGs4b3JBQnpyRkk4UDZBYzdxQTR4cDVGNQ?oc=5",
    "summary": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し&nbsp;&nbsp;ロイター",
@@ -845,20 +861,20 @@
    "published": "2026-08-11T16:50:00+09:00"
   },
   {
+   "title": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05NllPMkZhN2ZjQWd5dE5xT1RKbXFvRVp4UGRUdmlpSHlrV2VyaThRZnVVOVlkMWR0NVc2M1J6cjZ4VlVUQVRXeWk1LWVVY3pDcUNQVkdvZEtxekFrMkVDVi1DaGVwMkNoalJBbXFlcVFIVFhXaXprNg?oc=5",
+   "summary": "アジア株、7月は9カ月連続で外国人売り越し ＡＩ懸念で台湾・韓国が主導&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T16:03:43+09:00"
+  },
+  {
    "title": "イオンモール熊本で木村知事が献花　爆発で7人犠牲「大変胸が痛む」",
    "link": "https://www.asahi.com/articles/ASV8B46TYV8BOXIE04MM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-11T13:15:36+09:00"
-  },
-  {
-   "title": "全東信の倒産で注目　「決済代行業」の売上高・利益が過去最高　市場拡大の裏で進む収益の二極化",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/11/news001.html",
-   "summary": "全東信の倒産により、決済代行業の動向に注目が集まっている。東京商工リサーチの調査によると、全国の主な決済代行業31社の最新期（2025年）の売上高合計は5805億円（前期比21.7％増）、利益合計は546億円（同30.7％増）となり、ともに過去6年間で最高を更新した。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-11T08:00:00+09:00"
   },
   {
    "title": "感染性ぶどう膜炎にPCR検査キット　9種の病原体を一度にカバー",
@@ -931,22 +947,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-10T17:00:00+09:00"
-  },
-  {
-   "title": "所得連動給付、申請なくても給付可能　公金受取口座登録で　政府検討",
-   "link": "https://www.asahi.com/articles/ASV8B2F1XV8BULFA00GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-10T16:49:32+09:00"
-  },
-  {
-   "title": "経常黒字17.4兆円、上半期で過去最大 貿易収支が黒字転換",
-   "link": "https://www.asahi.com/articles/ASV8B2G5KV8BULFA00KM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-10T16:45:50+09:00"
   },
   {
    "title": "地域情報誌の記者になろう！ ～特集「わたしたちのまちの“だれでもおでかけスポット”」（令和８年８月）",
