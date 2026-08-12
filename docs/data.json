@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T21:28:53.274716+09:00",
+ "generated_at": "2026-08-12T22:55:47.007121+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,112 @@
  "errors": [],
  "items": [
   {
+   "title": "原油先物は下落 ホルムズ会談に関するニュース待ち",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-volatility-expected-amid-middle-east-developments-a9ef898a?mod=rss_markets_main",
+   "summary": "ホルムズ海峡の再開合意に向けた動きはほとんど見られず、原油価格は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T22:40:00+09:00",
+   "lang": "en",
+   "title_orig": "Crude Futures Move Lower Awaiting News on Hormuz Talks"
+  },
+  {
+   "title": "CPIとインフレの説明",
+   "link": "https://www.wsj.com/economy/central-banking/the-cpi-and-inflation-explained-662fc1e3?mod=rss_markets_main",
+   "summary": "ここでは、消費者物価指数がどのようにまとめられているか、そして経済学者がインフレを追跡するためにこの指数や他の指標を研究する方法を説明します。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T22:36:00+09:00",
+   "lang": "en",
+   "title_orig": "The CPI and Inflation, Explained"
+  },
+  {
    "title": "収益が強気派と弱気派の両方から賞賛につながったため、コアウィーブの株価は急騰している",
    "link": "https://www.marketwatch.com/story/coreweaves-stock-is-rocketing-after-earnings-lead-to-praise-from-bulls-and-bears-alike-46c831e7?mod=mw_rss_topstories",
    "summary": "アナリストらによると、コアウィーブは顧客基盤を拡大し、好調な価格設定の恩恵を受けているという。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-08-12T21:24:00+09:00",
+   "published": "2026-08-12T22:34:00+09:00",
    "lang": "en",
    "title_orig": "CoreWeave’s stock is rocketing after earnings lead to praise from bulls and bears alike"
+  },
+  {
+   "title": "Nebius は独自の明るい収益でネオクラウド株の興奮をさらに高めます",
+   "link": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
+   "summary": "投資家はネオクラウド企業CoreWeaveとNebiusの決算や需要シグナルに前向きに反応している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T22:33:00+09:00",
+   "lang": "en",
+   "title_orig": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own"
+  },
+  {
+   "title": "米国のインフレ率は7月に3.4%に低下",
+   "link": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1",
+   "summary": "ガソリン価格が下落しても、イラン戦争の余波は経済全体に影響を与え続けている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-12T22:32:09+09:00",
+   "lang": "en",
+   "title_orig": "US inflation falls to 3.4% in July"
+  },
+  {
+   "title": "介入がファンダメンタルズ不足を補うことに失敗し、日本円は引き続き軟調",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-56cca36d?mod=rss_markets_main",
+   "summary": "円安が続いた。三菱ＵＦＪ銀行は、最近の下落は市場参加者が依然として市場介入が成功すると確信していないことを示唆していると述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T22:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Japanese Yen Stays Weak as Interventions Fail to Offset Poor Fundamentals"
+  },
+  {
+   "title": "イーライリリーは、次の大型減量薬であるレタルトルチドの販売を巡り、薬局とペプチドベンダーを訴えている。",
+   "link": "https://www.marketwatch.com/story/eli-lilly-is-suing-pharmacies-and-peptide-vendors-over-sales-of-the-next-big-weight-loss-drug-retatrutide-22434cce?mod=mw_rss_topstories",
+   "summary": "一部のアメリカ人は、複合バージョンのretを入手するために、健康とウェルネスの利点のためのペプチドを販売するメディカルスパや薬局に目を向けています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T22:07:00+09:00",
+   "lang": "en",
+   "title_orig": "Eli Lilly is suing pharmacies and peptide vendors over sale of its next big weight-loss drug: retatrutide"
+  },
+  {
+   "title": "シタデル証券は株式市場のリセットを呼んだ。現在、レバレッジの蓄積が再開されていることがわかります。",
+   "link": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories",
+   "summary": "ストラテジストのスコット・ラブナー氏は、株式市場の買い手リストの増加、特に大手ヘッジファンドや機関投資家らのリストが株式市場を前向きな方向に押し上げていると述べた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T22:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Citadel Securities called the stock-market reset. Now it sees the leverage buildup resuming."
+  },
+  {
+   "title": "30兆ドル規模の米国債市場は厳しい清算に直面している。利回りの上昇がポートフォリオをどのように圧迫するか。",
+   "link": "https://www.marketwatch.com/story/the-30-trillion-treasury-market-is-facing-a-painful-reckoning-how-rising-yields-could-squeeze-your-portfolio-8fa9edd8?mod=mw_rss_topstories",
+   "summary": "世界金融システムの基盤として広く認識されている約30兆ドルの米国債市場は、PERによる危険な計算に直面している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-12T21:58:00+09:00",
+   "lang": "en",
+   "title_orig": "The $30 trillion Treasury market is facing a painful reckoning. How rising yields could squeeze your portfolio."
+  },
+  {
+   "title": "米国7月の消費者物価指数、前年同月比3.4%上昇　市場予想と一致",
+   "link": "https://www.asahi.com/articles/ASV8D45CPV8DUHBI00ZM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-12T21:54:24+09:00"
+  },
+  {
+   "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
+   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-12T21:49:00+09:00",
+   "lang": "en",
+   "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
   },
   {
    "title": "夜間の墓参りも 変化する供養の形",
@@ -79,22 +177,20 @@
    "published": "2026-08-12T21:22:38+09:00"
   },
   {
+   "title": "商用EV「エレモ」のHWエレクトロが破産申請　ナスダック上場計画頓挫し、資金繰り悪化",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/12/news106.html",
+   "summary": "東京商工リサーチによると、商用電気自動車（EV）「エレモ」シリーズを展開していたHWエレクトロが6日、東京地裁に破産を申請した。負債総額は調査中。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-12T21:20:00+09:00"
+  },
+  {
    "title": "地震で観光業約60億円被害 熊本県",
    "link": "https://news.yahoo.co.jp/pickup/6591493?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-12T21:19:30+09:00"
-  },
-  {
-   "title": "シタデル証券は株式市場のリセットを呼んだ。現在、レバレッジの蓄積が再開されていることがわかります。",
-   "link": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories",
-   "summary": "ストラテジストのスコット・ラブナー氏は、株式市場の買い手リストの増加、特に大手ヘッジファンドや機関投資家らのリストが株式市場を前向きな方向に押し上げていると述べた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T21:13:00+09:00",
-   "lang": "en",
-   "title_orig": "Citadel Securities called the stock-market reset. Now it sees the leverage buildup resuming."
   },
   {
    "title": "市場前に大きな動きをする銘柄: CoreWeave、Super Micro Computer、Nebius、Cava など",
@@ -191,16 +287,6 @@
    "title_orig": "The Morning Risk Report: Judge Dismisses Adani Fraud Charges"
   },
   {
-   "title": "介入がファンダメンタルズ不足を補うことに失敗し、日本円は引き続き軟調",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-56cca36d?mod=rss_markets_main",
-   "summary": "円安が続いた。三菱ＵＦＪ銀行は、最近の下落は市場参加者が依然として市場介入が成功すると確信していないことを示唆していると述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T20:08:00+09:00",
-   "lang": "en",
-   "title_orig": "Japanese Yen Stays Weak as Interventions Fail to Offset Poor Fundamentals"
-  },
-  {
    "title": "私の妻は 62 歳で 900 ドルを請求できます。今すぐ受け取るべきでしょうか、それとも配偶者手当を待つべきでしょうか?",
    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
    "summary": "「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」",
@@ -219,14 +305,6 @@
    "published": "2026-08-12T19:59:00+09:00",
    "lang": "en",
    "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "ＢｏｆＡ、米インフラ向け金融に2500億ドル 経済成長や雇用を支援 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56ZDViZ0pTQUxmd0JsRk9MZ3dNc2JHSmNSVjBfbDVsWk02eG81S3RpajlzWFQ4dnpfS2dQTWxIaFpUb3laZjlMeEIxNkRqVU1keDdzTGpnNG1xUS0tcmw0SnFoTHFfbTlRY1lrVnplNlF0MHoxUXc?oc=5",
-   "summary": "ＢｏｆＡ、米インフラ向け金融に2500億ドル 経済成長や雇用を支援&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T19:56:09+09:00"
   },
   {
    "title": "金融サービスのまとめ: マーケットトーク",
@@ -257,82 +335,12 @@
    "title_orig": "Basic Materials Roundup: Market Talk"
   },
   {
-   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-dd071855?mod=rss_markets_main",
-   "summary": "エネルギーと公共事業をカバーする最新のマーケット トークで、E.ON、チャネル インフラストラクチャなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T19:43:00+09:00",
-   "lang": "en",
-   "title_orig": "Energy & Utilities Roundup: Market Talk"
-  },
-  {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-33eec154?mod=rss_markets_main",
-   "summary": "自動車と輸送をカバーする最新のマーケットトークで、TKMS、オースタル、揚子江海事などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T19:38:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
-  },
-  {
-   "title": "債券市場はいかにしてパワーボールを膨らませたか",
-   "link": "https://www.wsj.com/finance/stocks/how-the-bond-market-inflated-powerball-4f5b5f26?mod=rss_markets_main",
-   "summary": "さらに、AI のビット プレーヤーも提供",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-12T19:35:00+09:00",
-   "lang": "en",
-   "title_orig": "How the Bond Market Inflated Powerball"
-  },
-  {
-   "title": "スーパーマイクロ株は決算を受けて上昇している。ウォール街が言っていることはこうだ。",
-   "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
-   "summary": "スーパーマイクロについてアナリストが言っていることは次のとおりです。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T19:34:00+09:00",
-   "lang": "en",
-   "title_orig": "Super Micro stock is rallying after results. Here’s what Wall Street is saying."
-  },
-  {
-   "title": "Airbnbの共同洗濯機で100ドル札を見つけました。どうすればいいですか？",
-   "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-   "summary": "「家主は何ヶ月もここに来ていないので、前の入居者だったと思います。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T19:30:00+09:00",
-   "lang": "en",
-   "title_orig": "I found a $100 bill in the communal washer at my Airbnb. What should I do?"
-  },
-  {
    "title": "【ANAとJALどっちが得？】マイル活用の最適解／特典航空券の取り方／ファーストクラスが一番高いは大間違い／片道予約・提携航空会社の裏ワザ／期限切れ前の延命術 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954656?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "『ウエンツ瑛士のマネーファーム』。ファーム長・ウエンツ瑛士が、視聴者目線でマネーの「育て方」を学ぶ教育バラエティです。第6回のテーマは「航空マイル」。ゲストの専門家は、マイルや航空業界に精通する旅…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-12T19:00:00+09:00"
-  },
-  {
-   "title": "一世帯が退職するのに100万ドルは十分ですか?答えは変わり続けます。",
-   "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-   "summary": "「一部の読者やカップルは、その半分の金額で退職できることに感謝するでしょう。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-12T19:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Is $1 million enough for a household to retire? The answer keeps changing."
-  },
-  {
-   "title": "ウィスコンシン州の予備選挙で穏健派民主党が予想外に社会党に勝利",
-   "link": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1",
-   "summary": "フランチェスカ・ホン氏は、最近の左翼候補者への支持の波を利用すると予想されていた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-12T18:46:38+09:00",
-   "lang": "en",
-   "title_orig": "Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race"
   },
   {
    "title": "ANA、燃油サーチャージ引き下げへ　9～10月、欧米は1万円安く",
@@ -357,16 +365,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-12T16:54:38+09:00"
-  },
-  {
-   "title": "世界は自然界最大のスペクタクルの 1 つである皆既日食の準備をしています",
-   "link": "https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1",
-   "summary": "観客と科学者が集まり、北半球全体で太陽が完全または部分的に遮断される様子を目撃します。",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-12T16:17:34+09:00",
-   "lang": "en",
-   "title_orig": "World prepares for one of nature’s greatest spectacles: a total solar eclipse"
   },
   {
    "title": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新 - ロイター",
@@ -485,6 +483,16 @@
    "title_orig": "Poorer Americans are struggling to make ‘ends meet’, top Fed official says"
   },
   {
+   "title": "中国の優秀な雇用が圧迫される",
+   "link": "https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1",
+   "summary": "建設の低迷と製造の自動化により、5,300万人の中国人が食品配達や配車サービスで低賃金で働いている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-12T13:00:19+09:00",
+   "lang": "en",
+   "title_orig": "China’s great jobs squeeze"
+  },
+  {
    "title": "JD・ヴァンス氏、ウクライナに対し、ロシアの港を利用するタンカーへの攻撃を中止するよう要請",
    "link": "https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1",
    "summary": "ノヴォロシースクからカザフスタンの石油を回収する船舶に対するキエフの作戦にワシントンは警戒している",
@@ -495,14 +503,14 @@
    "title_orig": "JD Vance asked Ukraine to halt strikes on tankers using Russian port"
   },
   {
-   "title": "中国の優秀な雇用が圧迫される",
-   "link": "https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1",
-   "summary": "建設の低迷と製造の自動化により、5,300万人の中国人が食品配達や配車サービスで低賃金で働いている",
+   "title": "レバノン南部を「住めないもの」にするイスラエルのキャンペーン",
+   "link": "https://www.ft.com/content/25bc2df2-7ab8-4b1a-a30f-2fe4d47806ce?syn-25a6b1a6=1",
+   "summary": "イスラエル軍はヒズボラとの停戦にもかかわらず、家、道路、農地、森林を組織的に破壊した",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-08-12T13:00:19+09:00",
+   "published": "2026-08-12T13:00:09+09:00",
    "lang": "en",
-   "title_orig": "China’s great jobs squeeze"
+   "title_orig": "Israel’s campaign to make southern Lebanon ‘unliveable’"
   },
   {
    "title": "世界の一流が実践する､業務が整う16時以降の\"15分\"の使い方　｢毎日忙しいのに達成感がない｣人こそマネしたい習慣 | ライフ | 東洋経済オンライン",
@@ -521,6 +529,14 @@
    "published": "2026-08-12T12:51:26+09:00"
   },
   {
+   "title": "米政権、供給網の「穴」ふさぎ中小企業底上げへ 外国企業進出拡大で - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejVlVmJsYTJjYlE3NXA5akhWNmxUTkx1WTQwOXZWN21zN09oZ3JBSS04OTNkMjZWNTFRM29aR0FaYnVRbFp2OG1rendaWUp0WVlERzZhRklySU11Y0l0WnJPb2NNdF9Uek9JQmR5MVphNjBFdVhxUA?oc=5",
+   "summary": "米政権、供給網の「穴」ふさぎ中小企業底上げへ 外国企業進出拡大で&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T12:46:00+09:00"
+  },
+  {
    "title": "10年物価連動国債（第31回）の入札結果（令和8年8月12日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260812.htm",
    "summary": "",
@@ -535,14 +551,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-12T12:30:00+09:00"
-  },
-  {
-   "title": "午前の日経平均は小幅続伸、米ＣＰＩ発表控え模様眺め - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGxEVnd2VEdzTTA1MHJXNE14MTJveDk3dnJ2ZHRlRXYzQ2JnU0NvakM4cFVEQ3RCYm1KV1NiSXVOUWFQeGhNU0dhLS1qZjVIc19qOV9NaXFkM0p5VHdfbGphUWE1Z3FSSFJSelRyaWJqdTJmak5qUUx6SmZROXJ3aw?oc=5",
-   "summary": "午前の日経平均は小幅続伸、米ＣＰＩ発表控え模様眺め&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T12:05:00+09:00"
   },
   {
    "title": "スペイン･セウタでの移民急増が突きつけるヨーロッパの危機―モロッコの政治利用と揺らぐ移民政策､そして日本の教訓 | 政治・経済・投資 | 東洋経済オンライン",
@@ -747,14 +755,6 @@
    "published": "2026-08-12T07:21:44+09:00"
   },
   {
-   "title": "コアウィーブ、四半期売上高が予想超え 通期設備投資計画引き上げ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NN2pncE5hckRnRXpScDVpUndueHRrNjZoaVA4cDBLaTJIVjd0aERZTDVhWUJtOHRoM2ZjOUJPbXFfOHkydkRXTUE2M1BDZWtFVDlCZmpJSzFYenBzUjBHMVNJRzJKWlc2ajNyQmlaZmNTZHF6MTlDZA?oc=5",
-   "summary": "コアウィーブ、四半期売上高が予想超え 通期設備投資計画引き上げ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T07:10:00+09:00"
-  },
-  {
    "title": "【注目の企業】キオクシア、なぜこんなに話題？　今からでも間に合う“入門記事”まとめました",
    "link": "https://www.itmedia.co.jp/business/articles/2608/12/news024.html",
    "summary": "話題を呼び続ける半導体メモリ大手のキオクシア。一体なぜこんなにも注目されるのか。同社の“今”が分かる記事をまとめた。",
@@ -861,6 +861,22 @@
    "published": "2026-08-12T01:27:43+09:00"
   },
   {
+   "title": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVYwYUZuU0hkQUJfNHplWFcyanRGN0NYX0lwNldWazR1R2dCSXVsT0RsZF9kS3oxS04xN3V0OGhqZ08wdDJSWThZc2EyY213WkdsUlREeFlMQTRWVlEyd2toX3Q5N2F2RGs4b3JBQnpyRkk4UDZBYzdxQTR4cDVGNQ?oc=5",
+   "summary": "米7月中古住宅販売1.7％減、2カ月連続マイナス 高金利が重し&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T23:37:43+09:00"
+  },
+  {
+   "title": "新興国資産、7月は買い越しに転じる 株式売りが鈍化 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IVzVhMHlJZ0MtSXcweER4ZVNiaktHMXEtSWd0Y3BJb2RfV3ZQR0tqNWQyVUFXSFh1S21pQndvUGpKNl92bmJyY2pkREJvTE54VEhOcTVlM0d5YzYwXzBMMi1fZ0RtSlY3WGVna2lnSi1udFVZN3NnWQ?oc=5",
+   "summary": "新興国資産、7月は買い越しに転じる 株式売りが鈍化&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-11T22:29:44+09:00"
+  },
+  {
    "title": "ソニーGとTSMC、次世代画像センサー量産へ　計7470億円出資",
    "link": "https://www.asahi.com/articles/ASV8C3F5FV8CULFA00PM.html?ref=rss",
    "summary": "",
@@ -923,22 +939,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-11T01:00:00+09:00"
-  },
-  {
-   "title": "サントリー、熊本工場復旧に3~4カ月　「可能な限り安定供給図る」",
-   "link": "https://www.asahi.com/articles/ASV8B3D0TV8BULFA015M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-10T19:49:23+09:00"
-  },
-  {
-   "title": "楽天の三木谷社長、KDDIとのローミング契約「順次縮小で合意」",
-   "link": "https://www.asahi.com/articles/ASV8B3439V8BULFA016M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-10T18:49:23+09:00"
   },
   {
    "title": "令和八年熊本地震の影響による「令和８年４－６月期法人企業統計調査」の公表・集計等の取扱いについて掲載しました",
