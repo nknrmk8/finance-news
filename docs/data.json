@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T14:55:49.499044+09:00",
+ "generated_at": "2026-08-13T16:10:44.323587+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,15 +58,17 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
-   "title": "ルーブル高、国民には恩恵あるが輸出企業には問題＝プーチン氏 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FTHMwR29MN2dpd0VOblJuQmZEc3FZRF92ZGtTZzNiY3FGanJuUEJ5ZmZ1cVhQOW00VUQ2VGpGUWdpWjQ1N3FHbmN0cHZOWWVZWDdNN3kwWnI4blM2RUJ2eE95UWZucngyUGtiUEV2NXpxNTlMbi13WA?oc=5",
-   "summary": "ルーブル高、国民には恩恵あるが輸出企業には問題＝プーチン氏&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
+   "title": "ディズニー新アトラクションの名称決定　シューティング型、世界初も",
+   "link": "https://www.asahi.com/articles/ASV8F1HKNV8FULFA00BM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
    "category": "報道機関",
-   "published": "2026-08-13T14:00:00+09:00"
+   "published": "2026-08-13T15:06:58+09:00"
   },
   {
    "title": "2,800億ドルを誇るインドの巨大企業の役員室での争いが「ノエル・タタ時代」の始まりを告げる",
@@ -215,14 +217,6 @@
    "published": "2026-08-13T12:27:37+09:00"
   },
   {
-   "title": "〔ロイターネクスト〕豪中銀追加利上げも、中東情勢不確実でインフレリスク警戒 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96LUd2b2cyRk8tTzNQQVpQNkI3QmJDZzJMUEhQeXVMT25CZlA0YWUwTzRnUmlPVjMyUVBlaU9LemhkNWFrcDcyMzhjRnJBVDRpQl82SUFQMnFqZnpnRGg3UkcweHFXRUQ0cFE3S05jZnhmemhuR1BJWQ?oc=5",
-   "summary": "〔ロイターネクスト〕豪中銀追加利上げも、中東情勢不確実でインフレリスク警戒&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-13T12:20:00+09:00"
-  },
-  {
    "title": "｢えっ､たったこれだけ?｣不整脈のリスクも軽減…自律神経が\"いつの間にか整う\"医師提唱の｢朝昼晩｣のルーティーン | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952501?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "自律神経を整える秘訣は､私たちの\"体内時計\"サーカディアンリズムを守ること。朝日を浴び､セロトニンを活性化し､質の良い眠りを手に入れる。また､コーヒーやお風呂の入り方､睡眠時無呼吸症候群や低血糖の対…",
@@ -331,14 +325,6 @@
    "published": "2026-08-13T10:30:00+09:00"
   },
   {
-   "title": "ベトナム、外資系銀行が現地勢への融資拡大で勢力拡大を狙う - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNejBkTnY4Y0lHT283QzlJU1ZYc1B3OVB5LVpBdzJYSEJqT1VFLTdITGdEU3lUaW9PZFFNYzhUSDZBUmF2YU9qeldNMG16a2ZteUxlTDJpa2NfZFBoaXJzVVQ4OWFPVk5rbGtCWURVUEM5OFllSm1vYThWMl9YdHJaVQ?oc=5",
-   "summary": "ベトナム、外資系銀行が現地勢への融資拡大で勢力拡大を狙う&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-13T10:26:00+09:00"
-  },
-  {
    "title": "米国在庫増加の中で原油下落",
    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-rising-u-s-inventories-8ca9d77f?mod=rss_markets_main",
    "summary": "原油はアジア貿易初期に下落した。米国の原油在庫は先週、輸入が増加する一方で輸出が減少する中、予想外に増加した。",
@@ -441,14 +427,6 @@
    "title_orig": "Nikkei Rises 1.8%, Led by Chip, Electronics Stocks"
   },
   {
-   "title": "米ＢｏｆＡ、インド金融会社ジオ・クレジットへ49.9％出資 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaRjhvLTVVRl9meHJ4NlJYYXNPUzZzQ1laUWY3azZ3amVXOUt2YVB0c0xieERhUE1uZG1ySnQtQ1dIV3l3RGVfd21JTGVTYjUzMEQ3SnJWUkJ3RFpKZThwbklsZEhoTEoyUWtCLWFTdlJ3bGJ6SWc?oc=5",
-   "summary": "米ＢｏｆＡ、インド金融会社ジオ・クレジットへ49.9％出資&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-13T09:56:00+09:00"
-  },
-  {
    "title": "Airbnbの共同洗濯機で100ドル札を見つけました。どうすればいいですか？",
    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
    "summary": "「家主は何ヶ月もここに来ていないので、前の入居者だったと思います。」",
@@ -501,14 +479,6 @@
    "published": "2026-08-13T09:00:00+09:00",
    "lang": "en",
    "title_orig": "Is $1 million enough for a household to retire? The answer keeps changing."
-  },
-  {
-   "title": "豪ＡＮＺ、政府の税制変更で住宅ローン需要鈍化 四半期利益は小幅増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uRWJMLTVJYXhmdngtQU5TT0ZkdGZJQ0ROZEVPbHM4bngwam5ETWI2ajNHWDRJLVZ0QnlYYzJIc1FVdHRFeHJDaFI2Vmt2UzFKZzRqQ0hTVVRxSk1hQW1qclF1TUVUMnRLam9EQVlFZURodXROdlE?oc=5",
-   "summary": "豪ＡＮＺ、政府の税制変更で住宅ローン需要鈍化 四半期利益は小幅増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-13T08:57:36+09:00"
   },
   {
    "title": "企業物価指数（7月）",
@@ -581,14 +551,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-13T08:00:00+09:00"
-  },
-  {
-   "title": "中国銅箔製造のロンダン・ワソンがＮＹ上場、時価総額20億ドル超 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGx6bnNNRURKUDB4QTNOdVlBejZRM1JMa0JQMUVUcVp6b1NrWUZDSWJZV2lOY2VzcEZJNmcwazF5RWtXUGdSVG92VDRXWFFiVkdkYVVuNWxNZXFUU0JYTnMycG9Jbm1LdzVkaUNyeVJZWmpBTl91SW9Ud2FHdkkzSg?oc=5",
-   "summary": "中国銅箔製造のロンダン・ワソンがＮＹ上場、時価総額20億ドル超&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-13T07:55:53+09:00"
   },
   {
    "title": "中国の次の経済的野心：イスラム世界のためのワークショップ",
@@ -721,14 +683,6 @@
    "title_orig": "AI computing power is becoming a tradable asset class as CME launches futures contracts"
   },
   {
-   "title": "サウジ紅海側の原油輸出が不透明化、フーシ派警戒で「ダーク航行」増加 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEdxaHNGaGNuWW9LdUVkMmkzME02bWhVME0tcUlkbVlGSm0xYmhRSjN4VnRUUzdRbFpvUUk4X1dtUFVzaGNNZWxvM2ZIaHpUZGZLUVh1ZHRGMzZ5czNlTVlaOV9IWVlfVk8ybWpKd2FJX1VQUkJLR2hNS21ZTWNKWXl3?oc=5",
-   "summary": "サウジ紅海側の原油輸出が不透明化、フーシ派警戒で「ダーク航行」増加&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T23:05:43+09:00"
-  },
-  {
    "title": "米国7月の消費者物価指数、前年同月比3.4%上昇　市場予想と一致",
    "link": "https://www.asahi.com/articles/ASV8D45CPV8DUHBI00ZM.html?ref=rss",
    "summary": "",
@@ -773,14 +727,6 @@
    "published": "2026-08-12T20:37:21+09:00"
   },
   {
-   "title": "ＢｏｆＡ、米インフラ向け金融に2500億ドル 経済成長や雇用を支援 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56ZDViZ0pTQUxmd0JsRk9MZ3dNc2JHSmNSVjBfbDVsWk02eG81S3RpajlzWFQ4dnpfS2dQTWxIaFpUb3laZjlMeEIxNkRqVU1keDdzTGpnNG1xUS0tcmw0SnFoTHFfbTlRY1lrVnplNlF0MHoxUXc?oc=5",
-   "summary": "ＢｏｆＡ、米インフラ向け金融に2500億ドル 経済成長や雇用を支援&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T19:56:09+09:00"
-  },
-  {
    "title": "新幹線乗り遅れ緊急停止 動画拡散",
    "link": "https://news.yahoo.co.jp/pickup/6591482?source=rss",
    "summary": "",
@@ -795,14 +741,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-12T18:00:00+09:00"
-  },
-  {
-   "title": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnZSMi05dEk0OEpnclBfSDlMbjJ1dU9JTjZ1OVc4X3JOMmpwYm1Ccm5ta1kyMURWdUZJYTU3ZHRlZXZLcUtqMFZkR2tNMVV2VUdEU1J5dTBtaTJic0ppeDJHVldud3lPbHF3NXVERjE3TzRid3pBRktrdEdKRFhuUg?oc=5",
-   "summary": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T16:13:43+09:00"
   },
   {
    "title": "「先見性に富んだ経営判断と果敢な行動力」　奥田さん死去に悼む声",
@@ -829,14 +767,6 @@
    "published": "2026-08-12T16:00:00+09:00"
   },
   {
-   "title": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWVNha0hfSmY0ZjI1LXFXOVg0Z2I2NDMyQjNpTmJkaHNNb0JXVzNOelZma0xnaVpJVEl4T1psbU01OWpYZW5IRFRoWHVudFI0V2J4WmszbHdvX0VtN0RuR2s0cDgzVWV5OGNOUFZTSGFTVzkwWUE?oc=5",
-   "summary": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T15:20:00+09:00"
-  },
-  {
    "title": "（論文）サプライチェーンを介した企業の支出行動の連関",
    "link": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j10.htm",
    "summary": "",
@@ -853,28 +783,12 @@
    "published": "2026-08-12T14:00:00+09:00"
   },
   {
-   "title": "米政権、供給網の「穴」ふさぎ中小企業底上げへ 外国企業進出拡大で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iejVlVmJsYTJjYlE3NXA5akhWNmxUTkx1WTQwOXZWN21zN09oZ3JBSS04OTNkMjZWNTFRM29aR0FaYnVRbFp2OG1rendaWUp0WVlERzZhRklySU11Y0l0WnJPb2NNdF9Uek9JQmR5MVphNjBFdVhxUA?oc=5",
-   "summary": "米政権、供給網の「穴」ふさぎ中小企業底上げへ 外国企業進出拡大で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T12:46:00+09:00"
-  },
-  {
    "title": "10年物価連動国債（第31回）の入札結果（令和8年8月12日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260812.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-12T12:35:00+09:00"
-  },
-  {
-   "title": "午前の日経平均は小幅続伸、米ＣＰＩ発表控え模様眺め - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGxEVnd2VEdzTTA1MHJXNE14MTJveDk3dnJ2ZHRlRXYzQ2JnU0NvakM4cFVEQ3RCYm1KV1NiSXVOUWFQeGhNU0dhLS1qZjVIc19qOV9NaXFkM0p5VHdfbGphUWE1Z3FSSFJSelRyaWJqdTJmak5qUUx6SmZROXJ3aw?oc=5",
-   "summary": "午前の日経平均は小幅続伸、米ＣＰＩ発表控え模様眺め&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T12:05:00+09:00"
   },
   {
    "title": "トヨタと企業社会を変えた「財界総理」の決断力　奥田碩さんを悼む",
@@ -901,36 +815,12 @@
    "published": "2026-08-12T10:20:00+09:00"
   },
   {
-   "title": "豪ＣＢＡ、融資好調で通期利益が過去最高 住宅ローン需要急減を警告 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54clZaNF9sbnhncEVUcUdxZGFLekdxQzhKdU5Md05rNE5tc016Q1ptejhyY2U2RWMxcHU2TGxjNXh2bUtScDFaVFlDOHpPRlFxdXpzN1llZWZfMWUxWEFlT0pzenAtc0M2T3g5SGFYeEQxZkVVaGc?oc=5",
-   "summary": "豪ＣＢＡ、融資好調で通期利益が過去最高 住宅ローン需要急減を警告&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T10:01:00+09:00"
-  },
-  {
-   "title": "ライン川の過去最低水位、ドイツで企業物流や発電に支障 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81bWNjVFdKbHJ3T0cyVDNSZzNrbDhWZ1BmcnBzSEJOQ1NCcW1HcV9hWE9BVVJLV1haWWk3SDlLR29oMk5GNVo5bHVweFF2WHVOcnpIREc5SVdyZTAxYjB2UFRKWGg4SFVpbU9fVWFROHI5dnBCdndVdg?oc=5",
-   "summary": "ライン川の過去最低水位、ドイツで企業物流や発電に支障&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T09:42:00+09:00"
-  },
-  {
    "title": "元経団連会長の奥田碩さん死去、93歳　トヨタで会長・社長を歴任",
    "link": "https://www.asahi.com/articles/ASV8C5J41V8CULFA026M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-12T09:41:13+09:00"
-  },
-  {
-   "title": "スイスのスポーツ用品大手オン、米州で成長鈍化 株価急落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTFo0M3JkdjF2czdEaGY1TURsTXpuU2tYWVhSdS1Jd19BUW1wc2FqaXVmR3UwN3JBOEF2a2hTUXpyQ0h0dDRiN1JDY0kzdVBaZlNyUUNuZ0duWm5iZUhZTlRuc1pDYW41ZnlOMG5zU25OWFRrTVJpNA?oc=5",
-   "summary": "スイスのスポーツ用品大手オン、米州で成長鈍化 株価急落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T09:30:00+09:00"
   },
   {
    "title": "東南アジアで最も車が売れるマレーシア　日中メーカーが「代理戦争」",
@@ -965,14 +855,6 @@
    "published": "2026-08-12T08:00:00+09:00"
   },
   {
-   "title": "トヨタでHV投入前倒し、財界で変革めざすリーダー　奥田碩さん死去",
-   "link": "https://www.asahi.com/articles/ASV8C5KJRV8CULFA002M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-12T02:15:19+09:00"
-  },
-  {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
    "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
    "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
@@ -995,14 +877,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-10T17:00:00+09:00"
-  },
-  {
-   "title": "地域情報誌の記者になろう！ ～特集「わたしたちのまちの“だれでもおでかけスポット”」（令和８年８月）",
-   "link": "https://www.mof.go.jp/tax_policy/publication/brochure/20260805120325.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-10T15:00:00+09:00"
   }
  ]
 }
