@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T03:04:13.687198+09:00",
+ "generated_at": "2026-08-14T04:16:34.350909+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,56 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "中東の膠着状態の中、石油が連勝記録を更新",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-rising-u-s-inventories-8ca9d77f?mod=rss_markets_main",
+   "summary": "米国とイランがいずれも戦略上のホルムズ海峡の制海権を主張していることを受け、原油先物相場は下落して落ち着いた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T04:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Snaps Winning Streak Amid Middle East Stalemate"
+  },
+  {
+   "title": "レイカーズのオーナーは現金を必要としていた。その後、125億ドルでチームを買収するというオファーが来た。",
+   "link": "https://www.wsj.com/sports/basketball/lakers-mark-walter-joshua-kushner-bob-iger-0ceeea23?mod=rss_markets_main",
+   "summary": "連邦捜査と流動性危機に直面していたマーク・ウォルターは、レイカーズを上州に売却するという突然の申し出を受け入れるのにわずか72時間しか要さなかった",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T03:58:00+09:00",
+   "lang": "en",
+   "title_orig": "The Lakers’ Owner Needed Cash. Then Came a $12.5 Billion Offer to Buy the Team."
+  },
+  {
+   "title": "米国の天然ガス先物が貯蔵データを上回る",
+   "link": "https://www.wsj.com/finance/commodities-futures/european-gas-market-faces-supply-pressures-but-u-s-cargoes-might-ease-some-concerns-9c9f662e?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物はEIAの週次在庫報告を前に下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T03:58:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Fall Ahead of Storage Data"
+  },
+  {
+   "title": "ビル・アックマン氏、撤退から4年後にNetflixを再び買収、ストリーミング戦争に勝利したと語る",
+   "link": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html",
+   "summary": "アックマン氏率いるパーシング・スクエア・キャピタル・マネジメントは、半期報告書の中でネットフリックスにおける新たな立場を明らかにした。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-14T03:04:33+09:00",
+   "lang": "en",
+   "title_orig": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars"
+  },
+  {
+   "title": "ドナルド・トランプ大統領、アメリカ企業にサイバー犯罪との戦いに協力を求める",
+   "link": "https://www.ft.com/content/a468c20b-cf1d-4a36-87b8-4eb15666e6c4?syn-25a6b1a6=1",
+   "summary": "私掠行為の推進は、敵と戦うために民間人を雇用するという米国の革命戦争時代の戦略を反映している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-14T03:03:32+09:00",
+   "lang": "en",
+   "title_orig": "Donald Trump enlists corporate America in fight against cyber crime"
+  },
   {
    "title": "コメックスゴールドは1.03%安の4363.60ドルで決済",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-reduced-fed-rate-hike-expectations-4497e55a?mod=rss_markets_main",
@@ -141,16 +191,6 @@
    "title_orig": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on"
   },
   {
-   "title": "ドナルド・トランプ大統領、アメリカ企業にサイバー犯罪との戦いに協力を求める",
-   "link": "https://www.ft.com/content/a468c20b-cf1d-4a36-87b8-4eb15666e6c4?syn-25a6b1a6=1",
-   "summary": "私掠行為の推進は、敵と戦うために民間人を雇用するという米国の革命戦争時代の戦略を反映している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-14T01:28:49+09:00",
-   "lang": "en",
-   "title_orig": "Donald Trump enlists corporate America in fight against cyber crime"
-  },
-  {
    "title": "基本資料のまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-93c4d8bd?mod=rss_markets_main",
    "summary": "基本的な材料をカバーする最新のマーケット トークで、アントファガスタ、リチウム アメリカ、パーム油などに関する洞察を見つけてください。",
@@ -179,46 +219,6 @@
    "published": "2026-08-14T01:24:00+09:00",
    "lang": "en",
    "title_orig": "Energy & Utilities Roundup: Market Talk"
-  },
-  {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-87c2e936?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Cisco、Telstra、Lenovo などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T01:22:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "ビル・アックマン氏、撤退から4年後にNetflixを再び買収、ストリーミング戦争に勝利したと語る",
-   "link": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html",
-   "summary": "アックマン氏率いるパーシング・スクエア・キャピタル・マネジメントは、半期報告書の中でネットフリックスにおける新たな立場を明らかにした。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-14T01:09:51+09:00",
-   "lang": "en",
-   "title_orig": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars"
-  },
-  {
-   "title": "レイカーズのオーナーは現金を必要としていた。その後、125億ドルでチームを買収するというオファーが来た。",
-   "link": "https://www.wsj.com/finance/lakers-mark-walter-joshua-kushner-bob-iger-0ceeea23?mod=rss_markets_main",
-   "summary": "連邦捜査と流動性危機に直面していたマーク・ウォルターは、レイカーズを上州に売却するという突然の申し出を受け入れるのにわずか72時間しか要さなかった",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T01:00:00+09:00",
-   "lang": "en",
-   "title_orig": "The Lakers’ Owner Needed Cash. Then Came a $12.5 Billion Offer to Buy the Team."
-  },
-  {
-   "title": "米国の天然ガス先物が貯蔵データを上回る",
-   "link": "https://www.wsj.com/finance/commodities-futures/european-gas-market-faces-supply-pressures-but-u-s-cargoes-might-ease-some-concerns-9c9f662e?mod=rss_markets_main",
-   "summary": "米国の天然ガス先物はEIAの週次在庫報告を前に下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T01:00:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Futures Fall Ahead of Storage Data"
   },
   {
    "title": "米国、トランプ大統領の関税回避を中国に支援したとして40カ国以上を非難",
@@ -357,14 +357,6 @@
    "published": "2026-08-13T20:35:00+09:00"
   },
   {
-   "title": "消費税「実質ゼロ」賛成４９％　国民民主支持層は６割弱―時事世論調査",
-   "link": "https://www.jiji.com/jc/article?k=2026081300712&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-13T20:32:00+09:00"
-  },
-  {
    "title": "【円安の是正に“奇策”なし】“実弾”での協調介入に透ける米国の「焦り」／過去の為替介入にも「限界」が／秋に日銀「利上げなし」なら円安に拍車も／「骨太ショック」がかけた追い打ち／緩やかな円安はまだ続く | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954784?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "日米の両政府は7月31日、実に28年ぶりとなる円買い・ドル売りの協調介入を実施した。その直前に1ドル164円に迫る円安水準だったドル円相場は、介入後に一時155円台まで円高が進んだ。しかし、約２週間…",
@@ -429,14 +421,6 @@
    "published": "2026-08-13T17:47:53+09:00"
   },
   {
-   "title": "内閣支持横ばい４８．４％　予算委出席減、４割弱が問題視―時事世論調査",
-   "link": "https://www.jiji.com/jc/article?k=2026081300707&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-13T17:02:00+09:00"
-  },
-  {
    "title": "日本銀行が保有する国債の銘柄別残高",
    "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260810.xlsx",
    "summary": "",
@@ -485,12 +469,28 @@
    "published": "2026-08-13T16:30:00+09:00"
   },
   {
+   "title": "日経平均は3日続伸、半導体関連株がリード ＴＯＰＩＸは連日の最高値 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDdTLWlNVjZsdERwWE9LUXdSVzlEcWZaMUpUNks2LUR0czYyYXh6Vm5US3FHSkRkTHI3UHNJSlltSGJLUjlsT3JZRmk4SG1RV1hXSkhRMWFrMTc0OGJPUGo4a2xXbEdVclNGSmhKYklIdHNIdjR1Z1NPSnJKLS1vVQ?oc=5",
+   "summary": "日経平均は3日続伸、半導体関連株がリード ＴＯＰＩＸは連日の最高値&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T16:19:35+09:00"
+  },
+  {
    "title": "ディズニー新アトラクションの名称決定　シューティング型、世界初も",
    "link": "https://www.asahi.com/articles/ASV8F1HKNV8FULFA00BM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-13T15:06:58+09:00"
+  },
+  {
+   "title": "ルーブル高、国民には恩恵あるが輸出企業には問題＝プーチン氏 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FTHMwR29MN2dpd0VOblJuQmZEc3FZRF92ZGtTZzNiY3FGanJuUEJ5ZmZ1cVhQOW00VUQ2VGpGUWdpWjQ1N3FHbmN0cHZOWWVZWDdNN3kwWnI4blM2RUJ2eE95UWZucngyUGtiUEV2NXpxNTlMbi13WA?oc=5",
+   "summary": "ルーブル高、国民には恩恵あるが輸出企業には問題＝プーチン氏&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T14:00:00+09:00"
   },
   {
    "title": "芸能プロの佐藤企画 破産開始決定",
@@ -563,6 +563,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-13T13:00:00+09:00"
+  },
+  {
+   "title": "印タタ・モーターズ、4－6月期は増収増益 原材料費高騰で値上げへ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FRjhFWWZOSXhmY2FZTVJ6WTdVUVlLNl9JT3NKOW1SVEZRSzRZallueTYwbmZkNUlvQ1BzNUp2M2NkMmZVWnF2a1p4UGtIQkNNb3ZfVC05RHZnYVBzTVhOSVhUdUpHbWVfb29WV050QlpzT0laOTlEWg?oc=5",
+   "summary": "印タタ・モーターズ、4－6月期は増収増益 原材料費高騰で値上げへ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T12:30:00+09:00"
   },
   {
    "title": "グーグル新型｢Pixel 11｣が目指した\"スマホを見ない\"体験､AIで操作を減らす新機能と日本重視の価格戦略 | ビジネス | 東洋経済オンライン",
@@ -652,7 +660,7 @@
    "summary": "原油先物は1ドル超下落、需要見通し下方修正受け&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-13T10:44:55+09:00"
+   "published": "2026-08-13T10:44:00+09:00"
   },
   {
    "title": "EV が中国の自動車市場を独占: 中国の最新の自動車販売データから得られる 5 つのポイント",
@@ -709,14 +717,6 @@
    "link": "https://www.asahi.com/articles/ASV8C0PZ5V8CULFA001M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-13T10:00:00+09:00"
-  },
-  {
-   "title": "ウクライナ、モルドバと鉄道貨物輸送50％割引で合意 穀物輸出後押し - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkd0dWFfZUE0eGxQaklRaVNZUzhuc2FKYnp3YVRNMHd4ZHllc3YzYmF4SVVOWXZXcGlWS0xma2pvWWVtTlF1MDVwM2RxM2t4MWI2dlIyby1BaU1vVldQd1dzQld4a1lDVTVxdVpSSWxHSmNXdW1KQ1JhWjF4UExBQw?oc=5",
-   "summary": "ウクライナ、モルドバと鉄道貨物輸送50％割引で合意 穀物輸出後押し&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-13T10:00:00+09:00"
   },
@@ -909,14 +909,6 @@
    "published": "2026-08-12T17:31:43+09:00"
   },
   {
-   "title": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnZSMi05dEk0OEpnclBfSDlMbjJ1dU9JTjZ1OVc4X3JOMmpwYm1Ccm5ta1kyMURWdUZJYTU3ZHRlZXZLcUtqMFZkR2tNMVV2VUdEU1J5dTBtaTJic0ppeDJHVldud3lPbHF3NXVERjE3TzRid3pBRktrdEdKRFhuUg?oc=5",
-   "summary": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T16:13:43+09:00"
-  },
-  {
    "title": "「先見性に富んだ経営判断と果敢な行動力」　奥田さん死去に悼む声",
    "link": "https://www.asahi.com/articles/ASV8D26CWV8DULFA017M.html?ref=rss",
    "summary": "",
@@ -939,14 +931,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-12T16:00:00+09:00"
-  },
-  {
-   "title": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWVNha0hfSmY0ZjI1LXFXOVg0Z2I2NDMyQjNpTmJkaHNNb0JXVzNOelZma0xnaVpJVEl4T1psbU01OWpYZW5IRFRoWHVudFI0V2J4WmszbHdvX0VtN0RuR2s0cDgzVWV5OGNOUFZTSGFTVzkwWUE?oc=5",
-   "summary": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-12T15:20:00+09:00"
   },
   {
    "title": "（論文）サプライチェーンを介した企業の支出行動の連関",
