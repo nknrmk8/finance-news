@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T16:10:44.323587+09:00",
+ "generated_at": "2026-08-13T17:41:34.313568+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,10 +58,150 @@
    "category": "海外金融"
   }
  ],
- "errors": [
-  "ロイター: HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "今日の株式市場: 株式先物相場が上昇",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026?mod=rss_markets_main",
+   "summary": "アジア市場はAI熱意で上昇、利回りは低下",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-13T17:31:51+09:00",
+   "lang": "en",
+   "title_orig": "Stock Market Today: Stock Futures Tick Higher"
+  },
+  {
+   "title": "米国在庫増加の中で原油下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-rising-u-s-inventories-8ca9d77f?mod=rss_markets_main",
+   "summary": "原油はアジア貿易初期に下落した。米国の原油在庫は先週、輸入が増加する一方で輸出が減少する中、予想外に増加した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-13T17:03:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Falls Amid Rising U.S. Inventories"
+  },
+  {
+   "title": "内閣支持横ばい４８．４％　予算委出席減、４割弱が問題視―時事世論調査",
+   "link": "https://www.jiji.com/jc/article?k=2026081300707&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-13T17:02:00+09:00"
+  },
+  {
+   "title": "日本銀行が保有する国債の銘柄別残高",
+   "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-13T17:00:00+09:00"
+  },
+  {
+   "title": "FRBの利上げ見通しが低下する中、シンガポールドルは堅調",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-fed-rate-cut-prospects-493719f8?mod=rss_markets_main",
+   "summary": "アジアの午前中の取引では、シンガポールドルは対ドルで安定していた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-13T17:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Singapore Dollar Steady Amid Lower Fed Rate-Hike Prospects"
+  },
+  {
+   "title": "FRB利上げ期待の後退で金が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-reduced-fed-rate-hike-expectations-4497e55a?mod=rss_markets_main",
+   "summary": "金はアジア貿易初期に上昇した。 7月の消費者物価指数が米国のインフレ統計を受けて、FRBの利上げ期待が後退した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-13T16:57:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Gains on Reduced Fed Rate Hike Expectations"
+  },
+  {
+   "title": "すかいらーく 宅配専門店を導入へ",
+   "link": "https://news.yahoo.co.jp/pickup/6591593?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-13T16:51:19+09:00"
+  },
+  {
+   "title": "ロシアの大きな存在、エネルギー政策に影響は　大統領の北方領土訪問",
+   "link": "https://www.asahi.com/articles/ASV8F2G9PV8FULFA00ZM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-13T16:46:43+09:00"
+  },
+  {
+   "title": "日経平均はチップ株、エレクトロニクス株主導で1.8％上昇",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-electronics-stocks-c3e841b8?mod=rss_markets_main",
+   "summary": "FRBの利上げの可能性に対する懸念が和らぎ、一夜にして米国のハイテク株が上昇したことを受けて、日本株は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-13T16:43:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Rises 1.8%, Led by Chip, Electronics Stocks"
+  },
+  {
+   "title": "そごう 19年ぶり「本店」名称復活",
+   "link": "https://news.yahoo.co.jp/pickup/6591590?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-13T16:38:03+09:00"
+  },
+  {
+   "title": "九州自動車道 14日朝に全線復旧",
+   "link": "https://news.yahoo.co.jp/pickup/6591591?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-13T16:33:24+09:00"
+  },
+  {
+   "title": "フェイルの発生状況（7月）",
+   "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2607.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-13T16:30:00+09:00"
+  },
+  {
+   "title": "アントファガスタ、チリの大雨を受けて増益だが生産指導を削減",
+   "link": "https://www.wsj.com/finance/commodities-futures/antofagasta-posts-higher-earnings-but-cuts-production-guidance-after-heavy-rain-in-chile-c7bcada7?mod=rss_markets_main",
+   "summary": "価格の上昇により操業コストの上昇は相殺されたが、銅鉱山会社は悪天候により一時操業が停止されたことを受け、通年の生産見通しを下方修正した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-13T16:28:00+09:00",
+   "lang": "en",
+   "title_orig": "Antofagasta Posts Higher Earnings But Cuts Production Guidance After Heavy Rain in Chile"
+  },
+  {
+   "title": "レノボの利益はAIコンピューター、サーバー、サービスで予想を超えて急上昇",
+   "link": "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories",
+   "summary": "レノボ・グループは木曜日、人工知能開発における最新の企業となり、投資家を超越した利益の急騰を報告した",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-13T16:20:00+09:00",
+   "lang": "en",
+   "title_orig": "Lenovo profits soar past expectations on AI computers, servers and services"
+  },
+  {
+   "title": "日経平均は3日続伸、半導体関連株がリード ＴＯＰＩＸは連日の最高値 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDdTLWlNVjZsdERwWE9LUXdSVzlEcWZaMUpUNks2LUR0czYyYXh6Vm5US3FHSkRkTHI3UHNJSlltSGJLUjlsT3JZRmk4SG1RV1hXSkhRMWFrMTc0OGJPUGo4a2xXbEdVclNGSmhKYklIdHNIdjR1Z1NPSnJKLS1vVQ?oc=5",
+   "summary": "日経平均は3日続伸、半導体関連株がリード ＴＯＰＩＸは連日の最高値&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T16:19:35+09:00"
+  },
+  {
+   "title": "「関税還付で二重取り」　トヨタなど提訴―米消費者",
+   "link": "https://www.jiji.com/jc/article?k=2026081300807&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-13T15:55:00+09:00"
+  },
   {
    "title": "ディズニー新アトラクションの名称決定　シューティング型、世界初も",
    "link": "https://www.asahi.com/articles/ASV8F1HKNV8FULFA00BM.html?ref=rss",
@@ -95,14 +235,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-13T13:11:12+09:00"
-  },
-  {
-   "title": "米国外初 表参道にグーグル直営店",
-   "link": "https://news.yahoo.co.jp/pickup/6591566?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-13T13:08:05+09:00"
   },
   {
    "title": "人間的投資家は記録的な IPO で 2 兆ドルの評価額に賭けた",
@@ -191,22 +323,20 @@
    "published": "2026-08-13T13:00:00+09:00"
   },
   {
+   "title": "印タタ・モーターズ、4－6月期は増収増益 原材料費高騰で値上げへ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FRjhFWWZOSXhmY2FZTVJ6WTdVUVlLNl9JT3NKOW1SVEZRSzRZallueTYwbmZkNUlvQ1BzNUp2M2NkMmZVWnF2a1p4UGtIQkNNb3ZfVC05RHZnYVBzTVhOSVhUdUpHbWVfb29WV050QlpzT0laOTlEWg?oc=5",
+   "summary": "印タタ・モーターズ、4－6月期は増収増益 原材料費高騰で値上げへ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T12:30:00+09:00"
+  },
+  {
    "title": "グーグル新型｢Pixel 11｣が目指した\"スマホを見ない\"体験､AIで操作を減らす新機能と日本重視の価格戦略 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954495?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "デジタルとの距離感が問われる現代､Googleは新型Pixelシリーズで｢画面を見ない時間｣を重視した独自のアプローチを提示。AI｢Gemini Intelligence｣や新機能｢HiLight｣…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-13T12:30:00+09:00"
-  },
-  {
-   "title": "FRBの利上げ見通しが低下する中、シンガポールドルは堅調",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-fed-rate-cut-prospects-493719f8?mod=rss_markets_main",
-   "summary": "アジアの午前中の取引では、シンガポールドルは対ドルで安定していた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-13T12:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Singapore Dollar Steady Amid Lower Fed Rate-Hike Prospects"
   },
   {
    "title": "グーグル、表参道に米国外初の直営店　AIでアバターや仮想空間体験",
@@ -325,16 +455,6 @@
    "published": "2026-08-13T10:30:00+09:00"
   },
   {
-   "title": "米国在庫増加の中で原油下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-rising-u-s-inventories-8ca9d77f?mod=rss_markets_main",
-   "summary": "原油はアジア貿易初期に下落した。米国の原油在庫は先週、輸入が増加する一方で輸出が減少する中、予想外に増加した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-13T10:25:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Falls Amid Rising U.S. Inventories"
-  },
-  {
    "title": "【奥田碩氏が死去】｢創業家の持ち株は1〜2％に過ぎない｣…トヨタを大きく変えようとした辣腕経営者が目指したもの | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954577?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "日本経団連会長やトヨタ自動車社長を務めた奥田碩氏が93歳で逝去。その強烈なリーダーシップと反骨精神は､消費税引き上げや企業献金問題など数々の難題に挑み続けました。｢使命｣に執念を燃やした奥田氏の美学…",
@@ -361,16 +481,6 @@
    "published": "2026-08-13T10:04:00+09:00",
    "lang": "en",
    "title_orig": "What We Learned Tracing North Korea’s Hidden Workforce Inside American Companies"
-  },
-  {
-   "title": "FRB利上げ期待の後退で金が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-reduced-fed-rate-hike-expectations-4497e55a?mod=rss_markets_main",
-   "summary": "金はアジア貿易初期に上昇した。 7月の消費者物価指数が米国のインフレ統計を受けて、FRBの利上げ期待が後退した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-13T10:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Gains on Reduced Fed Rate Hike Expectations"
   },
   {
    "title": "政府肝いり半導体人材育成はなぜ苦戦　参加は想定の半分以下の13人",
@@ -417,14 +527,12 @@
    "title_orig": "Inside North Korea’s Operation to Conquer the American Job Market"
   },
   {
-   "title": "日経平均はチップ株、エレクトロニクス株主導で1.8％上昇",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-electronics-stocks-c3e841b8?mod=rss_markets_main",
-   "summary": "FRBの利上げの可能性に対する懸念が和らぎ、一夜にして米国のハイテク株が上昇したことを受けて、日本株は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-13T09:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Rises 1.8%, Led by Chip, Electronics Stocks"
+   "title": "米ＢｏｆＡ、インド金融会社ジオ・クレジットへ49.9％出資 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaRjhvLTVVRl9meHJ4NlJYYXNPUzZzQ1laUWY3azZ3amVXOUt2YVB0c0xieERhUE1uZG1ySnQtQ1dIV3l3RGVfd21JTGVTYjUzMEQ3SnJWUkJ3RFpKZThwbklsZEhoTEoyUWtCLWFTdlJ3bGJ6SWc?oc=5",
+   "summary": "米ＢｏｆＡ、インド金融会社ジオ・クレジットへ49.9％出資&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T09:56:00+09:00"
   },
   {
    "title": "Airbnbの共同洗濯機で100ドル札を見つけました。どうすればいいですか？",
@@ -481,6 +589,14 @@
    "title_orig": "Is $1 million enough for a household to retire? The answer keeps changing."
   },
   {
+   "title": "豪ＡＮＺ、政府の税制変更で住宅ローン需要鈍化 四半期利益は小幅増 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uRWJMLTVJYXhmdngtQU5TT0ZkdGZJQ0ROZEVPbHM4bngwam5ETWI2ajNHWDRJLVZ0QnlYYzJIc1FVdHRFeHJDaFI2Vmt2UzFKZzRqQ0hTVVRxSk1hQW1qclF1TUVUMnRLam9EQVlFZURodXROdlE?oc=5",
+   "summary": "豪ＡＮＺ、政府の税制変更で住宅ローン需要鈍化 四半期利益は小幅増&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T08:57:36+09:00"
+  },
+  {
    "title": "企業物価指数（7月）",
    "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2607.pdf",
    "summary": "",
@@ -497,12 +613,12 @@
    "published": "2026-08-13T08:30:00+09:00"
   },
   {
-   "title": "スシロー&くら寿司 次の成長戦略",
-   "link": "https://news.yahoo.co.jp/pickup/6591525?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-13T08:29:24+09:00"
+   "title": "ネビウス第2四半期決算、ＡＩ向けクラウド好調で売上高が予想上回る - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMU3JDanJOUC13TWVBRVFOTTRUbTNjd2FpalhhLVRXVnZXMGJPclc1MzlNWWJZeDdSd1VxTER1bDVWNzhKSjlJcG1fb0N5TEpiTHM4REhQajlydzJVUkJLN2dSdXN4cFNwNTFydElVenNUaTRkV1NVTQ?oc=5",
+   "summary": "ネビウス第2四半期決算、ＡＩ向けクラウド好調で売上高が予想上回る&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T08:18:33+09:00"
   },
   {
    "title": "高密度の金含む鉱石 相次ぎ発見",
@@ -553,6 +669,14 @@
    "published": "2026-08-13T08:00:00+09:00"
   },
   {
+   "title": "中国銅箔製造のロンダン・ワソンがＮＹ上場、時価総額20億ドル超 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGx6bnNNRURKUDB4QTNOdVlBejZRM1JMa0JQMUVUcVp6b1NrWUZDSWJZV2lOY2VzcEZJNmcwazF5RWtXUGdSVG92VDRXWFFiVkdkYVVuNWxNZXFUU0JYTnMycG9Jbm1LdzVkaUNyeVJZWmpBTl91SW9Ud2FHdkkzSg?oc=5",
+   "summary": "中国銅箔製造のロンダン・ワソンがＮＹ上場、時価総額20億ドル超&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-13T07:55:53+09:00"
+  },
+  {
    "title": "中国の次の経済的野心：イスラム世界のためのワークショップ",
    "link": "https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories",
    "summary": "中国の輸出業者はハラル食品、化粧品、ファッション分野に進出しているが、この広大な市場で成功できるかどうかは、ハラル食品よりも製造が難しいものにかかっています。",
@@ -573,16 +697,6 @@
    "title_orig": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own"
   },
   {
-   "title": "Lumentum の株価が急騰し、光ネットワーク取引がさらに加速",
-   "link": "https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
-   "summary": "Lumentum の明るい結果を受けて、Coherent の収益報告に対する興奮が高まっています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-13T07:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Lumentum’s stock surges, giving a further boost to the optical-networking trade"
-  },
-  {
    "title": "万引き犯を追った20代店員が｢わずかな出血｣で憤死した謎…献血よりも少ない300mlの出血が致命傷になる人体の盲点 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952412?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "不審死、変死、孤独死……。死因が特定できない遺体が今日も西田法医解剖医のもとへ運び込まれる。この遺体はどうして死を迎えなければならなかったのか……！？ 宝くじで借金を返そうとした男、老々介護の末路、…",
@@ -597,26 +711,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-13T07:00:00+09:00"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4cbbe78d?mod=rss_markets_main",
-   "summary": "金融サービスを対象とした最新の Market Talks で、Hannover Re、ABN AMRO、Suncorp などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-13T06:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-dd071855?mod=rss_markets_main",
-   "summary": "エネルギーと公益事業をカバーする最新のマーケット トークで、石油先物、E.ON、チャネル インフラストラクチャなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-13T06:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Energy & Utilities Roundup: Market Talk"
   },
   {
    "title": "レシピやビジネスも…新聞や雑誌から回答　KDDIが新AIサービス",
@@ -683,6 +777,14 @@
    "title_orig": "AI computing power is becoming a tradable asset class as CME launches futures contracts"
   },
   {
+   "title": "サウジ紅海側の原油輸出が不透明化、フーシ派警戒で「ダーク航行」増加 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEdxaHNGaGNuWW9LdUVkMmkzME02bWhVME0tcUlkbVlGSm0xYmhRSjN4VnRUUzdRbFpvUUk4X1dtUFVzaGNNZWxvM2ZIaHpUZGZLUVh1ZHRGMzZ5czNlTVlaOV9IWVlfVk8ybWpKd2FJX1VQUkJLR2hNS21ZTWNKWXl3?oc=5",
+   "summary": "サウジ紅海側の原油輸出が不透明化、フーシ派警戒で「ダーク航行」増加&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T23:05:43+09:00"
+  },
+  {
    "title": "米国7月の消費者物価指数、前年同月比3.4%上昇　市場予想と一致",
    "link": "https://www.asahi.com/articles/ASV8D45CPV8DUHBI00ZM.html?ref=rss",
    "summary": "",
@@ -719,12 +821,12 @@
    "title_orig": "New York City Council announces probe into prediction market platforms’ marketing strategies"
   },
   {
-   "title": "イオン爆発 ハビタが「補償模索」",
-   "link": "https://news.yahoo.co.jp/pickup/6591485?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-12T20:37:21+09:00"
+   "title": "ＢｏｆＡ、米インフラ向け金融に2500億ドル 経済成長や雇用を支援 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56ZDViZ0pTQUxmd0JsRk9MZ3dNc2JHSmNSVjBfbDVsWk02eG81S3RpajlzWFQ4dnpfS2dQTWxIaFpUb3laZjlMeEIxNkRqVU1keDdzTGpnNG1xUS0tcmw0SnFoTHFfbTlRY1lrVnplNlF0MHoxUXc?oc=5",
+   "summary": "ＢｏｆＡ、米インフラ向け金融に2500億ドル 経済成長や雇用を支援&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T19:56:09+09:00"
   },
   {
    "title": "新幹線乗り遅れ緊急停止 動画拡散",
@@ -741,6 +843,22 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-12T18:00:00+09:00"
+  },
+  {
+   "title": "ギリシャ、熱波や森林火災で財政リスク増大＝首相顧問 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHBGczFNcVp6cU5raE5meWxneU9ETkk3azVGZGExXzVkQ1Ezb3Y2U3gtLWxkeFE3TWlqUUlMYnlud292aXE4QXljVUl4cE5uRlJyZTNVZkh2WHJEOHcxdWctS05SWFlvSk9oQzFwRTA1NWRnejVjQS1ZVVNuZHg3Mg?oc=5",
+   "summary": "ギリシャ、熱波や森林火災で財政リスク増大＝首相顧問&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T17:31:43+09:00"
+  },
+  {
+   "title": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnZSMi05dEk0OEpnclBfSDlMbjJ1dU9JTjZ1OVc4X3JOMmpwYm1Ccm5ta1kyMURWdUZJYTU3ZHRlZXZLcUtqMFZkR2tNMVV2VUdEU1J5dTBtaTJic0ppeDJHVldud3lPbHF3NXVERjE3TzRid3pBRktrdEdKRFhuUg?oc=5",
+   "summary": "日経平均は続伸、夏枯れを意識 ＴＯＰＩＸは高値更新&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T16:13:43+09:00"
   },
   {
    "title": "「先見性に富んだ経営判断と果敢な行動力」　奥田さん死去に悼む声",
@@ -767,6 +885,14 @@
    "published": "2026-08-12T16:00:00+09:00"
   },
   {
+   "title": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWVNha0hfSmY0ZjI1LXFXOVg0Z2I2NDMyQjNpTmJkaHNNb0JXVzNOelZma0xnaVpJVEl4T1psbU01OWpYZW5IRFRoWHVudFI0V2J4WmszbHdvX0VtN0RuR2s0cDgzVWV5OGNOUFZTSGFTVzkwWUE?oc=5",
+   "summary": "蘭ＡＢＮアムロ、通年業績見通し上げ 予想上回る第2四半期受け&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T15:20:00+09:00"
+  },
+  {
    "title": "（論文）サプライチェーンを介した企業の支出行動の連関",
    "link": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j10.htm",
    "summary": "",
@@ -789,6 +915,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-12T12:35:00+09:00"
+  },
+  {
+   "title": "午前の日経平均は小幅続伸、米ＣＰＩ発表控え模様眺め - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGxEVnd2VEdzTTA1MHJXNE14MTJveDk3dnJ2ZHRlRXYzQ2JnU0NvakM4cFVEQ3RCYm1KV1NiSXVOUWFQeGhNU0dhLS1qZjVIc19qOV9NaXFkM0p5VHdfbGphUWE1Z3FSSFJSelRyaWJqdTJmak5qUUx6SmZROXJ3aw?oc=5",
+   "summary": "午前の日経平均は小幅続伸、米ＣＰＩ発表控え模様眺め&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T12:07:45+09:00"
   },
   {
    "title": "トヨタと企業社会を変えた「財界総理」の決断力　奥田碩さんを悼む",
@@ -815,6 +949,14 @@
    "published": "2026-08-12T10:20:00+09:00"
   },
   {
+   "title": "ライン川の過去最低水位、ドイツで企業物流や発電に支障 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81bWNjVFdKbHJ3T0cyVDNSZzNrbDhWZ1BmcnBzSEJOQ1NCcW1HcV9hWE9BVVJLV1haWWk3SDlLR29oMk5GNVo5bHVweFF2WHVOcnpIREc5SVdyZTAxYjB2UFRKWGg4SFVpbU9fVWFROHI5dnBCdndVdg?oc=5",
+   "summary": "ライン川の過去最低水位、ドイツで企業物流や発電に支障&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T09:42:00+09:00"
+  },
+  {
    "title": "元経団連会長の奥田碩さん死去、93歳　トヨタで会長・社長を歴任",
    "link": "https://www.asahi.com/articles/ASV8C5J41V8CULFA026M.html?ref=rss",
    "summary": "",
@@ -823,12 +965,20 @@
    "published": "2026-08-12T09:41:13+09:00"
   },
   {
-   "title": "東南アジアで最も車が売れるマレーシア　日中メーカーが「代理戦争」",
-   "link": "https://www.asahi.com/articles/ASV7X118JV7XUHBI00JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
+   "title": "スイスのスポーツ用品大手オン、米州で成長鈍化 株価急落 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTFo0M3JkdjF2czdEaGY1TURsTXpuU2tYWVhSdS1Jd19BUW1wc2FqaXVmR3UwN3JBOEF2a2hTUXpyQ0h0dDRiN1JDY0kzdVBaZlNyUUNuZ0duWm5iZUhZTlRuc1pDYW41ZnlOMG5zU25OWFRrTVJpNA?oc=5",
+   "summary": "スイスのスポーツ用品大手オン、米州で成長鈍化 株価急落&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-12T09:00:00+09:00"
+   "published": "2026-08-12T09:30:00+09:00"
+  },
+  {
+   "title": "アングル：韓国レバレッジ株式ＥＴＦ、規制措置導入でも100億ドル超が流入 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0lYejczVkhPOFFjeXFoX3VlOWRSX2E1OHdGalZoZXdEb0ZFcmQ2QmtPcTQ4NlRlR19OWmtpWmhKS0ZaVzdDQjBrZ1E4aFAyOVQxRkY0dU44dWJ5cGNNQlQwdUw1MkVmajN1QUdWbTVlNHVzaDBBbVZNSmdGQzZ2Nw?oc=5",
+   "summary": "アングル：韓国レバレッジ株式ＥＴＦ、規制措置導入でも100億ドル超が流入&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-12T09:14:00+09:00"
   },
   {
    "title": "マネーストック（7月）",
@@ -869,14 +1019,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-11T01:00:00+09:00"
-  },
-  {
-   "title": "令和八年熊本地震の影響による「令和８年４－６月期法人企業統計調査」の公表・集計等の取扱いについて掲載しました",
-   "link": "https://www.mof.go.jp/insideLink/20260810160917.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-10T17:00:00+09:00"
   }
  ]
 }
