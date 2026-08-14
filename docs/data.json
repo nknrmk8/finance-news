@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T16:59:58.323896+09:00",
+ "generated_at": "2026-08-14T18:07:01.489557+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,42 @@
  "errors": [],
  "items": [
   {
-   "title": "流動性供給(第459回)入札において追加発行した国債の銘柄",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814a.htm",
+   "title": "『アメリカン・パイ』のショーン・ウィリアム・スコット、マリブのウォーターフロントにある見事な邸宅を1,750万ドルで出品",
+   "link": "https://www.marketwatch.com/story/american-pie-star-seann-william-scott-lists-stunning-malibu-waterfront-home-for-17-5-million-dc7e97b1?mod=mw_rss_topstories",
+   "summary": "「ロールモデル」俳優のショーン・ウィリアム・スコットは、大規模な改修を経て長年住んでいたマリブの不動産を売却し、市場価格の4倍以上で取引されることになった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-14T18:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘American Pie’ star Seann William Scott lists stunning Malibu waterfront home for $17.5 million"
+  },
+  {
+   "title": "初任給100万円の会社 応募1300人",
+   "link": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
    "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-14T17:00:00+09:00"
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-14T17:44:04+09:00"
+  },
+  {
+   "title": "今日の株式市場: S&P 先物は記録的な終値を経て安定",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026?mod=rss_markets_main",
+   "summary": "原油は上昇しており、ブレント原油は約88ドルとなっている",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T17:27:38+09:00",
+   "lang": "en",
+   "title_orig": "Stock Market Today: S&P Futures Steady After Record Close"
+  },
+  {
+   "title": "ファラージ氏への捜査、クラクトン補欠選挙勝利後に再開へ",
+   "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
+   "summary": "主流政党がスタントとして世論調査を避けたため、改革英国党首が得票数を増やす",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-14T17:25:35+09:00",
+   "lang": "en",
+   "title_orig": "Investigation into Farage to resume after he wins Clacton by-election"
   },
   {
    "title": "円連結。日銀利上げの見通しが後押しする可能性",
@@ -74,9 +104,53 @@
    "summary": "円は他のG10通貨やアジア通貨に対して堅調となったが、日銀利上げの見通しにより上昇する可能性がある。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-08-14T16:49:00+09:00",
+   "published": "2026-08-14T17:24:00+09:00",
    "lang": "en",
    "title_orig": "Yen Consolidates; May Be Buoyed by Prospects of BOJ Rate Hike"
+  },
+  {
+   "title": "「エアコン2027年問題」で価格差拡大？　中国勢が8万円以下で攻勢",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/14/news077.html",
+   "summary": "来年4月から家庭用エアコンの省エネ基準が厳しくなり、価格アップなどが予想される「エアコン2027年問題」をにらみ、中国メーカーが日本市場に安価な製品で攻勢を強めている。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-14T17:16:00+09:00"
+  },
+  {
+   "title": "米国先物下落。毎週の損失は順調に進んでいるゴールド",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-fall-gold-on-track-for-weekly-loss-54d90885?mod=rss_markets_main",
+   "summary": "米国先物相場は、FRBが金利を現行水準に維持するとの新たな期待を与えた軟調なインフレ統計を受けて前場上昇した後、下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T17:13:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Futures Fall; Gold on Track for Weekly Loss"
+  },
+  {
+   "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVNMVTktem92NF9nQmhhdktDZlVGcUZ5SnBDd1RqWUJxVmc1bkp3V2JCYjVaZUdCbEV4amR0c05MczhiSVlITWdRMi15VUt2c014aGZWeUVxRmdxQnpHV0NVYkVWcy1qdlM0Sk5INFlwUk16eGctYXR2TDZSRjdVTg?oc=5",
+   "summary": "電通Ｇ、上半期は黒字転換 円安やビル売却益で&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-14T17:05:43+09:00"
+  },
+  {
+   "title": "混合シグナルの中でオイルエッジが低下",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-signals-cbfa6bef?mod=rss_markets_main",
+   "summary": "原油価格は、シグナルがまちまちの中、アジア貿易序盤で小幅に下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T17:04:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Edges Lower Amid Mixed Signals"
+  },
+  {
+   "title": "流動性供給(第459回)入札において追加発行した国債の銘柄",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814a.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-14T17:00:00+09:00"
   },
   {
    "title": "米国の卸売価格データが予想より軟調だったにも関わらず、金は下落",
@@ -155,16 +229,6 @@
    "published": "2026-08-14T15:58:00+09:00"
   },
   {
-   "title": "ファラージ氏への捜査、クラクトン補欠選挙勝利後に再開へ",
-   "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
-   "summary": "主流政党がスタントとして世論調査を避けたため、改革英国党首が得票数を増やす",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-14T15:51:49+09:00",
-   "lang": "en",
-   "title_orig": "Investigation into Farage to resume after he wins Clacton by-election"
-  },
-  {
    "title": "アシックス商事 解散・清算の方針",
    "link": "https://news.yahoo.co.jp/pickup/6591697?source=rss",
    "summary": "",
@@ -219,14 +283,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-14T14:30:00+09:00"
-  },
-  {
-   "title": "李大統領支持率、初めて５割切る　不動産政策が影響―韓国ギャラップ",
-   "link": "https://www.jiji.com/jc/article?k=2026081400562&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-14T14:01:00+09:00"
   },
   {
    "title": "戦後81年､空前の日台友好の時代に風化する｢あの戦争｣の記憶―台湾老兵が託した｢忘れないでほしい｣という願い | 政治・経済・投資 | 東洋経済オンライン",
@@ -525,16 +581,6 @@
    "published": "2026-08-14T09:52:15+09:00"
   },
   {
-   "title": "混合シグナルの中でオイルエッジが低下",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-signals-cbfa6bef?mod=rss_markets_main",
-   "summary": "原油価格は、シグナルがまちまちの中、アジア貿易序盤で小幅に下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T09:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Edges Lower Amid Mixed Signals"
-  },
-  {
    "title": "《クマ被害》都内の山中でも相次ぐ負傷者…低山登山で最大のリスクはクマ！｢まさか｣と思っている人ほど危ない | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953616?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "都市近郊でも相次ぐクマの出没が､登山者の安全を脅かしています。｢まさか｣の事故が実際に起きるいま､私たちはクマとの共存リスクを正しく理解しなければなりません。人を恐れないクマが増える今､効果的な自己…",
@@ -583,14 +629,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T08:50:00+09:00"
-  },
-  {
-   "title": "米ビッグスリー、ＵＳＭＣＡの原産地規則厳格化を懸念 数十億ドル追加負担に - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42V3FZamQ3bXByaWV5SmFXWkJNaUctdEE5VDFuSW5HOXo3LUlBdG9DYzFubHo3b3ZQc0EzVmFleGpLSFJ0WmxReVRtZ2dlMlVRVi1mZGJ1cWNMV0Z6bFEwZEdLcU9XWHVHb181S1VMV01wcWtrZzM1NA?oc=5",
-   "summary": "米ビッグスリー、ＵＳＭＣＡの原産地規則厳格化を懸念 数十億ドル追加負担に&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T08:46:09+09:00"
   },
   {
    "title": "米インフレ指標は「やや改善」、鈍化継続に期待＝シカゴ連銀総裁 - ロイター",
@@ -743,16 +781,6 @@
    "title_orig": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?"
   },
   {
-   "title": "Airbnbの共同洗濯機で100ドル札を見つけました。どうすればいいですか？",
-   "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-   "summary": "「家主は何ヶ月もここに来ていないので、前の入居者だったと思います。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-14T07:00:00+09:00",
-   "lang": "en",
-   "title_orig": "I found a $100 bill in the communal washer at my Airbnb. What should I do?"
-  },
-  {
    "title": "WSJドル指数は0.01%上昇して96.26",
    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-fed-rate-cut-prospects-493719f8?mod=rss_markets_main",
    "summary": "WSJドル指数はほとんど変わらず取引を終えた。",
@@ -761,26 +789,6 @@
    "published": "2026-08-14T06:27:00+09:00",
    "lang": "en",
    "title_orig": "WSJ Dollar Index Rises 0.01% to 96.26"
-  },
-  {
-   "title": "基本資料のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-93c4d8bd?mod=rss_markets_main",
-   "summary": "基本的な材料をカバーする最新のマーケット トークで、アントファガスタ、リチウム アメリカ、パーム油などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T06:17:00+09:00",
-   "lang": "en",
-   "title_orig": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "title": "リック・ペリー氏のフェルミ、テキサスのAIパワーへの巨大な賭けでついに顧客を獲得",
-   "link": "https://www.wsj.com/tech/ai/rick-perrys-fermi-finally-finds-a-customer-for-its-giant-texas-ai-power-bet-1f992ffa?mod=rss_markets_main",
-   "summary": "昨年派手なIPOで上場したこのスタートアップは、数カ月にわたる法務や経営幹部の混乱を経て、新たなCEOも任命した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T06:17:00+09:00",
-   "lang": "en",
-   "title_orig": "Rick Perry’s Fermi Finally Finds a Customer for Its Giant Texas AI Power Bet"
   },
   {
    "title": "スマホゲーム事業者の倒産件数が過去最多ペース、理由は？",
@@ -879,14 +887,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-13T18:12:00+09:00"
-  },
-  {
-   "title": "秋葉原駅に熊本産の牛乳 売上急増",
-   "link": "https://news.yahoo.co.jp/pickup/6591602?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-13T17:47:53+09:00"
   },
   {
    "title": "日本銀行が保有する国債の銘柄別残高",
