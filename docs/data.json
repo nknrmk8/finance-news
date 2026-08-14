@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T19:14:17.077528+09:00",
+ "generated_at": "2026-08-14T20:07:50.935065+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,92 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "令和８年８月13日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260814.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-15T03:45:00+09:00"
+  },
+  {
+   "title": "企業は量子に多額の投資を行っている",
+   "link": "https://www.wsj.com/cio-journal/businesses-are-spending-big-on-quantum-c73060ad?mod=rss_markets_main",
+   "summary": "多くの企業は、競争力を獲得し、将来の暗号化の脅威に備えるために、量子コンピューティング プログラムに数百万ドルをつぎ込んでいます。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T20:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Businesses Are Spending Big on Quantum"
+  },
+  {
+   "title": "金利は数年ぶりの高水準にあるにもかかわらず、株価は新たな記録を更新している。反抗がどれくらい続くかは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
+   "summary": "LPLファイナンシャルによると、債券利回りと株式の関係は再びマイナスに転じている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-14T19:49:00+09:00",
+   "lang": "en",
+   "title_orig": "Rates are at multiyear highs, yet stocks hit fresh records. Here’s how long the defiance may last."
+  },
+  {
+   "title": "市場前に大きな動きをする銘柄: Reddit、Applied Materials、Sandisk、Wayfair など",
+   "link": "https://www.cnbc.com/2026/08/14/stocks-making-the-biggest-moves-premarket-rddt-amat-sndk-w.html",
+   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-14T19:46:55+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more"
+  },
+  {
+   "title": "高さ日本一 観覧車8カ月以上停止",
+   "link": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-14T19:37:47+09:00"
+  },
+  {
+   "title": "企業がこれほど大きな期待を抱くことはめったにない",
+   "link": "https://www.wsj.com/finance/stocks/companies-have-rarely-had-such-great-expectations-c5824f70?mod=rss_markets_main",
+   "summary": "さらに、利上げ確率の大きな変化",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T19:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Companies Have Rarely Had Such Great Expectations"
+  },
+  {
+   "title": "世界の流動性がピークに達しているため、安全策を講じて防御的に配分すべきだとベテランストラテジストが主張",
+   "link": "https://www.marketwatch.com/story/batten-down-the-hatches-and-allocate-defensively-because-global-liquidity-has-peaked-argues-veteran-strategist-b68673b0?mod=mw_rss_topstories",
+   "summary": "金利が上昇する世界において、クロスボーダー・キャピタルのマイク・ハウエル氏は、投資家は防御的な姿勢を維持し、インフレをヘッジすべきだと考えている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-14T19:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist"
+  },
+  {
+   "title": "丸紅、120億ドルの投資計画をより効果的に活用するために円高を支持",
+   "link": "https://www.wsj.com/business/marubeni-favors-strong-yen-to-better-leverage-12-billion-investment-plan-0a360161?mod=rss_markets_main",
+   "summary": "日本の商社は120億ドルの投資計画をより効果的に活用するために円高を支持している、とCEOは語った。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-14T19:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Marubeni Favors Strong Yen to Better Leverage $12 Billion Investment Plan"
+  },
+  {
+   "title": "ファラージの賭けは報われますが、その代償は何でしょうか?",
+   "link": "https://www.ft.com/content/a61433b2-902e-4299-b546-bc0efd9aa53a?syn-25a6b1a6=1",
+   "summary": "労働党政権が世論調査でリードし、党首の財政調査が再開",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-14T19:10:03+09:00",
+   "lang": "en",
+   "title_orig": "Farage’s gamble pays off — but at what cost?"
+  },
   {
    "title": "「彼女は絶望的だ」: 私の友人の母親が亡くなりました。彼女はメディケイドによる家族の帰国を阻止できるだろうか？",
    "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
@@ -199,16 +285,6 @@
    "published": "2026-08-14T17:16:00+09:00"
   },
   {
-   "title": "米国先物下落。毎週の損失は順調に進んでいるゴールド",
-   "link": "https://www.wsj.com/finance/stocks/u-s-futures-fall-gold-on-track-for-weekly-loss-54d90885?mod=rss_markets_main",
-   "summary": "米国先物相場は、FRBが金利を現行水準に維持するとの新たな期待を与えた軟調なインフレ統計を受けて前場上昇した後、下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T17:13:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Futures Fall; Gold on Track for Weekly Loss"
-  },
-  {
    "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVNMVTktem92NF9nQmhhdktDZlVGcUZ5SnBDd1RqWUJxVmc1bkp3V2JCYjVaZUdCbEV4amR0c05MczhiSVlITWdRMi15VUt2c014aGZWeUVxRmdxQnpHV0NVYkVWcy1qdlM0Sk5INFlwUk16eGctYXR2TDZSRjdVTg?oc=5",
    "summary": "電通Ｇ、上半期は黒字転換 円安やビル売却益で&nbsp;&nbsp;ロイター",
@@ -217,32 +293,12 @@
    "published": "2026-08-14T17:05:43+09:00"
   },
   {
-   "title": "混合シグナルの中でオイルエッジが低下",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-signals-cbfa6bef?mod=rss_markets_main",
-   "summary": "原油価格は、シグナルがまちまちの中、アジア貿易序盤で小幅に下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T17:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Edges Lower Amid Mixed Signals"
-  },
-  {
    "title": "流動性供給(第459回)入札において追加発行した国債の銘柄",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814a.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T17:00:00+09:00"
-  },
-  {
-   "title": "米国の卸売価格データが予想より軟調だったにも関わらず、金は下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-despite-softer-than-expected-u-s-wholesale-price-data-2ea11c0a?mod=rss_markets_main",
-   "summary": "米国のPPI統計が予想よりも軟調だったにも関わらず、金は反発を伸ばすのに苦戦しており、金価格の次の上昇は厳しいものではない可能性があることを示唆している",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-14T16:38:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Falls Despite Softer-Than-Expected U.S. Wholesale Price Data"
   },
   {
    "title": "太平洋クロマグロ国際会議、異例の再開催へ　漁獲増枠の合意が焦点",
@@ -419,16 +475,6 @@
    "published": "2026-08-14T13:00:14+09:00",
    "lang": "en",
    "title_orig": "Pakistan and the new great game of Risk"
-  },
-  {
-   "title": "ファラージの側近コットレルは、トランプ勝利に賭けるポリマーケットの秘密口座を持っていた",
-   "link": "https://www.ft.com/content/4fccf8b5-5e32-4322-9435-d996a0273dff?syn-25a6b1a6=1",
-   "summary": "巨額の関与により、ファラージ氏の最も親しい腹心の一人の財務活動に光が当たる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-14T13:00:14+09:00",
-   "lang": "en",
-   "title_orig": "Farage aide Cottrell had secret Polymarket account that placed bets on Trump victory"
   },
   {
    "title": "世界最高の蜂蜜を求める探求",
@@ -695,28 +741,20 @@
    "published": "2026-08-14T08:50:00+09:00"
   },
   {
+   "title": "米ビッグスリー、ＵＳＭＣＡの原産地規則厳格化を懸念 数十億ドル追加負担に - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42V3FZamQ3bXByaWV5SmFXWkJNaUctdEE5VDFuSW5HOXo3LUlBdG9DYzFubHo3b3ZQc0EzVmFleGpLSFJ0WmxReVRtZ2dlMlVRVi1mZGJ1cWNMV0Z6bFEwZEdLcU9XWHVHb181S1VMV01wcWtrZzM1NA?oc=5",
+   "summary": "米ビッグスリー、ＵＳＭＣＡの原産地規則厳格化を懸念 数十億ドル追加負担に&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-14T08:46:09+09:00"
+  },
+  {
    "title": "米インフレ指標は「やや改善」、鈍化継続に期待＝シカゴ連銀総裁 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oRmlReEZrWWRGXzJEV1pMbDVBV2NyU3o3T25YamN2NVRWRG95RlBJbkppZkVvNlpiZW5Lc0hJYkZ2bXJyUmRKWG5NdWItV1FtYjBwVzRrSWl4RXA5dUtOSXB5UkVuLThOOFM3ZE1QcDJ1QnQ3WlNCbmFn?oc=5",
    "summary": "米インフレ指標は「やや改善」、鈍化継続に期待＝シカゴ連銀総裁&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T08:19:49+09:00"
-  },
-  {
-   "title": "英経済成長率が利上げ支持─中銀​チーフエコノミスト＝ＷＳＪ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzN1VUNyYjRpOWVibG1uQTdVeGk3TzQxVEF2bWdiaHdVVFc3dk1vX0REb25DUjhVcFZwRWRzbkdJMFdaWUNVUm0tTlNtNWJESU8yUHlISzh0Si1jNTBGSElacVY0QnVRanhocG15VU9ZQzRsQ0IyQ1p2SjdpZzJ3dw?oc=5",
-   "summary": "英経済成長率が利上げ支持─中銀​チーフエコノミスト＝ＷＳＪ&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T08:09:43+09:00"
-  },
-  {
-   "title": "成田空港に7000人が滞留 大雨影響",
-   "link": "https://news.yahoo.co.jp/pickup/6591657?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-14T08:01:52+09:00"
   },
   {
    "title": "【ヒット記事】10月施行、同一労働同一賃金はこう変わる　企業がまずとるべき対策3選",
@@ -769,26 +807,6 @@
    "published": "2026-08-14T07:09:00+09:00",
    "lang": "en",
    "title_orig": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains"
-  },
-  {
-   "title": "JPモルガンがAIへの懸念は誇張されていると発言し、セールスフォースの株価が上昇",
-   "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-   "summary": "アナリストは、いくつかの有望な AI 機能を挙げて、Salesforce 株の上昇率は 29% になると予測しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-14T07:07:00+09:00",
-   "lang": "en",
-   "title_orig": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown"
-  },
-  {
-   "title": "サンディスクの株価は急騰している。ウォール街を興奮させている新たな標的がここにある。",
-   "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-   "summary": "メモリチップ会社はちょうど10年代末までの収益成長予測を発表しており、サンディスクは高い収益性を維持すると予想している",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-14T07:05:00+09:00",
-   "lang": "en",
-   "title_orig": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street."
   },
   {
    "title": "海外送金が数秒、売掛金の未回収リスクもゼロに　片山金融相とメガバンクが改革する企業決済",
@@ -977,16 +995,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-13T11:00:00+09:00"
-  },
-  {
-   "title": "EV が中国の自動車市場を独占: 中国の最新の自動車販売データから得られる 5 つのポイント",
-   "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-   "summary": "中国乗用車協会は火曜日、新エネルギー車の普及率が7月に増加したことを示すデータを発表した。テスラのモデルYは依然として人気があった。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-13T10:31:12+09:00",
-   "lang": "en",
-   "title_orig": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月13日公表）",
