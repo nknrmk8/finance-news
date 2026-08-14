@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T08:13:41.845823+09:00",
+ "generated_at": "2026-08-15T08:35:23.193452+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,24 @@
  "errors": [],
  "items": [
   {
+   "title": "｢手負いの熊くらい凶暴｣…性格に難ありの軍人が告げた\"寝耳に水な命令\"　漫画｢コンクリートの船｣（第2集 第11話） | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954055?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "太平洋戦争末期、資材不足の日本で民間の一企業がコンクリートの船を造った。それは、一企業の社長の想いを秘めた挑戦だった。誰のために、何のために、その船は造られたのか……？戦後80年を過ぎた今の日本で紡…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-15T08:30:00+09:00"
+  },
+  {
+   "title": "Nvidia、OpenAI データセンターの 2,500 億ドルの保証計画を縮小",
+   "link": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?mod=rss_markets_main",
+   "summary": "",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-15T08:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center"
+  },
+  {
    "title": "アニメが興行的にこけると､スタッフは\"しけた人間\"という扱いになってしまう 安彦良和氏インタビュー⑤ | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954547?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "アニメ監督､漫画家として多くの作品を生み出してきた安彦良和氏。2万字超のロングインタビュー全8回の5回目では､『機動戦士ガンダム』ヒット後､周りからかけられる期待の重さにどう向き合ったのか､『巨神ゴ…",
@@ -99,6 +117,14 @@
    "link": "https://toyokeizai.net/articles/-/952806?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "大学発ベンチャーの数は目標の5000社を超え､拡大を続けています。しかし､その設立数には大学ごとの偏りが大きく､大規模大学でも少数にとどまるケースも。起業支援が大学の新たな使命となる今､その裾野はど…",
    "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-15T08:00:00+09:00"
+  },
+  {
+   "title": "夏休み明けから「無断欠勤」を続ける社員　会社はどう対応すべき？",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/15/news004.html",
+   "summary": "夏季休暇を取得した従業員が、休みが終わっても無断欠勤をしています。こちらからの連絡に対し、当初は「明日には出社します」と答えていたのですが、ある時から連絡が途絶えました。こうした無断欠勤に対し、企業側はどういった対応を取るべきなのでしょうか。一連の流れを教えてください。",
+   "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-15T08:00:00+09:00"
   },
@@ -269,9 +295,9 @@
    "title_orig": "Basic Materials Roundup: Market Talk"
   },
   {
-   "title": "ＮＹ外為市場＝ドル下落、159円台前半 米小売売上高減少で9月利上げ観測後退 - jp.reuters.com",
+   "title": "ＮＹ外為市場＝ドル下落、159円台前半 米小売売上高減少で9月利上げ観測後退 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTXlDQTdUX1lmazBtTlJQdUhsckx2WV9hSkJpUEIzOXljblBHWEJmT0V4eTRRMURRa241STUycXBlUVR4U3NVcERacFNIcjhyVF8xN1RWUXVqYmg5STAtT2YxRUpWMFJHU2FVSlN5dTdFTmN1UUQ3UA?oc=5",
-   "summary": "ＮＹ外為市場＝ドル下落、159円台前半 米小売売上高減少で9月利上げ観測後退&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＮＹ外為市場＝ドル下落、159円台前半 米小売売上高減少で9月利上げ観測後退&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-15T06:01:56+09:00"
@@ -307,24 +333,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-15T06:00:00+09:00"
-  },
-  {
-   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-67496cf5?mod=rss_markets_main",
-   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、石油先物、E.ON、韓国電力などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-15T06:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Energy & Utilities Roundup: Market Talk"
-  },
-  {
-   "title": "NHK職員が番組出演者から深刻な性被害！　｢加害者情報｣の完全秘匿が､過去のフジの対応以上に問題含みなワケ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954621?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "NHK職員が番組出演者から性被害を受け､その後の組織対応の不適切さが深刻な問題として浮き彫りになりました。｢公共放送｣としての説明責任や内部統治は果たされているのでしょうか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-15T05:45:00+09:00"
   },
   {
    "title": "ゴールドマンの最新のドル箱は、AI インフラストラクチャ ブームへの資金提供がすべてです",
@@ -455,17 +463,17 @@
    "title_orig": "Luigi Mangione pleads guilty over death of UnitedHealth chief executive"
   },
   {
-   "title": "米ゴールドマン、欧州株の12カ月先目標引き上げ 堅調な業績受け - jp.reuters.com",
+   "title": "米ゴールドマン、欧州株の12カ月先目標引き上げ 堅調な業績受け - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJBc0prQThIT2xSbGJaYkRHZHJxVlUyTXN5Nlh3NE5USzNwQXN6blJpckJBdlpja1JIM2lvaF83ejRPaTBXdGNSc2NiR2xYY29NWkxnaVRkTWJnLWtMUEtWRW9pWUxIdFpsZUh5NkZBcE42M2hMUWRjUERuVTlGbg?oc=5",
-   "summary": "米ゴールドマン、欧州株の12カ月先目標引き上げ 堅調な業績受け&nbsp;&nbsp;jp.reuters.com",
+   "summary": "米ゴールドマン、欧州株の12カ月先目標引き上げ 堅調な業績受け&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-15T02:16:53+09:00"
   },
   {
-   "title": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺 - jp.reuters.com",
+   "title": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3EwUTNnZVROWURtWnVWV09HLUkzMUVzRmR1V185MkxWMHpGTUtyVVpHUkg1TVhlT1BlZVZPU0lkYVJsN1FhREhYdnlBTUxGR1YzWVotcHpxUWdMX2Z4akhEMDJkYzFBR2hvU2FYR2Y3b0dJVW1yM3h1QjI2NldKSw?oc=5",
-   "summary": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺&nbsp;&nbsp;jp.reuters.com",
+   "summary": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-15T00:17:43+09:00"
@@ -491,9 +499,9 @@
    "title_orig": "Daniel Kinahan, Ireland’s most wanted man, faces his day in court"
   },
   {
-   "title": "中国新規銀行融資、過去最大のマイナス 需要弱く個人・法人とも減少 - jp.reuters.com",
+   "title": "中国新規銀行融資、過去最大のマイナス 需要弱く個人・法人とも減少 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GWURkQmRuVU1CTE8wOTBQMElwWWE1aVpLeEFuLWFiaC1jbndoUzFpLXd1OFVTMGxWQ05CODNkeXRWcnFmWnFzZHp2cWx2YkVyZzZTV3NhQ0pHcDgyY3BlLUJKRjZPM2dLVVliaDZzMl9mX2p3aGc?oc=5",
-   "summary": "中国新規銀行融資、過去最大のマイナス 需要弱く個人・法人とも減少&nbsp;&nbsp;jp.reuters.com",
+   "summary": "中国新規銀行融資、過去最大のマイナス 需要弱く個人・法人とも減少&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T20:57:20+09:00"
@@ -517,9 +525,9 @@
    "published": "2026-08-14T19:37:47+09:00"
   },
   {
-   "title": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下 - jp.reuters.com",
+   "title": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWtwUVdHWlhITHR4T0RTSno0RFNGV3NhNVlJbkFUb2lYSVJndDRETExFT3VLS2N1M1dpX2pHSFJMc2o2MjBhNlBSOEt6Q3dyY1JrZnFXcm1xYkNmdXdEaW5jYXU3RWg1LVpKRlcxaFlJZDl0bHBUcGRVN05KRWRYWQ?oc=5",
-   "summary": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下&nbsp;&nbsp;jp.reuters.com",
+   "summary": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T19:07:16+09:00"
@@ -565,9 +573,9 @@
    "published": "2026-08-14T17:16:00+09:00"
   },
   {
-   "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で - jp.reuters.com",
+   "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVNMVTktem92NF9nQmhhdktDZlVGcUZ5SnBDd1RqWUJxVmc1bkp3V2JCYjVaZUdCbEV4amR0c05MczhiSVlITWdRMi15VUt2c014aGZWeUVxRmdxQnpHV0NVYkVWcy1qdlM0Sk5INFlwUk16eGctYXR2TDZSRjdVTg?oc=5",
-   "summary": "電通Ｇ、上半期は黒字転換 円安やビル売却益で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "電通Ｇ、上半期は黒字転換 円安やビル売却益で&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T17:05:43+09:00"
@@ -621,9 +629,9 @@
    "published": "2026-08-14T16:00:00+09:00"
   },
   {
-   "title": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も - jp.reuters.com",
+   "title": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTlkTXJXTzc1dGN1d212ek8waHdyQlJtMGdFbVRsc0Z5akVjNkUzYl91U240TkR0V2FHZDR4NGpYSkxqMzZrVzhVZkRJLWMyUkpVWE54b2FWUnFmQzY0NWZoTE9LcVdIUTBrZGZKZl9jbnoyOVVTQnJTNHlYUkJ0SQ?oc=5",
-   "summary": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も&nbsp;&nbsp;jp.reuters.com",
+   "summary": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T15:58:00+09:00"
@@ -637,25 +645,25 @@
    "published": "2026-08-14T15:46:03+09:00"
   },
   {
-   "title": "日機装、通期予想を上方修正 円安や一過性利益で - jp.reuters.com",
+   "title": "日機装、通期予想を上方修正 円安や一過性利益で - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xaks5UTExdnlrdUtoMFBNLWZkMXVoRHg1VVVpRk9KenIwTVV6clBFTjMzWDBLQS1iaDdpdlYtclFOU1gtalhOZ1NrdFZOOUozX0Nxc2xmNHlOemp5RklCU2ROZmM0NXR1WHhyN1V6Q3FGaGYxcnc?oc=5",
-   "summary": "日機装、通期予想を上方修正 円安や一過性利益で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "日機装、通期予想を上方修正 円安や一過性利益で&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T15:43:00+09:00"
   },
   {
-   "title": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも - jp.reuters.com",
+   "title": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUkJ2UndyaUpsY0VZbDVvcWRabFJMQ0k3YkQtQXl1U2pRcGE5LTY2NEFMWnIwSnpaNmJiR3JlTUpwQjBjNHpYbmY1UDJ6Y2xwakMtamJWc0R0N3ctWks3NHdieVhxYmRmLVNiUGtCWW5VUmNLNEt6SS1qelBQbk5lMm1n?oc=5",
-   "summary": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも&nbsp;&nbsp;jp.reuters.com",
+   "summary": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T15:12:00+09:00"
   },
   {
-   "title": "シティとＪＰモルガン、日本の対米投融資に参画 ＪＢＩＣと計46億ドル - jp.reuters.com",
+   "title": "シティとＪＰモルガン、日本の対米投融資に参画 ＪＢＩＣと計46億ドル - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oYXpRQko0MzA4aTBFdTVlLTR0VWRibmIyVzFoQ0lqbDRJMnl5MjY2WTVoZmt5bjRQUjk0bWVhQnNGMzZHdUR0cHdLeFdaUGpaREJyWk12X09mUkZMai10UkNIckpnOWtpRFM0RHg0VWFPX0t1S0E?oc=5",
-   "summary": "シティとＪＰモルガン、日本の対米投融資に参画 ＪＢＩＣと計46億ドル&nbsp;&nbsp;jp.reuters.com",
+   "summary": "シティとＪＰモルガン、日本の対米投融資に参画 ＪＢＩＣと計46億ドル&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T15:10:00+09:00"
@@ -669,9 +677,9 @@
    "published": "2026-08-14T15:00:00+09:00"
   },
   {
-   "title": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で - jp.reuters.com",
+   "title": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lcjlURC1DaWFmWjNMeWN3Z2t3c1l2Q2JrM1BRZVc3R2pURnIwQm1nOXJOWmZmdXpvc2g5UkVFU2U2d0x3dXI3UWthTFF2aUhxaHdhR0xCLXNOZGl2VjlhYzB1NENsQUpzaWxrZWM1dVFoRFRzUjlIdg?oc=5",
-   "summary": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T13:45:00+09:00"
@@ -693,9 +701,9 @@
    "published": "2026-08-14T12:35:00+09:00"
   },
   {
-   "title": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足 - jp.reuters.com",
+   "title": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZXd0FwM2ZuQ0ZkZm8tU2M1NENfSEt6bjVTekx4MU9MQUJuRDgtUTJjYnkxUXVDWDVXNi1LTVZkaldudGNLWU5FUkhXRjhMZV9yckZPOW9GN0UyNGc1dmVEQ0pWaW1qLXBSU2NKLXNDMkJ1QTM3SA?oc=5",
-   "summary": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足&nbsp;&nbsp;jp.reuters.com",
+   "summary": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T12:31:00+09:00"
@@ -709,25 +717,25 @@
    "published": "2026-08-14T12:30:00+09:00"
   },
   {
-   "title": "ノルウェー政府基金、株主の権利弱体化懸念 特別議決権に歯止め訴え - jp.reuters.com",
+   "title": "ノルウェー政府基金、株主の権利弱体化懸念 特別議決権に歯止め訴え - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3JvQUtMSnA5Tmw2U2VWc1FfYkFOQTdaeGJCcnU0eTFuSVUtalBBUmhBWVlNXzNqUUdLRkJSdVozeDJSR2NBQTFsY0xFSm5xb3AwNFR0ZnpFZlRBU0d5bjQ2WUFXTVdRNFBueUUzcVdGTmJQX0hHVnRWWkdWOWpWdA?oc=5",
-   "summary": "ノルウェー政府基金、株主の権利弱体化懸念 特別議決権に歯止め訴え&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ノルウェー政府基金、株主の権利弱体化懸念 特別議決権に歯止め訴え&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T12:22:00+09:00"
   },
   {
-   "title": "午前の日経平均は続伸、米株高好感し幅広く物色 中盤から伸び悩む - jp.reuters.com",
+   "title": "午前の日経平均は続伸、米株高好感し幅広く物色 中盤から伸び悩む - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGFQYlV0Zl9VYkVrVExjWDBha2JkdDFhaGI5R0ZmX1pCVC1oYkRGQmtQVTBlY0dLS3llNEc1ZnhKV2pxcnItQzRJclFQR0VWUFNzZ2NyTFlDZEl6a3lIU01KOVV0UGpsMzU3OUJXalVyV1ZFR2JBN0MxVzlCWmYtVg?oc=5",
-   "summary": "午前の日経平均は続伸、米株高好感し幅広く物色 中盤から伸び悩む&nbsp;&nbsp;jp.reuters.com",
+   "summary": "午前の日経平均は続伸、米株高好感し幅広く物色 中盤から伸び悩む&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T12:07:00+09:00"
   },
   {
-   "title": "印タタ・モーターズＰＶ、親会社会長退任後も投資計画に変更なし - jp.reuters.com",
+   "title": "印タタ・モーターズＰＶ、親会社会長退任後も投資計画に変更なし - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PUEJ2NUdHUzU0dUltRktZQktpbDNWUzhBc2wtenJaT015YlMwemZsTGxvSWh1OWI1X0NmZEpSOWt6SzJ4Vy03NVhuX2dBU2pjUmVPa1Q5WG5laXZyS29yb1QxSTQxY1M4WGluaEJ2UkVSamRmMUE?oc=5",
-   "summary": "印タタ・モーターズＰＶ、親会社会長退任後も投資計画に変更なし&nbsp;&nbsp;jp.reuters.com",
+   "summary": "印タタ・モーターズＰＶ、親会社会長退任後も投資計画に変更なし&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T11:44:00+09:00"
@@ -1043,22 +1051,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-13T08:50:00+09:00"
-  },
-  {
-   "title": "「一番忙しい時期に辞めてやる」――なぜ社員は最後に“暴走”するのか？　リベンジ退職を起こす真犯人とは",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/13/news011.html",
-   "summary": "「リベンジ退職」は急増したわけではない。低頻度・高影響なリスクに監視強化は逆効果となる。企業が本当に打つべき実務的な対策と、見直すべき組織の課題とは？",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-13T08:00:00+09:00"
-  },
-  {
-   "title": "「売り上げ99.7％が架空」「情報不正持ち出し」――不祥事をどう防ぐ？　事例を深掘り、注目記事3選【無料PDF】",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/13/news021.html",
-   "summary": "内部不正や不適切会計といった企業の不祥事リスクはより複雑化・巧妙化している。不祥事を未然に防ぐには、他社の発生メカニズムや構造的課題に学ぶことが不可欠だ。2026年上半期に発生した注目事例の記事をまとめたPDFパンフレットをお届けする。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-13T08:00:00+09:00"
   },
   {
    "title": "【ヒット記事】慕われる“雑談おじさん”を切り捨てた企業の末路　ギスギス職場を救う「見えない貢献」の正体",
