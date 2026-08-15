@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T04:31:23.434136+09:00",
+ "generated_at": "2026-08-16T04:52:09.260453+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,16 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "トランプ家のワールド・リバティ・ファイナンシャルが銀行設立の予備承認を取得",
+   "link": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main",
+   "summary": "通貨監督庁は、主力の仮想通貨ベンチャーに信託銀行になることを条件付きで承認した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-16T04:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank"
+  },
   {
    "title": "今は金利が高いと思いますか？これらのグラフは別の視点を提供します。",
    "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
@@ -489,26 +499,6 @@
    "title_orig": "Berkshire Adds to Alphabet Stake, Buys Home Builders and Exits Constellation"
   },
   {
-   "title": "Diana Shipping、Genco Shipping & Trading 買収への入札を取り下げる",
-   "link": "https://www.wsj.com/business/diana-shipping-drops-bid-to-acquire-genco-shipping-trading-7c5c2156?mod=rss_markets_main",
-   "summary": "この決定により、2社の海運会社間のほぼ1年にわたる買収合戦に終止符が打たれた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-15T06:38:00+09:00",
-   "lang": "en",
-   "title_orig": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading"
-  },
-  {
-   "title": "トランプ家のワールド・リバティ・ファイナンシャルが銀行設立の予備承認を取得",
-   "link": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main",
-   "summary": "通貨監督庁は、主力の仮想通貨ベンチャーに信託銀行になることを条件付きで承認した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-15T06:24:00+09:00",
-   "lang": "en",
-   "title_orig": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank"
-  },
-  {
    "title": "バークシャー・ハサウェイがアルファベットを保有株トップ3に押し上げ、デルタと住宅への賭けも上昇",
    "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
    "summary": "神父が発表した規制当局への提出書類によると、バークシャーは６月末時点でグーグルの親会社株約１億６００万株（３７９億ドル相当）を保有していた。",
@@ -545,14 +535,6 @@
    "published": "2026-08-15T04:21:49+09:00",
    "lang": "en",
    "title_orig": "Regulators and banks step up scrutiny of prediction markets"
-  },
-  {
-   "title": "欧州市場サマリー（14日） - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wc1FoNGpMaWJpRTFMMk5FTVBUNWh5c0txT3VLX2ZsbDRWVEhjU2N3SUxCT09NQ0tPQXRvLVg4TkQ2TEQzMWhxaTJaUU95Mkh0MWlGNE1jeGVfWGNJX2g0NVJXa01LR3RJeGdyTnItbW1JMnh5YWpmMw?oc=5",
-   "summary": "欧州市場サマリー（14日）&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T04:12:01+09:00"
   },
   {
    "title": "令和８年８月13日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
@@ -819,6 +801,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T10:20:00+09:00"
+  },
+  {
+   "title": "トルコ中銀、26年インフレ率見通し28％に上げ レポ再開検討 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRklXa09NZHR2ZXZLYzkzazV3d2tLZWt3RlBFdHd0Z2hnVkR2aFIzLW52dFRYcjFyWDl1MDZaNjMzVWRfTEpIMDRoWFJJT0dVZ1RVTm9rU3dmelFhNkcyYVJpdXJtakNValpYWm11dmo1Qm82TVh1bEoxU3BpalBESA?oc=5",
+   "summary": "トルコ中銀、26年インフレ率見通し28％に上げ レポ再開検討&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-14T10:14:00+09:00"
   },
   {
    "title": "ウーバー、中国のPony.aiと提携し、ヨーロッパで2,000台のロボタクシーを導入",
