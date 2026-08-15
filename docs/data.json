@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T15:27:27.107448+09:00",
+ "generated_at": "2026-08-15T16:05:39.145664+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,12 @@
  "errors": [],
  "items": [
   {
-   "title": "自分やゆする元東大生 人生の誤算",
-   "link": "https://news.yahoo.co.jp/pickup/6591822?source=rss",
+   "title": "人生に挫折した元東大生たち 実態",
+   "link": "https://news.yahoo.co.jp/pickup/6591829?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
-   "published": "2026-08-15T15:12:45+09:00"
+   "published": "2026-08-15T15:59:11+09:00"
   },
   {
    "title": "車水没 保険適用のためすべきこと",
@@ -101,16 +101,6 @@
    "published": "2026-08-15T13:15:00+09:00"
   },
   {
-   "title": "トレーダーらは円をめぐる争いを台無しにしている",
-   "link": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
-   "summary": "歴史的な日米通貨介入後、市場混乱のリスクが再び高まっている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-15T13:00:32+09:00",
-   "lang": "en",
-   "title_orig": "Traders are spoiling for a fight over the yen"
-  },
-  {
    "title": "中国、マヌスの創業者の渡航禁止を解除する構え",
    "link": "https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1",
    "summary": "AI企業がメタ分離の解決に近づく中、シャオホン最高経営責任者はシンガポールに戻る予定",
@@ -119,6 +109,16 @@
    "published": "2026-08-15T13:00:32+09:00",
    "lang": "en",
    "title_orig": "China poised to lift travel ban on Manus founders"
+  },
+  {
+   "title": "トレーダーらは円をめぐる争いを台無しにしている",
+   "link": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
+   "summary": "歴史的な日米通貨介入後、市場混乱のリスクが再び高まっている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-15T13:00:32+09:00",
+   "lang": "en",
+   "title_orig": "Traders are spoiling for a fight over the yen"
   },
   {
    "title": "サム・アルトマン氏がIPO推進の準備を整える中、OpenAIの大混乱が激化",
@@ -337,6 +337,16 @@
    "published": "2026-08-15T07:00:00+09:00"
   },
   {
+   "title": "ジェーン・ストリートは状況認識施設のメルトダウンで150億ドルの被害を受ける",
+   "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
+   "summary": "ウォール街の秘密主義の商社、7月のAI敗走で失脚",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-15T06:55:53+09:00",
+   "lang": "en",
+   "title_orig": "Jane Street suffers $15bn hit after meltdown at Situational Awareness"
+  },
+  {
    "title": "バークシャー、アルファベット株に追加、住宅建設会社を買収、コンステレーションから撤退",
    "link": "https://www.wsj.com/finance/stocks/berkshire-adds-to-alphabet-stake-buys-homebuilders-and-exits-constellation-746a5bdc?mod=rss_markets_main",
    "summary": "CEO でトップ株ピッカーのグレッグ・エイベル氏は、第 2 四半期に金融株のポートフォリオを削減しました。",
@@ -365,16 +375,6 @@
    "published": "2026-08-15T06:34:00+09:00",
    "lang": "en",
    "title_orig": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock"
-  },
-  {
-   "title": "ケンブリッジ元教授ジェイソン・アーデイが遺体で発見される",
-   "link": "https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1",
-   "summary": "大学史上最年少の黒人教授が盗作疑惑を受けて厳しい調査を受けていた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-15T06:24:12+09:00",
-   "lang": "en",
-   "title_orig": "Former Cambridge professor Jason Arday found dead"
   },
   {
    "title": "トランプ家のワールド・リバティ・ファイナンシャルが銀行設立の予備承認を取得",
@@ -1027,14 +1027,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-13T08:50:00+09:00"
-  },
-  {
-   "title": "国債ＩＲ基礎資料（令和８年８月）",
-   "link": "https://www.mof.go.jp/jgbs/IR/jgb_investor_presentation_2608.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-12T16:00:00+09:00"
   }
  ]
 }
