@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T13:56:20.338909+09:00",
+ "generated_at": "2026-08-16T14:19:23.929688+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -101,16 +101,6 @@
    "title_orig": "Can we stop with the public ‘blasterbating’, actually?"
   },
   {
-   "title": "欧州企業は猛暑によるコストと利益を計算に入れている",
-   "link": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
-   "summary": "企業はここ数週間、決算発表の記録的な割合に猛暑、干ばつ、山火事の影響を指摘",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-16T13:00:11+09:00",
-   "lang": "en",
-   "title_orig": "European companies count the costs and gains of extreme heat"
-  },
-  {
    "title": "世界最大の自動車メーカーがエンジンオイル危機の回避を目指す",
    "link": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1",
    "summary": "グループIII基油の不足により、自動車メーカーは新しいブレンドに目を向ける",
@@ -121,14 +111,14 @@
    "title_orig": "World’s largest carmakers seek to avert motor oil crisis"
   },
   {
-   "title": "鉱夫フェレックスポ、寡頭政治とキエフの間の紛争に巻き込まれる",
-   "link": "https://www.ft.com/content/1b318ce4-75ef-4f68-8db5-f148dd00fe9f?syn-25a6b1a6=1",
-   "summary": "鉄鉱石グループは資金調達に努める一方、制裁に見舞われた株主は株式維持を目指して奮闘している",
+   "title": "欧州企業は猛暑によるコストと利益を計算に入れている",
+   "link": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
+   "summary": "企業はここ数週間、決算発表の記録的な割合に猛暑、干ばつ、山火事の影響を指摘",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-16T13:00:11+09:00",
    "lang": "en",
-   "title_orig": "Miner Ferrexpo caught up in dispute between oligarch and Kyiv"
+   "title_orig": "European companies count the costs and gains of extreme heat"
   },
   {
    "title": "お盆休み最終日 交通混雑がピーク",
@@ -441,6 +431,16 @@
    "title_orig": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected."
   },
   {
+   "title": "休戦2カ月、レバノンでイスラエル空爆で11人死亡",
+   "link": "https://www.ft.com/content/1bd69e67-266f-4a4a-9c49-eb3c83bcb295?syn-25a6b1a6=1",
+   "summary": "攻撃はヒズボラによる「行動への反応」だった、イスラエル軍が発言",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-16T01:13:35+09:00",
+   "lang": "en",
+   "title_orig": "Israeli strikes kill 11 in Lebanon two months into truce"
+  },
+  {
    "title": "超富裕層との会話から学んだこと",
    "link": "https://www.wsj.com/personal-finance/what-i-learned-from-my-conversations-with-the-superrich-61508304?mod=rss_markets_main",
    "summary": "彼らは数カ月で数十億ドルを失い、四半期ごとに子供たちと取締役会を開催しています。超富裕層の、一か八かで高額な報酬を求める考え方の内部。",
@@ -625,14 +625,6 @@
    "published": "2026-08-14T19:46:55+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more"
-  },
-  {
-   "title": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWtwUVdHWlhITHR4T0RTSno0RFNGV3NhNVlJbkFUb2lYSVJndDRETExFT3VLS2N1M1dpX2pHSFJMc2o2MjBhNlBSOEt6Q3dyY1JrZnFXcm1xYkNmdXdEaW5jYXU3RWg1LVpKRlcxaFlJZDl0bHBUcGRVN05KRWRYWQ?oc=5",
-   "summary": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T19:07:16+09:00"
   },
   {
    "title": "ニチレイ、従業員の個人情報が漏洩した可能性　7月のサイバー攻撃で",
@@ -867,6 +859,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-14T08:19:49+09:00"
+  },
+  {
+   "title": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pZWJ0d0I4VmVLYVRzUXk4aFY4S1lNTS1mZEpzejAtWnd2RGU0S1pSNDB0UGpxakxLd1VHbUxCU3lETFV1QVdhMDlSSWxvNW9hRDhBWDRwQ2VZMEYzT3FCdzVnX3NfNXVTcGREUTRBWXR4ZjhHM2N1MQ?oc=5",
+   "summary": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-14T08:04:10+09:00"
   },
   {
    "title": "【ヒット記事】10月施行、同一労働同一賃金はこう変わる　企業がまずとるべき対策3選",
