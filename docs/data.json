@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T07:07:59.994323+09:00",
+ "generated_at": "2026-08-17T07:33:42.701392+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,8 +58,75 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
+  {
+   "title": "｢イラン紛争｣の出口はまったく見えないが､日本株はしばらく｢TOPIX主導｣の相場が続きそうだ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954958?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "日本株市場はTOPIXの連続最高値更新が話題となる一方､日経平均やナスダックはAI･半導体関連株の影響が大きいようです。堅調な企業業績が株価を下支えしつつも､中東情勢や日銀追加利上げ､原油･為替動向…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T07:30:00+09:00"
+  },
+  {
+   "title": "科学者が明らかにした､｢食べ過ぎて痩せられない｣人が知らないストレスと食欲の驚きの関係 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/943740?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ストレスを感じると､ついジャンクフードに手が伸びてしまう――そんな現代人特有の悪循環が､私たちの健康を脅かしています。本当に｢快適｣な生活が幸福に直結するのでしょうか？　ストレスと食行動の深い関係に…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T07:30:00+09:00"
+  },
+  {
+   "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+   "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+   "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-17T07:23:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "初任給で新人に逆転･肉薄され､黒字リストラの標的にも…《中堅･管理職》を置き去りにする\"初任給インフレ\"の末路 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954385?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "初任給の引き上げ競争が企業に波紋を広げています。中堅やシニア社員との賃金バランスにひずみが生じ､不満やモチベーション低下が顕在化。新卒一括採用の根幹が揺らぐ今､企業はどんな選択を迫られるのでしょうか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T07:00:00+09:00"
+  },
+  {
+   "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news037.html",
+   "summary": "欧州のAI主権を担う存在として、AI企業のMistralが注目されている。同社を率いる34歳の“若き天才”は、“救世主”になり得るのか。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T07:00:00+09:00"
+  },
+  {
+   "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
+   "summary": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T07:00:00+09:00"
+  },
+  {
+   "title": "酷暑による経済損失「年7.8兆円」　“暑さ”を商機に変えた「空調服」「ダイキン」の戦略に迫る",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news022.html",
+   "summary": "40度以上の酷暑日が当たり前にある日本。暑さは経済に深刻なダメージを及ぼしている。一方で、暑さを味方に付けてビジネスを拡大しているのが「株式会社空調服」と「ダイキン」だ。両社の戦略に迫る。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T07:00:00+09:00"
+  },
+  {
+   "title": "なぜ今、日本型「長期雇用」が世界で再評価されているのか　大転職時代の米国が抱えた“人材のトラウマ”",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news021.html",
+   "summary": "「ビッグステイ」（The Big Stay）なる言葉が米国で話題です。日本企業が手放した「長くとどまることで得られる果実」が、今やグローバルな再評価の波に乗って、原点回帰の様相を呈しているのです。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T07:00:00+09:00"
+  },
   {
    "title": "｢AI導入､今すぐやれ｣→4週間後｢やっぱナシで｣　それはさすがにキツイわ…ワンマン社長に振り回される43歳部長の悲鳴 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954715?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -435,28 +502,12 @@
    "published": "2026-08-16T11:00:00+09:00"
   },
   {
-   "title": "｢論破｣も｢詰める｣もいい関係を生まない本当の理由 本当に相手の心に届く｟人類学｠の5つのステップ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954491?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢あの人は何を考えているのか｣｢伝えたはずなのにうまく伝わらない｣——職場や家庭で感じるすれ違い。その原因は違う\"あたり前\"にあるかもしれません。本記事では､人類学から学べる相手の立場に立つための5…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-16T11:00:00+09:00"
-  },
-  {
    "title": "命の危険に直面 炎天下で働く人々",
    "link": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-16T10:38:35+09:00"
-  },
-  {
-   "title": "｢新宿駅30分以内｣中古マンション価格相場が安い駅ランキング　一人暮らし向け､二人暮らし･ファミリー向け､1位は？ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954022?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "複数路線が集い\"世界一混雑する駅\"と認定された新宿駅。その30分圏内で､一人暮らし･ファミリー向け中古マンション相場が安い駅を徹底調査しました。大規模再開発や歴史､生活利便性といった街の魅力も深掘り…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-16T10:00:00+09:00"
   },
   {
    "title": "銘柄選別ファンドのパフォーマンスは相変わらず低い",
@@ -467,14 +518,6 @@
    "published": "2026-08-16T10:00:00+09:00",
    "lang": "en",
    "title_orig": "Stock-Picking Funds Are Performing as Poorly as Ever"
-  },
-  {
-   "title": "秀吉も信長の葬儀に全力を注いだ…｢権力者の死｣で《弔いの主導権》が争われる\"納得の背景\" | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954400?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載第35回は､秀吉が信長の葬儀に全力を注いだ理由について､真山知幸氏が解説します。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-16T09:30:00+09:00"
   },
   {
    "title": "マンション投資、金利高で家賃値上げの連鎖　オーナーと入居者の思い",
@@ -509,16 +552,6 @@
    "published": "2026-08-16T04:39:00+09:00",
    "lang": "en",
    "title_orig": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank"
-  },
-  {
-   "title": "今は金利が高いと思いますか？これらのグラフは別の視点を提供します。",
-   "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-   "summary": "また、「Weekend Reads: 10 の注目すべき住宅市場、銘柄選択、健康保険の戦い」にも掲載されています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-16T04:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Think interest rates are high now? These charts offer a different perspective."
   },
   {
    "title": "超富裕層との会話から学んだこと",
@@ -557,14 +590,6 @@
    "published": "2026-08-15T13:15:00+09:00"
   },
   {
-   "title": "城内（きうち）経済財政担当相が靖国神社を参拝した",
-   "link": "https://www.jiji.com/jc/article?k=2026081500256&g=flash&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-15T10:50:00+09:00"
-  },
-  {
    "title": "夏休み明けから「無断欠勤」を続ける社員　会社はどう対応すべき？",
    "link": "https://www.itmedia.co.jp/business/articles/2608/15/news004.html",
    "summary": "夏季休暇を取得した従業員が、休みが終わっても無断欠勤をしています。こちらからの連絡に対し、当初は「明日には出社します」と答えていたのですが、ある時から連絡が途絶えました。こうした無断欠勤に対し、企業側はどういった対応を取るべきなのでしょうか。一連の流れを教えてください。",
@@ -579,14 +604,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-15T07:00:00+09:00"
-  },
-  {
-   "title": "トランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IajVfb25MLWU0MDdmOEJZd3YyRkFpMW5QcDJyRVdmTmNuZWJ2Q3FFa2tXazEwMnlPQ1otWm8yUy1wOWozOVEwaGdfS0xpTHVNWlpYMHE2bXRRTTVsUjB3MFFMT0pfUzM2aElwaF9IbFBzVUVJQlcxMGNn?oc=5",
-   "summary": "トランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T06:08:24+09:00"
   },
   {
    "title": "バークシャー・ハサウェイがアルファベットを保有株トップ3に押し上げ、デルタと住宅への賭けも上昇",
@@ -609,14 +626,6 @@
    "title_orig": "Goldman’s latest cash cow is all about funding the AI infrastructure boom"
   },
   {
-   "title": "フーシ派、サウジアラムコ施設をドローン攻撃 紅海沿岸モカにミサイル6発 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1M2Wk95NTZFQkpZOVFuWlk3ZHdLY05pT2drN3lhY1ZzNUtqdFR1bHExYkgwWEE3c0cwY00xbHpESUpoek1uNkZKWnBybkpjVUFfUC1QSzNzSE1tZDFrZGhVd1NRcG5zbGFJX0F4a3MxY05POXVXZFpqSnZHVktoLVJn?oc=5",
-   "summary": "フーシ派、サウジアラムコ施設をドローン攻撃 紅海沿岸モカにミサイル6発&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T04:45:25+09:00"
-  },
-  {
    "title": "規制当局と銀行が予測市場の監視を強化",
    "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
    "summary": "CFTCは予想賭博プラットフォームのいわゆるメンション市場を見直していると、この件に詳しい関係者がCNBCに認めた。",
@@ -635,14 +644,6 @@
    "published": "2026-08-15T03:45:00+09:00"
   },
   {
-   "title": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3EwUTNnZVROWURtWnVWV09HLUkzMUVzRmR1V185MkxWMHpGTUtyVVpHUkg1TVhlT1BlZVZPU0lkYVJsN1FhREhYdnlBTUxGR1YzWVotcHpxUWdMX2Z4akhEMDJkYzFBR2hvU2FYR2Y3b0dJVW1yM3h1QjI2NldKSw?oc=5",
-   "summary": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T00:17:43+09:00"
-  },
-  {
    "title": "市場前に大きな動きをする銘柄: Reddit、Applied Materials、Sandisk、Wayfair など",
    "link": "https://www.cnbc.com/2026/08/14/stocks-making-the-biggest-moves-premarket-rddt-amat-sndk-w.html",
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
@@ -653,28 +654,12 @@
    "title_orig": "Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more"
   },
   {
-   "title": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWtwUVdHWlhITHR4T0RTSno0RFNGV3NhNVlJbkFUb2lYSVJndDRETExFT3VLS2N1M1dpX2pHSFJMc2o2MjBhNlBSOEt6Q3dyY1JrZnFXcm1xYkNmdXdEaW5jYXU3RWg1LVpKRlcxaFlJZDl0bHBUcGRVN05KRWRYWQ?oc=5",
-   "summary": "中国・香港株式市場・大引け＝中国横ばい、香港下落 注目ＩＰＯ控え流動性低下&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T19:07:16+09:00"
-  },
-  {
    "title": "「エアコン2027年問題」で価格差拡大？　中国勢が8万円以下で攻勢",
    "link": "https://www.itmedia.co.jp/business/articles/2608/14/news077.html",
    "summary": "来年4月から家庭用エアコンの省エネ基準が厳しくなり、価格アップなどが予想される「エアコン2027年問題」をにらみ、中国メーカーが日本市場に安価な製品で攻勢を強めている。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-14T17:16:00+09:00"
-  },
-  {
-   "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVNMVTktem92NF9nQmhhdktDZlVGcUZ5SnBDd1RqWUJxVmc1bkp3V2JCYjVaZUdCbEV4amR0c05MczhiSVlITWdRMi15VUt2c014aGZWeUVxRmdxQnpHV0NVYkVWcy1qdlM0Sk5INFlwUk16eGctYXR2TDZSRjdVTg?oc=5",
-   "summary": "電通Ｇ、上半期は黒字転換 円安やビル売却益で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T17:05:43+09:00"
   },
   {
    "title": "流動性供給(第459回)入札において追加発行した国債の銘柄",
@@ -709,22 +694,6 @@
    "published": "2026-08-14T16:00:00+09:00"
   },
   {
-   "title": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTlkTXJXTzc1dGN1d212ek8waHdyQlJtMGdFbVRsc0Z5akVjNkUzYl91U240TkR0V2FHZDR4NGpYSkxqMzZrVzhVZkRJLWMyUkpVWE54b2FWUnFmQzY0NWZoTE9LcVdIUTBrZGZKZl9jbnoyOVVTQnJTNHlYUkJ0SQ?oc=5",
-   "summary": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T15:59:21+09:00"
-  },
-  {
-   "title": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUkJ2UndyaUpsY0VZbDVvcWRabFJMQ0k3YkQtQXl1U2pRcGE5LTY2NEFMWnIwSnpaNmJiR3JlTUpwQjBjNHpYbmY1UDJ6Y2xwakMtamJWc0R0N3ctWks3NHdieVhxYmRmLVNiUGtCWW5VUmNLNEt6SS1qelBQbk5lMm1n?oc=5",
-   "summary": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T15:12:00+09:00"
-  },
-  {
    "title": "第4回日韓財務官級協議の開催予定について",
    "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/202608141500.html",
    "summary": "",
@@ -733,36 +702,12 @@
    "published": "2026-08-14T15:00:00+09:00"
   },
   {
-   "title": "日銀、早ければ9月利上げを想定 「ペース加速」も視野＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFVSUWNsbzJDckR6ckZXdXNsV0xEYTdNUDZmYW5oOGM2VTREUGswRWI5SEdSS3dpZnRYZVVzOHpqWmo0emZMQnc0bUpzV3Jkcko0TUdmVDhfVVNTd2RsZDR0TWR4em1EUzJDMDY1U1pqcDZZYTRmNUQ2MEVzUjBMRW1tY1UxbDBFUHVZ?oc=5",
-   "summary": "日銀、早ければ9月利上げを想定 「ペース加速」も視野＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T14:50:00+09:00"
-  },
-  {
-   "title": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lcjlURC1DaWFmWjNMeWN3Z2t3c1l2Q2JrM1BRZVc3R2pURnIwQm1nOXJOWmZmdXpvc2g5UkVFU2U2d0x3dXI3UWthTFF2aUhxaHdhR0xCLXNOZGl2VjlhYzB1NENsQUpzaWxrZWM1dVFoRFRzUjlIdg?oc=5",
-   "summary": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T13:45:00+09:00"
-  },
-  {
    "title": "流動性供給(第459回)入札結果",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T12:35:00+09:00"
-  },
-  {
-   "title": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZXd0FwM2ZuQ0ZkZm8tU2M1NENfSEt6bjVTekx4MU9MQUJuRDgtUTJjYnkxUXVDWDVXNi1LTVZkaldudGNLWU5FUkhXRjhMZV9yckZPOW9GN0UyNGc1dmVEQ0pWaW1qLXBSU2NKLXNDMkJ1QTM3SA?oc=5",
-   "summary": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T12:31:00+09:00"
   },
   {
    "title": "国庫短期証券（第1400回）の入札結果",
@@ -823,28 +768,12 @@
    "published": "2026-08-14T09:30:00+09:00"
   },
   {
-   "title": "インタビュー：円安是正へ再び協調介入も、利上げ加速も選択肢＝古沢元財務官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUDBXYkhCaFNvc0huX2dhQmNFNU5qOW1DbXRuelp5NUZWQ2dJQ3FRTUtnRnlLVnM2VkdhTU1lY205ZVNRRGJybGNITGRTc3VQZS00X1Zia2Z2eGM3MkNZdjBvX0hTRXpyYlhYdDV1OWhIZHA4b3lGcg?oc=5",
-   "summary": "インタビュー：円安是正へ再び協調介入も、利上げ加速も選択肢＝古沢元財務官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T09:15:00+09:00"
-  },
-  {
    "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
    "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T08:50:00+09:00"
-  },
-  {
-   "title": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pZWJ0d0I4VmVLYVRzUXk4aFY4S1lNTS1mZEpzejAtWnd2RGU0S1pSNDB0UGpxakxLd1VHbUxCU3lETFV1QVdhMDlSSWxvNW9hRDhBWDRwQ2VZMEYzT3FCdzVnX3NfNXVTcGREUTRBWXR4ZjhHM2N1MQ?oc=5",
-   "summary": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T08:04:10+09:00"
   },
   {
    "title": "【ヒット記事】10月施行、同一労働同一賃金はこう変わる　企業がまずとるべき対策3選",
@@ -877,22 +806,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-14T08:00:00+09:00"
-  },
-  {
-   "title": "カナダの対米通商交渉進展、19日の新関税発動前に双方が合意望む＝関係者 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhV3pxWnBVQ2FoajY4cDdmRU02clJjWWRFb3E3SjNfSTRneHJjWnllSXcteVRRR3A5NTcxeHpMY2ZKMjJMQjI1UlN0d0tuNHVTMDRSQmFscXhvVzAzWHV3Umx4dmg4eHlrbWpBRktOSU5oSExJbUVXN2JR?oc=5",
-   "summary": "カナダの対米通商交渉進展、19日の新関税発動前に双方が合意望む＝関係者&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T07:24:09+09:00"
-  },
-  {
-   "title": "ＮＹ市場サマリー（13日）Ｓ＆Ｐ終値で最高値、ドルまちまち、利回り低下 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HZDdZMXpTVnpXOWh1eU1UUDJ0eGJWakgwWWlxRVpSM3d6Q0V6SzRNU1NqUFc3S1FNYktaQTFRTjR4dEs3UlNHUzVfOGJmUGRkQlJUd0t1WmJQek5EYkZqRW9PdmpqMjhEUFJfUjRtNE95UlNZdGpDTw?oc=5",
-   "summary": "ＮＹ市場サマリー（13日）Ｓ＆Ｐ終値で最高値、ドルまちまち、利回り低下&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T07:15:13+09:00"
   }
  ]
 }
