@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T00:33:48.013043+09:00",
+ "generated_at": "2026-08-17T00:54:59.959272+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,7 +58,9 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
    "title": "原油価格が上がらない本当の理由はこれだ",
@@ -557,14 +559,6 @@
    "published": "2026-08-15T07:00:00+09:00"
   },
   {
-   "title": "トランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IajVfb25MLWU0MDdmOEJZd3YyRkFpMW5QcDJyRVdmTmNuZWJ2Q3FFa2tXazEwMnlPQ1otWm8yUy1wOWozOVEwaGdfS0xpTHVNWlpYMHE2bXRRTTVsUjB3MFFMT0pfUzM2aElwaF9IbFBzVUVJQlcxMGNn?oc=5",
-   "summary": "トランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T06:08:24+09:00"
-  },
-  {
    "title": "バークシャー・ハサウェイがアルファベットを保有株トップ3に押し上げ、デルタと住宅への賭けも上昇",
    "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
    "summary": "神父が発表した規制当局への提出書類によると、バークシャーは６月末時点でグーグルの親会社株約１億６００万株（３７９億ドル相当）を保有していた。",
@@ -575,14 +569,6 @@
    "title_orig": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets"
   },
   {
-   "title": "ＮＹ外為市場＝ドル下落、159円台前半 米小売売上高減少で9月利上げ観測後退 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTXlDQTdUX1lmazBtTlJQdUhsckx2WV9hSkJpUEIzOXljblBHWEJmT0V4eTRRMURRa241STUycXBlUVR4U3NVcERacFNIcjhyVF8xN1RWUXVqYmg5STAtT2YxRUpWMFJHU2FVSlN5dTdFTmN1UUQ3UA?oc=5",
-   "summary": "ＮＹ外為市場＝ドル下落、159円台前半 米小売売上高減少で9月利上げ観測後退&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T06:01:56+09:00"
-  },
-  {
    "title": "ゴールドマンの最新のドル箱は、AI インフラストラクチャ ブームへの資金提供がすべてです",
    "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
    "summary": "Nvidia と Intel は最近、コンピューティング需要の急増に対応するためにこの銀行を利用しました。",
@@ -591,14 +577,6 @@
    "published": "2026-08-15T05:05:57+09:00",
    "lang": "en",
    "title_orig": "Goldman’s latest cash cow is all about funding the AI infrastructure boom"
-  },
-  {
-   "title": "フーシ派、サウジアラムコ施設をドローン攻撃 紅海沿岸モカにミサイル6発 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1M2Wk95NTZFQkpZOVFuWlk3ZHdLY05pT2drN3lhY1ZzNUtqdFR1bHExYkgwWEE3c0cwY00xbHpESUpoek1uNkZKWnBybkpjVUFfUC1QSzNzSE1tZDFrZGhVd1NRcG5zbGFJX0F4a3MxY05POXVXZFpqSnZHVktoLVJn?oc=5",
-   "summary": "フーシ派、サウジアラムコ施設をドローン攻撃 紅海沿岸モカにミサイル6発&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T04:45:25+09:00"
   },
   {
    "title": "規制当局と銀行が予測市場の監視を強化",
@@ -617,22 +595,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-15T03:45:00+09:00"
-  },
-  {
-   "title": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3EwUTNnZVROWURtWnVWV09HLUkzMUVzRmR1V185MkxWMHpGTUtyVVpHUkg1TVhlT1BlZVZPU0lkYVJsN1FhREhYdnlBTUxGR1YzWVotcHpxUWdMX2Z4akhEMDJkYzFBR2hvU2FYR2Y3b0dJVW1yM3h1QjI2NldKSw?oc=5",
-   "summary": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T00:17:43+09:00"
-  },
-  {
-   "title": "中国新規銀行融資、過去最大のマイナス 需要弱く個人・法人とも減少 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GWURkQmRuVU1CTE8wOTBQMElwWWE1aVpLeEFuLWFiaC1jbndoUzFpLXd1OFVTMGxWQ05CODNkeXRWcnFmWnFzZHp2cWx2YkVyZzZTV3NhQ0pHcDgyY3BlLUJKRjZPM2dLVVliaDZzMl9mX2p3aGc?oc=5",
-   "summary": "中国新規銀行融資、過去最大のマイナス 需要弱く個人・法人とも減少&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T20:57:20+09:00"
   },
   {
    "title": "市場前に大きな動きをする銘柄: Reddit、Applied Materials、Sandisk、Wayfair など",
@@ -667,14 +629,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-14T17:16:00+09:00"
-  },
-  {
-   "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVNMVTktem92NF9nQmhhdktDZlVGcUZ5SnBDd1RqWUJxVmc1bkp3V2JCYjVaZUdCbEV4amR0c05MczhiSVlITWdRMi15VUt2c014aGZWeUVxRmdxQnpHV0NVYkVWcy1qdlM0Sk5INFlwUk16eGctYXR2TDZSRjdVTg?oc=5",
-   "summary": "電通Ｇ、上半期は黒字転換 円安やビル売却益で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T17:05:43+09:00"
   },
   {
    "title": "流動性供給(第459回)入札において追加発行した国債の銘柄",
@@ -725,44 +679,12 @@
    "published": "2026-08-14T16:00:00+09:00"
   },
   {
-   "title": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTlkTXJXTzc1dGN1d212ek8waHdyQlJtMGdFbVRsc0Z5akVjNkUzYl91U240TkR0V2FHZDR4NGpYSkxqMzZrVzhVZkRJLWMyUkpVWE54b2FWUnFmQzY0NWZoTE9LcVdIUTBrZGZKZl9jbnoyOVVTQnJTNHlYUkJ0SQ?oc=5",
-   "summary": "日経平均は4日続伸、米株高が支援 週末要因や高値警戒で利益確定も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T15:59:21+09:00"
-  },
-  {
-   "title": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUkJ2UndyaUpsY0VZbDVvcWRabFJMQ0k3YkQtQXl1U2pRcGE5LTY2NEFMWnIwSnpaNmJiR3JlTUpwQjBjNHpYbmY1UDJ6Y2xwakMtamJWc0R0N3ctWks3NHdieVhxYmRmLVNiUGtCWW5VUmNLNEt6SS1qelBQbk5lMm1n?oc=5",
-   "summary": "フィリピン大統領、「中国との経済協力可能」 南シナ海で対立でも&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T15:12:00+09:00"
-  },
-  {
    "title": "第4回日韓財務官級協議の開催予定について",
    "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/202608141500.html",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T15:00:00+09:00"
-  },
-  {
-   "title": "日銀、早ければ9月利上げを想定 「ペース加速」も視野＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFVSUWNsbzJDckR6ckZXdXNsV0xEYTdNUDZmYW5oOGM2VTREUGswRWI5SEdSS3dpZnRYZVVzOHpqWmo0emZMQnc0bUpzV3Jkcko0TUdmVDhfVVNTd2RsZDR0TWR4em1EUzJDMDY1U1pqcDZZYTRmNUQ2MEVzUjBMRW1tY1UxbDBFUHVZ?oc=5",
-   "summary": "日銀、早ければ9月利上げを想定 「ペース加速」も視野＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T14:50:00+09:00"
-  },
-  {
-   "title": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lcjlURC1DaWFmWjNMeWN3Z2t3c1l2Q2JrM1BRZVc3R2pURnIwQm1nOXJOWmZmdXpvc2g5UkVFU2U2d0x3dXI3UWthTFF2aUhxaHdhR0xCLXNOZGl2VjlhYzB1NENsQUpzaWxrZWM1dVFoRFRzUjlIdg?oc=5",
-   "summary": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T13:45:00+09:00"
   },
   {
    "title": "流動性供給(第459回)入札結果",
@@ -773,28 +695,12 @@
    "published": "2026-08-14T12:35:00+09:00"
   },
   {
-   "title": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZXd0FwM2ZuQ0ZkZm8tU2M1NENfSEt6bjVTekx4MU9MQUJuRDgtUTJjYnkxUXVDWDVXNi1LTVZkaldudGNLWU5FUkhXRjhMZV9yckZPOW9GN0UyNGc1dmVEQ0pWaW1qLXBSU2NKLXNDMkJ1QTM3SA?oc=5",
-   "summary": "韓国ＳＫハイニックス、賃金交渉対立で新統合労組が発足&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T12:31:00+09:00"
-  },
-  {
    "title": "国庫短期証券（第1400回）の入札結果",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260814.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T12:30:00+09:00"
-  },
-  {
-   "title": "印タタ・モーターズＰＶ、親会社会長退任後も投資計画に変更なし - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PUEJ2NUdHUzU0dUltRktZQktpbDNWUzhBc2wtenJaT015YlMwemZsTGxvSWh1OWI1X0NmZEpSOWt6SzJ4Vy03NVhuX2dBU2pjUmVPa1Q5WG5laXZyS29yb1QxSTQxY1M4WGluaEJ2UkVSamRmMUE?oc=5",
-   "summary": "印タタ・モーターズＰＶ、親会社会長退任後も投資計画に変更なし&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T11:44:00+09:00"
   },
   {
    "title": "流動性供給(第459回)入札",
@@ -819,14 +725,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T10:20:00+09:00"
-  },
-  {
-   "title": "トルコ中銀、26年インフレ率見通し28％に上げ レポ再開検討 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRklXa09NZHR2ZXZLYzkzazV3d2tLZWt3RlBFdHd0Z2hnVkR2aFIzLW52dFRYcjFyWDl1MDZaNjMzVWRfTEpIMDRoWFJJT0dVZ1RVTm9rU3dmelFhNkcyYVJpdXJtakNValpYWm11dmo1Qm82TVh1bEoxU3BpalBESA?oc=5",
-   "summary": "トルコ中銀、26年インフレ率見通し28％に上げ レポ再開検討&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T10:14:00+09:00"
   },
   {
    "title": "ウーバー、中国のPony.aiと提携し、ヨーロッパで2,000台のロボタクシーを導入",
@@ -855,28 +753,12 @@
    "published": "2026-08-14T09:30:00+09:00"
   },
   {
-   "title": "インタビュー：円安是正へ再び協調介入も、利上げ加速も選択肢＝古沢元財務官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUDBXYkhCaFNvc0huX2dhQmNFNU5qOW1DbXRuelp5NUZWQ2dJQ3FRTUtnRnlLVnM2VkdhTU1lY205ZVNRRGJybGNITGRTc3VQZS00X1Zia2Z2eGM3MkNZdjBvX0hTRXpyYlhYdDV1OWhIZHA4b3lGcg?oc=5",
-   "summary": "インタビュー：円安是正へ再び協調介入も、利上げ加速も選択肢＝古沢元財務官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T09:15:00+09:00"
-  },
-  {
    "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
    "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T08:50:00+09:00"
-  },
-  {
-   "title": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pZWJ0d0I4VmVLYVRzUXk4aFY4S1lNTS1mZEpzejAtWnd2RGU0S1pSNDB0UGpxakxLd1VHbUxCU3lETFV1QVdhMDlSSWxvNW9hRDhBWDRwQ2VZMEYzT3FCdzVnX3NfNXVTcGREUTRBWXR4ZjhHM2N1MQ?oc=5",
-   "summary": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-14T08:04:10+09:00"
   },
   {
    "title": "【ヒット記事】10月施行、同一労働同一賃金はこう変わる　企業がまずとるべき対策3選",
