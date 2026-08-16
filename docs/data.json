@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T00:11:20.123556+09:00",
+ "generated_at": "2026-08-17T00:33:48.013043+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -145,16 +145,6 @@
    "published": "2026-08-16T19:26:05+09:00"
   },
   {
-   "title": "ビッグテックのデータセンターブームが二酸化炭素排出量を増加させる準備ができている",
-   "link": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
-   "summary": "FT分析によると、計画されている最大規模の施設60か所で、年間石炭火力発電所27基または自動車2,400万台に相当する排出量が発生する可能性があることが判明",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-16T19:00:02+09:00",
-   "lang": "en",
-   "title_orig": "Big Tech’s data centre boom poised to drive up carbon emissions"
-  },
-  {
    "title": "スポーツ界の億万長者がウォール街をひっくり返すと脅す方法",
    "link": "https://www.ft.com/content/cf87b6cd-f940-4b09-b072-7da36faa183f?syn-25a6b1a6=1",
    "summary": "保険会社を利用して帝国を築くというマーク・ウォルターの多くの模倣戦略が規制当局の監視の目を集めている",
@@ -163,6 +153,16 @@
    "published": "2026-08-16T19:00:02+09:00",
    "lang": "en",
    "title_orig": "How a sports billionaire threatens to upend Wall Street"
+  },
+  {
+   "title": "ビッグテックのデータセンターブームが二酸化炭素排出量を増加させる準備ができている",
+   "link": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
+   "summary": "FT分析によると、計画されている最大規模の施設60か所で、年間石炭火力発電所27基または自動車2,400万台に相当する排出量が発生する可能性があることが判明",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-16T19:00:02+09:00",
+   "lang": "en",
+   "title_orig": "Big Tech’s data centre boom poised to drive up carbon emissions"
   },
   {
    "title": "千葉の車両撤去 JAFに要請が殺到",
@@ -619,14 +619,6 @@
    "published": "2026-08-15T03:45:00+09:00"
   },
   {
-   "title": "米ゴールドマン、欧州株の12カ月先目標引き上げ 堅調な業績受け - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJBc0prQThIT2xSbGJaYkRHZHJxVlUyTXN5Nlh3NE5USzNwQXN6blJpckJBdlpja1JIM2lvaF83ejRPaTBXdGNSc2NiR2xYY29NWkxnaVRkTWJnLWtMUEtWRW9pWUxIdFpsZUh5NkZBcE42M2hMUWRjUERuVTlGbg?oc=5",
-   "summary": "米ゴールドマン、欧州株の12カ月先目標引き上げ 堅調な業績受け&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-15T02:16:53+09:00"
-  },
-  {
    "title": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3EwUTNnZVROWURtWnVWV09HLUkzMUVzRmR1V185MkxWMHpGTUtyVVpHUkg1TVhlT1BlZVZPU0lkYVJsN1FhREhYdnlBTUxGR1YzWVotcHpxUWdMX2Z4akhEMDJkYzFBR2hvU2FYR2Y3b0dJVW1yM3h1QjI2NldKSw?oc=5",
    "summary": "米6月企業在庫 前月比横ばい 卸売増を小売減が相殺&nbsp;&nbsp;ロイター",
@@ -877,6 +869,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-14T08:50:00+09:00"
+  },
+  {
+   "title": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pZWJ0d0I4VmVLYVRzUXk4aFY4S1lNTS1mZEpzejAtWnd2RGU0S1pSNDB0UGpxakxLd1VHbUxCU3lETFV1QVdhMDlSSWxvNW9hRDhBWDRwQ2VZMEYzT3FCdzVnX3NfNXVTcGREUTRBWXR4ZjhHM2N1MQ?oc=5",
+   "summary": "米アプライド、今期売上高見通しが予想超え 一部強気派の期待に届かず株価下落&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-14T08:04:10+09:00"
   },
   {
    "title": "【ヒット記事】10月施行、同一労働同一賃金はこう変わる　企業がまずとるべき対策3選",
