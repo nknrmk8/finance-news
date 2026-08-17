@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T01:50:56.103406+09:00",
+ "generated_at": "2026-08-18T02:15:25.291349+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,36 @@
  "errors": [],
  "items": [
   {
+   "title": "イラン停戦期限切れに伴い米国先物相場はおおむね上昇",
+   "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-higher-as-iran-ceasefire-set-to-expire-794f8b05?mod=rss_markets_main",
+   "summary": "投資家が水曜日のFRB議事要旨や、ウォルマートとホーム・デからの米国の消費者心理に関する手掛かりを楽しみにしていたため、株式先物はほぼ上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-18T02:12:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire"
+  },
+  {
+   "title": "クレジット カード発行会社の Synchrony が ChatGPT ショッピングで OpenAI と提携",
+   "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+   "summary": "Synchrony の最高戦略責任者である Maran Nalluswami 氏は CNBC に対し、支払いが ChatGPT に完全に統合されるまでにはおそらく 6 ～ 12 か月かかるだろうと語った。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-18T02:10:01+09:00",
+   "lang": "en",
+   "title_orig": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping"
+  },
+  {
+   "title": "チェルシー株主のウォルター氏とボーリー氏、クリアレイクへの株式売却交渉中",
+   "link": "https://www.ft.com/content/71a498fa-4ce7-4c0b-ab14-7b7f46b2b9c6?syn-25a6b1a6=1",
+   "summary": "ウォルターのビジネス帝国が規制当局の監視に直面し、戦略をめぐる衝突の中で交渉が始まる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-18T02:06:13+09:00",
+   "lang": "en",
+   "title_orig": "Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake"
+  },
+  {
    "title": "「AI株の神様」と呼ばれる投資家は、7月の爆発前にヘッジファンドの56％をこれら2銘柄に投資していた",
    "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
    "summary": "2026 年上半期の終わりには、この分野での大きな調整の直前に、状況認識基金の 4 分の 3 以上が枯渇しました。",
@@ -71,23 +101,14 @@
    "title_orig": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up"
   },
   {
-   "title": "Basic Materials Roundup: Market Talk",
+   "title": "基本的な材料のまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0d4fbb15?mod=rss_markets_main",
-   "summary": "Find insight on palm oil, gold futures and more in the latest Market Talks covering basic materials.",
+   "summary": "基本的な資料をカバーする最新のマーケットトークで、パーム油や金先物などに関する洞察を見つけてください。",
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-18T01:28:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "チェルシー株主のウォルター氏とボーリー氏、クリアレイクへの株式売却交渉中",
-   "link": "https://www.ft.com/content/71a498fa-4ce7-4c0b-ab14-7b7f46b2b9c6?syn-25a6b1a6=1",
-   "summary": "ウォルターのビジネス帝国が規制当局の監視に直面し、戦略をめぐる衝突の中で交渉が始まる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-18T01:22:40+09:00",
    "lang": "en",
-   "title_orig": "Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake"
+   "title_orig": "Basic Materials Roundup: Market Talk"
   },
   {
    "title": "予測市場のトレーダーらはおよそ4分の1の確率とみている パラマウントによるワーナー・ブラザーズ買収計画、ディスカバリーは失敗",
@@ -128,16 +149,6 @@
    "published": "2026-08-18T01:00:00+09:00",
    "lang": "en",
    "title_orig": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says"
-  },
-  {
-   "title": "クレジット カード発行会社の Synchrony が ChatGPT ショッピングで OpenAI と提携",
-   "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-   "summary": "Synchrony の最高戦略責任者である Maran Nalluswami 氏は CNBC に対し、支払いが ChatGPT に完全に統合されるまでにはおそらく 6 ～ 12 か月かかるだろうと語った。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-18T00:52:22+09:00",
-   "lang": "en",
-   "title_orig": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping"
   },
   {
    "title": "私は 1,000 万ドルを持っており、経済的な援助のために 2 人のアドバイザーにお金を払っていますが、まだ疑問があります",
@@ -238,16 +249,6 @@
    "published": "2026-08-17T23:12:41+09:00",
    "lang": "en",
    "title_orig": "The realignment of the Middle East"
-  },
-  {
-   "title": "イラン停戦期限切れに伴い米国先物相場はおおむね上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-higher-as-iran-ceasefire-set-to-expire-794f8b05?mod=rss_markets_main",
-   "summary": "投資家が水曜日のFRB議事要旨や、ウォルマートとホーム・デからの米国の消費者心理に関する手掛かりを楽しみにしていたため、株式先物はほぼ上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-17T23:01:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire"
   },
   {
    "title": "豪雨で車が浸水 金銭負担が心配",
@@ -358,14 +359,6 @@
    "published": "2026-08-17T20:12:38+09:00"
   },
   {
-   "title": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UMjNmeGZ4ek5oUUlxTHRieno1OVJpTWRQUmlQd1c3c1o5RUxaMHpXUEV0S1JOSlZTZHZObUJFTHZyeUFHVWE1Y1NUWTZPVXlBN3BsOTJjNnI2djVkTzdndXkxQkZqaUQ3cERnVkduSE5mRVNJcWNfZA?oc=5",
-   "summary": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T19:15:33+09:00"
-  },
-  {
    "title": "Ｓ＆Ｐ、東芝をＢＢに格上げ キオクシア株売却などで債務削減 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSzM4ZVFWZms2Wlk3QmpLVHI2d3g1ZlVFVFI1VTZYSHJrSDE2VlBhaG1QUDV0bEJIMF91T2dNWGNNN0RNS1kwWW12VEFZLWVJUjVzRWRhdTQxNU5SQ0ZieE5CNEVLYjB1SGJLWEFJNkl3QkhYZ1E?oc=5",
    "summary": "Ｓ＆Ｐ、東芝をＢＢに格上げ キオクシア株売却などで債務削減&nbsp;&nbsp;ロイター",
@@ -388,14 +381,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-17T19:00:00+09:00"
-  },
-  {
-   "title": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSldZQlNMcU9wX1F3UWM0dTlLdjNiUGxDNlFSckNiVTVoZ0c2V2VfRHJMMTE5d3k2OGRwWDZnS2xhZkt5UmVJZFFkQnBpY0Y5dVBvNUtUTHBGVkdyLUNuWDVodEtVTVRLR0VxblNDOE0zWUNXanJfQjFYeldzdmozXw?oc=5",
-   "summary": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T18:39:01+09:00"
   },
   {
    "title": "葬儀の料金複雑化 トラブル絶えず",
@@ -590,14 +575,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-17T14:42:00+09:00"
-  },
-  {
-   "title": "米ＳＥＣ、投資顧問会社規制の緩和提案 政治献金巡り - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUt5UkdTcTZYbDhYZnE4Vy10UVd0Z1M3LWdTVHMxS2gzaDVfa3kzUmJDT2JWN1piT0x0VlpxNE12WTVqd1dLdDAyblZGVG93UlpFYkEtaWczSW51MURvQm5fWTA5OExoQTdyZUNYaVB0V0w5VEp2OFBVSE5FLUV1MQ?oc=5",
-   "summary": "米ＳＥＣ、投資顧問会社規制の緩和提案 政治献金巡り&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T14:38:00+09:00"
   },
   {
    "title": "｢消費税減税は難航する｣という\"従来予測\"が一変､永田町で急に｢楽観論｣がささやかれ始めたお盆休み明けの政界裏事情 | 政治・経済・投資 | 東洋経済オンライン",
@@ -878,6 +855,14 @@
    "published": "2026-08-16T11:00:00+09:00"
   },
   {
+   "title": "アングル：欧州の猛暑、経済損失は過去最大規模の恐れ 観光の変化で南欧に大打撃 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tMWFBWXlXeXVBQVhXR2FwV2VPd2lwSEZRaTVHV1FPMzlBM3B3Y2dwWUJlVThWOFZnbkNncnNVY1Q3ZHpvdkVYYTdQZEs4MTRKOW9JcDNrUE5YZ2VjcVNFVlFyUHJSMVNOOUkzLWh5UTN3YzBiTGI2Qw?oc=5",
+   "summary": "アングル：欧州の猛暑、経済損失は過去最大規模の恐れ 観光の変化で南欧に大打撃&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-16T08:22:22+09:00"
+  },
+  {
    "title": "マンション投資、金利高で家賃値上げの連鎖　オーナーと入居者の思い",
    "link": "https://www.asahi.com/articles/ASV8D2S33V8DULFA01GM.html?ref=rss",
    "summary": "",
@@ -900,6 +885,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-15T08:00:00+09:00"
+  },
+  {
+   "title": "トランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IajVfb25MLWU0MDdmOEJZd3YyRkFpMW5QcDJyRVdmTmNuZWJ2Q3FFa2tXazEwMnlPQ1otWm8yUy1wOWozOVEwaGdfS0xpTHVNWlpYMHE2bXRRTTVsUjB3MFFMT0pfUzM2aElwaF9IbFBzVUVJQlcxMGNn?oc=5",
+   "summary": "トランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-15T06:08:24+09:00"
   },
   {
    "title": "バークシャー・ハサウェイがアルファベットを保有株トップ3に押し上げ、デルタと住宅への賭けも上昇",
