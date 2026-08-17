@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T23:50:19.556698+09:00",
+ "generated_at": "2026-08-18T00:13:24.959226+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,56 @@
  "errors": [],
  "items": [
   {
+   "title": "クレジット カード発行会社の Synchrony が ChatGPT ショッピングで OpenAI と提携",
+   "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+   "summary": "Synchrony の最高戦略責任者である Maran Nalluswami 氏は CNBC に対し、支払いが ChatGPT に完全に統合されるまでにはおそらく 6 ～ 12 か月かかるだろうと語った。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-18T00:11:55+09:00",
+   "lang": "en",
+   "title_orig": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping"
+  },
+  {
+   "title": "米国の労働力の規模は過去1年で100万人以上減少した。ここで何が起こっているのかを説明します。",
+   "link": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
+   "summary": "7月の雇用報告書によると、働いているか仕事を探しているアメリカ人の割合はパンデミック以来これほど低くなっていないようだ。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-17T23:59:00+09:00",
+   "lang": "en",
+   "title_orig": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on."
+  },
+  {
+   "title": "ほとんどの投資家は同じような高くつく間違いを犯しています - そしてそれは間違った銘柄を選ぶこととは何の関係もありません",
+   "link": "https://www.marketwatch.com/story/most-investors-are-making-the-same-costly-mistake-and-it-has-nothing-to-do-with-picking-the-wrong-stocks-4af9d328?mod=mw_rss_topstories",
+   "summary": "若い投資家が、ギャンブルは富を生み出すための合理的な手段であり、投資とそれほど変わらないと信じていることを示す研究が示されている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-17T23:57:00+09:00",
+   "lang": "en",
+   "title_orig": "Most investors are making the same costly mistake — and it has nothing to do with picking the wrong stocks"
+  },
+  {
+   "title": "新しい住宅所有者が直面する 5 つの高価な驚きとそれらを回避する方法",
+   "link": "https://www.marketwatch.com/story/5-expensive-surprises-new-homeowners-face-and-how-to-avoid-them-5bf2a8b0?mod=mw_rss_topstories",
+   "summary": "家を買うのは大変な仕事ですが、家を所有するのにかかる費用はまた別の話です。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-17T23:52:00+09:00",
+   "lang": "en",
+   "title_orig": "5 expensive surprises new homeowners face — and how to avoid them"
+  },
+  {
+   "title": "市場の予測では、中間選挙後に政府は分裂するとみられている。シティによれば、取引方法は次のとおりです。",
+   "link": "https://www.marketwatch.com/story/prediction-markets-see-a-divided-government-after-midterm-elections-heres-how-you-should-trade-citi-says-26d429ca?mod=mw_rss_topstories",
+   "summary": "ポリマーケットでは１１月に民主党が圧勝する確率が４８％に上昇しており、シティグループは債券価格が上昇する可能性があるとみている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-17T23:51:00+09:00",
+   "lang": "en",
+   "title_orig": "Prediction markets see a divided government after midterm elections. Here’s how you should trade, Citi says."
+  },
+  {
    "title": "米国の天然ガス先物、今週は下落で始まる",
    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-losses-f508041f?mod=rss_markets_main",
    "summary": "週末の天気予報で目先の暑さが若干解消されたことを受け、米国の天然ガス先物相場は下落した。",
@@ -89,6 +139,16 @@
    "published": "2026-08-17T23:15:00+09:00",
    "lang": "en",
    "title_orig": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
+  },
+  {
+   "title": "中東の再編",
+   "link": "https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1",
+   "summary": "イラン紛争はアメリカもイスラエルも予見しなかった方法で同盟関係を再構築している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T23:12:41+09:00",
+   "lang": "en",
+   "title_orig": "The realignment of the Middle East"
   },
   {
    "title": "イラン停戦期限切れに伴い米国先物相場はおおむね上昇",
@@ -129,24 +189,14 @@
    "title_orig": "The stock market is driving the economy in one major way"
   },
   {
-   "title": "AI の生産性の成果が近づいています。導入が広がるにつれて利益を獲得する準備ができている 20 銘柄を紹介します。",
-   "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
-   "summary": "ゴールドマン・サックスによれば、これまで投資家は生産性の受益者ではなく、人工知能インフラストラクチャーの取り組みに注目してきたという。",
-   "source": "MarketWatch",
+   "title": "CD&Rの貸し手、物議を醸したマルチカラー破産を受け態度を硬化",
+   "link": "https://www.wsj.com/pro/bankruptcy/cd-rs-lenders-toughen-stance-after-contentious-multi-color-bankruptcy-02092a1f?mod=rss_markets_main",
+   "summary": "他のクレイトン・デュビリエ・アンド・ライスのポートフォリオ企業への貸し手は、プライベートエクイティ会社の攻撃的な戦術を受けて、保護の強化を求めている。",
+   "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-17T22:30:00+09:00",
    "lang": "en",
-   "title_orig": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads."
-  },
-  {
-   "title": "認知症と診断されて終わりではありません。経済的な行動を起こす時期が来ています。",
-   "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
-   "summary": "記憶喪失の初期段階で慎重に計画を立てることで、後に経済的および財産計画で悩まされることを防ぐことができます。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T22:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action."
+   "title_orig": "CD&R’s Lenders Toughen Stance After Contentious Multi-Color Bankruptcy"
   },
   {
    "title": "投資会社ゼネラル・アトランティックが再びIPOを目指している",
@@ -177,24 +227,12 @@
    "title_orig": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
   },
   {
-   "title": "地中海食はその中で最高のものです。アメリカ人がそれに苦労する理由はここにあります。",
-   "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-   "summary": "ただよく食べるというだけではありません。それは家で料理をし、その食事を友人や家族と共有することです。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T21:54:00+09:00",
-   "lang": "en",
-   "title_orig": "The Mediterranean diet is the best one out there. Here’s why Americans struggle with it."
-  },
-  {
-   "title": "「これは両刃の剣です」: 私の夫は 42,000 ドルのボーナスを受け取りました。それは私たちの医療費負担適正化法の補助金を消滅させることになるのでしょうか？",
-   "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-   "summary": "「ボーナスを返還して住宅ローンを組むよう勧められました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T21:16:00+09:00",
-   "lang": "en",
-   "title_orig": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+   "title": "楽天、独ドローン新興と提携　攻撃型、防衛省納入に向け",
+   "link": "https://www.jiji.com/jc/article?k=2026081700874&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-17T20:45:00+09:00"
   },
   {
    "title": "市場前に大きな動きをする銘柄: アリババ、インテル、サンディスクなど",
@@ -269,16 +307,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-17T20:12:38+09:00"
-  },
-  {
-   "title": "FRB利上げ期待の後退を受けてアジア通貨は上昇",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-reduced-fed-rate-hike-expectations-e1f5bdf2?mod=rss_markets_main",
-   "summary": "リスク選好度を高める可能性があるFRBの利上げ期待の後退を受け、アジア通貨は対ドルで若干上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-17T20:10:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Currencies Strengthen Amid Reduced Fed Rate-Hike Expectations"
   },
   {
    "title": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1 - ロイター",
@@ -677,14 +705,6 @@
    "published": "2026-08-17T11:15:41+09:00"
   },
   {
-   "title": "シンガポール非石油輸出、7月は前年比24.2％増 ほぼ予想通り - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdXlvWXFKdUZBOEVYZzdPWkFJM21IUUh6SlppTy1YczVCeXo3NE5mb2Y5U2FGZFBxUHNWMWlZanFCMlBHM2pvODlFNEpwVlhSWmNMSUV4c0k5OFVEcFdpd0NzMnEtbE1wTG5zaFBlclZ0ZE11YWpLUFlQcnl5S25QRw?oc=5",
-   "summary": "シンガポール非石油輸出、7月は前年比24.2％増 ほぼ予想通り&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T10:34:00+09:00"
-  },
-  {
    "title": "｢EVはエコ｣は本当か？推進派･懐疑派それぞれが意識すべき\"脱炭素の条件\"　製造過程の排ガス､重さはネックになるか？ | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954452?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "EVは｢環境に優しい｣とされがちですが､果たして本当に持続可能な選択肢なのでしょうか。製造段階や電力の発電源､インフラへの負荷など多くの課題も指摘されています。私たちは､EVの環境価値をどう見極める…",
@@ -699,24 +719,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-17T10:30:00+09:00"
-  },
-  {
-   "title": "原油先物は上昇、米イラン交渉停滞 ホルムズ通航減速 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DWnJsNndmRHlSd3NsOGlubEYwcjFKQTNGdmdfMUFwbzNlUmYyUDNsS05jWjVNT3lpLU0xS0RXNVFzZGpoSjhMWFF3UGV4alJvYVdQOXlya0Q2NjFGT0I1a01uNDk2WlFjdW9nckF5cjdwbTRCZWh6ck93?oc=5",
-   "summary": "原油先物は上昇、米イラン交渉停滞 ホルムズ通航減速&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T10:18:00+09:00"
-  },
-  {
-   "title": "次のチャイナショックはオープンソースAIから起こる",
-   "link": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
-   "summary": "中国モデルを採用している国は中国の基準とガバナンスも吸収することになる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T10:00:05+09:00",
-   "lang": "en",
-   "title_orig": "The next China shock will come from open-source AI"
   },
   {
    "title": "｢他人の評価に過敏な人｣は､自分で自分を認められず､他人に認めてもらうしかないから | ライフ | 東洋経済オンライン",
@@ -757,6 +759,22 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-17T09:04:39+09:00"
+  },
+  {
+   "title": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDZnT0pnNkxCaG13a3Z2VnZJOVdLQkUtREd3dlMzaWhCdEFOMzFBY0JZelk2bjdVT0tpNXdYY0RlZkVya2FGVTFRNk5RR3VSeEI5YkpyRmVxekZxaGxaUnZuallhRXdRUFRnOU55LXNhYzQ3bGdEaU9PSjMyYkJtRg?oc=5",
+   "summary": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-17T08:33:58+09:00"
+  },
+  {
+   "title": "バークシャーの保有株、アルファベットが第3位 第2四半期に83％増 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh0Z1BUYWpiVHJnbERia3RhYUZMWGk0NGlPQzF6WGRoVlVnaVlCVlhYakczbldycG9ENWVMMi1mUURub0hwQ3JzaUJPWVdQYkJMMVVoTk5DZGVQTE14dVhnV0JaLW9vUURTVjdCS1c0UV9TZWNRSWdtd1VsRXpsVw?oc=5",
+   "summary": "バークシャーの保有株、アルファベットが第3位 第2四半期に83％増&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-17T08:13:44+09:00"
   },
   {
    "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
@@ -847,6 +865,14 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-16T08:00:00+09:00"
+  },
+  {
+   "title": "金価格１６０倍、再び脚光　中銀積み増し、揺らぐドル一極―「ニクソン・ショック」５５年",
+   "link": "https://www.jiji.com/jc/article?k=2026081500315&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-16T07:01:00+09:00"
   },
   {
    "title": "地震保険金の支払い、デジタル技術で急ぐ　損保各社、早期復興へ一助",
