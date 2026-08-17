@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T23:15:25.268696+09:00",
+ "generated_at": "2026-08-17T23:50:19.556698+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,36 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "米国の天然ガス先物、今週は下落で始まる",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-losses-f508041f?mod=rss_markets_main",
+   "summary": "週末の天気予報で目先の暑さが若干解消されたことを受け、米国の天然ガス先物相場は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-17T23:35:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Start Week With Losses"
+  },
+  {
+   "title": "スタンリー・ドラッケンミラーは下落前にこれらのチッププレーをやめた。彼が現在テクノロジー業界でどのように活躍しているかは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/stanley-druckenmiller-ditched-these-chip-plays-before-the-selloff-heres-how-hes-playing-the-tech-sector-now-9115c06f?mod=mw_rss_topstories",
+   "summary": "注目の投資家は第2四半期にテクノロジー関連株の一部を強化した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-17T23:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Stanley Druckenmiller ditched these chip plays before the selloff. Here’s how he’s playing the tech sector now."
+  },
+  {
+   "title": "私の息子は働いていませんが、医療費負担適正化法の健康保険に 500 ドルを払っています。それは公平ですか？",
+   "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+   "summary": "「多額のお金を持っているにもかかわらず、課税所得がほとんど、またはまったくない人でも、ACA マーケットプレイスの補助金を受ける資格がある人を見かけます。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-17T23:15:00+09:00",
+   "lang": "en",
+   "title_orig": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
+  },
   {
    "title": "イラン停戦期限切れに伴い米国先物相場はおおむね上昇",
    "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-higher-as-iran-ceasefire-set-to-expire-794f8b05?mod=rss_markets_main",
@@ -167,16 +197,6 @@
    "title_orig": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
   },
   {
-   "title": "「AI株の神様」と呼ばれる投資家は、株価が暴落する前に資金の56％をこれら2銘柄に投資していた",
-   "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
-   "summary": "2026 年上半期の終わりには、この分野の大きな調整の直前に、状況認識基金の 4 分の 3 以上が残存しました。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T21:08:00+09:00",
-   "lang": "en",
-   "title_orig": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before it blew up"
-  },
-  {
    "title": "市場前に大きな動きをする銘柄: アリババ、インテル、サンディスクなど",
    "link": "https://www.cnbc.com/2026/08/17/stocks-making-the-biggest-moves-premarket-baba-intc-sndk.html",
    "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
@@ -195,16 +215,6 @@
    "published": "2026-08-17T20:34:00+09:00",
    "lang": "en",
    "title_orig": "Madison Air to Buy Airflow-Technologies Company for $5.4 Billon"
-  },
-  {
-   "title": "ゴールドマン・サックスがFRBが9月に利上げしないと考える理由",
-   "link": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
-   "summary": "ゴールドマン氏は、劇的なデータがない限り、FR​​Bは黙って応じると予想している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T20:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September"
   },
   {
    "title": "トランプ大統領、米国とイランの交渉を「邪魔する」ならオマーンを爆撃すると脅す",
@@ -269,16 +279,6 @@
    "published": "2026-08-17T20:10:00+09:00",
    "lang": "en",
    "title_orig": "Asian Currencies Strengthen Amid Reduced Fed Rate-Hike Expectations"
-  },
-  {
-   "title": "ホームセンターの二日酔いは長引く可能性がある",
-   "link": "https://www.wsj.com/finance/stocks/home-improvements-hangover-could-last-90cb961d?mod=rss_markets_main",
-   "summary": "さらに、中国経済は再び減速した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-17T19:17:00+09:00",
-   "lang": "en",
-   "title_orig": "Home Improvement’s Hangover Could Last"
   },
   {
    "title": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1 - ロイター",
