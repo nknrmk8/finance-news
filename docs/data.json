@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T20:39:13.473739+09:00",
+ "generated_at": "2026-08-17T20:56:24.149702+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,16 @@
  "errors": [],
  "items": [
   {
+   "title": "市場前に大きな動きをする銘柄: アリババ、インテル、サンディスクなど",
+   "link": "https://www.cnbc.com/2026/08/17/stocks-making-the-biggest-moves-premarket-baba-intc-sndk.html",
+   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-17T20:37:29+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more"
+  },
+  {
    "title": "マディソン・エア、エアフロー・テクノロジーズ社を54億ドルで買収へ",
    "link": "https://www.wsj.com/business/deals/madison-air-to-buy-airflow-technologies-company-for-5-4-billon-56adf8e2?mod=rss_markets_main",
    "summary": "大気質ソリューションを提供するマディソン・エアは、同氏の買収により、顧客の稼働率向上に役立つ新製品のポートフォリオが追加されると述べた",
@@ -79,6 +89,16 @@
    "published": "2026-08-17T20:33:00+09:00",
    "lang": "en",
    "title_orig": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September"
+  },
+  {
+   "title": "トランプ大統領、米国とイランの交渉を「邪魔する」ならオマーンを爆撃すると脅す",
+   "link": "https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070",
+   "summary": "この発言は、湾岸諸国がホルムズ海峡を管理するための暫定協定をめぐってテヘランと協議している中で出たものである。",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T20:25:49+09:00",
+   "lang": "en",
+   "title_orig": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations"
   },
   {
    "title": "天然ガス産業への統合が撤退活動を促進",
@@ -217,6 +237,14 @@
    "published": "2026-08-17T19:00:00+09:00"
   },
   {
+   "title": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSldZQlNMcU9wX1F3UWM0dTlLdjNiUGxDNlFSckNiVTVoZ0c2V2VfRHJMMTE5d3k2OGRwWDZnS2xhZkt5UmVJZFFkQnBpY0Y5dVBvNUtUTHBGVkdyLUNuWDVodEtVTVRLR0VxblNDOE0zWUNXanJfQjFYeldzdmozXw?oc=5",
+   "summary": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-17T18:39:01+09:00"
+  },
+  {
    "title": "バンク・オブ・アメリカのCEOがウォール街と遊ぶ秘密の言葉ゲーム",
    "link": "https://www.wsj.com/finance/banking/the-secret-word-game-bank-of-americas-ceo-plays-with-wall-street-987dcbee?mod=rss_markets_main",
    "summary": "ブライアン・モイニハンがアナリストとの電話会議で、普段から「ゲインセイ」、「随伴」、「ファントッド」を普通の文章に組み込んでいるのは偶然ではありません。",
@@ -275,7 +303,7 @@
    "title_orig": "Neighbors in rural Texas county are not happy about Elon Musk’s plan to erect world’s largest building"
   },
   {
-   "title": "楽天、ドイツの新興企業と迎撃ドローンで提携　防衛省への納入目指す",
+   "title": "楽天、ドイツの新興企業と攻撃用ドローンで提携　防衛省への納入目指す",
    "link": "https://www.asahi.com/articles/ASV8K2VFYV8KULFA016M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
@@ -373,16 +401,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-17T17:00:00+09:00"
-  },
-  {
-   "title": "トランプ大統領、米国は韓国との軍事演習を縮小すると発言",
-   "link": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1",
-   "summary": "大統領、共同演習は北朝鮮に「敵対的な」メッセージを送ると主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T16:39:41+09:00",
-   "lang": "en",
-   "title_orig": "Trump says US will scale back military drills with South Korea"
   },
   {
    "title": "西華産、東京産株を追加取得へ 議決権比率で19.62％に - ロイター",
@@ -739,14 +757,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-17T09:04:39+09:00"
-  },
-  {
-   "title": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDZnT0pnNkxCaG13a3Z2VnZJOVdLQkUtREd3dlMzaWhCdEFOMzFBY0JZelk2bjdVT0tpNXdYY0RlZkVya2FGVTFRNk5RR3VSeEI5YkpyRmVxekZxaGxaUnZuallhRXdRUFRnOU55LXNhYzQ3bGdEaU9PSjMyYkJtRg?oc=5",
-   "summary": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T08:33:58+09:00"
   },
   {
    "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
