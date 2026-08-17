@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T00:13:24.959226+09:00",
+ "generated_at": "2026-08-18T00:37:41.359900+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,74 @@
  "errors": [],
  "items": [
   {
+   "title": "私は 1,000 万ドルを持っており、経済的な援助のために 2 人のアドバイザーにお金を払っていますが、まだ疑問があります",
+   "link": "https://www.marketwatch.com/story/i-have-10-million-and-pay-two-advisers-for-financial-help-but-still-have-questions-7c29b83f?mod=mw_rss_topstories",
+   "summary": "専門家から得たお金に関するアドバイスを信頼できない場合、何にお金を払っているのでしょうか?",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-18T00:29:00+09:00",
+   "lang": "en",
+   "title_orig": "I have $10 million and pay two advisers for financial help, but still have questions"
+  },
+  {
    "title": "クレジット カード発行会社の Synchrony が ChatGPT ショッピングで OpenAI と提携",
    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
    "summary": "Synchrony の最高戦略責任者である Maran Nalluswami 氏は CNBC に対し、支払いが ChatGPT に完全に統合されるまでにはおそらく 6 ～ 12 か月かかるだろうと語った。",
    "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-08-18T00:11:55+09:00",
+   "published": "2026-08-18T00:28:45+09:00",
    "lang": "en",
    "title_orig": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping"
+  },
+  {
+   "title": "ドル安で金相場が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-116a91ab?mod=rss_markets_main",
+   "summary": "ドル安を受けて金先物相場は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-18T00:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Gets Boost From Weaker Dollar"
+  },
+  {
+   "title": "投資家がAI支出に自信を深めているため、マイクロン、サンディスク、その他の半導体株が上昇",
+   "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+   "summary": "報道によると、AI企業の財務成績は改善しており、メモリチップ企業は中国の競合企業をうまくかわすことができるかもしれない",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-18T00:22:00+09:00",
+   "lang": "en",
+   "title_orig": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending"
+  },
+  {
+   "title": "「もう時間がない」: 30 万ドルの賃貸物件を売却し、7 万 5,000 ドルの損失を出しました。税金を避けるために別のものを購入する必要がありますか?",
+   "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+   "summary": "「公認会計士から連絡がありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-18T00:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
+  },
+  {
+   "title": "社会保障受給者は来年さらに多くのお金を受け取ることになる。 COLA によって利益がどの程度増加するかは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+   "summary": "社会保障の生計費調整は 2027 年に 3.6% に達する可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-18T00:14:00+09:00",
+   "lang": "en",
+   "title_orig": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits."
+  },
+  {
+   "title": "クシュナー氏、ハマス指導者と会談後ネタニヤフ首相と会談",
+   "link": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
+   "summary": "ドナルド・トランプの義理の息子で特使がワシントンのガザ和平計画を推し進めている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-18T00:05:44+09:00",
+   "lang": "en",
+   "title_orig": "Kushner holds talks with Netanyahu after meeting Hamas leader"
   },
   {
    "title": "米国の労働力の規模は過去1年で100万人以上減少した。ここで何が起こっているのかを説明します。",
@@ -121,26 +181,6 @@
    "title_orig": "U.S. Natural Gas Futures Start Week With Losses"
   },
   {
-   "title": "スタンリー・ドラッケンミラーは下落前にこれらのチッププレーをやめた。彼が現在テクノロジー業界でどのように活躍しているかは次のとおりです。",
-   "link": "https://www.marketwatch.com/story/stanley-druckenmiller-ditched-these-chip-plays-before-the-selloff-heres-how-hes-playing-the-tech-sector-now-9115c06f?mod=mw_rss_topstories",
-   "summary": "注目の投資家は第2四半期にテクノロジー関連株の一部を強化した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T23:29:00+09:00",
-   "lang": "en",
-   "title_orig": "Stanley Druckenmiller ditched these chip plays before the selloff. Here’s how he’s playing the tech sector now."
-  },
-  {
-   "title": "私の息子は働いていませんが、医療費負担適正化法の健康保険に 500 ドルを払っています。それは公平ですか？",
-   "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-   "summary": "「多額のお金を持っているにもかかわらず、課税所得がほとんど、またはまったくない人でも、ACA マーケットプレイスの補助金を受ける資格がある人を見かけます。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T23:15:00+09:00",
-   "lang": "en",
-   "title_orig": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
-  },
-  {
    "title": "中東の再編",
    "link": "https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1",
    "summary": "イラン紛争はアメリカもイスラエルも予見しなかった方法で同盟関係を再構築している",
@@ -161,32 +201,12 @@
    "title_orig": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire"
   },
   {
-   "title": "私の友人の母親が亡くなりました。彼女はメディケイドによる家族の帰国を阻止できるだろうか？",
-   "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-   "summary": "「彼女は住宅ローン会社に連絡しましたが、住宅ローンについては話してくれません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T22:45:00+09:00",
-   "lang": "en",
-   "title_orig": "My friend’s mother died. Can she stop Medicaid from taking the family home?"
-  },
-  {
    "title": "豪雨で車が浸水 金銭負担が心配",
    "link": "https://news.yahoo.co.jp/pickup/6592117?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-17T22:36:51+09:00"
-  },
-  {
-   "title": "株式市場は 1 つの主要な方法で経済を推進しています",
-   "link": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
-   "summary": "株価上昇による資産効果により、可処分所得の変化が景気後退を示唆したときでも、米国の消費者は支出を続けることができた",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-17T22:35:00+09:00",
-   "lang": "en",
-   "title_orig": "The stock market is driving the economy in one major way"
   },
   {
    "title": "CD&Rの貸し手、物議を醸したマルチカラー破産を受け態度を硬化",
@@ -215,6 +235,16 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-17T22:27:21+09:00"
+  },
+  {
+   "title": "フェラーリ初のEVが史上最高額の4,000万ドルで競売に",
+   "link": "https://www.ft.com/content/3cef717f-c231-420f-8405-0b2f9c416914?syn-25a6b1a6=1",
+   "summary": "ルーチェのオークション価格が新車の記録を樹立",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T22:20:13+09:00",
+   "lang": "en",
+   "title_orig": "Ferrari’s first EV auctioned off at record $40mn"
   },
   {
    "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
@@ -289,16 +319,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-17T20:14:00+09:00"
-  },
-  {
-   "title": "モーニング・リスク・リポート：トランプ大統領の詐欺部隊が内紛で足かせに",
-   "link": "https://www.wsj.com/politics/national-security/the-morning-risk-report-trumps-fraud-squad-is-hobbled-by-internal-strife-f9430bbe?mod=rss_markets_main",
-   "summary": "さらに、JPモルガンは規制上の懸念を理由にポリマーケットとの銀行関係を解消し、サイバー企業は米国の新体制下で高リスク・低報酬の選択に直面している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-17T20:14:00+09:00",
-   "lang": "en",
-   "title_orig": "The Morning Risk Report: Trump’s Fraud Squad Is Hobbled by Internal Strife"
   },
   {
    "title": "ANAとJAL 互いにダイヤを調整へ",
@@ -379,16 +399,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-17T17:32:00+09:00"
-  },
-  {
-   "title": "クシュナー氏、ハマス指導者と会談後ネタニヤフ首相と会談",
-   "link": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
-   "summary": "ドナルド・トランプの義理の息子で特使がワシントンのガザ和平計画を推し進めている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T17:26:57+09:00",
-   "lang": "en",
-   "title_orig": "Kushner holds talks with Netanyahu after meeting Hamas leader"
   },
   {
    "title": "台湾、27年度国防費初の1兆台湾ドル超えへ 総統「平和への投資」 - ロイター",
@@ -631,16 +641,6 @@
    "title_orig": "Portugal and Spain struggle as EU housing black spots"
   },
   {
-   "title": "新しい AI の超富裕層がジェット機、ヨット、自動車の市場を再形成している",
-   "link": "https://www.ft.com/content/ac79a102-1620-48bf-a36b-416aac25de1d?syn-25a6b1a6=1",
-   "summary": "シリコンバレーで富を築いている人々は、ビットコインをはねながらシャンパンを捨ててプレミアムウォーターを求めている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T13:00:09+09:00",
-   "lang": "en",
-   "title_orig": "The new AI super-rich are reshaping the market for jets, yachts and cars"
-  },
-  {
    "title": "東洋経済オンライン活用ガイド：第2回 フォロー機能の使い方ーー必要な情報を､効率的にチェックする | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954750?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "忙しい毎日でも､気になる業界や著者､キーワードの最新情報を逃したくない――そんなあなたにぴったりなのが､東洋経済オンラインの｢フォロー機能｣。そんな｢フォロー機能｣のオススメの使い方を紹介します。",
@@ -721,6 +721,14 @@
    "published": "2026-08-17T10:30:00+09:00"
   },
   {
+   "title": "原油先物は上昇、米イラン交渉停滞 ホルムズ通航減速 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DWnJsNndmRHlSd3NsOGlubEYwcjFKQTNGdmdfMUFwbzNlUmYyUDNsS05jWjVNT3lpLU0xS0RXNVFzZGpoSjhMWFF3UGV4alJvYVdQOXlya0Q2NjFGT0I1a01uNDk2WlFjdW9nckF5cjdwbTRCZWh6ck93?oc=5",
+   "summary": "原油先物は上昇、米イラン交渉停滞 ホルムズ通航減速&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-17T10:18:00+09:00"
+  },
+  {
    "title": "｢他人の評価に過敏な人｣は､自分で自分を認められず､他人に認めてもらうしかないから | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/952449?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢受け入れる｣とは､ただ我慢することや諦めることではありません。変えられない自分や過去を肯定し､心に余裕を生み出す力です。",
@@ -745,6 +753,14 @@
    "published": "2026-08-17T09:45:00+09:00"
   },
   {
+   "title": "豪ＮＡＢ、4─6月期キャッシュ利益増 住宅ローン需要は低迷 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YaU4xYWlkdUFCcW9ORXZCdGlNMWFMRnlvRk1OWTJFZ25YYXdMYmE0bFNEY3EtRlRCN0dLUGhXb1o1c29sTm9icVpVem1KVGFhNkhxOVVVcVkzdzdURnJDdEl1ejFCQUlSYnRmam05UzRsUlZIWTNwLQ?oc=5",
+   "summary": "豪ＮＡＢ、4─6月期キャッシュ利益増 住宅ローン需要は低迷&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-17T09:33:00+09:00"
+  },
+  {
    "title": "国債金利情報(令和8年8月14日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
@@ -759,22 +775,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-17T09:04:39+09:00"
-  },
-  {
-   "title": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDZnT0pnNkxCaG13a3Z2VnZJOVdLQkUtREd3dlMzaWhCdEFOMzFBY0JZelk2bjdVT0tpNXdYY0RlZkVya2FGVTFRNk5RR3VSeEI5YkpyRmVxekZxaGxaUnZuallhRXdRUFRnOU55LXNhYzQ3bGdEaU9PSjMyYkJtRg?oc=5",
-   "summary": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T08:33:58+09:00"
-  },
-  {
-   "title": "バークシャーの保有株、アルファベットが第3位 第2四半期に83％増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh0Z1BUYWpiVHJnbERia3RhYUZMWGk0NGlPQzF6WGRoVlVnaVlCVlhYakczbldycG9ENWVMMi1mUURub0hwQ3JzaUJPWVdQYkJMMVVoTk5DZGVQTE14dVhnV0JaLW9vUURTVjdCS1c0UV9TZWNRSWdtd1VsRXpsVw?oc=5",
-   "summary": "バークシャーの保有株、アルファベットが第3位 第2四半期に83％増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T08:13:44+09:00"
   },
   {
    "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
