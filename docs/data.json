@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T12:58:14.962666+09:00",
+ "generated_at": "2026-08-17T13:36:28.974009+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -83,6 +83,72 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-17T19:00:00+09:00"
+  },
+  {
+   "title": "問題のあるローンが膨らみ、民間信用が逼迫",
+   "link": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1",
+   "summary": "FT分析は、市場のストレスの兆候が2017年に最後に見られたレベルに戻っていることを示しています",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T13:00:27+09:00",
+   "lang": "en",
+   "title_orig": "Private credit under strain as troubled loans swell"
+  },
+  {
+   "title": "マガがヨーロッパに伝わった経緯",
+   "link": "https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1",
+   "summary": "トランプの新右翼は大陸を先祖代々の故郷でありイデオロギーの戦場でもあるとみなしている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T13:00:20+09:00",
+   "lang": "en",
+   "title_orig": "How Maga came for Europe"
+  },
+  {
+   "title": "アメリカと尊重の政治",
+   "link": "https://www.ft.com/content/5f6cdb7a-3b05-487f-a02e-3b9fb0b42e00?syn-25a6b1a6=1",
+   "summary": "中間選挙では争点は、有権者が自分が大切にされていると感じているかどうかほど重要ではない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T13:00:20+09:00",
+   "lang": "en",
+   "title_orig": "America and the politics of respect"
+  },
+  {
+   "title": "戦争と気候変動により、世界的な難所を通じて輸送コストが高騰",
+   "link": "https://www.ft.com/content/2fb7f9b7-58dc-4909-94fa-8e753b7be47d?syn-25a6b1a6=1",
+   "summary": "パナマ運河、ライン川、紅海、黒海を含む航路の運賃が上昇、ホルムズ閉鎖で海上貿易も打撃",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T13:00:20+09:00",
+   "lang": "en",
+   "title_orig": "War and climate change drive surge in cost of shipping through global chokepoints"
+  },
+  {
+   "title": "新しい AI の超富裕層がジェット機、ヨット、自動車の市場を再形成している",
+   "link": "https://www.ft.com/content/ac79a102-1620-48bf-a36b-416aac25de1d?syn-25a6b1a6=1",
+   "summary": "シリコンバレーで富を築いている人々は、ビットコインをはねながらシャンパンを捨ててプレミアムウォーターを求めている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T13:00:09+09:00",
+   "lang": "en",
+   "title_orig": "The new AI super-rich are reshaping the market for jets, yachts and cars"
+  },
+  {
+   "title": "東洋経済オンライン活用ガイド：第2回 フォロー機能の使い方ーー必要な情報を､効率的にチェックする | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954750?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "忙しい毎日でも､気になる業界や著者､キーワードの最新情報を逃したくない――そんなあなたにぴったりなのが､東洋経済オンラインの｢フォロー機能｣。そんな｢フォロー機能｣のオススメの使い方を紹介します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T13:00:00+09:00"
+  },
+  {
+   "title": "生成AIを全社員に配っても｢使われない｣企業が多い中､損保ジャパンとSkyが利用率98％を実現できた仕掛け | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954315?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "生成AIの全社導入はもはや珍しくないが､｢配ったが使われない｣課題に直面する企業は多い。現場と管理職の高い利用率を実現した損保ジャパンとSkyは､ツール導入後の教育や活用の設計に注力している。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-17T13:00:00+09:00"
   },
   {
    "title": "「カレー焼きそば」再評価 なぜ今",
@@ -193,19 +259,9 @@
    "published": "2026-08-17T10:25:00+09:00"
   },
   {
-   "title": "オリンパス社長、自社のゲームで買収企業に勝とうとする",
-   "link": "https://www.ft.com/content/db29304b-6a28-4e12-8125-3f9658efb89e?syn-25a6b1a6=1",
-   "summary": "ボブ・ホワイトは買収の関心をそらし、株価を押し上げるためにプライベート・エクイティ・スタイルの戦術を採用",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T10:21:38+09:00",
-   "lang": "en",
-   "title_orig": "Olympus boss tries to beat buyout firms at their own game"
-  },
-  {
-   "title": "原油先物は先週の上昇分維持、米イラン交渉停滞 ホルムズ通航減速 - ロイター",
+   "title": "原油先物は上昇、米イラン交渉停滞 ホルムズ通航減速 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DWnJsNndmRHlSd3NsOGlubEYwcjFKQTNGdmdfMUFwbzNlUmYyUDNsS05jWjVNT3lpLU0xS0RXNVFzZGpoSjhMWFF3UGV4alJvYVdQOXlya0Q2NjFGT0I1a01uNDk2WlFjdW9nckF5cjdwbTRCZWh6ck93?oc=5",
-   "summary": "原油先物は先週の上昇分維持、米イラン交渉停滞 ホルムズ通航減速&nbsp;&nbsp;ロイター",
+   "summary": "原油先物は上昇、米イラン交渉停滞 ホルムズ通航減速&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T10:18:00+09:00"
@@ -219,6 +275,16 @@
    "published": "2026-08-17T10:15:00+09:00",
    "lang": "en",
    "title_orig": "Oil Prices Mixed; May Be Buoyed Amid Deadlock in U.S.-Iran Talks"
+  },
+  {
+   "title": "次のチャイナショックはオープンソースAIから起こる",
+   "link": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
+   "summary": "中国モデルを採用している国は中国の基準とガバナンスも吸収することになる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T10:00:05+09:00",
+   "lang": "en",
+   "title_orig": "The next China shock will come from open-source AI"
   },
   {
    "title": "｢他人の評価に過敏な人｣は､自分で自分を認められず､他人に認めてもらうしかないから | ライフ | 東洋経済オンライン",
@@ -469,22 +535,6 @@
    "title_orig": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter"
   },
   {
-   "title": "オルツ元CFO日置被告の初公判､検察側冒頭陳述で｢SP取引｣にかかわっていた広告代理店や販売店が明らかに | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954946?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "オルツ元CFO日置被告の初公判では､検察側が冒頭陳述で｢SP取引｣にかかわっていた広告代理店や販売店を明らかにしたほか､日置被告が採用された背景なども説明。オルツ内部で何が行われていたのか､より鮮明…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-17T06:00:00+09:00"
-  },
-  {
-   "title": "韓国42.5度､中国は50度…2026年東アジア猛暑の衝撃､｢暴炎｣続きの韓国と中国､一方で暑さに便乗した｢熱経済｣が勃興 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954723?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢日本の夏は蒸し暑い｣という常識が崩れた2026年､ソウルや中国･新疆で記録的猛暑が東アジアを襲いました。熱波は人々の暮らしや産業を､避暑法から水資源対策まで大きく変えています。一方で､猛暑に便乗し…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-17T06:00:00+09:00"
-  },
-  {
    "title": "令和8年熊本地震、企業の約15％に影響　見直したい災害対策は？",
    "link": "https://www.itmedia.co.jp/business/articles/2608/17/news036.html",
    "summary": "7月28日に発生した「令和8年熊本地震」による企業への影響はどのくらいあったのか。帝国データバンクが調査した。",
@@ -591,26 +641,6 @@
    "title_orig": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports"
   },
   {
-   "title": "ウクライナ、モスクワとロシアの物流に無人機攻撃を迫る",
-   "link": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
-   "summary": "キエフ、この夏最大規模の攻撃の一つとして敵の首都に向けて600機以上のドローンを発射",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-16T20:34:01+09:00",
-   "lang": "en",
-   "title_orig": "Ukraine presses drone attacks on Moscow and Russian logistics"
-  },
-  {
-   "title": "経済学はどのように変化しているか",
-   "link": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
-   "summary": "このテーマはより独創的かつ実証的になってきていますが、再現性と AI に関する疑問は山積しています",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-16T20:00:02+09:00",
-   "lang": "en",
-   "title_orig": "How economics is changing"
-  },
-  {
    "title": "ウォルマートとターゲットは米国の消費者の健康状態を明らかにしようとしている",
    "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
    "summary": "大手小売業者２社の収益報告は、インフレが続く時代に買い物客がどのように持ちこたえているかを示すことになるだろう。",
@@ -655,36 +685,6 @@
    "published": "2026-08-16T15:28:10+09:00"
   },
   {
-   "title": "米国の有権者のほとんどは、トランプ政権下での生活はさらに悪くなったと述べている - FT世論調査",
-   "link": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
-   "summary": "中間選挙を数か月前に控え、民主党が経済分野で共和党をリード",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-16T13:01:09+09:00",
-   "lang": "en",
-   "title_orig": "Most US voters say they are worse off under Trump — FT poll"
-  },
-  {
-   "title": "「資本主義は機能していない」：なぜ民主党は社会主義に目を向けるのか",
-   "link": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1",
-   "summary": "有権者が進歩的な政策に目を向ける中、民主社会主義者の候補者が予備選挙で勝利を収めている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-16T13:00:11+09:00",
-   "lang": "en",
-   "title_orig": "‘Capitalism’s not working’: why Democrats are turning to socialism"
-  },
-  {
-   "title": "BlackBerry: 電話の恐竜からテクノロジーのチャンピオンへ",
-   "link": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
-   "summary": "携帯電話の消滅から 10 年、同社の将来は自動車とセキュリティ ソフトウェアにかかっています",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-16T13:00:11+09:00",
-   "lang": "en",
-   "title_orig": "BlackBerry: From phone dinosaur to tech champion"
-  },
-  {
    "title": "「宇宙不動産」始動　ISS後継に照準、上空400キロに広がる商機",
    "link": "https://www.asahi.com/articles/ASV8B0HMWV8BUTFL005M.html?ref=rss",
    "summary": "",
@@ -717,6 +717,14 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-16T08:00:00+09:00"
+  },
+  {
+   "title": "金価格１６０倍、再び脚光　中銀積み増し、揺らぐドル一極―「ニクソン・ショック」５５年",
+   "link": "https://www.jiji.com/jc/article?k=2026081500315&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-16T07:01:00+09:00"
   },
   {
    "title": "地震保険金の支払い、デジタル技術で急ぐ　損保各社、早期復興へ一助",
