@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T08:10:19.288960+09:00",
+ "generated_at": "2026-08-18T08:33:25.948120+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,10 +61,36 @@
  "errors": [],
  "items": [
   {
+   "title": "中国首相、外需安定化と国際貿易協力拡大を指示 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWLUhVelVxOXA2TUdzODdrWUYzWFh5bHFOTGg5b0JhRHA2cnhXTXJOYzZXc3FhZGxDTmVmdkx2al9pdVlpTk01anBPSnRnTWtabnlObjUwV0Q2NVJ0TWppLUdpYzR2NGJVLXB3X1N2WU5jR3lBbzRLS3pESlVGZw?oc=5",
+   "summary": "中国首相、外需安定化と国際貿易協力拡大を指示&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T08:25:43+09:00"
+  },
+  {
+   "title": "ウォール街は状況認識が危ういことをどのように察知したか",
+   "link": "https://www.wsj.com/finance/investing/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-6aa8b39d?mod=rss_markets_main",
+   "summary": "アンスロピック株売却のささやきから奇妙なオプションの動きまで、トレーダーたちは問題を察知して行動を起こした。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-18T08:24:00+09:00",
+   "lang": "en",
+   "title_orig": "How Wall Street Sussed Out That Situational Awareness Was On the Ropes"
+  },
+  {
    "title": "なぜ｢ゆで太郎｣のそばは37センチ？　22年黒字のチェーン店が\"そば屋の世界でも話題にならない麺の長さ\"にこだわる訳 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "そばの長さを気にしながら食べる人はほとんどいない。そば屋の世界でも､麺の長さが話題になることはほぼないといいます。それでも22年連続黒字を続ける｢ゆで太郎｣は､試作と検証を重ねて麺の長さを37センチ…",
    "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-18T08:00:00+09:00"
+  },
+  {
+   "title": "百貨店の苦境が鮮明に　58社中49社が減収、地方では「空白県」が拡大",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/18/news020.html",
+   "summary": "東京商工リサーチによると、主要百貨店58社の2025年度決算は減収減益となった。58社中49社が減収となるなど苦境が鮮明に。百貨店のない「空白県」も全国4県に拡大している。",
+   "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-18T08:00:00+09:00"
   },
@@ -387,9 +413,9 @@
    "title_orig": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google"
   },
   {
-   "title": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査 - ロイター",
+   "title": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXlOV2dycjlZU2MxMGZXa3VRUDhhNm1WQzJiOGNNbFowTEJ1WVEySkRBX0JVRW4wQnFJWlVocDZERGVnV1dFWXM0SU9feVBxWnRTTDhDOE9mVkdzeTVXdWdYX1diY1loMDVmUExmNzlwZEtsSHBscnVQN0tDVUQyeQ?oc=5",
-   "summary": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査&nbsp;&nbsp;ロイター",
+   "summary": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-18T04:53:49+09:00"
@@ -463,16 +489,6 @@
    "published": "2026-08-18T02:43:40+09:00",
    "lang": "en",
    "title_orig": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails"
-  },
-  {
-   "title": "イラン停戦期限切れに伴い米国先物相場はおおむね上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-higher-as-iran-ceasefire-set-to-expire-794f8b05?mod=rss_markets_main",
-   "summary": "投資家が水曜日のFRB議事要旨や、ウォルマートとホーム・デからの米国の消費者心理に関する手掛かりを楽しみにしていたため、株式先物はほぼ上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-18T02:12:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire"
   },
   {
    "title": "チェルシー株主のウォルター氏とボーリー氏、クリアレイクへの株式売却交渉中",
@@ -575,17 +591,17 @@
    "published": "2026-08-17T20:12:38+09:00"
   },
   {
-   "title": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1 - ロイター",
+   "title": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UMjNmeGZ4ek5oUUlxTHRieno1OVJpTWRQUmlQd1c3c1o5RUxaMHpXUEV0S1JOSlZTZHZObUJFTHZyeUFHVWE1Y1NUWTZPVXlBN3BsOTJjNnI2djVkTzdndXkxQkZqaUQ3cERnVkduSE5mRVNJcWNfZA?oc=5",
-   "summary": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1&nbsp;&nbsp;ロイター",
+   "summary": "ＳＨＥＩＮ、ＩＰＯ控え下がる想定企業価値 成長鈍化で22年の4分の1&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T19:15:33+09:00"
   },
   {
-   "title": "Ｓ＆Ｐ、東芝をＢＢに格上げ キオクシア株売却などで債務削減 - ロイター",
+   "title": "Ｓ＆Ｐ、東芝をＢＢに格上げ キオクシア株売却などで債務削減 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSzM4ZVFWZms2Wlk3QmpLVHI2d3g1ZlVFVFI1VTZYSHJrSDE2VlBhaG1QUDV0bEJIMF91T2dNWGNNN0RNS1kwWW12VEFZLWVJUjVzRWRhdTQxNU5SQ0ZieE5CNEVLYjB1SGJLWEFJNkl3QkhYZ1E?oc=5",
-   "summary": "Ｓ＆Ｐ、東芝をＢＢに格上げ キオクシア株売却などで債務削減&nbsp;&nbsp;ロイター",
+   "summary": "Ｓ＆Ｐ、東芝をＢＢに格上げ キオクシア株売却などで債務削減&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T19:01:43+09:00"
@@ -599,17 +615,17 @@
    "published": "2026-08-17T19:00:00+09:00"
   },
   {
-   "title": "ドイツ新興ヘルシング、陸自に攻撃型ドローン供給へ 楽天Ｇと連携 - ロイター",
+   "title": "ドイツ新興ヘルシング、陸自に攻撃型ドローン供給へ 楽天Ｇと連携 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pc3d1ZnlaUEgzSHF0VFlUUFRJbXhLNEI4X3h3Q09LbDJnb1Q0eWJrVlVsUVkyZ0xsdUZ1LTYwc3VBcktZS3JvWWZyc1BTZTdsLVhQMVF0MklpSnlTTTUzRUsyNzgyWDdRa1V1RG13WFAxdUlEV1lyMQ?oc=5",
-   "summary": "ドイツ新興ヘルシング、陸自に攻撃型ドローン供給へ 楽天Ｇと連携&nbsp;&nbsp;ロイター",
+   "summary": "ドイツ新興ヘルシング、陸自に攻撃型ドローン供給へ 楽天Ｇと連携&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T18:39:43+09:00"
   },
   {
-   "title": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調 - ロイター",
+   "title": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSldZQlNMcU9wX1F3UWM0dTlLdjNiUGxDNlFSckNiVTVoZ0c2V2VfRHJMMTE5d3k2OGRwWDZnS2xhZkt5UmVJZFFkQnBpY0Y5dVBvNUtUTHBGVkdyLUNuWDVodEtVTVRLR0VxblNDOE0zWUNXanJfQjFYeldzdmozXw?oc=5",
-   "summary": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調&nbsp;&nbsp;ロイター",
+   "summary": "中国・香港株式市場・大引け＝ハイテク主導で上昇、消費関連など軟調&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T18:39:01+09:00"
@@ -647,9 +663,9 @@
    "published": "2026-08-17T17:32:00+09:00"
   },
   {
-   "title": "台湾、27年度国防費初の1兆台湾ドル超えへ 総統「平和への投資」 - ロイター",
+   "title": "台湾、27年度国防費初の1兆台湾ドル超えへ 総統「平和への投資」 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkc3QwelI2UXFnWE10WVVWUFNsSlFPSTZGNldlWlprMnQ2UERQbzZPQm5VQlFxMXBwbzJMMnNYTDVBbmloS2x1WnNZZUhiNVJpaVNIT3ZOZGpibTFvcjZQZkZjMnFzZm1EY0RHam9IZ19TREMzT2Q3ZVZPSE9SejQ?oc=5",
-   "summary": "台湾、27年度国防費初の1兆台湾ドル超えへ 総統「平和への投資」&nbsp;&nbsp;ロイター",
+   "summary": "台湾、27年度国防費初の1兆台湾ドル超えへ 総統「平和への投資」&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T17:24:57+09:00"
@@ -695,9 +711,9 @@
    "published": "2026-08-17T17:00:00+09:00"
   },
   {
-   "title": "西華産、東京産株を追加取得へ 議決権比率で19.62％に - ロイター",
+   "title": "西華産、東京産株を追加取得へ 議決権比率で19.62％に - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa04wOGJVUWlmQnRQc19oMkJUSTBlNThsZHNIUUYyeFdLaVVLc1RnaHY1bi10OHRKQng2Y01MbWdmdjVWTmdOT25idFVLMUNOVXpBTGNkTTh2bXNqLVl0S1h4MFpsOXJhWUNuX05NTi14dmVjVThPVDFlUzd6cUNHWQ?oc=5",
-   "summary": "西華産、東京産株を追加取得へ 議決権比率で19.62％に&nbsp;&nbsp;ロイター",
+   "summary": "西華産、東京産株を追加取得へ 議決権比率で19.62％に&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T16:36:07+09:00"
@@ -729,25 +745,25 @@
    "title_orig": "A leaderboard of the biggest trading losses of all time"
   },
   {
-   "title": "香港ファンドのオアシス、電通総研株を大量保有 5％ - ロイター",
+   "title": "香港ファンドのオアシス、電通総研株を大量保有 5％ - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9URHFfVTdhNzh3RV9KcDU1aF9XWUlGN3AxZnpicEI0ak9nX280U3NhN1JuckM1NUlxaVkwRThvSEREbkZKRmZhUTZYXzNTdmFVZnRHVXUtdHp0QW9Ub2VBWWNRMUVlMk0xbl9ZVDBmSmxSRi1LN1E?oc=5",
-   "summary": "香港ファンドのオアシス、電通総研株を大量保有 5％&nbsp;&nbsp;ロイター",
+   "summary": "香港ファンドのオアシス、電通総研株を大量保有 5％&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T16:27:56+09:00"
   },
   {
-   "title": "日経平均は5日続伸、ＡＩ・半導体株押し上げ ＴＯＰＩＸは小幅安 - ロイター",
+   "title": "日経平均は5日続伸、ＡＩ・半導体株押し上げ ＴＯＰＩＸは小幅安 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFF2X3FkTy1pZzE0QXNfd1p0NWNIUTdXSThuWVBjRjRZQXJzUzYzU0diajZCTnhDdWwwU2M2dVVqTmtYeWdtcVZBdjBRQ0ZFSTd2R2g0WEZmTFFSRkJGQmFtN1UtNlMyUFYwYm5qeEF3QlpDaG44U19fTzk5Q2JZNg?oc=5",
-   "summary": "日経平均は5日続伸、ＡＩ・半導体株押し上げ ＴＯＰＩＸは小幅安&nbsp;&nbsp;ロイター",
+   "summary": "日経平均は5日続伸、ＡＩ・半導体株押し上げ ＴＯＰＩＸは小幅安&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T15:57:00+09:00"
   },
   {
-   "title": "午後3時のドルは159円付近で上値重い、日銀の早期利上げ観測や低調な米指標が重し - ロイター",
+   "title": "午後3時のドルは159円付近で上値重い、日銀の早期利上げ観測や低調な米指標が重し - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GLU95ZE1qcWdQakE1ekl1dno5a0JCRGJvQTlkU29mclM2cllJMURuSFJtSWhEdVl0enl2N082Rlk2c0s5T2dURzJUR1g2TmRBSGxBcmhtV0szbW5jTVlEaUwxR2RjTkR2OGNKaDNXRFRYV3RtVzRpQw?oc=5",
-   "summary": "午後3時のドルは159円付近で上値重い、日銀の早期利上げ観測や低調な米指標が重し&nbsp;&nbsp;ロイター",
+   "summary": "午後3時のドルは159円付近で上値重い、日銀の早期利上げ観測や低調な米指標が重し&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T15:17:00+09:00"
@@ -769,33 +785,33 @@
    "published": "2026-08-17T14:42:00+09:00"
   },
   {
-   "title": "ＳＥＣ、株主提案への不介入を恒久化 アクティビストは懸念 - ロイター",
+   "title": "ＳＥＣ、株主提案への不介入を恒久化 アクティビストは懸念 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnJsdkEyRWJJZWM2aUFVUVNxT0Y1UjFfLTdCUjlVX004OEdJZVRqak40cVRMdkhOWFllUGoxd0prMTlIZnE2ZUxkaktMaDlYMGR3RndoUmFJWUE3TzVZX2dNLWNFaVdVYzFmM1VrcTI5ckJOV2VHQlF3ZnMwQ29udQ?oc=5",
-   "summary": "ＳＥＣ、株主提案への不介入を恒久化 アクティビストは懸念&nbsp;&nbsp;ロイター",
+   "summary": "ＳＥＣ、株主提案への不介入を恒久化 アクティビストは懸念&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T14:21:00+09:00"
   },
   {
-   "title": "シルバー・レイクのワークデイ買収協議、ソフトウエア株押し上げも - ロイター",
+   "title": "シルバー・レイクのワークデイ買収協議、ソフトウエア株押し上げも - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNy1FdklHSHNVUUdkZDM3Z2t6NHBmT0xRYVczV3RTZzhObW8zTmdLTnIyMVZqMmZfZ1FPbGpkUWZuSGI2eENyR1RKQndwdUVFTWxINHBLRF9vUmpsaTN1QzVnSE1SdkNib3psMDlDSm9DeDZ3aF9qWkI2R2tReWxvMQ?oc=5",
-   "summary": "シルバー・レイクのワークデイ買収協議、ソフトウエア株押し上げも&nbsp;&nbsp;ロイター",
+   "summary": "シルバー・レイクのワークデイ買収協議、ソフトウエア株押し上げも&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T13:52:00+09:00"
   },
   {
-   "title": "ＪＰモルガン、ポリマーケットとの銀行取引解消理由は規制上の懸念＝関係者 - ロイター",
+   "title": "ＪＰモルガン、ポリマーケットとの銀行取引解消理由は規制上の懸念＝関係者 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3SzY1cV8tbnZ6bzc1bnVqY0VaU3VWMGlPbnJQNlRseXJHa21xeHY4aVdkNWpVXzJJSmpOSFNXbmxUNGx6LTlraW8yT29rSlhOU0x6SHJCYkNXSTFDSnhFdWN2Q2FnNV95WjdOZGJaQVdISlozd3Vzeg?oc=5",
-   "summary": "ＪＰモルガン、ポリマーケットとの銀行取引解消理由は規制上の懸念＝関係者&nbsp;&nbsp;ロイター",
+   "summary": "ＪＰモルガン、ポリマーケットとの銀行取引解消理由は規制上の懸念＝関係者&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T12:07:00+09:00"
   },
   {
-   "title": "仏税務当局にサイバー攻撃、納税者67.8万人の情報流出 - ロイター",
+   "title": "仏税務当局にサイバー攻撃、納税者67.8万人の情報流出 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEWjZTZGg2MmczaVduSUt3ekZocGJjMXlHV3lhMUJqMjdCT0VucDlOS3QtZnk4anJoNE03ZUt0U29PT0x6VHl5U0hEN3piVjZHc0ZBUV9RMWlMY3AwQ0d3Z3ptZ0tpaWROQlBQaGFiVnpPNl84RGpTbQ?oc=5",
-   "summary": "仏税務当局にサイバー攻撃、納税者67.8万人の情報流出&nbsp;&nbsp;ロイター",
+   "summary": "仏税務当局にサイバー攻撃、納税者67.8万人の情報流出&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T12:00:00+09:00"
@@ -855,14 +871,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-17T09:04:39+09:00"
-  },
-  {
-   "title": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDZnT0pnNkxCaG13a3Z2VnZJOVdLQkUtREd3dlMzaWhCdEFOMzFBY0JZelk2bjdVT0tpNXdYY0RlZkVya2FGVTFRNk5RR3VSeEI5YkpyRmVxekZxaGxaUnZuallhRXdRUFRnOU55LXNhYzQ3bGdEaU9PSjMyYkJtRg?oc=5",
-   "summary": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T08:33:58+09:00"
   },
   {
    "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
