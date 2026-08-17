@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T00:37:41.359900+09:00",
+ "generated_at": "2026-08-18T00:56:12.324816+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,16 @@
  "errors": [],
  "items": [
   {
+   "title": "クレジット カード発行会社の Synchrony が ChatGPT ショッピングで OpenAI と提携",
+   "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+   "summary": "Synchrony の最高戦略責任者である Maran Nalluswami 氏は CNBC に対し、支払いが ChatGPT に完全に統合されるまでにはおそらく 6 ～ 12 か月かかるだろうと語った。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-18T00:52:22+09:00",
+   "lang": "en",
+   "title_orig": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping"
+  },
+  {
    "title": "私は 1,000 万ドルを持っており、経済的な援助のために 2 人のアドバイザーにお金を払っていますが、まだ疑問があります",
    "link": "https://www.marketwatch.com/story/i-have-10-million-and-pay-two-advisers-for-financial-help-but-still-have-questions-7c29b83f?mod=mw_rss_topstories",
    "summary": "専門家から得たお金に関するアドバイスを信頼できない場合、何にお金を払っているのでしょうか?",
@@ -69,16 +79,6 @@
    "published": "2026-08-18T00:29:00+09:00",
    "lang": "en",
    "title_orig": "I have $10 million and pay two advisers for financial help, but still have questions"
-  },
-  {
-   "title": "クレジット カード発行会社の Synchrony が ChatGPT ショッピングで OpenAI と提携",
-   "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-   "summary": "Synchrony の最高戦略責任者である Maran Nalluswami 氏は CNBC に対し、支払いが ChatGPT に完全に統合されるまでにはおそらく 6 ～ 12 か月かかるだろうと語った。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-18T00:28:45+09:00",
-   "lang": "en",
-   "title_orig": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping"
   },
   {
    "title": "ドル安で金相場が上昇",
@@ -171,6 +171,16 @@
    "title_orig": "Prediction markets see a divided government after midterm elections. Here’s how you should trade, Citi says."
   },
   {
+   "title": "米国ハイテク株調整の可能性、ECBエコノミストら警告",
+   "link": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
+   "summary": "好景気と不景気のパターンはユーロ圏にとって「金融安定の問題」になる可能性があると中央銀行チームがブログ投稿で書いている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T23:40:25+09:00",
+   "lang": "en",
+   "title_orig": "US tech stock correction likely, warn ECB economists"
+  },
+  {
    "title": "米国の天然ガス先物、今週は下落で始まる",
    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-losses-f508041f?mod=rss_markets_main",
    "summary": "週末の天気予報で目先の暑さが若干解消されたことを受け、米国の天然ガス先物相場は下落した。",
@@ -199,6 +209,16 @@
    "published": "2026-08-17T23:01:00+09:00",
    "lang": "en",
    "title_orig": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire"
+  },
+  {
+   "title": "Nvidia、オハイオ州の OpenAI データセンターに 1,000 億ドルの支援を約束",
+   "link": "https://www.ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc?syn-25a6b1a6=1",
+   "summary": "チップメーカーはソフトバンクグループの一部として設立されたエネルギー会社であるSBエナジーにも15億ドルを投資",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T22:57:59+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia pledges $100bn backing for OpenAI data centre in Ohio"
   },
   {
    "title": "豪雨で車が浸水 金銭負担が心配",
@@ -235,16 +255,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-17T22:27:21+09:00"
-  },
-  {
-   "title": "フェラーリ初のEVが史上最高額の4,000万ドルで競売に",
-   "link": "https://www.ft.com/content/3cef717f-c231-420f-8405-0b2f9c416914?syn-25a6b1a6=1",
-   "summary": "ルーチェのオークション価格が新車の記録を樹立",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T22:20:13+09:00",
-   "lang": "en",
-   "title_orig": "Ferrari’s first EV auctioned off at record $40mn"
   },
   {
    "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
@@ -343,6 +353,16 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-17T19:01:43+09:00"
+  },
+  {
+   "title": "メタとブラックロックの140億ドルのデータセンターが貸し手を保険格差にさらす",
+   "link": "https://www.ft.com/content/adeca274-67a3-4ee8-94f1-f43e4f28be97?syn-25a6b1a6=1",
+   "summary": "保険会社が全額補償のコストに二の足を踏む中、ギガワット規模のキャンパスの投資家は数十億ドル規模の保険不足リスクに直面している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-17T19:00:10+09:00",
+   "lang": "en",
+   "title_orig": "Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap"
   },
   {
    "title": "【資産3億円のサラリーマン投資家】大暴落地獄から復活した方法／初めての「個別株」何を買えばいい？／脱「NISA貧乏」への種銭づくり／今でも「ポイ活」続ける理由／株主優待を駆使し家族も巻き込む | ビジネス | 東洋経済オンライン",
@@ -579,14 +599,6 @@
    "published": "2026-08-17T14:30:00+09:00"
   },
   {
-   "title": "ＳＥＣ、株主提案への不介入を恒久化 アクティビストは懸念 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnJsdkEyRWJJZWM2aUFVUVNxT0Y1UjFfLTdCUjlVX004OEdJZVRqak40cVRMdkhOWFllUGoxd0prMTlIZnE2ZUxkaktMaDlYMGR3RndoUmFJWUE3TzVZX2dNLWNFaVdVYzFmM1VrcTI5ckJOV2VHQlF3ZnMwQ29udQ?oc=5",
-   "summary": "ＳＥＣ、株主提案への不介入を恒久化 アクティビストは懸念&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T14:21:00+09:00"
-  },
-  {
    "title": "プーチン｢北方領土入り｣が東アジアの歴史的転換点になるワケ…突飛な行動に隠された中国･北朝鮮､欧州との点と線 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954998?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "ロシアのプーチン大統領が就任後初めて北方領土を訪問し､日本との領土交渉に事実上区切りをつけた背景には､中国･北朝鮮との軍事連携強化やウクライナ侵攻の長期化が絡んでいます。東アジア情勢は今､歴史的転換…",
@@ -619,26 +631,6 @@
    "published": "2026-08-17T13:00:27+09:00",
    "lang": "en",
    "title_orig": "Private credit under strain as troubled loans swell"
-  },
-  {
-   "title": "マガがヨーロッパに伝わった経緯",
-   "link": "https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1",
-   "summary": "トランプの新右翼は大陸を先祖代々の故郷でありイデオロギーの戦場でもあるとみなしている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T13:00:20+09:00",
-   "lang": "en",
-   "title_orig": "How Maga came for Europe"
-  },
-  {
-   "title": "ポルトガルとスペイン、EUの住宅黒人問題で苦戦",
-   "link": "https://www.ft.com/content/3163af73-e7d0-4e21-81af-963d6c2fce45?syn-25a6b1a6=1",
-   "summary": "イベリアの隣国は移民、官僚主義、高額な建設費による巨額の不動産不足に苦しむ",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-17T13:00:10+09:00",
-   "lang": "en",
-   "title_orig": "Portugal and Spain struggle as EU housing black spots"
   },
   {
    "title": "東洋経済オンライン活用ガイド：第2回 フォロー機能の使い方ーー必要な情報を､効率的にチェックする | ビジネス | 東洋経済オンライン",
@@ -753,14 +745,6 @@
    "published": "2026-08-17T09:45:00+09:00"
   },
   {
-   "title": "豪ＮＡＢ、4─6月期キャッシュ利益増 住宅ローン需要は低迷 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YaU4xYWlkdUFCcW9ORXZCdGlNMWFMRnlvRk1OWTJFZ25YYXdMYmE0bFNEY3EtRlRCN0dLUGhXb1o1c29sTm9icVpVem1KVGFhNkhxOVVVcVkzdzdURnJDdEl1ejFCQUlSYnRmam05UzRsUlZIWTNwLQ?oc=5",
-   "summary": "豪ＮＡＢ、4─6月期キャッシュ利益増 住宅ローン需要は低迷&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-17T09:33:00+09:00"
-  },
-  {
    "title": "国債金利情報(令和8年8月14日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
@@ -775,6 +759,22 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-17T09:04:39+09:00"
+  },
+  {
+   "title": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDZnT0pnNkxCaG13a3Z2VnZJOVdLQkUtREd3dlMzaWhCdEFOMzFBY0JZelk2bjdVT0tpNXdYY0RlZkVya2FGVTFRNk5RR3VSeEI5YkpyRmVxekZxaGxaUnZuallhRXdRUFRnOU55LXNhYzQ3bGdEaU9PSjMyYkJtRg?oc=5",
+   "summary": "ソフトバンクＧ、キャピタル・ワン株取得 ＴＳＭＣ株71.5％売却&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-17T08:33:58+09:00"
+  },
+  {
+   "title": "バークシャーの保有株、アルファベットが第3位 第2四半期に83％増 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh0Z1BUYWpiVHJnbERia3RhYUZMWGk0NGlPQzF6WGRoVlVnaVlCVlhYakczbldycG9ENWVMMi1mUURub0hwQ3JzaUJPWVdQYkJMMVVoTk5DZGVQTE14dVhnV0JaLW9vUURTVjdCS1c0UV9TZWNRSWdtd1VsRXpsVw?oc=5",
+   "summary": "バークシャーの保有株、アルファベットが第3位 第2四半期に83％増&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-17T08:13:44+09:00"
   },
   {
    "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
