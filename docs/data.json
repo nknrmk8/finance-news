@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T06:15:33.501069+09:00",
+ "generated_at": "2026-08-19T06:43:01.950420+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,8 +58,76 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
+  {
+   "title": "意見 |債券市場の高い不安",
+   "link": "https://www.wsj.com/opinion/bond-market-interest-rates-investing-economy-59c092c1?mod=rss_markets_main",
+   "summary": "金利が 2008 年以前に戻ることは金融パニックの原因ではありません。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T06:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | High Anxiety in the Bond Market"
+  },
+  {
+   "title": "『週刊現代』｢NHKラジオ｣から『アベプラ』まで…大学病院の雑用地獄を脱出した医師作家が見た\"新旧メディア\"の裏表 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954429?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "大学病院の雑用地獄を抜け出し開業医となった松永正訓さん。自由時間を得て作家活動を始める中で､テレビ､ラジオ､YouTubeなど様々なメディアに出演。実体験から見えてきた｢各メディアのリアルな特徴｣を…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T06:30:00+09:00"
+  },
+  {
+   "title": "レイカーズのジーニー・バス知事は、兄弟姉妹が家族の株式をボブ・アイガーやジョシュア・クシュナーに売却することはできないと述べた",
+   "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+   "summary": "ジーニー・バスの弁護士は、彼女はチーム売却に同意しておらず、バス一家が売却することを示唆する投票は「無効であり、無効である」と述べた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-19T06:29:03+09:00",
+   "lang": "en",
+   "title_orig": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner"
+  },
+  {
+   "title": "ウクライナ国防相追放、戦時中の選挙実施を呼びかけ",
+   "link": "https://www.ft.com/content/7bf79169-f84f-44a2-b64d-c1a3d1fb7d08?syn-25a6b1a6=1",
+   "summary": "ミハイロ・フェドロフ氏、ヴォロディミル・ゼレンスキー大統領に重大な挑戦を開始",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-19T06:24:20+09:00",
+   "lang": "en",
+   "title_orig": "Ukraine’s ousted defence minister calls for wartime election"
+  },
+  {
+   "title": "ウォール街は世界的な債券下落に終わりが見えない",
+   "link": "https://www.wsj.com/finance/investing/wall-street-sees-no-end-in-sight-to-the-global-bond-selloff-a1b5d1e3?mod=rss_markets_main",
+   "summary": "さらに、ペンシルベニア州はデータセンターの建設を制限しており、ABCはFCCを訴訟している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T06:22:00+09:00",
+   "lang": "en",
+   "title_orig": "Wall Street Sees No End in Sight to the Global Bond Selloff"
+  },
+  {
+   "title": "WSJドル指数は0.10%上昇して96.07",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-rising-oil-prices-may-weigh-47795bc1?mod=rss_markets_main",
+   "summary": "ＷＳＪドル指数は０．１％上昇し、２営業日の連敗を止めた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T06:19:00+09:00",
+   "lang": "en",
+   "title_orig": "The WSJ Dollar Index Rises 0.10% to 96.07"
+  },
+  {
+   "title": "｢また気泡が入った…｣スマホフィルム貼り替えの絶望を救う\"部屋を暗くして貼る\"という劇的解決策 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955153?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T06:15:00+09:00"
+  },
   {
    "title": "AIチップ株は高騰していた。マイクロンなどが現在撤退している理由はここにある。",
    "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
@@ -69,16 +137,6 @@
    "published": "2026-08-19T06:08:00+09:00",
    "lang": "en",
    "title_orig": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back."
-  },
-  {
-   "title": "レイカーズのジーニー・バス知事は、兄弟姉妹が家族の株式をボブ・アイガーやジョシュア・クシュナーに売却することはできないと述べた",
-   "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-   "summary": "ジーニー・バスの弁護士は、彼女はチーム売却に同意しておらず、バス一家が売却することを示唆する投票は「無効であり、無効である」と述べた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-19T06:04:05+09:00",
-   "lang": "en",
-   "title_orig": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner"
   },
   {
    "title": "自動車と交通機関のまとめ: マーケットトーク",
@@ -143,6 +201,22 @@
    "link": "https://toyokeizai.net/articles/-/954417?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "高い走行性能と先進技術を兼ね備えたレクサス｢RZ550e \"F SPORT\"｣は､EVならではの静粛性や滑らかさ､ステアバイワイヤシステムによる俊敏な操舵応答性が魅力。まだまだ不安があるEVですが､…",
    "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T06:00:00+09:00"
+  },
+  {
+   "title": "1年分のAI予算をわずか数カ月で“使い倒した”米Uber　CTOが気付いた「脱・トークン浪費」の方法",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/19/news032.html",
+   "summary": "配車サービス大手の米Uberは、AI技術に割り当てた2026年の予算を年初からわずか数カ月で使い果たしたことを受け、AIへの支出問題を解決する方法を見つけたと考えている。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T06:00:00+09:00"
+  },
+  {
+   "title": "企業がポッドキャストを始めるのは、なぜ？　じわじわ効く「声」の力",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/19/news005.html",
+   "summary": "企業のポッドキャスト活用が広がっている。なぜ今、企業は「声」に注目するのか。認知や採用、ファンづくりにつながる音声の強みと、継続する上での課題を解説する。",
+   "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-19T06:00:00+09:00"
   },
@@ -285,14 +359,6 @@
    "title_orig": "Bond Rout Sends Tech Stocks Lower"
   },
   {
-   "title": "米国株式市場＝続落、ハイテク株が安い 中東不安で金利上昇 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2YxRExyZTZlQWhMS0V3VFIxV2RsYThCNWFNQTVvRWp4cWdQZ0ZtTzZMbGVjRmFFMmRySW1pNGxYSzRHa1h2R1dzQ2QtUmFLOUZYejFST0wwWDExR0FyenBMc0F0YmsxYy1zXzZRdm5MTWd2RXBFeC05OHA2RGllUQ?oc=5",
-   "summary": "米国株式市場＝続落、ハイテク株が安い 中東不安で金利上昇&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-19T05:09:43+09:00"
-  },
-  {
    "title": "株式市場の暴落から身を守るための「途方もなく安い」方法は次のとおりです",
    "link": "https://www.marketwatch.com/story/heres-a-ridiculously-cheap-way-to-protect-yourself-against-a-stock-market-selloff-67d3b312?mod=mw_rss_topstories",
    "summary": "ウォール街の「恐怖ゲージ」は、無数の差し迫ったリスクにもかかわらず、すべてがクリアになったことを示しています。",
@@ -339,16 +405,6 @@
    "title_orig": "America’s growing debt pile will be the big focus Wednesday as global bond rout deepens"
   },
   {
-   "title": "世界の国債利回りが数年ぶりの高水準に",
-   "link": "https://www.wsj.com/finance/investing/global-government-bond-yields-hit-multiyear-highs-2b47888a?mod=rss_markets_main",
-   "summary": "世界の国債利回りは数年ぶりの高水準に上昇したが、投資家が経済の上昇に取り組む中、火曜後半の米国取引で若干勢いを失った",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T04:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Global Government Bond Yields Hit Multiyear Highs"
-  },
-  {
    "title": "ディーゼル価格の高騰が米国経済に波及",
    "link": "https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1",
    "summary": "燃料費の高騰で11月の中間選挙を前にインフレの新たな衝撃が脅かされる",
@@ -367,26 +423,6 @@
    "published": "2026-08-19T04:17:00+09:00",
    "lang": "en",
    "title_orig": "Mortgage rates could move even higher — dealing a fresh blow to home buyers"
-  },
-  {
-   "title": "ブレント原油は年末までに平均1バレル当たり76ドルになると予想、BofA調査",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-lack-of-progress-in-u-s-iran-talks-to-reopen-strait-of-hormuz-df55d861?mod=rss_markets_main",
-   "summary": "ブレント原油価格は1バレルあたり90ドルを超え、投資家はブレント原油価格が年末までに平均して7月よりも高い水準になると予想している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T04:07:00+09:00",
-   "lang": "en",
-   "title_orig": "Brent Crude Expected to Average at $76 Per Barrel by Year-End, BofA Survey"
-  },
-  {
-   "title": "米国の天然ガス、レンジ内取引でじりじりと上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-edges-up-in-range-bound-trade-ef2a1d58?mod=rss_markets_main",
-   "summary": "米国の天然ガス先物相場は、夏の暑さによる需要が高騰によって相殺され、ある日は下落し、次の日には上昇するという最近のレンジ内パターンを継続した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T04:05:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Edges Up in Range-Bound Trade"
   },
   {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
@@ -415,24 +451,6 @@
    "published": "2026-08-19T01:48:00+09:00",
    "lang": "en",
    "title_orig": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh"
-  },
-  {
-   "title": "ザポリージャ原発のバス停にドローン攻撃、1人死亡 運営側はウを非難 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0FWNGEta0pneXZRTUQwLUcxZ0F6UmljUkVzOEpVTFNUVjJ0SDR1MFNIRURvQWJZVzlJczVnWUVFb1NtQkRpUzNiTUZyeU5OZGJEc2s5N3RLVE5uQXF1M0dmTm9keDVfMVNiTUVFWG4yS0RVZHJCRlBaQXJIQzRZag?oc=5",
-   "summary": "ザポリージャ原発のバス停にドローン攻撃、1人死亡 運営側はウを非難&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-19T01:38:26+09:00"
-  },
-  {
-   "title": "イスラエルによるシリア空軍基地攻撃、米国とトルコが批判",
-   "link": "https://www.ft.com/content/90c16b57-5ea6-4cce-b4d5-5f537a79da47?syn-25a6b1a6=1",
-   "summary": "軍事施設への爆撃は「不必要なエスカレーション」であり、ダマスカス政権をめぐる地域の緊張を浮き彫りにしている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-19T01:20:52+09:00",
-   "lang": "en",
-   "title_orig": "Israeli strikes on Syrian air base criticised by US and Turkey"
   },
   {
    "title": "ディズニー、ABCライセンス審査「報復」を巡りトランプ政権を提訴",
@@ -469,28 +487,12 @@
    "published": "2026-08-18T22:49:52+09:00"
   },
   {
-   "title": "〈AI収益化の勝者はどこか？〉長期的に収益を生み出す企業の選別へ､｢ハイパースケーラーが優位｣との見方 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955181?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "AI革命が加速する中､投資家は膨大な資金を投入するハイパースケーラー企業と新興ネオクラウド勢のどちらが真の勝者となるかを見極め始めています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-18T21:34:00+09:00"
-  },
-  {
    "title": "新潟産コシヒカリ、JA概算金は昨年比4割安　コメの在庫余りが影響",
    "link": "https://www.asahi.com/articles/ASV8L425CV8LUOHB008M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-18T21:28:17+09:00"
-  },
-  {
-   "title": "中国の百度（バイドゥ）､売上高が5四半期連続減…AI開発で出遅れを挽回できず | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955178?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "中国最大の検索エンジン･百度が売上高減少から抜け出せず､AI開発や広告事業で苦戦を強いられています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-18T21:27:00+09:00"
   },
   {
    "title": "通販生活が楽天市場から撤退",
@@ -645,14 +647,6 @@
    "published": "2026-08-18T18:00:55+09:00"
   },
   {
-   "title": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05RnVxWnQ1eDVKS28xZGFHTEkwTnBEaWZzdWZoY3QzdUVCeTlhdFdvZ2dnQjBWeUlyTXJKTWx4RmZNcjF0eWJRSUhLaHh3T1BWM1ZoR1dLckd0U2d4VTN2Q0FRLWlpcy03VUVpaVBvYWdkZ1dsZTlXag?oc=5",
-   "summary": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T17:59:52+09:00"
-  },
-  {
    "title": "四千頭身・都築のブランド休止",
    "link": "https://news.yahoo.co.jp/pickup/6592191?source=rss",
    "summary": "",
@@ -677,30 +671,6 @@
    "published": "2026-08-18T16:40:06+09:00"
   },
   {
-   "title": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVBdUdBZ0c4M2VaMGU0eWFNYnhmcWtKemJxT2k2YW1uSVRMMWNIQVctcmdsbGVOU1FFQjR6UzJ2Ri1UV3hNQWNhWm5saHI0Z3g1Ul9GUkgzSS02cGI4Zm5OVnl5X28wc1dpeExrWHBGakd6MElmQ3pUeGROdURWcQ?oc=5",
-   "summary": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T16:30:21+09:00"
-  },
-  {
-   "title": "パンパシＨＤ、今期純利益0.4％増予想 市場コンセンサス下回る - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NbTNlUG1IOGpMZ3paWkRzZWFaNXRRSEpiSVl4YXdOeHB1cFdyRThscUYwejdTcGlOMFc4VTE1ZXVjOHRkcm9nbWItbEp2N3dpVTZURWFwMEVMMlNIbnJhYW5mckRCaUlVTzdRX0NSc0Y5S0c0dGh6Yw?oc=5",
-   "summary": "パンパシＨＤ、今期純利益0.4％増予想 市場コンセンサス下回る&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T15:59:00+09:00"
-  },
-  {
-   "title": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LaHFsTTlwQWxHSF9iX0wtOGZnUk9RY0VneG52ZlE1czRvT0UxV2JXZXJzQWtIRmowV2gzdEgzb3MxTVpmTnpEVUNkT3VGUmp0bE90WkNEb3JaV2Z0eUdTZHUtNkdFUmFacERicDJZLUNiTGVGTnZqcTU0UEs5Zw?oc=5",
-   "summary": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T15:36:00+09:00"
-  },
-  {
    "title": "鹿児島で返礼品牛肉、産地偽装疑い　詐欺容疑などで元会社役員逮捕",
    "link": "https://www.asahi.com/articles/ASV8L21CNV8LTIPE003M.html?ref=rss",
    "summary": "",
@@ -717,36 +687,12 @@
    "published": "2026-08-18T15:15:00+09:00"
   },
   {
-   "title": "北米ファンド、為替ヘッジ割合が4年ぶり高水準＝調査 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yeGxBV1l5QTRET3dBbWF2T01saVJaT0psa2ZZRmozVFFiSVpEM1ZvMXN0NEYyMTd4YVJzbl9TRzhrT3RpX3VVRk14T3MxNXlQWHFhbTJQMXRHOC1aRk9BRE9pYkU0YjMwaFZGUDBOQ3JIQ3dxYXJwdw?oc=5",
-   "summary": "北米ファンド、為替ヘッジ割合が4年ぶり高水準＝調査&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T15:07:00+09:00"
-  },
-  {
    "title": "「再編必至」「全部沈む」政投銀・牧社長が語る数千億円投資の狙い",
    "link": "https://www.asahi.com/articles/ASV873DJVV87ULFA01BM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-18T15:00:00+09:00"
-  },
-  {
-   "title": "米ＡＩ特化型ファンド、太陽誘電株の一部をシタデルに売却＝報告書 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHV1bkgzSVpDcjBxQWRWZU5IYXV2Z2RFUmFRUkg5NVBuanlTcW0yNWluNk5Uai1kTS0xSVdkejZHY2t5UFEtR1M1ME1JTDdYaTV3b01mQ3BZV19mcWtRRHhodzVBZGNFVjQ4Qm9CbjJkbnFuQUd3WE1qSk5ZMnBHMw?oc=5",
-   "summary": "米ＡＩ特化型ファンド、太陽誘電株の一部をシタデルに売却＝報告書&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T14:23:00+09:00"
-  },
-  {
-   "title": "英フィンテックのレボリュート、豪住宅ローン市場への参入検討 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BdVlJdW1RUXg4UkdxRWhSbl8tRW1kM0FXakRTNy1nZkdDNkZ1QVZSQ3ZCWmZRa0ItOXdSUDR4VDFxWEt4QjFkYnNUZEdUcWNkeE4wdExFYkRBRThyOUZ3TTZ2YW90ejQtT0xLWHBleVpTZ0xfY3c?oc=5",
-   "summary": "英フィンテックのレボリュート、豪住宅ローン市場への参入検討&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T14:14:00+09:00"
   },
   {
    "title": "ジェイソン・アーデイに関する難しい真実",
@@ -775,14 +721,6 @@
    "published": "2026-08-18T12:00:00+09:00"
   },
   {
-   "title": "サウジアラムコ、ホルムズ海峡外側での原油供給巡り協議＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12ejFTVnBfTERWSWFJeVJ1Q2dnc0taT0Uyc3FMY1VsemF1RkJ4X0EwVjJTbklQQl9tb1JDdko0SE1ZOHhZblZONDA3WkU5NENhMUdyQUtUQ2ZLdnVLQk5OZ2NUX3cxYjQ0UFpxQ2RTaDQwZWc1OWxtSzJhV2Y3Zw?oc=5",
-   "summary": "サウジアラムコ、ホルムズ海峡外側での原油供給巡り協議＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T11:59:00+09:00"
-  },
-  {
    "title": "クレジットカード発行会社のSynchronyがOpenAIとの提携を発表",
    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
    "summary": "この提携はまだ初期段階にあり、Synchrony の顧客がよりスムーズなオンライン ショッピング体験を行えるようにするための一歩です。",
@@ -791,22 +729,6 @@
    "published": "2026-08-18T11:48:33+09:00",
    "lang": "en",
    "title_orig": "Credit card issuer Synchrony announces partnership with OpenAI"
-  },
-  {
-   "title": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbW14NmRaQlVFOHdzZzZETERKRjJFNUFaZWE4d0ozOUJXVFdqMGxkcFlnUER1WldZa2ptSVQ2ZVQwYnU3bmxCcC1SMjk4V3YzNVV6T0oxQ1JLYWJxZUp6ZGF0dVRNckRLWGs1Z3c5S3JwRmtHcjlselRWcnRQYWtJZg?oc=5",
-   "summary": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T11:18:00+09:00"
-  },
-  {
-   "title": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWRscFFadW83OHN4UHpnT0J2dFhMTXhLY3daY3dOZ0J6eGFuanFfcHN4cThKOFAtREk4SGljQkdwMDdvY0pkZkVZT1E4YWpCQjAxeG1NOWUzNmtyYmFuQ1VkeklySGx5VzJpMXJQclJEZm5GeEdzU0kwQ2tCWW9nRQ?oc=5",
-   "summary": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T10:49:00+09:00"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月18日公表）",
@@ -833,36 +755,12 @@
    "published": "2026-08-18T10:10:19+09:00"
   },
   {
-   "title": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHk4VFlzcWxpTk1jRkc3U2JoaVMxdmNBOVBmRmJyLUN6dnJvZ00tYWJmLWdKYkQ3aFBJRkRxVkxlcUtSZFlkdHdmSUpnY0M5X0djM2d4ak0tSkNtUG5iY3FsN2RoSDctV0VmcUx3Vm00d0ZmeTBKcURGZjA4QVVsdQ?oc=5",
-   "summary": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T09:30:00+09:00"
-  },
-  {
    "title": "国債金利情報(令和8年8月17日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-18T09:30:00+09:00"
-  },
-  {
-   "title": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1gtTWlCN21XLXpvRExoZVhhOU9VdVRZSHdTSnlWWDkySFdyVE9PemN1OGNUaERfS1FkZzNPRWNnZFIzbld3azZoTkU1THFDYUpKaktpd25oTHlzU1p1TVJGVHBGbnNuTXdERnhYeTVfMWN4WUEtTHgxX2RvbjE1V09n?oc=5",
-   "summary": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T09:10:00+09:00"
-  },
-  {
-   "title": "長期金利が2.945％に上昇、約30年ぶり高水準更新 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkxBRlFTd29kdFQ1VVRfN081UDBTV0NmYXNxWTFQeExtR0ZHN09NMFNCVmRhZHQtOUlvQnBXMUZ0T0d3R1JVV2VEZVpNQVUxc3huQUdIanF2NUcxUE1RTmtzQXc1RTFFbWtDVHRRRnRKNW5pZFZIeDVsUTNZTC1uQw?oc=5",
-   "summary": "長期金利が2.945％に上昇、約30年ぶり高水準更新&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T09:04:00+09:00"
   },
   {
    "title": "百貨店の苦境が鮮明に　58社中49社が減収、地方では「空白県」が拡大",
@@ -992,22 +890,6 @@
    "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
    "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
    "summary": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-17T07:00:00+09:00"
-  },
-  {
-   "title": "酷暑による経済損失「年7.8兆円」　“暑さ”を商機に変えた「空調服」「ダイキン」の戦略に迫る",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news022.html",
-   "summary": "40度以上の酷暑日が当たり前にある日本。暑さは経済に深刻なダメージを及ぼしている。一方で、暑さを味方に付けてビジネスを拡大しているのが「株式会社空調服」と「ダイキン」だ。両社の戦略に迫る。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-17T07:00:00+09:00"
-  },
-  {
-   "title": "なぜ今、日本型「長期雇用」が世界で再評価されているのか　大転職時代の米国が抱えた“人材のトラウマ”",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news021.html",
-   "summary": "「ビッグステイ」（The Big Stay）なる言葉が米国で話題です。日本企業が手放した「長くとどまることで得られる果実」が、今やグローバルな再評価の波に乗って、原点回帰の様相を呈しているのです。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-17T07:00:00+09:00"
