@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T06:43:01.950420+09:00",
+ "generated_at": "2026-08-19T06:57:00.441028+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,10 +58,18 @@
    "category": "海外金融"
   }
  ],
- "errors": [
-  "ロイター: HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "OpenAI、ハッキング事件を受けてモデルテストの監視を拡大すると発表",
+   "link": "https://www.ft.com/content/556e36dd-24b0-4601-bbbb-1ee5ba86eb2c?syn-25a6b1a6=1",
+   "summary": "AIラボは、「エージェント」の1人が制御を逃れて新興企業を攻撃したことを受け、より多くのコンピューティングリソースをセキュリティに充てることを計画している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-19T06:33:27+09:00",
+   "lang": "en",
+   "title_orig": "OpenAI says it will expand monitoring of model testing after hacking incident"
+  },
   {
    "title": "意見 |債券市場の高い不安",
    "link": "https://www.wsj.com/opinion/bond-market-interest-rates-investing-economy-59c092c1?mod=rss_markets_main",
@@ -119,6 +127,14 @@
    "published": "2026-08-19T06:19:00+09:00",
    "lang": "en",
    "title_orig": "The WSJ Dollar Index Rises 0.10% to 96.07"
+  },
+  {
+   "title": "米国株式市場＝続落、ハイテク株が安い 中東不安で金利上昇 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2YxRExyZTZlQWhMS0V3VFIxV2RsYThCNWFNQTVvRWp4cWdQZ0ZtTzZMbGVjRmFFMmRySW1pNGxYSzRHa1h2R1dzQ2QtUmFLOUZYejFST0wwWDExR0FyenBMc0F0YmsxYy1zXzZRdm5MTWd2RXBFeC05OHA2RGllUQ?oc=5",
+   "summary": "米国株式市場＝続落、ハイテク株が安い 中東不安で金利上昇&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T06:17:55+09:00"
   },
   {
    "title": "｢また気泡が入った…｣スマホフィルム貼り替えの絶望を救う\"部屋を暗くして貼る\"という劇的解決策 | ライフ | 東洋経済オンライン",
@@ -453,6 +469,14 @@
    "title_orig": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh"
   },
   {
+   "title": "ザポリージャ原発のバス停にドローン攻撃、1人死亡 運営側はウを非難 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0FWNGEta0pneXZRTUQwLUcxZ0F6UmljUkVzOEpVTFNUVjJ0SDR1MFNIRURvQWJZVzlJczVnWUVFb1NtQkRpUzNiTUZyeU5OZGJEc2s5N3RLVE5uQXF1M0dmTm9keDVfMVNiTUVFWG4yS0RVZHJCRlBaQXJIQzRZag?oc=5",
+   "summary": "ザポリージャ原発のバス停にドローン攻撃、1人死亡 運営側はウを非難&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T01:38:26+09:00"
+  },
+  {
    "title": "ディズニー、ABCライセンス審査「報復」を巡りトランプ政権を提訴",
    "link": "https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc?syn-25a6b1a6=1",
    "summary": "米国の大手メディア、連邦通信委員会が自社の放送を「承認しない」ため取り締まりを行っていると非難",
@@ -647,6 +671,14 @@
    "published": "2026-08-18T18:00:55+09:00"
   },
   {
+   "title": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05RnVxWnQ1eDVKS28xZGFHTEkwTnBEaWZzdWZoY3QzdUVCeTlhdFdvZ2dnQjBWeUlyTXJKTWx4RmZNcjF0eWJRSUhLaHh3T1BWM1ZoR1dLckd0U2d4VTN2Q0FRLWlpcy03VUVpaVBvYWdkZ1dsZTlXag?oc=5",
+   "summary": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T17:59:52+09:00"
+  },
+  {
    "title": "四千頭身・都築のブランド休止",
    "link": "https://news.yahoo.co.jp/pickup/6592191?source=rss",
    "summary": "",
@@ -671,6 +703,30 @@
    "published": "2026-08-18T16:40:06+09:00"
   },
   {
+   "title": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVBdUdBZ0c4M2VaMGU0eWFNYnhmcWtKemJxT2k2YW1uSVRMMWNIQVctcmdsbGVOU1FFQjR6UzJ2Ri1UV3hNQWNhWm5saHI0Z3g1Ul9GUkgzSS02cGI4Zm5OVnl5X28wc1dpeExrWHBGakd6MElmQ3pUeGROdURWcQ?oc=5",
+   "summary": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T16:30:21+09:00"
+  },
+  {
+   "title": "パンパシＨＤ、今期純利益0.4％増予想 市場コンセンサス下回る - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NbTNlUG1IOGpMZ3paWkRzZWFaNXRRSEpiSVl4YXdOeHB1cFdyRThscUYwejdTcGlOMFc4VTE1ZXVjOHRkcm9nbWItbEp2N3dpVTZURWFwMEVMMlNIbnJhYW5mckRCaUlVTzdRX0NSc0Y5S0c0dGh6Yw?oc=5",
+   "summary": "パンパシＨＤ、今期純利益0.4％増予想 市場コンセンサス下回る&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T15:59:00+09:00"
+  },
+  {
+   "title": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LaHFsTTlwQWxHSF9iX0wtOGZnUk9RY0VneG52ZlE1czRvT0UxV2JXZXJzQWtIRmowV2gzdEgzb3MxTVpmTnpEVUNkT3VGUmp0bE90WkNEb3JaV2Z0eUdTZHUtNkdFUmFacERicDJZLUNiTGVGTnZqcTU0UEs5Zw?oc=5",
+   "summary": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T15:36:00+09:00"
+  },
+  {
    "title": "鹿児島で返礼品牛肉、産地偽装疑い　詐欺容疑などで元会社役員逮捕",
    "link": "https://www.asahi.com/articles/ASV8L21CNV8LTIPE003M.html?ref=rss",
    "summary": "",
@@ -687,6 +743,14 @@
    "published": "2026-08-18T15:15:00+09:00"
   },
   {
+   "title": "北米ファンド、為替ヘッジ割合が4年ぶり高水準＝調査 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yeGxBV1l5QTRET3dBbWF2T01saVJaT0psa2ZZRmozVFFiSVpEM1ZvMXN0NEYyMTd4YVJzbl9TRzhrT3RpX3VVRk14T3MxNXlQWHFhbTJQMXRHOC1aRk9BRE9pYkU0YjMwaFZGUDBOQ3JIQ3dxYXJwdw?oc=5",
+   "summary": "北米ファンド、為替ヘッジ割合が4年ぶり高水準＝調査&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T15:07:00+09:00"
+  },
+  {
    "title": "「再編必至」「全部沈む」政投銀・牧社長が語る数千億円投資の狙い",
    "link": "https://www.asahi.com/articles/ASV873DJVV87ULFA01BM.html?ref=rss",
    "summary": "",
@@ -695,14 +759,20 @@
    "published": "2026-08-18T15:00:00+09:00"
   },
   {
-   "title": "ジェイソン・アーデイに関する難しい真実",
-   "link": "https://www.ft.com/content/5f927594-03a1-4652-8189-2aa7a19dcec4?syn-25a6b1a6=1",
-   "summary": "捜査には当初から、彼の人種に関する過剰な言及が含​​まれていた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-18T13:00:23+09:00",
-   "lang": "en",
-   "title_orig": "The difficult truth about Jason Arday"
+   "title": "米ＡＩ特化型ファンド、太陽誘電株の一部をシタデルに売却＝報告書 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHV1bkgzSVpDcjBxQWRWZU5IYXV2Z2RFUmFRUkg5NVBuanlTcW0yNWluNk5Uai1kTS0xSVdkejZHY2t5UFEtR1M1ME1JTDdYaTV3b01mQ3BZV19mcWtRRHhodzVBZGNFVjQ4Qm9CbjJkbnFuQUd3WE1qSk5ZMnBHMw?oc=5",
+   "summary": "米ＡＩ特化型ファンド、太陽誘電株の一部をシタデルに売却＝報告書&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T14:23:00+09:00"
+  },
+  {
+   "title": "英フィンテックのレボリュート、豪住宅ローン市場への参入検討 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BdVlJdW1RUXg4UkdxRWhSbl8tRW1kM0FXakRTNy1nZkdDNkZ1QVZSQ3ZCWmZRa0ItOXdSUDR4VDFxWEt4QjFkYnNUZEdUcWNkeE4wdExFYkRBRThyOUZ3TTZ2YW90ejQtT0xLWHBleVpTZ0xfY3c?oc=5",
+   "summary": "英フィンテックのレボリュート、豪住宅ローン市場への参入検討&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T14:14:00+09:00"
   },
   {
    "title": "5年利付国債（第187回）の入札結果（令和8年8月18日入札）",
@@ -721,6 +791,14 @@
    "published": "2026-08-18T12:00:00+09:00"
   },
   {
+   "title": "サウジアラムコ、ホルムズ海峡外側での原油供給巡り協議＝関係筋 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12ejFTVnBfTERWSWFJeVJ1Q2dnc0taT0Uyc3FMY1VsemF1RkJ4X0EwVjJTbklQQl9tb1JDdko0SE1ZOHhZblZONDA3WkU5NENhMUdyQUtUQ2ZLdnVLQk5OZ2NUX3cxYjQ0UFpxQ2RTaDQwZWc1OWxtSzJhV2Y3Zw?oc=5",
+   "summary": "サウジアラムコ、ホルムズ海峡外側での原油供給巡り協議＝関係筋&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T11:59:00+09:00"
+  },
+  {
    "title": "クレジットカード発行会社のSynchronyがOpenAIとの提携を発表",
    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
    "summary": "この提携はまだ初期段階にあり、Synchrony の顧客がよりスムーズなオンライン ショッピング体験を行えるようにするための一歩です。",
@@ -729,6 +807,22 @@
    "published": "2026-08-18T11:48:33+09:00",
    "lang": "en",
    "title_orig": "Credit card issuer Synchrony announces partnership with OpenAI"
+  },
+  {
+   "title": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbW14NmRaQlVFOHdzZzZETERKRjJFNUFaZWE4d0ozOUJXVFdqMGxkcFlnUER1WldZa2ptSVQ2ZVQwYnU3bmxCcC1SMjk4V3YzNVV6T0oxQ1JLYWJxZUp6ZGF0dVRNckRLWGs1Z3c5S3JwRmtHcjlselRWcnRQYWtJZg?oc=5",
+   "summary": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T11:18:00+09:00"
+  },
+  {
+   "title": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWRscFFadW83OHN4UHpnT0J2dFhMTXhLY3daY3dOZ0J6eGFuanFfcHN4cThKOFAtREk4SGljQkdwMDdvY0pkZkVZT1E4YWpCQjAxeG1NOWUzNmtyYmFuQ1VkeklySGx5VzJpMXJQclJEZm5GeEdzU0kwQ2tCWW9nRQ?oc=5",
+   "summary": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T10:49:00+09:00"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月18日公表）",
@@ -755,12 +849,36 @@
    "published": "2026-08-18T10:10:19+09:00"
   },
   {
+   "title": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHk4VFlzcWxpTk1jRkc3U2JoaVMxdmNBOVBmRmJyLUN6dnJvZ00tYWJmLWdKYkQ3aFBJRkRxVkxlcUtSZFlkdHdmSUpnY0M5X0djM2d4ak0tSkNtUG5iY3FsN2RoSDctV0VmcUx3Vm00d0ZmeTBKcURGZjA4QVVsdQ?oc=5",
+   "summary": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:30:00+09:00"
+  },
+  {
    "title": "国債金利情報(令和8年8月17日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-18T09:30:00+09:00"
+  },
+  {
+   "title": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1gtTWlCN21XLXpvRExoZVhhOU9VdVRZSHdTSnlWWDkySFdyVE9PemN1OGNUaERfS1FkZzNPRWNnZFIzbld3azZoTkU1THFDYUpKaktpd25oTHlzU1p1TVJGVHBGbnNuTXdERnhYeTVfMWN4WUEtTHgxX2RvbjE1V09n?oc=5",
+   "summary": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:10:00+09:00"
+  },
+  {
+   "title": "長期金利が2.945％に上昇、約30年ぶり高水準更新 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkxBRlFTd29kdFQ1VVRfN081UDBTV0NmYXNxWTFQeExtR0ZHN09NMFNCVmRhZHQtOUlvQnBXMUZ0T0d3R1JVV2VEZVpNQVUxc3huQUdIanF2NUcxUE1RTmtzQXc1RTFFbWtDVHRRRnRKNW5pZFZIeDVsUTNZTC1uQw?oc=5",
+   "summary": "長期金利が2.945％に上昇、約30年ぶり高水準更新&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:04:00+09:00"
   },
   {
    "title": "百貨店の苦境が鮮明に　58社中49社が減収、地方では「空白県」が拡大",
