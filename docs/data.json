@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T20:01:14.946759+09:00",
+ "generated_at": "2026-08-18T20:36:14.776306+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,9 +58,7 @@
    "category": "海外金融"
   }
  ],
- "errors": [
-  "ロイター: HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "items": [
   {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
@@ -87,6 +85,36 @@
    "published": "2026-08-19T01:00:00+09:00"
   },
   {
+   "title": "「もう時間がない」: 30 万ドルの賃貸物件を売却し、7 万 5,000 ドルの損失を出しました。税金を避けるために別のものを購入する必要がありますか?",
+   "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+   "summary": "「公認会計士から連絡がありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-18T20:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
+  },
+  {
+   "title": "米国株先物下落、世界的な債券暴落が深刻化",
+   "link": "https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d?mod=rss_markets_main",
+   "summary": "中東での緊張が再燃する中、ナスダック100先物は下落し、米国株は下値で始まる見通しとなった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-18T20:10:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stock Futures Drop and the Global Bond Rout Deepens"
+  },
+  {
+   "title": "OpenAIは、より多くの安全策を約束して、10代の若者をChatGPTの専用バージョンに制限します",
+   "link": "https://www.ft.com/content/9eccad94-56f5-4adf-aa61-c39e2e542226?syn-25a6b1a6=1",
+   "summary": "AI スタートアップ、注目を集める訴訟を受けて若者向けチャットボットを全面的に見直し",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-18T20:00:04+09:00",
+   "lang": "en",
+   "title_orig": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards"
+  },
+  {
    "title": "世界的な債券下落で米30年国債利回りが2007年以来の高水準に",
    "link": "https://www.marketwatch.com/story/u-s-30-year-treasury-yield-hits-highest-level-since-2007-amid-global-bond-sell-off-f8dfb1df?mod=mw_rss_topstories",
    "summary": "インフレと債券供給の増加に対する懸念が債券セクターに打撃を与えている。",
@@ -95,6 +123,16 @@
    "published": "2026-08-18T19:58:00+09:00",
    "lang": "en",
    "title_orig": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off"
+  },
+  {
+   "title": "AI恐怖症はアメリカの新たな総意である",
+   "link": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1",
+   "summary": "トランプ大統領は、テクノロジーに対する有権者の恐怖に珍しく耳を貸さない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-18T19:57:48+09:00",
+   "lang": "en",
+   "title_orig": "AI phobia is America’s new consensus"
   },
   {
    "title": "採用,職員を募集しています。（国内金融及び金融機関等の行う国際業務に関する制度の企画及び立案等に従事する職員（課長補佐クラス）【弁護士資格を有する者】）",
@@ -301,16 +339,6 @@
    "title_orig": "Chris Pratt’s Pacific Palisades home returns to the market for just under $20 million"
   },
   {
-   "title": "日経平均株価は0.7%下落、ウォール街の損失に追随",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-tracking-wall-streets-losses-4f0d7ddd?mod=rss_markets_main",
-   "summary": "日経平均株価は序盤の取引で0.7％下落し、一晩のウォール街の損失を追随した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-18T18:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Falls 0.7%, Tracking Wall Street’s Losses"
-  },
-  {
    "title": "大型クロマグロ 漁獲枠25%拡大",
    "link": "https://news.yahoo.co.jp/pickup/6592194?source=rss",
    "summary": "",
@@ -367,6 +395,14 @@
    "published": "2026-08-18T16:40:06+09:00"
   },
   {
+   "title": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVBdUdBZ0c4M2VaMGU0eWFNYnhmcWtKemJxT2k2YW1uSVRMMWNIQVctcmdsbGVOU1FFQjR6UzJ2Ri1UV3hNQWNhWm5saHI0Z3g1Ul9GUkgzSS02cGI4Zm5OVnl5X28wc1dpeExrWHBGakd6MElmQ3pUeGROdURWcQ?oc=5",
+   "summary": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T16:30:21+09:00"
+  },
+  {
    "title": "｢人に火をつけた人間をテレビに出すな｣と猛批判…出演者が犯罪行為を告白→MEGUMI声明も大炎上｢ラヴ上等｣見て感じた本音 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955078?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "Netflixの大人気恋愛リアリティショー｢ラヴ上等｣シーズン2が､出演者の告白が物議､プロデューサーのMEGUMIさんの発言も炎上することに。実際に作品を観たところ…",
@@ -375,12 +411,20 @@
    "published": "2026-08-18T16:30:00+09:00"
   },
   {
-   "title": "兵庫県が起債許可団体に移行　金利上昇で財政悪化",
-   "link": "https://www.jiji.com/jc/article?k=2026081800669&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
+   "title": "パンパシＨＤ、今期純利益0.4％増予想 市場コンセンサス下回る - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NbTNlUG1IOGpMZ3paWkRzZWFaNXRRSEpiSVl4YXdOeHB1cFdyRThscUYwejdTcGlOMFc4VTE1ZXVjOHRkcm9nbWItbEp2N3dpVTZURWFwMEVMMlNIbnJhYW5mckRCaUlVTzdRX0NSc0Y5S0c0dGh6Yw?oc=5",
+   "summary": "パンパシＨＤ、今期純利益0.4％増予想 市場コンセンサス下回る&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-18T15:42:00+09:00"
+   "published": "2026-08-18T15:59:00+09:00"
+  },
+  {
+   "title": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LaHFsTTlwQWxHSF9iX0wtOGZnUk9RY0VneG52ZlE1czRvT0UxV2JXZXJzQWtIRmowV2gzdEgzb3MxTVpmTnpEVUNkT3VGUmp0bE90WkNEb3JaV2Z0eUdTZHUtNkdFUmFacERicDJZLUNiTGVGTnZqcTU0UEs5Zw?oc=5",
+   "summary": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T15:36:00+09:00"
   },
   {
    "title": "鹿児島の加工会社、返礼品牛肉で産地偽装疑い　詐欺など容疑で逮捕",
@@ -397,6 +441,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-18T15:15:00+09:00"
+  },
+  {
+   "title": "北米ファンド、為替ヘッジ割合が4年ぶり高水準＝調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yeGxBV1l5QTRET3dBbWF2T01saVJaT0psa2ZZRmozVFFiSVpEM1ZvMXN0NEYyMTd4YVJzbl9TRzhrT3RpX3VVRk14T3MxNXlQWHFhbTJQMXRHOC1aRk9BRE9pYkU0YjMwaFZGUDBOQ3JIQ3dxYXJwdw?oc=5",
+   "summary": "北米ファンド、為替ヘッジ割合が4年ぶり高水準＝調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T15:07:00+09:00"
   },
   {
    "title": "「再編必至」「全部沈む」政投銀・牧社長が語る数千億円投資の狙い",
@@ -423,14 +475,28 @@
    "published": "2026-08-18T14:31:57+09:00"
   },
   {
-   "title": "米韓同盟の中心である演習への脅威にソウルが動揺",
-   "link": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1",
-   "summary": "年次演習の「削減」を求めるドナルド・トランプ大統領の11時間目の要求と金正恩氏の称賛が同盟国を不安にさせる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-18T13:18:51+09:00",
-   "lang": "en",
-   "title_orig": "Seoul rattled by threat to drills at heart of US-Korean alliance"
+   "title": "米ＡＩ特化型ファンド、太陽誘電株の一部をシタデルに売却＝報告書 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHV1bkgzSVpDcjBxQWRWZU5IYXV2Z2RFUmFRUkg5NVBuanlTcW0yNWluNk5Uai1kTS0xSVdkejZHY2t5UFEtR1M1ME1JTDdYaTV3b01mQ3BZV19mcWtRRHhodzVBZGNFVjQ4Qm9CbjJkbnFuQUd3WE1qSk5ZMnBHMw?oc=5",
+   "summary": "米ＡＩ特化型ファンド、太陽誘電株の一部をシタデルに売却＝報告書&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T14:23:00+09:00"
+  },
+  {
+   "title": "英フィンテックのレボリュート、豪住宅ローン市場への参入検討 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BdVlJdW1RUXg4UkdxRWhSbl8tRW1kM0FXakRTNy1nZkdDNkZ1QVZSQ3ZCWmZRa0ItOXdSUDR4VDFxWEt4QjFkYnNUZEdUcWNkeE4wdExFYkRBRThyOUZ3TTZ2YW90ejQtT0xLWHBleVpTZ0xfY3c?oc=5",
+   "summary": "英フィンテックのレボリュート、豪住宅ローン市場への参入検討&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T14:14:00+09:00"
+  },
+  {
+   "title": "コラム：インフレ抑制に利上げ不可避のＦＲＢ、資産縮小とＡＩの生産性向上は効果薄 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lTFc4SS1RSENSYTRTc2JEOEM0R0JWaGF1ZUVjdmZjcVpaa2IySFl1V1cxWk8wVXI2SkJERGxLRTNlS2ZzVi16SzA2T0h6U3BnOEdCcVNEd2V6VDNRS3VXRzN1NkZDRXMyM19PTklSby1nRVo4YVVYVw?oc=5",
+   "summary": "コラム：インフレ抑制に利上げ不可避のＦＲＢ、資産縮小とＡＩの生産性向上は効果薄&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T13:18:00+09:00"
   },
   {
    "title": "ジェイソン・アーデイに関する難しい真実",
@@ -441,16 +507,6 @@
    "published": "2026-08-18T13:00:23+09:00",
    "lang": "en",
    "title_orig": "The difficult truth about Jason Arday"
-  },
-  {
-   "title": "トランプ大統領の韓国演習削減で米国のアジアにおける決意に疑念が高まる",
-   "link": "https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1",
-   "summary": "国防総省がインド太平洋から中東へ船舶を引き揚げ、イラン戦争で武器備蓄が枯渇する中、この決定が下された",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-18T13:00:23+09:00",
-   "lang": "en",
-   "title_orig": "Trump’s cuts to South Korean drills stir doubts about US resolve in Asia"
   },
   {
    "title": "トランプ大統領のボールルーム関係者がクレムリンで静かに会談",
@@ -533,6 +589,14 @@
    "published": "2026-08-18T12:00:00+09:00"
   },
   {
+   "title": "サウジアラムコ、ホルムズ海峡外側での原油供給巡り協議＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12ejFTVnBfTERWSWFJeVJ1Q2dnc0taT0Uyc3FMY1VsemF1RkJ4X0EwVjJTbklQQl9tb1JDdko0SE1ZOHhZblZONDA3WkU5NENhMUdyQUtUQ2ZLdnVLQk5OZ2NUX3cxYjQ0UFpxQ2RTaDQwZWc1OWxtSzJhV2Y3Zw?oc=5",
+   "summary": "サウジアラムコ、ホルムズ海峡外側での原油供給巡り協議＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T11:59:00+09:00"
+  },
+  {
    "title": "クレジットカード発行会社のSynchronyがOpenAIとの提携を発表",
    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
    "summary": "この提携はまだ初期段階にあり、Synchrony の顧客がよりスムーズなオンライン ショッピング体験を行えるようにするための一歩です。",
@@ -551,6 +615,14 @@
    "published": "2026-08-18T11:30:00+09:00"
   },
   {
+   "title": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbW14NmRaQlVFOHdzZzZETERKRjJFNUFaZWE4d0ozOUJXVFdqMGxkcFlnUER1WldZa2ptSVQ2ZVQwYnU3bmxCcC1SMjk4V3YzNVV6T0oxQ1JLYWJxZUp6ZGF0dVRNckRLWGs1Z3c5S3JwRmtHcjlselRWcnRQYWtJZg?oc=5",
+   "summary": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T11:18:00+09:00"
+  },
+  {
    "title": "法務省｢全身入れ墨ポスター｣に抱いた嫌悪感の正体…『ラヴ上等』とコラボも\"見た目の説得力\"が一瞬で牙をむいたワケ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955085?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "法務省とNetflix｢ラヴ上等｣の異色のコラボポスターは､圧倒的なビジュアルで注目を集めた一方､｢犯罪を美化している｣と批判が殺到し大炎上。強いインパクトを狙ったアプローチはなぜ逆効果となったのか…",
@@ -565,6 +637,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-18T11:00:00+09:00"
+  },
+  {
+   "title": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWRscFFadW83OHN4UHpnT0J2dFhMTXhLY3daY3dOZ0J6eGFuanFfcHN4cThKOFAtREk4SGljQkdwMDdvY0pkZkVZT1E4YWpCQjAxeG1NOWUzNmtyYmFuQ1VkeklySGx5VzJpMXJQclJEZm5GeEdzU0kwQ2tCWW9nRQ?oc=5",
+   "summary": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T10:49:00+09:00"
   },
   {
    "title": "｢1問に10時間かける｣偏差値70超の超名門校で｢5人に1人を東大合格｣させた国語教師が明かす驚きの授業の中身 | キャリア・教育 | 東洋経済オンライン",
@@ -607,6 +687,14 @@
    "published": "2026-08-18T10:10:19+09:00"
   },
   {
+   "title": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHk4VFlzcWxpTk1jRkc3U2JoaVMxdmNBOVBmRmJyLUN6dnJvZ00tYWJmLWdKYkQ3aFBJRkRxVkxlcUtSZFlkdHdmSUpnY0M5X0djM2d4ak0tSkNtUG5iY3FsN2RoSDctV0VmcUx3Vm00d0ZmeTBKcURGZjA4QVVsdQ?oc=5",
+   "summary": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:30:00+09:00"
+  },
+  {
    "title": "｢自分より立場が弱い相手にイライラをぶつける人｣と｢すぐに自分の足りないところを責める人｣の根底に共通する悪癖 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954069?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "怒りや悲しみなどのネガティブ感情は､抑えこむほど心を蝕み､周囲や自分自身を傷つけてしまうもの。しかし､それらを1人の場でしっかり出し切ることで初めて本当の気持ちや心の変化が訪れます。",
@@ -623,6 +711,22 @@
    "published": "2026-08-18T09:30:00+09:00"
   },
   {
+   "title": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1gtTWlCN21XLXpvRExoZVhhOU9VdVRZSHdTSnlWWDkySFdyVE9PemN1OGNUaERfS1FkZzNPRWNnZFIzbld3azZoTkU1THFDYUpKaktpd25oTHlzU1p1TVJGVHBGbnNuTXdERnhYeTVfMWN4WUEtTHgxX2RvbjE1V09n?oc=5",
+   "summary": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:10:00+09:00"
+  },
+  {
+   "title": "長期金利が2.945％に上昇、約30年ぶり高水準更新 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkxBRlFTd29kdFQ1VVRfN081UDBTV0NmYXNxWTFQeExtR0ZHN09NMFNCVmRhZHQtOUlvQnBXMUZ0T0d3R1JVV2VEZVpNQVUxc3huQUdIanF2NUcxUE1RTmtzQXc1RTFFbWtDVHRRRnRKNW5pZFZIeDVsUTNZTC1uQw?oc=5",
+   "summary": "長期金利が2.945％に上昇、約30年ぶり高水準更新&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:04:00+09:00"
+  },
+  {
    "title": "食物連鎖の頂点に立つ人間が｢肉食動物を食べない｣3つの理由《ライオンの肉》の飼育コストは100gあたり2万円!  | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953241?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "動物界の食物連鎖の頂点に立つ人間が､なぜライオンやトラなどの肉食動物をほとんど食べないのか。不思議に思ったことはありませんか？安全面､味､生産コスト——理由は意外にも多岐にわたります。私たちが普段口…",
@@ -637,6 +741,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-18T08:30:00+09:00"
+  },
+  {
+   "title": "中国首相、外需安定化と国際貿易協力拡大を指示 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWLUhVelVxOXA2TUdzODdrWUYzWFh5bHFOTGg5b0JhRHA2cnhXTXJOYzZXc3FhZGxDTmVmdkx2al9pdVlpTk01anBPSnRnTWtabnlObjUwV0Q2NVJ0TWppLUdpYzR2NGJVLXB3X1N2WU5jR3lBbzRLS3pESlVGZw?oc=5",
+   "summary": "中国首相、外需安定化と国際貿易協力拡大を指示&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T08:25:43+09:00"
   },
   {
    "title": "なぜ｢ゆで太郎｣のそばは37センチ？　22年黒字のチェーン店が\"そば屋の世界でも話題にならない麺の長さ\"にこだわる訳 | ライフ | 東洋経済オンライン",
@@ -689,16 +801,6 @@
    "published": "2026-08-18T07:00:00+09:00"
   },
   {
-   "title": "「これは両刃の剣です」: 私の夫は 42,000 ドルのボーナスを受け取りました。それは私たちの医療費負担適正化法の補助金を消滅させることになるでしょうか？",
-   "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-   "summary": "「ボーナスを返還して住宅ローンを組むよう勧められました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-18T06:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
-  },
-  {
    "title": "AIが変える仕事の質　米ベストセラー著者が示す磨くべき人間の力",
    "link": "https://www.asahi.com/articles/ASV8H26F2V8HUHBI00FM.html?ref=rss",
    "summary": "",
@@ -729,6 +831,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-18T05:30:00+09:00"
+  },
+  {
+   "title": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXlOV2dycjlZU2MxMGZXa3VRUDhhNm1WQzJiOGNNbFowTEJ1WVEySkRBX0JVRW4wQnFJWlVocDZERGVnV1dFWXM0SU9feVBxWnRTTDhDOE9mVkdzeTVXdWdYX1diY1loMDVmUExmNzlwZEtsSHBscnVQN0tDVUQyeQ?oc=5",
+   "summary": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T04:53:49+09:00"
   },
   {
    "title": "正午に最も大きく値動きした銘柄: EyePoint、Intuitive Machines、Workday、JetBlue など",
