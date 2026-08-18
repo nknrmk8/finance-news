@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T02:49:38.360401+09:00",
+ "generated_at": "2026-08-19T03:18:06.961683+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,16 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "米国株先物下落、世界的な債券暴落が深刻化",
+   "link": "https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d?mod=rss_markets_main",
+   "summary": "中東での緊張が再燃する中、ナスダック100先物は下落し、米国株は下値で始まる見通しとなった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T03:06:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stock Futures Drop and the Global Bond Rout Deepens"
+  },
   {
    "title": "コメックスゴールドは1.17%安の4366.00ドルで決済",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0?mod=rss_markets_main",
@@ -147,16 +157,6 @@
    "published": "2026-08-19T01:45:00+09:00",
    "lang": "en",
    "title_orig": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back."
-  },
-  {
-   "title": "米国株先物下落、世界的な債券暴落が深刻化",
-   "link": "https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d?mod=rss_markets_main",
-   "summary": "中東での緊張が再燃する中、ナスダック100先物は下落し、米国株は下値で始まる見通しとなった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T01:39:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stock Futures Drop and the Global Bond Rout Deepens"
   },
   {
    "title": "ザポリージャ原発のバス停にドローン攻撃、1人死亡 運営側はウを非難 - ロイター",
@@ -719,14 +719,6 @@
    "published": "2026-08-18T11:30:00+09:00"
   },
   {
-   "title": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbW14NmRaQlVFOHdzZzZETERKRjJFNUFaZWE4d0ozOUJXVFdqMGxkcFlnUER1WldZa2ptSVQ2ZVQwYnU3bmxCcC1SMjk4V3YzNVV6T0oxQ1JLYWJxZUp6ZGF0dVRNckRLWGs1Z3c5S3JwRmtHcjlselRWcnRQYWtJZg?oc=5",
-   "summary": "米ＡＩ新興ウィスパー・フロー、評価額20億ドルに 9カ月で3倍弱&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T11:18:00+09:00"
-  },
-  {
    "title": "法務省｢全身入れ墨ポスター｣に抱いた嫌悪感の正体…『ラヴ上等』とコラボも\"見た目の説得力\"が一瞬で牙をむいたワケ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955085?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "法務省とNetflix｢ラヴ上等｣の異色のコラボポスターは､圧倒的なビジュアルで注目を集めた一方､｢犯罪を美化している｣と批判が殺到し大炎上。強いインパクトを狙ったアプローチはなぜ逆効果となったのか…",
@@ -885,6 +877,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-18T05:30:00+09:00"
+  },
+  {
+   "title": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXlOV2dycjlZU2MxMGZXa3VRUDhhNm1WQzJiOGNNbFowTEJ1WVEySkRBX0JVRW4wQnFJWlVocDZERGVnV1dFWXM0SU9feVBxWnRTTDhDOE9mVkdzeTVXdWdYX1diY1loMDVmUExmNzlwZEtsSHBscnVQN0tDVUQyeQ?oc=5",
+   "summary": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T04:53:49+09:00"
   },
   {
    "title": "正午に最も大きく値動きした銘柄: EyePoint、Intuitive Machines、Workday、JetBlue など",
