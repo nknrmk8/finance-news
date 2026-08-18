@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T01:16:23.322171+09:00",
+ "generated_at": "2026-08-19T01:53:54.622645+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -67,6 +67,116 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-19T02:00:00+09:00"
+  },
+  {
+   "title": "カルシは従来の取引所の縄張りに進出し、株価指数に「監視役」を立ち上げようとしている",
+   "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
+   "summary": "規制当局への提出書類によると、同社はMerQube米国大型株指数に連動する「US500」特典の立ち上げを目指しているという。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-19T01:49:55+09:00",
+   "lang": "en",
+   "title_orig": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf"
+  },
+  {
+   "title": "分析：ウォール街がウォーシュ氏を待つ中、債券市場の圧力がメインストリートを圧迫している",
+   "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+   "summary": "長期国債の下落で借入コストが上昇し、債務、AI支出、エネルギーがいかに債券市場を政治的利益に変えているかを明らかにしている",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-19T01:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh"
+  },
+  {
+   "title": "ウォール街はスポーツ賭博をETFに変えたいと考えている。批評家はそれを危険な「ナンセンス」と呼んでいます。",
+   "link": "https://www.marketwatch.com/story/wall-street-wants-to-turn-sports-betting-into-etfs-critics-call-it-dangerous-nonsense-a83db946?mod=mw_rss_topstories",
+   "summary": "投資、トレーディング、スポーツ賭博の融合により、32 の新しい取引所取引から、腕に当たる大きなシュート、またはゴールにシュートが打たれる可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-19T01:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Wall Street wants to turn sports betting into ETFs. Critics call it dangerous ‘nonsense.’"
+  },
+  {
+   "title": "AIチップ株は高騰していた。マイクロンなどが現在撤退している理由はここにある。",
+   "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
+   "summary": "アナリストらは、高い期待、米国債利回りの上昇に対する懸念、そしてアンスロピックの財務進捗を巡る失望の可能性を指摘している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-19T01:45:00+09:00",
+   "lang": "en",
+   "title_orig": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back."
+  },
+  {
+   "title": "米国株先物下落、世界的な債券暴落が深刻化",
+   "link": "https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d?mod=rss_markets_main",
+   "summary": "中東での緊張が再燃する中、ナスダック100先物は下落し、米国株は下値で始まる見通しとなった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T01:39:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stock Futures Drop and the Global Bond Rout Deepens"
+  },
+  {
+   "title": "SECがベストプライスルールを撤廃する計画を投資家が非難",
+   "link": "https://www.wsj.com/finance/regulation/investors-slam-sec-plan-to-remove-best-price-rule-8f2c1cc3?mod=rss_markets_main",
+   "summary": "数十年にわたる保護を廃止するという提案は、ウォール街や個人から批判を集めている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T01:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Investors Slam SEC Plan to Remove Best-Price Rule"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-51b3510f?mod=rss_markets_main",
+   "summary": "金融サービスをカバーする最新のマーケット トークで、ナショナル オーストラリア銀行、アビバ、エイゴンなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T01:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "インフレとAI発行への懸念で世界的な債券下落が深刻化",
+   "link": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
+   "summary": "政府の長期借入コストが数十年ぶりの高水準に",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-19T01:27:16+09:00",
+   "lang": "en",
+   "title_orig": "Global bond sell-off deepens amid fears over inflation and AI issuance"
+  },
+  {
+   "title": "ステート・ファームの 50 億ドルのキャッシュバック配当を手に入れることができますか?確認方法は次のとおりです。",
+   "link": "https://www.marketwatch.com/story/can-you-get-a-piece-of-state-farms-5-billion-cash-back-dividend-heres-how-to-check-027d1c21?mod=mw_rss_topstories",
+   "summary": "2025 年にあなたの車がステート ファームの保険に加入していた場合、あなたは幸運です。保険大手から配当金を受け取る資格がある可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-19T01:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check."
+  },
+  {
+   "title": "イスラエルによるシリア空軍基地攻撃、米国とトルコが批判",
+   "link": "https://www.ft.com/content/90c16b57-5ea6-4cce-b4d5-5f537a79da47?syn-25a6b1a6=1",
+   "summary": "軍事施設への爆撃は「不必要なエスカレーション」であり、ダマスカス政権をめぐる地域の緊張を浮き彫りにしている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-19T01:20:52+09:00",
+   "lang": "en",
+   "title_orig": "Israeli strikes on Syrian air base criticised by US and Turkey"
+  },
+  {
+   "title": "ディズニー、ABCライセンス審査「報復」を巡りトランプ政権を提訴",
+   "link": "https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc?syn-25a6b1a6=1",
+   "summary": "米国の大手メディア、連邦通信委員会が自社の放送を「承認しない」ため取り締まりを行っていると非難",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-19T01:12:26+09:00",
+   "lang": "en",
+   "title_orig": "Disney sues Trump administration over ‘retaliatory’ ABC licence review"
   },
   {
    "title": "ギャンブルはどこにでもあります。ファイナンシャル・アドバイザーは顧客の行き過ぎをどのように防いでいるでしょうか?",
@@ -145,26 +255,6 @@
    "title_orig": "6% Treasury yields are the biggest risk facing stocks right now. Here’s why."
   },
   {
-   "title": "私の息子は働いていませんが、医療費負担適正化法の健康保険に 500 ドルを払っています。それは公平ですか？",
-   "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-   "summary": "「多額のお金を持っているにもかかわらず、課税所得がほとんど、またはまったくない人でも、ACA マーケットプレイスの補助金を受ける資格がある人を見かけます。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-19T00:15:00+09:00",
-   "lang": "en",
-   "title_orig": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
-  },
-  {
-   "title": "私は 63 歳で、120 万ドルの 401(k) を持つ退職公認会計士です。わざわざRoth変換する必要があるでしょうか？",
-   "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-   "summary": "「将来的に限界税率が大幅に変わるとは考えていません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-19T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
-  },
-  {
    "title": "米国の天然ガス、レンジ内取引でじりじりと上昇",
    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-edges-up-in-range-bound-trade-ef2a1d58?mod=rss_markets_main",
    "summary": "米国の天然ガス先物相場は、夏の暑さによる需要が高騰によって相殺され、ある日は下落し、次の日には上昇するという最近のレンジ内パターンを継続した。",
@@ -175,42 +265,12 @@
    "title_orig": "U.S. Natural Gas Edges Up in Range-Bound Trade"
   },
   {
-   "title": "「これはとてもストレスです」: 嵐で息子の屋根が損傷しましたが、保険金は支払われません。彼はどうやってこれと戦うことができるでしょうか？",
-   "link": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
-   "summary": "「彼らは、屋根を完全に交換する必要があると言っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-18T23:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. How can he fight this?"
-  },
-  {
    "title": "ザポリージャ原発のバス停でドローン爆発、死傷者16人＝ＩＡＥＡ - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0FWNGEta0pneXZRTUQwLUcxZ0F6UmljUkVzOEpVTFNUVjJ0SDR1MFNIRURvQWJZVzlJczVnWUVFb1NtQkRpUzNiTUZyeU5OZGJEc2s5N3RLVE5uQXF1M0dmTm9keDVfMVNiTUVFWG4yS0RVZHJCRlBaQXJIQzRZag?oc=5",
    "summary": "ザポリージャ原発のバス停でドローン爆発、死傷者16人＝ＩＡＥＡ&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-18T23:28:09+09:00"
-  },
-  {
-   "title": "カルシは従来の取引所の縄張りに進出し、株価指数に「監視役」を立ち上げようとしている",
-   "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-   "summary": "規制当局への提出書類によると、同社はMerQube米国大型株指数に連動する「US500」特典の立ち上げを目指しているという。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-18T23:22:10+09:00",
-   "lang": "en",
-   "title_orig": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf"
-  },
-  {
-   "title": "ディズニー、ABCライセンス審査「報復」を巡りトランプ政権を提訴",
-   "link": "https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc?syn-25a6b1a6=1",
-   "summary": "米国の大手メディア、連邦通信委員会が自社の放送を「承認しない」ため取り締まりを行っていると非難",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-18T23:20:16+09:00",
-   "lang": "en",
-   "title_orig": "Disney sues Trump administration over ‘retaliatory’ ABC licence review"
   },
   {
    "title": "公的債務懸念の中、国債利回りは上昇を続ける",
@@ -231,34 +291,6 @@
    "published": "2026-08-18T22:49:52+09:00"
   },
   {
-   "title": "米国株先物下落、世界的な債券暴落が深刻化",
-   "link": "https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d?mod=rss_markets_main",
-   "summary": "中東での緊張が再燃する中、ナスダック100先物は下落し、米国株は下値で始まる見通しとなった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-18T22:49:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stock Futures Drop and the Global Bond Rout Deepens"
-  },
-  {
-   "title": "米一戸建て住宅着工、7月は9.9％減 金利高と売れ残り在庫が重し - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1kwclpqM2t6R2VYS25kekRXeHVHYzhHbWxBYVBLeWh2aGw1OFc1ZmZkY1kxVVdSX1JXaDVwWENVWU81ZmRjeFpoODZQc1FsOVBONlI3N1Bsd011YXE1QlZ1MnhBRVFWVHZ2Wktaakg5Vkk3bURFeU15ZGlNOWNXZg?oc=5",
-   "summary": "米一戸建て住宅着工、7月は9.9％減 金利高と売れ残り在庫が重し&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T22:46:10+09:00"
-  },
-  {
-   "title": "インフレとAI発行への懸念で世界的な債券下落が深刻化",
-   "link": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
-   "summary": "政府の長期借入コストが数十年ぶりの高水準に",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-18T22:32:33+09:00",
-   "lang": "en",
-   "title_orig": "Global bond sell-off deepens amid fears over inflation and AI issuance"
-  },
-  {
    "title": "ベストファイナンシャルアドバイザー会社10社：検討すべき有名な受託投資会社",
    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
    "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
@@ -277,16 +309,6 @@
    "published": "2026-08-18T21:58:00+09:00",
    "lang": "en",
    "title_orig": "Goldman Sachs to Buy Real-Estate Investment Firm for Up to $410 Million"
-  },
-  {
-   "title": "7月の米国輸入価格は下落",
-   "link": "https://www.wsj.com/economy/trade/u-s-import-prices-fell-in-july-3096ca98?mod=rss_markets_main",
-   "summary": "労働統計局のデータによると、7月の米国の輸入価格は燃料輸入価格の低下により下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-18T21:53:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Import Prices Fell in July"
   },
   {
    "title": "〈AI収益化の勝者はどこか？〉長期的に収益を生み出す企業の選別へ､｢ハイパースケーラーが優位｣との見方 | 政治・経済・投資 | 東洋経済オンライン",
@@ -439,16 +461,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-18T19:46:38+09:00"
-  },
-  {
-   "title": "ファンドマネージャーらは金は過小評価されているとBofAの調査で指摘",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0?mod=rss_markets_main",
-   "summary": "金は過小評価されていると考えるファンドマネジャーが増え、金価格はさらに下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-18T19:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Fund Managers Say Gold Is Undervalued, BofA Survey Says"
   },
   {
    "title": "ロシア、ウクライナによる英国製無人機使用の「結果」について英国に警告",
@@ -639,16 +651,6 @@
    "published": "2026-08-18T13:00:23+09:00",
    "lang": "en",
    "title_orig": "Trump ballroom official held quiet Kremlin talks"
-  },
-  {
-   "title": "AIはまだ暴走していません。それよりも悪いです",
-   "link": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1",
-   "summary": "最近のサイバー攻撃は、そのように訓練されたテクノロジーを反映していますが、安全対策は不十分です",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-18T13:00:14+09:00",
-   "lang": "en",
-   "title_orig": "AI hasn’t gone rogue. It’s worse than that"
   },
   {
    "title": "｢オールドニュータウン｣をローソンが再生へ､KDDIの通信技術と宅配ロボまで投入する新型店舗の勝算 | ビジネス | 東洋経済オンライン",
@@ -885,6 +887,14 @@
    "published": "2026-08-18T05:30:00+09:00"
   },
   {
+   "title": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXlOV2dycjlZU2MxMGZXa3VRUDhhNm1WQzJiOGNNbFowTEJ1WVEySkRBX0JVRW4wQnFJWlVocDZERGVnV1dFWXM0SU9feVBxWnRTTDhDOE9mVkdzeTVXdWdYX1diY1loMDVmUExmNzlwZEtsSHBscnVQN0tDVUQyeQ?oc=5",
+   "summary": "ＦＲＢ政策金利は緩和的な可能性、中期中立金利で判断なら＝ＳＦ連銀調査&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T04:53:49+09:00"
+  },
+  {
    "title": "正午に最も大きく値動きした銘柄: EyePoint、Intuitive Machines、Workday、JetBlue など",
    "link": "https://www.cnbc.com/2026/08/17/stocks-making-big-moves-midday-eypt-lunr-wday-jblu.html",
    "summary": "これらは、正午に最大の値動きを記録した銘柄の一部です。",
@@ -913,16 +923,6 @@
    "published": "2026-08-18T02:43:40+09:00",
    "lang": "en",
    "title_orig": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails"
-  },
-  {
-   "title": "市場前に大きな動きをする銘柄: アリババ、インテル、サンディスクなど",
-   "link": "https://www.cnbc.com/2026/08/17/stocks-making-the-biggest-moves-premarket-baba-intc-sndk.html",
-   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-17T20:37:29+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年８月５日）について掲載しました。",
