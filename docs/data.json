@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T08:56:56.657826+09:00",
+ "generated_at": "2026-08-19T09:47:55.934917+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,100 @@
  "errors": [],
  "items": [
   {
+   "title": "FRB利上げ期待と現物需要の緩和で金が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-easing-fed-rate-hike-hopes-physical-demand-36cdf532?mod=rss_markets_main",
+   "summary": "金は序盤のアジア取引で上昇し、火曜日の世界的な債券暴落によって生じた損失の一部を取り戻した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T09:40:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Gains on Easing Fed Rate Hike Hopes, Physical Demand"
+  },
+  {
+   "title": "日経平均 一時2000円超の値下がり",
+   "link": "https://news.yahoo.co.jp/pickup/6592250?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-19T09:31:52+09:00"
+  },
+  {
+   "title": "｢Pixel｣が世界シェア1％しかないのに､モノ売りより\"AI体験\"に懸けることにした《グーグル･表参道新旗艦店》の目論見 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954631?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "2026年8月､東京･表参道にグーグル初の米国外旗艦店｢Google Store 表参道｣が誕生しました。スマホだけでなく最先端AI体験を重視した新店舗の狙いとは？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T09:30:00+09:00"
+  },
+  {
+   "title": "国債金利情報(令和8年8月18日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-19T09:30:00+09:00"
+  },
+  {
+   "title": "供給混乱に対する懸念が高まる中、原油高",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-concerns-over-supply-disruptions-c33bffbd?mod=rss_markets_main",
+   "summary": "供給混乱に対する懸念が高まる中、アジア序盤の貿易では原油が上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T09:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Rises Amid Growing Concerns Over Supply Disruptions"
+  },
+  {
+   "title": "日経平均株価が2.7％下落、ウォール街の損失に追随",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-7-tracking-wall-streets-losses-d41cfee3?mod=rss_markets_main",
+   "summary": "日本株は序盤の取引で下落し、世界的な債券下落で長期利回りが各国の国債に下落する中、一夜にしてウォール街の損失を追随した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T09:23:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 2.7%, Tracking Wall Street’s Losses"
+  },
+  {
+   "title": "【アジアで2番目の規模】韓国KT SATが7000機衛星コンステ申請､日本の巨大衛星コンステ構想にライバル出現か？ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955215?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "韓国のKT SATが国際電気通信連合に7000機規模の通信衛星網を申請し､アジアでも屈指の壮大な計画を発表しました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T09:15:00+09:00"
+  },
+  {
+   "title": "【東大入試で見えた｢かなり優秀な人｣の限界】｢ただ分析できる人｣と｢自分で決断できる人｣を分ける\"思考の決定的差\" | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "東大入試の｢予想問題｣と｢合格･不合格の解答例｣から､AI時代に一生武器となる｢思考法｣を読み解きます。あなたは大丈夫？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T09:01:00+09:00"
+  },
+  {
+   "title": "【AI→｢高偏差値の価値｣は大暴落】｢正解を早く出せる人｣はもう評価されない…企業と大学が求める｢頭のいい人｣の新基準 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953538?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "生成AIが瞬時に正解を出す時代､人間に求められる｢本当の頭のよさ｣とは何か？ その答えとなる｢一生食える地頭力｣の正体に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-19T09:00:00+09:00"
+  },
+  {
+   "title": "セレブラス株はIPO後に暴落した。その復活はこの新しいチップにかかっています。",
+   "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+   "summary": "セレブラスは、AIエージェントがさらに普及するにつれて、自社の特殊チップが従来のグラフィックス処理装置を上回るだろうと賭けている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-19T09:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip."
+  },
+  {
    "title": "中国の酒類メーカー茅台酒社の不振が中国経済について語ること",
    "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
    "summary": "貴州茅台の上半期報告書では、史上初の年間減益に続き、純利益がまれに減少したことが示された。",
    "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-08-19T08:50:40+09:00",
+   "published": "2026-08-19T08:58:09+09:00",
    "lang": "en",
    "title_orig": "What Chinese liquor maker Moutai's slump says about the country's economy"
   },
@@ -397,38 +485,6 @@
    "published": "2026-08-19T06:00:00+09:00"
   },
   {
-   "title": "東大｢老化細胞の除去効果を確認｣の論文を阪大などの研究者グループが検証したところ効果認められず／検証研究の意義とメディアに投げかけられた課題 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954877?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "老化細胞を除去し若返りをかなえる｢夢の薬｣につながる実験結果をめぐって意見が対立。研究論文が世界で注目を集める一方､後続の検証では再現性に疑問符が付いた。果たして若返り医学の未来は本物なのか？　報道…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-19T06:00:00+09:00"
-  },
-  {
-   "title": "信頼される｢CSR企業ランキング｣トップ500…5位は三井物産4位はNTTドコモ､ではトップ3は？ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954765?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "企業の社会的責任（CSR）と財務健全性を総合的に評価する｢CSR企業ランキング｣が､ついに第20回を迎え､2026年版として上位500社が発表されました。人材活用や環境､社会貢献など多角的な視点から…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-19T06:00:00+09:00"
-  },
-  {
-   "title": "そりゃ｢大学の数学｣でつまずくわ､高校まで問題なかったのに…\"暗記\"と\"理解\"に大きなカベ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954581?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "大学に入ってつまずきやすい教科の代表に｢数学｣がある。いったんわからなくなると､どんどんわからなくなる……理系はもちろん､経済学部など数学が必要な文系学部でも数学に苦労する学生は少なくありません。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-19T06:00:00+09:00"
-  },
-  {
-   "title": "｢EVは長距離に不向き｣という常識は本当か？ レクサス｢RZ｣で350km走って見えたGTカーとしてのリアルな実力 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954417?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "高い走行性能と先進技術を兼ね備えたレクサス｢RZ550e \"F SPORT\"｣は､EVならではの静粛性や滑らかさ､ステアバイワイヤシステムによる俊敏な操舵応答性が魅力。まだまだ不安があるEVですが､…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-19T06:00:00+09:00"
-  },
-  {
    "title": "1年分のAI予算をわずか数カ月で“使い倒した”米Uber　CTOが気付いた「脱・トークン浪費」の方法",
    "link": "https://www.itmedia.co.jp/business/articles/2608/19/news032.html",
    "summary": "配車サービス大手の米Uberは、AI技術に割り当てた2026年の予算を年初からわずか数カ月で使い果たしたことを受け、AIへの支出問題を解決する方法を見つけたと考えている。",
@@ -475,36 +531,6 @@
    "title_orig": "Hidden Valley Ranch dressing may be a victim of this summer’s salad scare"
   },
   {
-   "title": "債券利回りが10年ぶりの高水準に達し、米国ハイテク株が下落。イラン休戦期限切れ",
-   "link": "https://www.wsj.com/finance/stocks/u-s-tech-stocks-slip-as-bond-yields-hit-decade-highs-iran-truce-expires-122be523?mod=rss_markets_main",
-   "summary": "世界的な債券下落で長期利回りがここ数年で最高水準に達し、米国株は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T05:46:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires"
-  },
-  {
-   "title": "債券は打撃を受け、ウォール街は敗走はすぐには終わらないと言っている",
-   "link": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8?mod=rss_markets_main",
-   "summary": "30年米国債の利回りは19年ぶりの高水準にあり、投資家は債券市場に新時代が到来すると予測している。そしてそれは2007年によく似ています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T05:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Bonds Are Getting Hammered, and Wall Street Says the Rout Won’t End Anytime Soon"
-  },
-  {
-   "title": "アルツハイマー病と診断されてからでも、家計を整えるのに遅くはない",
-   "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
-   "summary": "記憶喪失の初期段階で慎重に計画を立てることで、後に経済的および財産計画で悩まされることを防ぐことができます。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-19T05:44:00+09:00",
-   "lang": "en",
-   "title_orig": "After an Alzheimer’s diagnosis it’s not to late to get your finances in order"
-  },
-  {
    "title": "インフレとAI発行への懸念で世界的な債券下落が深刻化",
    "link": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
    "summary": "政府の長期借入コストが数十年ぶりの高水準に",
@@ -513,16 +539,6 @@
    "published": "2026-08-19T05:36:25+09:00",
    "lang": "en",
    "title_orig": "Global bond sell-off deepens amid fears over inflation and AI issuance"
-  },
-  {
-   "title": "債券暴落でハイテク株が下落",
-   "link": "https://www.wsj.com/finance/investing/bond-rout-sends-tech-stocks-lower-f8b4c8f6?mod=rss_markets_main",
-   "summary": "",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T05:22:00+09:00",
-   "lang": "en",
-   "title_orig": "Bond Rout Sends Tech Stocks Lower"
   },
   {
    "title": "短パン勤務、企業でじわり浸透　清潔感に配慮、除毛クリーム提供も",
@@ -729,14 +745,6 @@
    "published": "2026-08-18T19:00:00+09:00"
   },
   {
-   "title": "大型クロマグロ 漁獲枠25%拡大",
-   "link": "https://news.yahoo.co.jp/pickup/6592194?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-18T18:00:55+09:00"
-  },
-  {
    "title": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05RnVxWnQ1eDVKS28xZGFHTEkwTnBEaWZzdWZoY3QzdUVCeTlhdFdvZ2dnQjBWeUlyTXJKTWx4RmZNcjF0eWJRSUhLaHh3T1BWM1ZoR1dLckd0U2d4VTN2Q0FRLWlpcy03VUVpaVBvYWdkZ1dsZTlXag?oc=5",
    "summary": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋&nbsp;&nbsp;ロイター",
@@ -825,14 +833,6 @@
    "published": "2026-08-18T14:14:00+09:00"
   },
   {
-   "title": "コラム：インフレ抑制に利上げ不可避のＦＲＢ、資産縮小とＡＩの生産性向上は効果薄 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lTFc4SS1RSENSYTRTc2JEOEM0R0JWaGF1ZUVjdmZjcVpaa2IySFl1V1cxWk8wVXI2SkJERGxLRTNlS2ZzVi16SzA2T0h6U3BnOEdCcVNEd2V6VDNRS3VXRzN1NkZDRXMyM19PTklSby1nRVo4YVVYVw?oc=5",
-   "summary": "コラム：インフレ抑制に利上げ不可避のＦＲＢ、資産縮小とＡＩの生産性向上は効果薄&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T13:18:00+09:00"
-  },
-  {
    "title": "5年利付国債（第187回）の入札結果（令和8年8月18日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260818.htm",
    "summary": "",
@@ -915,12 +915,12 @@
    "published": "2026-08-18T09:30:00+09:00"
   },
   {
-   "title": "国債金利情報(令和8年8月17日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-18T09:30:00+09:00"
+   "title": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1gtTWlCN21XLXpvRExoZVhhOU9VdVRZSHdTSnlWWDkySFdyVE9PemN1OGNUaERfS1FkZzNPRWNnZFIzbld3azZoTkU1THFDYUpKaktpd25oTHlzU1p1TVJGVHBGbnNuTXdERnhYeTVfMWN4WUEtTHgxX2RvbjE1V09n?oc=5",
+   "summary": "イラクのクルド人自治区首相府にドローン攻撃、死傷者なし&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:10:00+09:00"
   },
   {
    "title": "百貨店の苦境が鮮明に　58社中49社が減収、地方では「空白県」が拡大",
