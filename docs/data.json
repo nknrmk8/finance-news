@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T06:02:05.913452+09:00",
+ "generated_at": "2026-08-20T06:36:33.780060+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,176 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "スピリット客室乗務員、Google の AI データ入札と戦う",
+   "link": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049?mod=rss_markets_main",
+   "summary": "客室乗務員は、自分たちの機密情報が、消滅した航空会社のデジタル記録の販売から削除されるという保証を求めています。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-20T06:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Spirit Flight Attendants Fight Google’s Data Bid for AI"
+  },
+  {
+   "title": "ハドソン川は市場の混乱に乗じて114億ドルの取引利益を計上",
+   "link": "https://www.ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1",
+   "summary": "ウォール街の企業、AI株の変動とイラン戦争によるボラティリティーの恩恵を受ける",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-20T06:26:40+09:00",
+   "lang": "en",
+   "title_orig": "Hudson River posts $11.4bn trading windfall as it seizes on market tumult"
+  },
+  {
+   "title": "Google チップ取引のニュースでマーベルの株が急上昇、そしてブロードコムの株価は下落",
+   "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+   "summary": "グーグルはまた、約120億ドル相当のマーベル株を購入するオプションも得る。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-20T06:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls"
+  },
+  {
+   "title": "WSJドル指数は0.76％下落して95.34",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-worsening-risk-appetite-52a13036?mod=rss_markets_main",
+   "summary": "WSJドル指数は0.8％下落し、過去4営業日中3営業日下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-20T06:21:00+09:00",
+   "lang": "en",
+   "title_orig": "WSJ Dollar Index Falls 0.76% to 95.34"
+  },
+  {
+   "title": "米国債市場の新たな静けさが9月に崩れる可能性がある理由",
+   "link": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
+   "summary": "米国債市場にとって過酷な夏の期間は、世界最大手の企業の多くが国債の放出を計画している9月に向けてさらに悪化するリスクがある",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-20T06:10:00+09:00",
+   "lang": "en",
+   "title_orig": "Why the Treasury market’s newfound calm could break down in September"
+  },
+  {
+   "title": "マーク・ウォルター捜査が投資家の不安を煽り、今週カルバナ株は圧力にさらされている",
+   "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+   "summary": "この精査により、捜査の余波でウォルター氏に資金調達の圧力がかかった場合、ウォルター氏のカルバナの立場はどうなるのかという疑問が生じた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-20T06:05:31+09:00",
+   "lang": "en",
+   "title_orig": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters"
+  },
+  {
+   "title": "製薬会社 M&A の鍵: 決して買い物に飢えないでください",
+   "link": "https://www.wsj.com/health/pharma/the-key-to-pharma-m-a-never-shopping-hungry-34f55ff3?mod=rss_markets_main",
+   "summary": "製薬会社のトップは、期限切れの大ヒット商品に代わる新薬を常に探しています。しかし、お腹を空かせて買い物をすると、高額な失敗を招く可能性があります。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-20T06:05:00+09:00",
+   "lang": "en",
+   "title_orig": "The Key to Pharma M&A: Never Shopping Hungry"
+  },
+  {
+   "title": "ベッセント氏、アメリカの債券トレーダーの最高責任者としての役割に傾く",
+   "link": "https://www.wsj.com/finance/investing/bessent-leans-into-his-role-as-americas-bond-trader-in-chief-633f28a4?mod=rss_markets_main",
+   "summary": "財務省は利回りが約20年ぶりの高水準に達したことを受け、介入の用意があることを示唆している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-20T06:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Bessent Leans Into His Role as America’s Bond Trader in Chief"
+  },
+  {
+   "title": "ＮＹ外為市場＝ドル下落、米財務省の債券オペ拡大で ユーロ2カ月半ぶり高値 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tVHNVazR0MFpnT29ic3JRX3BYWUhfTlhqbGZKYWJ3dzVPWTlOOU9nWmpib3hmVG1ET2NSOG1Qb3BQdU43ZXZDWVNEWENYSXFvcWk5NEtfSE9IUGF0Q3ZuWU8tSGM5Y0l4QmI2ZzBYYzJCU3IyVmpBTQ?oc=5",
+   "summary": "ＮＹ外為市場＝ドル下落、米財務省の債券オペ拡大で ユーロ2カ月半ぶり高値&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-20T06:02:44+09:00"
+  },
+  {
+   "title": "「東京都の主張は的外れ」島根県知事、自治体の税収格差めぐり反論",
+   "link": "https://www.asahi.com/articles/ASV873K7JV87PLFA005M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "「家賃考えても都内の方が安いのでは…」自治体サービス、税収で格差",
+   "link": "https://www.asahi.com/articles/ASV8G21LVV8GULFA003M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "「年収200万円下がったよう」都内→千葉に転居し女性が感じた格差",
+   "link": "https://www.asahi.com/articles/ASV8G2D13V8GULFA027M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "東京に集まりすぎた税収、是正は「対症療法」　背景に企業の効率化",
+   "link": "https://www.asahi.com/articles/ASV8G2HBFV8GULFA02MM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "中国AI、どうすごい？　性能や米国との違いなど、識者が詳しく解説",
+   "link": "https://www.asahi.com/articles/ASV8M3T7ZV8MUHBI00BM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "残業一律抑制見直し、「働き方改革」逆行の懸念も　経済界の要望だが",
+   "link": "https://www.asahi.com/articles/ASV8M42BYV8MULFA020M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "再び長期金利2.9%…年金マネーに国債を買わせる〈財政難の国家あるある〉を目論むのなら知っておくべき歴史の教訓 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955192?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "急速に進む財政拡大とインフレへの警戒感の中､日本の長期金利が約30年ぶりに高水準へ。政府は年金基金GPIFを活用した金利抑制策に言及していますが､その運用は受益者の将来にどう影響するのでしょうか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "32歳社員｢8分で転職先への手土産を入手｣､\"数億円\"注ぎ込んだ独自技術が競合に奪われ､発覚は半年後…内部不正の恐怖 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953865?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "情報漏洩と聞くと外部からのサイバー攻撃を想像しがちですが､実は多くが社内の｢内部不正｣によるもの。退職者による\"手土産転職\"や不注意からの情報流出など､起こりうる重大リスクの実態と備えるべき対応策と…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "【渋谷教育学園幕張高校】時代を刻んだ卒業生ファイル#5《水卜麻美アナ､タレントの高橋成美､田中マルクス闘莉王…》 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953583?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "東京湾に面した千葉市美浜区の｢渋幕｣こと渋谷教育学園幕張中学校･高校。開校から40年余りですが､文武両道の卒業生が各界で活躍しています。なぜこれほど多様な人材が育つのか､その秘密に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-20T06:00:00+09:00"
+  },
+  {
+   "title": "「オープンハウスにスーパーボウルのリングを持って行きました」：シーホークスの選手が不動産ライセンス取得の経緯を語る",
+   "link": "https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories",
+   "summary": "シアトル・シーホークスのモントリー・フォスター・ジュニアは、スーパーボウルのチャンピオンになる前に不動産ライセンスを取得した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-20T06:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I brought my Super Bowl ring to the open houses’: Seahawks player shares story of getting his real-estate license"
+  },
   {
    "title": "財務省の買い戻しで債券利回りが落ち着き、米国株は上昇。モデルナ・サージス",
    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-gain-as-treasury-buybacks-calm-bond-yields-moderna-surges-402249fb?mod=rss_markets_main",
@@ -211,16 +381,6 @@
    "title_orig": "Hidden Valley Ranch dressing may be a victim of this summer’s salad scare"
   },
   {
-   "title": "お子様の大学の学費を Venmo で賄えるようになりました。しかし、そうすべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
-   "summary": "消費者が柔軟な支出オプションを求める中、一部の大学は非伝統的な支払い方法を受け入れ始めるだろう。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T05:04:00+09:00",
-   "lang": "en",
-   "title_orig": "You can now Venmo your kid’s college tuition. But should you?"
-  },
-  {
    "title": "｢平均年収が高い｣企業ランキング近畿圏トップ500…3位は朝日放送グループHD､2位は伊藤忠商事､では1位は？ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955284?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "近畿2府4県の上場企業を対象にした｢平均年収が高い会社ランキング｣。唯一の2000万円超えとなった企業とは。",
@@ -237,50 +397,12 @@
    "published": "2026-08-20T05:00:00+09:00"
   },
   {
-   "title": "意見 | AI バブルは崩壊するのではなく、収縮する可能性がある",
-   "link": "https://www.wsj.com/opinion/ai-bubble-may-deflate-not-burst-a5c42acb?mod=rss_markets_main",
-   "summary": "経済の変革は進んでいますが、そのペースは私たちが予想していたよりも遅いです。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T04:58:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | AI Bubble May Deflate, Not Burst"
-  },
-  {
    "title": "米政権、ガザ治安維持部隊に2億0600万ドル超拠出へ＝議会通知文書 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14OGh5YUJ4M3I1OTN6Si1objc3YW5KMHA4Yi0wbnlWX0M5ZkhIQVBDbEZSTEUtaHRDSHBQTkR5SEljcW0wYl9yYTNOLUdHTHdpdmxVb3hFYnlmSWxmX1ZmY3ZPTzAxS3lVRXJSWkRvSzBOb3JDc0Y2ck53?oc=5",
    "summary": "米政権、ガザ治安維持部隊に2億0600万ドル超拠出へ＝議会通知文書&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-20T04:45:43+09:00"
-  },
-  {
-   "title": "ＮＹ外為市場＝ドル下落、米財務省の債券オペ拡大で ユーロ2カ月半ぶり高値 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tVHNVazR0MFpnT29ic3JRX3BYWUhfTlhqbGZKYWJ3dzVPWTlOOU9nWmpib3hmVG1ET2NSOG1Qb3BQdU43ZXZDWVNEWENYSXFvcWk5NEtfSE9IUGF0Q3ZuWU8tSGM5Y0l4QmI2ZzBYYzJCU3IyVmpBTQ?oc=5",
-   "summary": "ＮＹ外為市場＝ドル下落、米財務省の債券オペ拡大で ユーロ2カ月半ぶり高値&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T04:35:44+09:00"
-  },
-  {
-   "title": "トランプ大統領、上院で難航する主要仮想通貨法案の可決を呼びかけ「議会に次のステップを踏む必要がある」",
-   "link": "https://www.marketwatch.com/story/trump-calls-for-passage-of-a-key-cryptocurrency-bill-as-it-falters-in-the-senate-we-need-congress-to-take-the-next-step-ce9aa046?mod=mw_rss_topstories",
-   "summary": "クラリティ法は、大統領の儲かる仮想通貨ベンチャーを制限していないため、抵抗に直面している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T04:34:00+09:00",
-   "lang": "en",
-   "title_orig": "Trump calls for passage of a key cryptocurrency bill as it falters in the Senate: ‘We need Congress to take the next step’"
-  },
-  {
-   "title": "私たちは50代で、従来の401(k)で150万ドルを持っています。 Roth への変換を開始するには時期尚早ですか?",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-   "summary": "「私たちが最後に協力したアドバイザーは、私たちのポートフォリオのかなりの部分を失いました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T04:31:00+09:00",
-   "lang": "en",
-   "title_orig": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
   },
   {
    "title": "多くの参加者「利上げ必要」　インフレ高止まりなら―米ＦＲＢ議事要旨",
@@ -297,16 +419,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-20T04:30:00+09:00"
-  },
-  {
-   "title": "ホルムズでの対立継続で原油先物相場は上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-concerns-over-supply-disruptions-c33bffbd?mod=rss_markets_main",
-   "summary": "ホルムズ海峡を巡る米国とイランの対立解消に向けた動きが見られなかったことを受け、原油先物相場は米国取引序盤で上昇を続けた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T04:23:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Grind Higher on Continued Hormuz Standoff"
   },
   {
    "title": "ウクライナ反汚職チーム、ゼレンスキー氏側近の自宅を襲撃",
@@ -347,26 +459,6 @@
    "title_orig": "Fed officials express rising concern over persistently high inflation"
   },
   {
-   "title": "債券利回りの低下で米国株が上昇",
-   "link": "https://www.wsj.com/finance/stocks/bonds-chip-stocks-steady-ahead-of-fed-meeting-minutes-258030f3?mod=rss_markets_main",
-   "summary": "財務省が債券買い戻しを拡大すると発表したことを受け、米国株は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T03:24:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Rise as Bond Yields Dive"
-  },
-  {
-   "title": "意見 |根拠のない主張は全員の料金を引き上げる",
-   "link": "https://www.wsj.com/opinion/meritless-claims-will-raise-everyones-rates-732611c7?mod=rss_markets_main",
-   "summary": "支払いなしに保険金請求が終了したからといって、保険会社が不当に保険金請求を拒否しているわけではありません。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T03:15:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | Meritless Claims Will Raise Everyone’s Rates"
-  },
-  {
    "title": "米財務省、長期国債の買い戻しを倍増へ",
    "link": "https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1",
    "summary": "ここ数週間の急落で借入コストが高騰",
@@ -403,16 +495,6 @@
    "published": "2026-08-20T01:35:43+09:00"
   },
   {
-   "title": "マーク・ウォルター捜査が投資家の不安を煽り、今週カルバナ株は圧力にさらされている",
-   "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-   "summary": "この精査により、捜査の余波でウォルター氏に資金調達の圧力がかかった場合、ウォルター氏のカルバナの立場はどうなるのかという疑問が生じた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-20T01:08:58+09:00",
-   "lang": "en",
-   "title_orig": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters"
-  },
-  {
    "title": "チャールズバンク、プライベート・エクイティが米国の法曹界に深く進出する中、法律事務所との契約に近づく",
    "link": "https://www.ft.com/content/e7fdcb9f-7560-4b6f-9524-8766f752dfcf?syn-25a6b1a6=1",
    "summary": "保険弁護専門家WSHBへの投資により、人身傷害会社を超えて弁護士以外の所有者が拡大",
@@ -421,16 +503,6 @@
    "published": "2026-08-20T01:05:34+09:00",
    "lang": "en",
    "title_orig": "Charlesbank nears law firm deal as private equity pushes deeper into US legal sector"
-  },
-  {
-   "title": "プーチン大統領、ウクライナで被害を受けたワイルドベリー倉庫への支援を約束",
-   "link": "https://www.ft.com/content/bed337a0-8917-4026-a406-b5ed832f36e6?syn-25a6b1a6=1",
-   "summary": "キエフのドローンがロシア最大のオンライン小売業者の倉庫7棟を部分的または完全に破壊",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-20T00:45:40+09:00",
-   "lang": "en",
-   "title_orig": "Putin pledges help for Wildberries warehouses hit by Ukraine"
   },
   {
    "title": "正午に最も大きく値動きした銘柄: モデルナ、ピルグリムズ プライド、ターゲット、金鉱株など",
@@ -681,36 +753,12 @@
    "published": "2026-08-19T12:30:00+09:00"
   },
   {
-   "title": "Breakingviews - コラム：国債利回りが急上昇、株価に追い風の時代に幕 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0RTUXE3Y1pUVEtHZW5QVUlPcHU0aElYUjNyeFJrRVZYYXRQWlE5R2hTNkc1eTZrVGNOYWowMXFhZ2dDN1haOERaaWVMYXU5Rm43QUVYQ0lUMHY5bkhWVjF5ckVWdVdCS0lOMFNyWG84cnduQ2tYakRvMkNzRmZxNnVHWUNzUVN0Rzgw?oc=5",
-   "summary": "Breakingviews - コラム：国債利回りが急上昇、株価に追い風の時代に幕&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-19T12:22:00+09:00"
-  },
-  {
-   "title": "飼い犬を連続殺害し｢うわぁ､やってもうた｣…今も\"複数ペットを飼育する\"40代被告の妻が証言した｢信じられない一言｣ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954993?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "保護団体から引き取った犬2匹を短期間で殺害した男性に､大阪地裁は有罪判決を言い渡しました。過去にもウサギを殺害していたという被告は､酒や精神疾患の影響を法廷で説明。現在も複数のペットを飼育していると…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-19T12:00:00+09:00"
-  },
-  {
    "title": "従業員逮捕 竹中工務店がコメント",
    "link": "https://news.yahoo.co.jp/pickup/6592265?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-19T11:41:31+09:00"
-  },
-  {
-   "title": "｢ご飯に合うもつ煮｣を…22年連続黒字のゆで太郎が｢もつ次郎｣を始めた\"もう1つの事情\"　夜限定がもたらす思わぬ効果 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953884?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "都心のそば屋には､｢午後に売れない時間帯がある｣という共通の悩みがあります。22年連続黒字を続けるゆで太郎が打ち出した答えは､夜限定の新業態｢もつ次郎｣でした。そば屋がなぜもつ煮なのか……もつ次郎誕…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-19T11:30:00+09:00"
   },
   {
    "title": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化 - ロイター",
@@ -721,36 +769,12 @@
    "published": "2026-08-19T11:09:00+09:00"
   },
   {
-   "title": "関西財界、10月の訪中団を延期　APEC首脳会議後の12月で調整",
-   "link": "https://www.asahi.com/articles/ASV8M0DF6V8MPLFA009M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-19T11:00:00+09:00"
-  },
-  {
-   "title": "大竹まことさん（77）｢前立腺がん｣公表　早期発見のカギ\"PSA検査\"受けるべき人･知っておくべきこと【医師が解説】 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955061?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "タレントの大竹まことさん（77）が､前立腺がんの手術を公表しました。きっかけは頻尿などの症状だったといいます。前立腺がんの早期発見にはPSA検査が有用ですが､受けるべき人や､数値だけでは判断できない…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-19T11:00:00+09:00"
-  },
-  {
    "title": "中国企業がロケットブースターを回収、再利用技術で米2社に続く - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QUUotMFBTYVZoWmJzRFV3ZEplVzduZHpiS2x3dm5BbEdKRXRndkg5X2p0emkxRmp4d1ZVdFRsY2dlbWxlU2xZQzFfWE9naGg0VXdMeXhYNHpuRGFRMUNPOWZjcF9BTTZtTnUwREtnX2t4Zmdia1dPWQ?oc=5",
    "summary": "中国企業がロケットブースターを回収、再利用技術で米2社に続く&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-19T10:59:00+09:00"
-  },
-  {
-   "title": "日経平均、大幅続落で2134円安　中東情勢の混迷や金利上昇が影響",
-   "link": "https://www.asahi.com/articles/ASV8M0F82V8MULFA00BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-19T10:39:07+09:00"
   },
   {
    "title": "流動性供給(第460回)入札の発行予定額等",
@@ -811,22 +835,6 @@
    "published": "2026-08-19T08:45:27+09:00"
   },
   {
-   "title": "「なだ万」運営企業が新潟でコメ自社生産　地域との信頼、社員化で",
-   "link": "https://www.asahi.com/articles/ASV8K3TV0V8KUOHB004M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-19T08:00:00+09:00"
-  },
-  {
-   "title": "京都駅前に「京都セントクロス」が開業　産官学で起業家育成へ",
-   "link": "https://www.asahi.com/articles/ASV8L0QTJV8LPLZB00KM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-19T07:00:00+09:00"
-  },
-  {
    "title": "なぜドンキは「免税で2000億円超」も稼ぐのか　「訪日客の4人に1人」が買い物するワケ",
    "link": "https://www.itmedia.co.jp/business/articles/2608/19/news018.html",
    "summary": "インバウンドの消費を取り込むドン・キホーテ。免税売上高は2000億円規模へ拡大する見通しだ。なぜインバウンドはドンキを選ぶのか。インバウンド市場を狙うメーカーが学ぶべきポイントを探る。",
@@ -861,14 +869,6 @@
    "published": "2026-08-19T06:17:55+09:00"
   },
   {
-   "title": "AI研究者が警告する「人類滅亡」　SFと笑えない、予測超えた現実",
-   "link": "https://www.asahi.com/articles/ASV8L3GYQV8LUHBI00TM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-19T06:00:00+09:00"
-  },
-  {
    "title": "1年分のAI予算をわずか数カ月で“使い倒した”米Uber　CTOが気付いた「脱・トークン浪費」の方法",
    "link": "https://www.itmedia.co.jp/business/articles/2608/19/news032.html",
    "summary": "配車サービス大手の米Uberは、AI技術に割り当てた2026年の予算を年初からわずか数カ月で使い果たしたことを受け、AIへの支出問題を解決する方法を見つけたと考えている。",
@@ -883,14 +883,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-19T06:00:00+09:00"
-  },
-  {
-   "title": "短パン勤務、企業でじわり浸透　清潔感に配慮、除毛クリーム提供も",
-   "link": "https://www.asahi.com/articles/ASV8K151GV8KULFA00PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-19T05:00:00+09:00"
   },
   {
    "title": "欧州市場サマリー（18日） - ロイター",
@@ -963,6 +955,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-18T15:59:00+09:00"
+  },
+  {
+   "title": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LaHFsTTlwQWxHSF9iX0wtOGZnUk9RY0VneG52ZlE1czRvT0UxV2JXZXJzQWtIRmowV2gzdEgzb3MxTVpmTnpEVUNkT3VGUmp0bE90WkNEb3JaV2Z0eUdTZHUtNkdFUmFacERicDJZLUNiTGVGTnZqcTU0UEs5Zw?oc=5",
+   "summary": "タンカー再保険、原油安定調達へ政府が新法検討、中東情勢の長期化見据え＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T15:36:00+09:00"
   },
   {
    "title": "5年利付国債（第187回）の第II非価格競争入札結果（令和8年8月18日入札）",
@@ -1083,14 +1083,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-17T15:00:00+09:00"
-  },
-  {
-   "title": "ファミマ、“1個で満足”のおむすび発売　背景に「ランチ時短」「複数個買う消費者の減少」",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news076.html",
-   "summary": "ファミマは定番おむすびより約1.5倍大きい「大きなおむすび」シリーズと、具材の比率を高めた「具だくさん！おむすび」シリーズの新商品4種類を発売する。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-17T14:42:00+09:00"
   },
   {
    "title": "10年クライメート・トランジション利付国債（8月債）の発行予定額等（令和8年8月17日公表）",
