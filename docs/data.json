@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T08:34:23.865005+09:00",
+ "generated_at": "2026-08-20T08:55:32.917653+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,38 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "イオン 避難後「客も戻れた」証言",
+   "link": "https://news.yahoo.co.jp/pickup/6592361?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-20T08:50:23+09:00"
+  },
+  {
+   "title": "貿易統計(令和8年7月分速報)【税関ホームページ】",
+   "link": "https://www.mof.go.jp/outside_link/20260819131627.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-20T08:50:00+09:00"
+  },
+  {
+   "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-20T08:50:00+09:00"
+  },
+  {
+   "title": "オフショア勘定残高",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-20T08:50:00+09:00"
+  },
   {
    "title": "私の息子は働いていませんが、医療費負担適正化法の健康保険に 500 ドルを払っています。それは公平ですか？",
    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
@@ -711,14 +743,6 @@
    "published": "2026-08-19T16:19:02+09:00"
   },
   {
-   "title": "中国の若年失業率、7月は17.9％ 11カ月ぶり高水準 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYk9BbW92VkJjSHBpZDhhVW81OWRFdmdIM1E4cmVqcS1QbDlEd0R2RVZrMzlBMXgxeWNBVDN4eHZXOTA3WDQzSFRmUE9XaTY3ZXBuWnJOejBWYmNYMER6aXNZbGpZUmdyLTY0WUs4d2FzSVRHZzQ1VGUzM1Uxakg4Tw?oc=5",
-   "summary": "中国の若年失業率、7月は17.9％ 11カ月ぶり高水準&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-19T16:15:44+09:00"
-  },
-  {
    "title": "万博 盛況の影で工事の不祥事続々",
    "link": "https://news.yahoo.co.jp/pickup/6592290?source=rss",
    "summary": "",
@@ -783,14 +807,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-19T12:22:00+09:00"
-  },
-  {
-   "title": "従業員逮捕 竹中工務店がコメント",
-   "link": "https://news.yahoo.co.jp/pickup/6592265?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-19T11:41:31+09:00"
   },
   {
    "title": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化 - ロイター",
@@ -965,6 +981,14 @@
    "published": "2026-08-18T17:59:52+09:00"
   },
   {
+   "title": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVBdUdBZ0c4M2VaMGU0eWFNYnhmcWtKemJxT2k2YW1uSVRMMWNIQVctcmdsbGVOU1FFQjR6UzJ2Ri1UV3hNQWNhWm5saHI0Z3g1Ul9GUkgzSS02cGI4Zm5OVnl5X28wc1dpeExrWHBGakd6MElmQ3pUeGROdURWcQ?oc=5",
+   "summary": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T16:30:21+09:00"
+  },
+  {
    "title": "5年利付国債（第187回）の第II非価格競争入札結果（令和8年8月18日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260818a.htm",
    "summary": "",
@@ -991,14 +1015,6 @@
   {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月18日公表）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260818.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-18T10:30:00+09:00"
-  },
-  {
-   "title": "5年利付国債（第187回）の入札発行（令和8年8月18日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260818.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
@@ -1059,22 +1075,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-17T17:00:00+09:00"
-  },
-  {
-   "title": "第548回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
-   "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2016.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-17T15:00:00+09:00"
-  },
-  {
-   "title": "10年クライメート・トランジション利付国債（8月債）の発行予定額等（令和8年8月17日公表）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260817.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-17T10:30:00+09:00"
   }
  ]
 }
