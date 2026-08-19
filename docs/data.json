@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T17:20:42.550704+09:00",
+ "generated_at": "2026-08-19T18:00:39.540618+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -75,6 +75,52 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-19T23:56:00+09:00"
+  },
+  {
+   "title": "7月のインバウンドは344万2100人　台湾は初の70万人超に",
+   "link": "https://www.asahi.com/articles/ASV8M2PD6V8MULFA00TM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-19T17:39:15+09:00"
+  },
+  {
+   "title": "FRB議事録を前に債券とチップ株は堅調",
+   "link": "https://www.wsj.com/economy/central-banking/bonds-chip-stocks-steady-ahead-of-fed-meeting-minutes-258030f3?mod=rss_markets_main",
+   "summary": "半導体株は市場前に横ばいとなり、借入コストの急上昇でAI関連の下落が加わり、ナスダック先物は小幅上昇し、景気の足を引っ張った。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T17:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Bonds, Chip Stocks Steady Ahead of Fed Meeting Minutes"
+  },
+  {
+   "title": "さくらインターネットに不正アクセス　会員情報136万件に影響か",
+   "link": "https://www.asahi.com/articles/ASV8M2JCBV8MULFA01XM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-19T17:30:00+09:00"
+  },
+  {
+   "title": "フロリダ州予備選で民主社会主義者が予想外に勝利",
+   "link": "https://www.ft.com/content/115fc315-66f3-4eee-b717-4105f13f4d9a?syn-25a6b1a6=1",
+   "summary": "アンジー・ニクソン氏、党の上院議員選挙で退役軍人アレックス・ビンドマン氏を破る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-19T17:28:30+09:00",
+   "lang": "en",
+   "title_orig": "Democratic socialist unexpectedly wins Florida primary"
+  },
+  {
+   "title": "今日の株式市場: 世界の債券は下落後安定",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026?mod=rss_markets_main",
+   "summary": "中国の人型ロボットメーカー、IPOで急成長",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-19T17:10:01+09:00",
+   "lang": "en",
+   "title_orig": "Stock Market Today: Global Bonds Stabilize After Selloff"
   },
   {
    "title": "FRB利上げ期待と現物需要の緩和で金が上昇",
@@ -403,16 +449,6 @@
    "published": "2026-08-19T11:30:00+09:00"
   },
   {
-   "title": "AI競争が激化する中、中国がNvidia H200チップの制限を緩和",
-   "link": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
-   "summary": "中国政府、大手テクノロジー企業グループが米国のライバルに追いつくのを支援するため、少量の出荷を許可",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-19T11:09:39+09:00",
-   "lang": "en",
-   "title_orig": "China eases limits on Nvidia H200 chips as AI race escalates"
-  },
-  {
    "title": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QQjdWUk5RYnF4VTBlWHk2YXc2eS1BVV83eFRQa1pFLUlHNW16NWdSWndDR1p2ZEltMnQxeVpuYTBWWmRFSmhEVVgySV90UVpfNWRuLXd3SjZUcHhEZWEzWWZZSGhDVXphU1VVek5JME5xXzdrbUFVMmZn?oc=5",
    "summary": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化&nbsp;&nbsp;ロイター",
@@ -499,6 +535,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-19T09:30:00+09:00"
+  },
+  {
+   "title": "米欧日で長期金利が数十年ぶり高水準 財政・インフレ懸念に警鐘 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fdVNtSmJjZkVKanpKcHJvVzh4T0xseUlyZl9WdTV0U2FyNHRUMWs3d0oxZ0ZJTDhLZU1PTm9iUXFYbnlhaGtta05NOWgzT3RRMi13YUFMUzY3SW54VE1ORnNuUTMtUW5ZRmVQNF9CSFpzd29JdU4weWFB?oc=5",
+   "summary": "米欧日で長期金利が数十年ぶり高水準 財政・インフレ懸念に警鐘&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T09:20:00+09:00"
   },
   {
    "title": "【アジアで2番目の規模】韓国KT SATが7000機衛星コンステ申請､日本の巨大衛星コンステ構想にライバル出現か？ | ビジネス | 東洋経済オンライン",
@@ -695,26 +739,6 @@
    "title_orig": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner"
   },
   {
-   "title": "ウォール街は世界的な債券下落に終わりが見えない",
-   "link": "https://www.wsj.com/finance/investing/wall-street-sees-no-end-in-sight-to-the-global-bond-selloff-a1b5d1e3?mod=rss_markets_main",
-   "summary": "さらに、ペンシルベニア州はデータセンターの建設を制限しており、ABCはFCCを訴訟している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T06:22:00+09:00",
-   "lang": "en",
-   "title_orig": "Wall Street Sees No End in Sight to the Global Bond Selloff"
-  },
-  {
-   "title": "WSJドル指数は0.10%上昇して96.07",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-rising-oil-prices-may-weigh-47795bc1?mod=rss_markets_main",
-   "summary": "ＷＳＪドル指数は０．１％上昇し、２営業日の連敗を止めた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-19T06:19:00+09:00",
-   "lang": "en",
-   "title_orig": "The WSJ Dollar Index Rises 0.10% to 96.07"
-  },
-  {
    "title": "米国株式市場＝続落、ハイテク株が安い 中東不安で金利上昇 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2YxRExyZTZlQWhMS0V3VFIxV2RsYThCNWFNQTVvRWp4cWdQZ0ZtTzZMbGVjRmFFMmRySW1pNGxYSzRHa1h2R1dzQ2QtUmFLOUZYejFST0wwWDExR0FyenBMc0F0YmsxYy1zXzZRdm5MTWd2RXBFeC05OHA2RGllUQ?oc=5",
    "summary": "米国株式市場＝続落、ハイテク株が安い 中東不安で金利上昇&nbsp;&nbsp;ロイター",
@@ -857,14 +881,6 @@
    "published": "2026-08-18T21:00:00+09:00"
   },
   {
-   "title": "長期金利3%の節目うかがう　利上げ観測に海外金利高、株価は大幅安",
-   "link": "https://www.asahi.com/articles/ASV8L3TL3V8LULFA00NM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-18T20:54:02+09:00"
-  },
-  {
    "title": "市場前に大きく動く銘柄: ホーム・デポ、テスラ、ファブリネット、デュオリンゴなど",
    "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-premarket-hd-tsla-fn-duol.html",
    "summary": "これらは、取引初期に最大の値動きを記録した銘柄の一部です。",
@@ -873,14 +889,6 @@
    "published": "2026-08-18T20:46:11+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more"
-  },
-  {
-   "title": "ANAとJAL、羽田―岡山で初ダイヤ調整　新幹線との競争も背景？",
-   "link": "https://www.asahi.com/articles/ASV8L3JSPV8LULFA010M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-18T20:37:08+09:00"
   },
   {
    "title": "採用,職員を募集しています。（国内金融及び金融機関等の行う国際業務に関する制度の企画及び立案等に従事する職員（課長補佐クラス）【弁護士資格を有する者】）",
@@ -897,6 +905,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-18T17:59:52+09:00"
+  },
+  {
+   "title": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVBdUdBZ0c4M2VaMGU0eWFNYnhmcWtKemJxT2k2YW1uSVRMMWNIQVctcmdsbGVOU1FFQjR6UzJ2Ri1UV3hNQWNhWm5saHI0Z3g1Ul9GUkgzSS02cGI4Zm5OVnl5X28wc1dpeExrWHBGakd6MElmQ3pUeGROdURWcQ?oc=5",
+   "summary": "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T16:30:21+09:00"
   },
   {
    "title": "パンパシＨＤ、今期純利益0.4％増予想 市場コンセンサス下回る - ロイター",
@@ -973,14 +989,6 @@
    "title_orig": "Credit card issuer Synchrony announces partnership with OpenAI"
   },
   {
-   "title": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWRscFFadW83OHN4UHpnT0J2dFhMTXhLY3daY3dOZ0J6eGFuanFfcHN4cThKOFAtREk4SGljQkdwMDdvY0pkZkVZT1E4YWpCQjAxeG1NOWUzNmtyYmFuQ1VkeklySGx5VzJpMXJQclJEZm5GeEdzU0kwQ2tCWW9nRQ?oc=5",
-   "summary": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T10:49:00+09:00"
-  },
-  {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月18日公表）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260818.htm",
    "summary": "",
@@ -995,14 +1003,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-18T10:30:00+09:00"
-  },
-  {
-   "title": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHk4VFlzcWxpTk1jRkc3U2JoaVMxdmNBOVBmRmJyLUN6dnJvZ00tYWJmLWdKYkQ3aFBJRkRxVkxlcUtSZFlkdHdmSUpnY0M5X0djM2d4ak0tSkNtUG5iY3FsN2RoSDctV0VmcUx3Vm00d0ZmeTBKcURGZjA4QVVsdQ?oc=5",
-   "summary": "ロシア国営銀行、対西側「消耗戦」敗北警告のエコノミストを解雇&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-18T09:30:00+09:00"
   },
   {
    "title": "百貨店の苦境が鮮明に　58社中49社が減収、地方では「空白県」が拡大",
