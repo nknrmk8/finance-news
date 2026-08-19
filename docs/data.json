@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T13:58:31.951059+09:00",
+ "generated_at": "2026-08-19T14:25:55.445149+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,22 @@
  "errors": [],
  "items": [
   {
+   "title": "金融庁の組織再編について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/20260805.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-19T23:00:00+09:00"
+  },
+  {
+   "title": "始まりは「日系人の就職先ない」、キャッサバで挑む新たな農業モデル",
+   "link": "https://www.asahi.com/articles/ASV8B22S6V8BOIPE00MM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-19T14:00:00+09:00"
+  },
+  {
    "title": "香港の取引所運営者が予想を上回る過去最高の四半期を記録",
    "link": "https://www.wsj.com/finance/stocks/hong-kongs-exchange-operator-posts-record-quarter-beats-estimates-fe97abd2?mod=rss_markets_main",
    "summary": "香港取引所と清算局は、アジアの金融ハブ企業におけるトレーディングおよび上場活動として、第2四半期の利益と収益が過去最高を記録したと報告した。",
@@ -109,6 +125,16 @@
    "title_orig": "Iran eyes military targets in Europe if Trump escalates war, insiders say"
   },
   {
+   "title": "ベネズエラ、ニコラス・マドゥロ氏を米国刑務所に遺棄",
+   "link": "https://www.ft.com/content/51d68f38-df09-4f78-bb80-02a4b4684235",
+   "summary": "政府は約2週間の会談の後、元指導者の解放について言及していない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-19T13:00:23+09:00",
+   "lang": "en",
+   "title_orig": "Venezuela abandons Nicolás Maduro to fate in US jail"
+  },
+  {
    "title": "アメリカのブランドは魔法を失う",
    "link": "https://www.ft.com/content/59ed10fc-0e58-454c-9f93-d4d258ccfd9c?syn-25a6b1a6=1",
    "summary": "マヨネーズから歯磨き粉まで、米国の有名ブランドが自社ブランドに押され、反政府勢力に押されつつある",
@@ -153,6 +179,14 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-19T12:59:08+09:00"
+  },
+  {
+   "title": "対カナダ５０％関税、発動猶予　トランプ米大統領「合意」と表明",
+   "link": "https://www.jiji.com/jc/article?k=2026081900441&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-19T12:52:00+09:00"
   },
   {
    "title": "｢睡眠不足｣と｢運動不足｣が成績を下げる？眼科医が教える｢原始時代の生活リズム｣の重要性 | キャリア・教育 | 東洋経済オンライン",
@@ -249,22 +283,6 @@
    "title_orig": "China eases limits on Nvidia H200 chips as AI race escalates"
   },
   {
-   "title": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QQjdWUk5RYnF4VTBlWHk2YXc2eS1BVV83eFRQa1pFLUlHNW16NWdSWndDR1p2ZEltMnQxeVpuYTBWWmRFSmhEVVgySV90UVpfNWRuLXd3SjZUcHhEZWEzWWZZSGhDVXphU1VVek5JME5xXzdrbUFVMmZn?oc=5",
-   "summary": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-19T11:09:00+09:00"
-  },
-  {
-   "title": "ヒト型ロボットメーカー宇樹科技が上海上場、初値は600％超高 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjBhWnU5UkZrZEZpS3QzcHcwMUJOXzJfNDZuS3NjdDUwQi1YVm96R1VldGV1Q3V5T2I4ZzU3c1ZoUnY4Xzl2eUh4Y2EzdzlWN1RjeG8yVEtjQVI5dGQ5WWF3a3duSVZlZ05PZmhtZDkzVUl3SzlfQzJWakpvVkhuWQ?oc=5",
-   "summary": "ヒト型ロボットメーカー宇樹科技が上海上場、初値は600％超高&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-19T11:09:00+09:00"
-  },
-  {
    "title": "アニメ制作市場 ピークアウトか",
    "link": "https://news.yahoo.co.jp/pickup/6592258?source=rss",
    "summary": "",
@@ -293,7 +311,7 @@
   {
    "title": "大竹まことさん（77）｢前立腺がん｣公表　早期発見のカギ\"PSA検査\"受けるべき人･知っておくべきこと【医師が解説】 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955061?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "タレントの大竹まことさん（77）が､前立腺がんの手術を公表しました。きっかけは頻尿などの前立腺肥大の症状だったといいます。前立腺がんの早期発見にはPSA検査が有用ですが､受けるべき人や､数値だけでは…",
+   "summary": "タレントの大竹まことさん（77）が､前立腺がんの手術を公表しました。きっかけは頻尿などの症状だったといいます。前立腺がんの早期発見にはPSA検査が有用ですが､受けるべき人や､数値だけでは判断できない…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-19T11:00:00+09:00"
@@ -573,16 +591,6 @@
    "published": "2026-08-19T06:49:00+09:00"
   },
   {
-   "title": "マーク・ウォルターはレイカーズの株式を裏付けとしたアポロに融資を求めた",
-   "link": "https://www.ft.com/content/59c06284-d1fd-4223-8e70-e68956b219da?syn-25a6b1a6=1",
-   "summary": "資金調達をめぐる交渉は、グッゲンハイム美術館の会長がバ​​スケットボールチームの保有株を売却する合意に達するまで続けられた。",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-19T06:47:56+09:00",
-   "lang": "en",
-   "title_orig": "Mark Walter sought loan from Apollo backed by Lakers stake"
-  },
-  {
    "title": "意見 |債券市場の高い不安",
    "link": "https://www.wsj.com/opinion/bond-market-interest-rates-investing-economy-59c092c1?mod=rss_markets_main",
    "summary": "金利が 2008 年以前に戻ることは金融パニックの原因ではありません。",
@@ -809,14 +817,6 @@
    "published": "2026-08-18T19:55:00+09:00"
   },
   {
-   "title": "なにわ筋線、最新試算で総事業費6425億円　上乗せ可能性も",
-   "link": "https://www.asahi.com/articles/ASV8L3FPFV8LOXIE00PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-18T19:48:09+09:00"
-  },
-  {
    "title": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05RnVxWnQ1eDVKS28xZGFHTEkwTnBEaWZzdWZoY3QzdUVCeTlhdFdvZ2dnQjBWeUlyTXJKTWx4RmZNcjF0eWJRSUhLaHh3T1BWM1ZoR1dLckd0U2d4VTN2Q0FRLWlpcy03VUVpaVBvYWdkZ1dsZTlXag?oc=5",
    "summary": "サウジアラムコ、ホルムズ海峡で原油積み出し再開＝業界筋&nbsp;&nbsp;ロイター",
@@ -871,6 +871,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-18T14:23:00+09:00"
+  },
+  {
+   "title": "コラム：インフレ抑制に利上げ不可避のＦＲＢ、資産縮小とＡＩの生産性向上は効果薄 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lTFc4SS1RSENSYTRTc2JEOEM0R0JWaGF1ZUVjdmZjcVpaa2IySFl1V1cxWk8wVXI2SkJERGxLRTNlS2ZzVi16SzA2T0h6U3BnOEdCcVNEd2V6VDNRS3VXRzN1NkZDRXMyM19PTklSby1nRVo4YVVYVw?oc=5",
+   "summary": "コラム：インフレ抑制に利上げ不可避のＦＲＢ、資産縮小とＡＩの生産性向上は効果薄&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T13:18:00+09:00"
   },
   {
    "title": "5年利付国債（第187回）の入札結果（令和8年8月18日入札）",
@@ -953,6 +961,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-18T09:10:00+09:00"
+  },
+  {
+   "title": "長期金利が2.945％に上昇、約30年ぶり高水準更新 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkxBRlFTd29kdFQ1VVRfN081UDBTV0NmYXNxWTFQeExtR0ZHN09NMFNCVmRhZHQtOUlvQnBXMUZ0T0d3R1JVV2VEZVpNQVUxc3huQUdIanF2NUcxUE1RTmtzQXc1RTFFbWtDVHRRRnRKNW5pZFZIeDVsUTNZTC1uQw?oc=5",
+   "summary": "長期金利が2.945％に上昇、約30年ぶり高水準更新&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-18T09:04:00+09:00"
   },
   {
    "title": "百貨店の苦境が鮮明に　58社中49社が減収、地方では「空白県」が拡大",
