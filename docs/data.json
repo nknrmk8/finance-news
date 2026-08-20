@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T19:18:56.147589+09:00",
+ "generated_at": "2026-08-20T19:53:11.156406+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,70 @@
  "errors": [],
  "items": [
   {
+   "title": "メガネにコスメ的な機能 各社注力",
+   "link": "https://news.yahoo.co.jp/pickup/6592448?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-20T19:51:26+09:00"
+  },
+  {
+   "title": "トランプ大統領が対イラン経済戦争宣言で原油価格が高騰",
+   "link": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
+   "summary": "ドナルド・トランプ大統領が「経済破壊的政策を開始する」と発言したことを受け、ウェスト・テキサス・インターミディエイト原油とブレント原油の前月契約はともに上昇した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-20T19:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil prices jump after Trump declares economic war on Iran"
+  },
+  {
+   "title": "北朝鮮、トランプ大統領の提案却下を受けてミサイル集中砲火",
+   "link": "https://www.ft.com/content/d15d68d5-291b-44d2-8fdf-3afc95308e9e?syn-25a6b1a6=1",
+   "summary": "金正恩氏の妹、北朝鮮とワシントン間の通信の主張に疑問を投げかける",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-20T19:43:46+09:00",
+   "lang": "en",
+   "title_orig": "North Korea launches missile barrage after dismissing Trump overture"
+  },
+  {
+   "title": "熊本地震、企業の雇用維持支援へ　雇用調整助成金で特例対応　厚労省",
+   "link": "https://www.asahi.com/articles/ASV8N34FPV8NULFA00TM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T19:37:02+09:00"
+  },
+  {
+   "title": "自社株買いの本当の問題はここにある",
+   "link": "https://www.wsj.com/finance/stocks/heres-the-real-problem-with-stock-buybacks-0383bedb?mod=rss_markets_main",
+   "summary": "さらに、心配する理由は 40 兆もあります。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-20T19:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Here’s the Real Problem With Stock Buybacks"
+  },
+  {
+   "title": "マンション「共連れ」進む対策",
+   "link": "https://news.yahoo.co.jp/pickup/6592444?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-20T19:24:44+09:00"
+  },
+  {
+   "title": "ベッセントの財務業務が金取引に息を吹き返した理由",
+   "link": "https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
+   "summary": "金はドルの逆数であり、ストラテジストの間ではベッセントのイールドカーブ・コントロールが米国に悪影響を与えるというのがコンセンサスだ。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-20T19:19:00+09:00",
+   "lang": "en",
+   "title_orig": "Why Bessent’s Treasury operations have breathed life back into the gold trade"
+  },
+  {
    "title": "「かなりの緊張感が漂っている」：99歳の祖母は、母を自分の意志から切り離したいと考えている。介入すべきでしょうか？",
    "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
    "summary": "「おばあちゃんは、母から 5 万ドルの HELOC を引き出すよう圧力をかけられたと感じています。」",
@@ -71,12 +135,30 @@
    "title_orig": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
   },
   {
+   "title": "非上場株の相続、国税庁が評価方法の見直し案　日商は反対意見",
+   "link": "https://www.asahi.com/articles/ASV8N3672V8NUTIL01MM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-20T19:10:26+09:00"
+  },
+  {
    "title": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
    "link": "https://www.asahi.com/articles/ASV8N34JCV8NULFA01NM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-20T19:01:33+09:00"
+  },
+  {
+   "title": "トランプ大統領はレアアース問題での独立戦争に敗北しつつある",
+   "link": "https://www.ft.com/content/201a86a6-3597-4efb-b575-39172c729fe1?syn-25a6b1a6=1",
+   "summary": "非効率、信頼性のなさ、縁故主義が中国に立ち向かう政権の計画を弱めている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-20T19:00:13+09:00",
+   "lang": "en",
+   "title_orig": "Trump is losing his war of independence on rare earths"
   },
   {
    "title": "作業員4人死亡 東武鉄道が謝罪",
@@ -123,14 +205,6 @@
    "published": "2026-08-20T18:48:00+09:00",
    "lang": "en",
    "title_orig": "Asian Currencies Mixed; May Be Buoyed by U.S. Treasury Dept.’s Buyback Announcement"
-  },
-  {
-   "title": "豚や鶏も肉価格高騰 食卓の今後は",
-   "link": "https://news.yahoo.co.jp/pickup/6592436?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-20T18:38:27+09:00"
   },
   {
    "title": "ハイパースケーラーによるオフグリッド電力の推進にはリスクが伴う",
@@ -215,16 +289,6 @@
    "published": "2026-08-20T18:07:00+09:00",
    "lang": "en",
    "title_orig": "Gold Drops; Focus on Fed July Minutes"
-  },
-  {
-   "title": "中東の緊張が長引く中、原油価格が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-lingering-middle-east-tensions-77c883a9?mod=rss_markets_main",
-   "summary": "中東情勢の緊張が長引き、さらなる供給混乱につながる可能性がある中、原油価格はアジア貿易序盤で小幅上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T18:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Edges Higher Amid Lingering Middle East Tensions"
   },
   {
    "title": "レスラーのローガン・ポールがカリフォルニアの「LSD牧場」を300万ドルで上場",
@@ -355,22 +419,6 @@
    "published": "2026-08-20T16:21:40+09:00"
   },
   {
-   "title": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTE5ud3loSFRYeF84NWlDbFZLRXFtanpFQ1UtVlJBclZ0b0haYk9OQkFtTzN0MU50Q1dhZG5xOUFyMTdhYk5aS2o1N1lQNnRucDBsekp1Q1JyX1FsSURfMGU4NFhYTlhxZ29OZTh3QUpuNENmR0tvQU8yUDUtRWc2dA?oc=5",
-   "summary": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T16:05:43+09:00"
-  },
-  {
-   "title": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeTBsWUp2dkZZSHA5OVZwd0FpclFJRkI2b3BjTWplZlpDMkxiWkEtUFprZ2hZRzNCVURpVEgxNUZXdkxFSE5kVUFOYzl5V0ZDclB2bndzRnI1Q0J2dUNaS1R6TlczczBURUZFRDRLaEZTeGh0ZWYydg?oc=5",
-   "summary": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T15:53:00+09:00"
-  },
-  {
    "title": "首都圏の新築マンション、最高の平均1.6億円　都心タワマンが牽引",
    "link": "https://www.asahi.com/articles/ASV8N22ZFV8NULFA00PM.html?ref=rss",
    "summary": "",
@@ -387,12 +435,12 @@
    "published": "2026-08-20T15:35:00+09:00"
   },
   {
-   "title": "ＳＫハイニックス、賞与6割を株式支給へ 労使暫定合意＝関係者 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BcGNQRWJoV1lNdW5LNVN0ZHRxV3hwVWZwRkloN25PbW4tMXJvTm5nZDRiWnVrTnVWd0FuTlcxc0xWX2VVQWhCTXB1MzNKdS02azBsbTBVUE4xRE9rVUtKRTkyVllNeUE2UWtfSEtmbjJmUnJSc2o2dg?oc=5",
-   "summary": "ＳＫハイニックス、賞与6割を株式支給へ 労使暫定合意＝関係者&nbsp;&nbsp;ロイター",
+   "title": "午後3時のドルは158円後半へじり高、前日の急落受け押し目買い - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQRGtIMG04bVBuMUM2ZmtLSm9PZm51b1FIb3FPN3NoQ0l3M2VxeFc3bE5nMmRQT3d6c2phdWI5SG9aMlN6a2ZCZ3FvWUJOb2NrYXdTLVI0MUxoYlE4ZEc2MTllTTUxYW03Q24zemZoaFFhMnVUR05kcg?oc=5",
+   "summary": "午後3時のドルは158円後半へじり高、前日の急落受け押し目買い&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-20T15:28:00+09:00"
+   "published": "2026-08-20T15:16:00+09:00"
   },
   {
    "title": "20年利付国債（第197回）の第II非価格競争入札結果（令和8年8月20日入札）",
@@ -411,6 +459,14 @@
    "published": "2026-08-20T15:00:00+09:00"
   },
   {
+   "title": "サムスン電子、100兆ウォン超の株主還元策発表へ＝報道 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwQTVtbDJzQk5MUnQwZ004OC00MlQtZ2xXZlJqSTlKc0I2X0lvcmQtX0tEck1QYnJTU1U5Z0tDb3NEXzU3LUNxRERsRWpFMU5IcnhsbE90Q1gydVNuUUJldllSekUtMXRoMU1wU2VjeTRXdjYzZU9Ubg?oc=5",
+   "summary": "サムスン電子、100兆ウォン超の株主還元策発表へ＝報道&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-20T14:50:00+09:00"
+  },
+  {
    "title": "経営破綻した中国不動産大手の創業者に終身刑",
    "link": "https://www.ft.com/content/895d78fc-ce60-4cb6-a8d5-db3ab01d1ebf?syn-25a6b1a6=1",
    "summary": "エバーグランデ会長のホイ・カー・ヤン氏は、約5年前の開発者の不履行を受けて投獄された",
@@ -419,14 +475,6 @@
    "published": "2026-08-20T14:49:34+09:00",
    "lang": "en",
    "title_orig": "Founder of collapsed Chinese property giant given life sentence"
-  },
-  {
-   "title": "原油輸入「量」は前年並み確保、「額」は1.9倍に　7月の貿易統計",
-   "link": "https://www.asahi.com/articles/ASV8N0VX2V8NULFA006M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-20T14:36:02+09:00"
   },
   {
    "title": "元オリンピック選手に全資産を開示させ､保有株式まで売却させて奪い取る国際詐欺グループの手練手管〈再配信〉 | ライフ | 東洋経済オンライン",
@@ -461,22 +509,6 @@
    "published": "2026-08-20T13:58:00+09:00"
   },
   {
-   "title": "シルチェスター、博報堂ＤＹ株を大量保有 5.07％ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm9ac3AtaVFXbGk1d3FVQ0JCQkNpTmU4WlcwV285UWxWamJyZV9VU1JUVEU5UmJfUDd0OVc3MGdleEtwMVhDSjV6cVZ2MmVQd29IMHk2eEEtQUFrMzJFVHJVbFdGbjVoc3RPSm8xWl9UYmF4dTAwTjZoVHdKOWhwQQ?oc=5",
-   "summary": "シルチェスター、博報堂ＤＹ株を大量保有 5.07％&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T13:38:00+09:00"
-  },
-  {
-   "title": "米首都ダレス空港、総額199億ドルの改修計画を承認 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZ1ZMUFNDQW4zZTFEb0ZXQW1FSVB4VHlqbVlyMVRpN0R1ZWI2SXgzT3ZuYUlLSHQ2bHNIQ3NreEl0dHdjeHIteW1qbmdPLVVkZ1IydkJfLU95SXktYzhuZDJ4R3Q4TkdUUjVPUndhNlFiRmhId2xJeXFn?oc=5",
-   "summary": "米首都ダレス空港、総額199億ドルの改修計画を承認&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T13:16:00+09:00"
-  },
-  {
    "title": "米国のトップ法律事務所、1年生の「無謀な」採用で反発に見舞われる",
    "link": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
    "summary": "ウォール街の企業は学生や経営陣から懸念を集めるこれまでにない早期の募集を行っている",
@@ -505,16 +537,6 @@
    "published": "2026-08-20T13:00:19+09:00",
    "lang": "en",
    "title_orig": "Barclays struggles to ‘retrain the dog’ on Wall Street"
-  },
-  {
-   "title": "モデルナ、がんワクチンのmRNA「ゲームチェンジャー」に期待を寄せる",
-   "link": "https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1",
-   "summary": "大ヒット商品である Covid-19 ジャブの背後にある技術が、腫瘍治療において有望な結果をもたらしています",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-20T13:00:11+09:00",
-   "lang": "en",
-   "title_orig": "Moderna pins hopes on mRNA ‘game-changer’ for cancer vaccines"
   },
   {
    "title": "｢140年の老舗企業｣が大変革を遂げた\"4つの仕掛け\"｢古い会社＝変われない｣は大誤解だ【専門家が解説】 | ビジネス | 東洋経済オンライン",
@@ -547,24 +569,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-20T12:33:00+09:00"
-  },
-  {
-   "title": "くら寿司 最低価格の値下げ発表",
-   "link": "https://news.yahoo.co.jp/pickup/6592386?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-20T12:05:30+09:00"
-  },
-  {
-   "title": "グローバリゼーションを構築した箱",
-   "link": "https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1",
-   "summary": "コンテナは港、都市、貿易を変えました。今、革命は限界に達している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-20T12:00:07+09:00",
-   "lang": "en",
-   "title_orig": "The box that built globalisation"
   },
   {
    "title": "｢初任給アップで先輩はモチベダウン｣｢Zへの配慮足りぬとAIに叱られ…｣《採用川柳･短歌》に見える\"企業側の苦悩\" | キャリア・教育 | 東洋経済オンライン",
@@ -771,26 +775,6 @@
    "published": "2026-08-20T08:28:00+09:00"
   },
   {
-   "title": "私は義母の委任状を持っています。私は彼女の執行者兼管財人でもあります。私には最終的な権限があるのでしょうか?",
-   "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-   "summary": "「私の手には多くの法的および財政的権限があります。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T08:15:00+09:00",
-   "lang": "en",
-   "title_orig": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?"
-  },
-  {
-   "title": "退職者: この投資により、5% の安全な引き出し率が保証されます",
-   "link": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
-   "summary": "TIPS利回りは20年ぶりの高水準か、それに近い水準にある。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T08:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate"
-  },
-  {
    "title": "真面目な子ほど\"エナドリ\"にハマる？ 勉強や部活を頑張るための1本が｢依存の入り口｣に—精神科医が説く親の向き合い方 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953206?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "近年､エナジードリンクに頼る子どもが増えていますが､その裏にはカフェイン依存のリスクが潜んでいます。子どもたちの｢元気の前借り｣がもたらす影響と､親が取るべき対応について考えます。",
@@ -813,14 +797,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-20T07:30:00+09:00"
-  },
-  {
-   "title": "米政権、ガザ治安維持部隊に2億ドル超拠出へ＝議会通知文書 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14OGh5YUJ4M3I1OTN6Si1objc3YW5KMHA4Yi0wbnlWX0M5ZkhIQVBDbEZSTEUtaHRDSHBQTkR5SEljcW0wYl9yYTNOLUdHTHdpdmxVb3hFYnlmSWxmX1ZmY3ZPTzAxS3lVRXJSWkRvSzBOb3JDc0Y2ck53?oc=5",
-   "summary": "米政権、ガザ治安維持部隊に2億ドル超拠出へ＝議会通知文書&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T07:25:23+09:00"
   },
   {
    "title": "｢エヌビディアは墓穴を掘っている｣…中国AI｢ディープシーク｣創業者による流出した本音発言の内容に波紋が広がる | 政治・経済・投資 | 東洋経済オンライン",
@@ -857,12 +833,12 @@
    "published": "2026-08-20T06:02:44+09:00"
   },
   {
-   "title": "「東京都の主張は的外れ」島根県知事、自治体の税収格差めぐり反論",
-   "link": "https://www.asahi.com/articles/ASV873K7JV87PLFA005M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
+   "title": "トランプ氏、改めて利下げ要求 「米国の成功に伴い金利低下すべき」 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlhoRUxvVkhvVXZJcElUZkZoUkdubWNLYVlCU1dUT0FLeXU1c0gxODgzc3Z6UVlMa2xTSjNSaU1uRFUwRFdHUnROaEhiTFVGbWEzcjNCNmRGNkROVHFqY0xtb0hJWDRjTGoyMHd2RzJyS1BCMTVyYnpQbHJBZXZ4Wg?oc=5",
+   "summary": "トランプ氏、改めて利下げ要求 「米国の成功に伴い金利低下すべき」&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-20T06:00:00+09:00"
+   "published": "2026-08-20T04:43:39+09:00"
   },
   {
    "title": "議事録によると、FRB当局者らはインフレが冷え込まない場合は利上げの必要性を認識している",
@@ -921,6 +897,22 @@
    "title_orig": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious"
   },
   {
+   "title": "ＳＫハイニックス、40兆ウォンの自社株買い・消却へ 株主還元強化 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjQ1akQtWlFNeENOcWMzc2NVNnp6eFNfc2tpZzBnVExmMHc0Qk51OUptQlJjODNGNWNBNXlfN24zdkc0bVlRbEdzLWt3OXd1eTVFZFQ1cFZTT1JsU0RuNXRxQmt2NmpPSnY3aDFud0tKRlczaUZtR0p2ZzBVdmNmTg?oc=5",
+   "summary": "ＳＫハイニックス、40兆ウォンの自社株買い・消却へ 株主還元強化&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T19:51:56+09:00"
+  },
+  {
+   "title": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り 新規上場の宇樹科技は高騰 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXZ2ejFLcjh3ZjlIWkhySW9SX2VVMkJDNURjcmVpRVdURFhPcWlKcm5qeTNRTDJCdHhyQ2k2ZlFWVWczZkRlUkhPZ1lGRjJhZHA3cWI3MkQ4MFVRYTlFMFowd1V0ZWtiYk12WFhMVVBaX3UybW5KOXlORUJTZnVZUA?oc=5",
+   "summary": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り 新規上場の宇樹科技は高騰&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T18:52:38+09:00"
+  },
+  {
    "title": "昭和100年記念貨幣の販売要領が公表されました【造幣局ホームページ】",
    "link": "https://www.mof.go.jp/insideLink/20260818170645.html",
    "summary": "",
@@ -961,6 +953,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-19T14:00:00+09:00"
+  },
+  {
+   "title": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QQjdWUk5RYnF4VTBlWHk2YXc2eS1BVV83eFRQa1pFLUlHNW16NWdSWndDR1p2ZEltMnQxeVpuYTBWWmRFSmhEVVgySV90UVpfNWRuLXd3SjZUcHhEZWEzWWZZSGhDVXphU1VVek5JME5xXzdrbUFVMmZn?oc=5",
+   "summary": "北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T11:09:00+09:00"
   },
   {
    "title": "中国の酒類メーカー茅台酒社の不振が中国経済について語ること",
