@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T23:51:38.507802+09:00",
+ "generated_at": "2026-08-21T00:21:31.532510+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,36 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "スーパー・マイクロ、密輸疑惑で上級管理職を釈放",
+   "link": "https://www.wsj.com/business/super-micro-clears-senior-management-in-alleged-smuggling-scheme-5b0d888d?mod=rss_markets_main",
+   "summary": "サーバーメーカーは、従業員2名と請負業者によるNvidiaチップを中国に密輸する計画の疑いについての調査を終了した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-20T23:57:00+09:00",
+   "lang": "en",
+   "title_orig": "Super Micro Clears Senior Management in Alleged Smuggling Scheme"
+  },
+  {
+   "title": "米国の天然ガス在庫、週間ベースでは緩やかな増加にとどまる",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-inventories-post-modest-weekly-build-459cc5f8?mod=rss_markets_main",
+   "summary": "現在の注入シーズンで在庫の増加がこれまでで最小となったため、米国の天然ガス先物は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-20T23:57:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Inventories Post Modest Weekly Build"
+  },
+  {
+   "title": "さらに多くのSpaceX株が市場に出回ろうとしている。知っておくべきことは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
+   "summary": "インサイダーが保有するスペースX株の約7％が取引対象となる予定だ。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-20T23:53:00+09:00",
+   "lang": "en",
+   "title_orig": "More SpaceX stock is about to hit the market. Here’s what to know."
+  },
   {
    "title": "26年産新米 大幅値下がりの見通し",
    "link": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
@@ -235,16 +265,6 @@
    "published": "2026-08-20T22:06:16+09:00"
   },
   {
-   "title": "AI が経済を作り変えていることを皆さんも聞いたことがあるでしょう。良くも悪くも、それが生活をどのように変えているかをご紹介します。",
-   "link": "https://www.marketwatch.com/story/youve-all-heard-ai-is-remaking-the-economy-heres-how-its-changing-lives-for-better-or-worse-447bd086?mod=mw_rss_topstories",
-   "summary": "経済を大きく動かすのはトランプ氏ではなくAIであり、その規模は今後もさらに大きくなるだろうと、このアナリストは言う。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T22:00:00+09:00",
-   "lang": "en",
-   "title_orig": "You’ve all heard AI is remaking the economy. Here’s how it’s changing lives — for better or worse."
-  },
-  {
    "title": "投資家は米国と英国の利上げへの賭けをやめた",
    "link": "https://www.ft.com/content/93992d7a-e20d-4f35-a958-c7a9f3b84c02?syn-25a6b1a6=1",
    "summary": "原油価格の上昇にもかかわらず、弱い経済指標が予想を変える",
@@ -253,14 +273,6 @@
    "published": "2026-08-20T21:55:52+09:00",
    "lang": "en",
    "title_orig": "Investors cut bets on US and UK rate rises"
-  },
-  {
-   "title": "トランプ氏、対イラン「経済戦争」　取引国に甚大な代償",
-   "link": "https://www.jiji.com/jc/article?k=2026082000769&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-20T21:26:00+09:00"
   },
   {
    "title": "市場前に大きな動きをする銘柄: Walmart、Coinbase、Moderna、Alibaba など",
@@ -281,14 +293,6 @@
    "published": "2026-08-20T21:01:54+09:00"
   },
   {
-   "title": "７月のレアアース磁石対日輸出、半減　中国、規制強化影響",
-   "link": "https://www.jiji.com/jc/article?k=2026082001103&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-20T20:58:00+09:00"
-  },
-  {
    "title": "時間外労働 一律抑制見直しに反発",
    "link": "https://news.yahoo.co.jp/pickup/6592452?source=rss",
    "summary": "",
@@ -307,16 +311,6 @@
    "title_orig": "Oil Gains Further, With Brent Crude Above $94"
   },
   {
-   "title": "ノボネシス、売上高とガイダンス引き上げで欧州Stoxx 600をリード",
-   "link": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6?mod=rss_markets_main",
-   "summary": "酵素、プロバイオティクス、その他の生物学的製品を開発する同社の株価は、コンセンサスを上回る本業売上高の伸びを記録した後、急騰した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T20:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise"
-  },
-  {
    "title": "AI・半導体など7兆円要求へ　経産省、新たな投資枠には4兆円計上",
    "link": "https://www.asahi.com/articles/ASV8N3RFQV8NULFA01GM.html?ref=rss",
    "summary": "",
@@ -331,16 +325,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-20T20:21:13+09:00"
-  },
-  {
-   "title": "ホワイトハウスでの明るい会合後、仮想通貨株は市場前に急騰を続ける",
-   "link": "https://www.wsj.com/finance/currencies/crypto-stocks-continue-surge-premarket-after-upbeat-white-house-meeting-d344afcd?mod=rss_markets_main",
-   "summary": "投資家がトランプ大統領の仮想通貨支持の再表明に飛びつき、仮想通貨に関連した米国株は水曜日の前場での上昇幅を拡大した",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T20:06:00+09:00",
-   "lang": "en",
-   "title_orig": "Crypto Stocks Continue Surge Premarket After Upbeat White House Meeting"
   },
   {
    "title": "残業月45時間超は「例外中の例外」反発広がる　一律抑制取りやめ",
@@ -573,14 +557,14 @@
    "title_orig": "Trump turns on Washington’s museums in new culture war offensive"
   },
   {
-   "title": "バークレイズ、ウォール街での「犬の再訓練」に苦戦中",
-   "link": "https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1",
-   "summary": "投資銀行のこの4年間で7人目の共同CEOは、前任者と同様の制限に直面すると予想される",
+   "title": "米国のトップ法律事務所、1年生の「無謀な」採用で反発に見舞われる",
+   "link": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
+   "summary": "ウォール街の企業はかつてないほど早期に採用活動を行っており、学生や経営陣から懸念を集めている",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-20T13:00:19+09:00",
    "lang": "en",
-   "title_orig": "Barclays struggles to ‘retrain the dog’ on Wall Street"
+   "title_orig": "Top US law firms hit by backlash over ‘crazy’ hiring of first-year students"
   },
   {
    "title": "｢140年の老舗企業｣が大変革を遂げた\"4つの仕掛け\"｢古い会社＝変われない｣は大誤解だ【専門家が解説】 | ビジネス | 東洋経済オンライン",
@@ -621,14 +605,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-20T11:59:00+09:00"
-  },
-  {
-   "title": "最低賃金、１７県で目安超え　上乗せ縮小、競争は緩和傾向―１９日時点",
-   "link": "https://www.jiji.com/jc/article?k=2026081900946&g=soc&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-20T11:47:00+09:00"
   },
   {
    "title": "中国は世界的な債券利回りの急上昇に対抗し、分散投資の魅力を高めている",
