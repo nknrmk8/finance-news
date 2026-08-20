@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T02:52:29.390060+09:00",
+ "generated_at": "2026-08-21T03:19:29.413003+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,56 @@
  "errors": [],
  "items": [
   {
+   "title": "決算発表の中で米国株先物はまちまち",
+   "link": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main",
+   "summary": "米国株先物はウォルマートなどの決算を前に方向感を模索していた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T03:18:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stock Futures Mixed Amid Earnings Reports"
+  },
+  {
+   "title": "「かなりの緊張感が漂っている」：99歳の祖母は、母を自分の意志から切り離したいと考えている。介入すべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+   "summary": "「おばあちゃんは、母から 5 万ドルの HELOC を引き出すよう圧力をかけられたと感じています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T03:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
+  },
+  {
+   "title": "ベッセント氏は財務省が債券市場に再び介入する可能性を示唆「我々には大きなツールキットがある」",
+   "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
+   "summary": "スコット・ベッセント米財務長官は今週、同省による長期国債の買い戻し額を少なくとも2倍に増やす計画で波紋を広げた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T03:09:00+09:00",
+   "lang": "en",
+   "title_orig": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’"
+  },
+  {
+   "title": "もし金利上昇が強気市場を終わらせるのに十分だったなら、私たちはとっくの昔に弱気市場に入っていただろう",
+   "link": "https://www.marketwatch.com/story/if-rising-rates-were-enough-to-end-a-bull-market-wed-have-entered-a-bear-market-long-ago-0c6790a0?mod=mw_rss_topstories",
+   "summary": "「FRBモデル」は弱気になった ― どこまで気にする必要があるだろうか？",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T03:03:00+09:00",
+   "lang": "en",
+   "title_orig": "If rising rates were enough to end a bull market, we’d have entered a bear market long ago"
+  },
+  {
+   "title": "売上高の伸びが6年ぶりの低水準に鈍化し、ウォルマート株が下落",
+   "link": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1",
+   "summary": "小売業者は関税還付金約29億ドルを利用して、窮地に陥った米国の消費者に値下げを提供する",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-21T02:52:04+09:00",
+   "lang": "en",
+   "title_orig": "Walmart shares tumble as sales growth slows to six-year low"
+  },
+  {
    "title": "ベッセント社の債券買い戻し計画から翌日、米国債利回りはすでに再び急上昇している",
    "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
    "summary": "市場を落ち着かせるスコット・ベッセント財務長官の計画はうまく機能していない。",
@@ -101,6 +151,16 @@
    "title_orig": "Seahawks player on his real-estate side hustle: ‘I brought my Super Bowl ring to the open houses’"
   },
   {
+   "title": "Nvidia は AI ブームの次の段階から恩恵を受けるのに有利な立場にあると思われる",
+   "link": "https://www.ft.com/content/b388be2e-67bd-4056-abd2-234e17819a98?syn-25a6b1a6=1",
+   "summary": "世界最大の半導体企業はバランスシートを活用して新たな市場と新たなビジネスモデルの種を蒔いている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-21T02:17:16+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia looks well placed to benefit from the next stage of the AI boom"
+  },
+  {
    "title": "エバーバンク買収から3年、未公開株会社が撤退を模索",
    "link": "https://www.wsj.com/finance/banking/private-equity-firms-look-for-an-exit-three-years-after-buying-everbank-d9cfe378?mod=rss_markets_main",
    "summary": "フロリダに本拠を置くエバーバンクのオーナー5人は、2023年の買収後の戦略を巡って衝突した。",
@@ -119,14 +179,6 @@
    "published": "2026-08-21T02:05:48+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more"
-  },
-  {
-   "title": "セントルイス連銀総裁、追加利上げ支持示唆 「インフレなお高い」 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzJGZWR2cVR3Rm9RaTV3TGcwTXF6VmpZaENBREhnN2E0VnJmb1BFQ0FVQ1pWWkhsczhPWTByVVEzbHdJX1RBRjUxYzhseFdEUVc4a3otOWhWZDE5RU1EQTBvdDhwUm02QWN4ZlhnQUpIeWtjTzhyUWZRaENhaEttRQ?oc=5",
-   "summary": "セントルイス連銀総裁、追加利上げ支持示唆 「インフレなお高い」&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T01:55:46+09:00"
   },
   {
    "title": "消費者への圧力がさらに悪化していると投資家が懸念し、ウォルマートの株価が下落",
@@ -159,16 +211,6 @@
    "title_orig": "Health Care Roundup: Market Talk"
   },
   {
-   "title": "「ゴーストオフィス」と長い待ち時間：社会保障職員は30億ドルと2万人の雇用を要求",
-   "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
-   "summary": "「国民がこれらの給付金を利用するのはますます困難になるだろう」と組合関係者は語った。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T01:35:00+09:00",
-   "lang": "en",
-   "title_orig": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires"
-  },
-  {
    "title": "エネルギーと公共事業のまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-debe172a?mod=rss_markets_main",
    "summary": "エネルギーと公益事業をカバーする最新のマーケット トークで、石油先物、イサカ エネルギーなどに関する洞察を見つけてください。",
@@ -187,36 +229,6 @@
    "published": "2026-08-21T01:29:00+09:00",
    "lang": "en",
    "title_orig": "Auto & Transport Roundup: Market Talk"
-  },
-  {
-   "title": "決算発表の中で米国株先物はまちまち",
-   "link": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main",
-   "summary": "米国株先物はウォルマートなどの決算を前に方向感を模索していた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T01:24:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stock Futures Mixed Amid Earnings Reports"
-  },
-  {
-   "title": "ベッセント氏は財務省が債券市場に再び介入する可能性を示唆「我々には大きなツールキットがある」",
-   "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
-   "summary": "スコット・ベッセント米財務長官は今週、同省による長期国債の買い戻し額を少なくとも2倍に増やす計画で波紋を広げた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T01:23:00+09:00",
-   "lang": "en",
-   "title_orig": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’"
-  },
-  {
-   "title": "財務省の最新の買い戻し計画による最大の損失は米ドルです。その理由は次のとおりです。",
-   "link": "https://www.marketwatch.com/story/the-biggest-loser-from-the-treasurys-latest-buyback-plan-the-u-s-dollar-heres-why-5e996225?mod=mw_rss_topstories",
-   "summary": "ある為替市場専門家は、重要な痛みの閾値を超えたと警告する。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T01:22:00+09:00",
-   "lang": "en",
-   "title_orig": "The biggest loser from the Treasury’s latest buyback plan: The U.S. dollar. Here’s why."
   },
   {
    "title": "ベッセント介入が投資家を落ち着かせることができず、米長期債は下落",
@@ -259,16 +271,6 @@
    "title_orig": "Gold Loses Some of Its Shine After Yesterday’s Leap"
   },
   {
-   "title": "売上高の伸びが6年ぶりの低水準に鈍化し、ウォルマート株が下落",
-   "link": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1",
-   "summary": "小売業者は関税還付金約29億ドルを利用して、窮地に陥った米国の消費者に値下げを提供する",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-21T00:19:28+09:00",
-   "lang": "en",
-   "title_orig": "Walmart shares tumble as sales growth slows to six-year low"
-  },
-  {
    "title": "26年産新米 大幅値下がりの見通し",
    "link": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
    "summary": "",
@@ -293,16 +295,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-20T23:05:35+09:00"
-  },
-  {
-   "title": "風船から鍋まで：便利なテクノロジーを讃えて",
-   "link": "https://www.ft.com/content/49c3c96c-cda1-466a-a0a6-8275e889ecc4?syn-25a6b1a6=1",
-   "summary": "これまで知られていなかった特性を持つ新素材を開発する企業は、物質の世界を変える可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-20T22:41:53+09:00",
-   "lang": "en",
-   "title_orig": "From balloons to pans: in praise of useful tech"
   },
   {
    "title": "千葉豪雨 農業被害など約19億円",
@@ -347,6 +339,14 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-20T21:01:54+09:00"
+  },
+  {
+   "title": "７月のレアアース磁石対日輸出、半減　中国、規制強化影響",
+   "link": "https://www.jiji.com/jc/article?k=2026082001103&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-20T20:58:00+09:00"
   },
   {
    "title": "時間外労働 一律抑制見直しに反発",
@@ -971,6 +971,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-19T14:00:00+09:00"
+  },
+  {
+   "title": "中国企業がロケットブースターを回収、再利用技術で米2社に続く - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QUUotMFBTYVZoWmJzRFV3ZEplVzduZHpiS2x3dm5BbEdKRXRndkg5X2p0emkxRmp4d1ZVdFRsY2dlbWxlU2xZQzFfWE9naGg0VXdMeXhYNHpuRGFRMUNPOWZjcF9BTTZtTnUwREtnX2t4Zmdia1dPWQ?oc=5",
+   "summary": "中国企業がロケットブースターを回収、再利用技術で米2社に続く&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T10:59:00+09:00"
   },
   {
    "title": "なぜドンキは「免税で2000億円超」も稼ぐのか　「訪日客の4人に1人」が買い物するワケ",
