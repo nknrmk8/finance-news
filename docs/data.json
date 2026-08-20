@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T01:19:00.652731+09:00",
+ "generated_at": "2026-08-21T01:57:10.986054+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,106 @@
  "errors": [],
  "items": [
   {
+   "title": "消費者への圧力がさらに悪化していると投資家が懸念し、ウォルマートの株価が下落",
+   "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+   "summary": "スーパーマーケットチェーンは、今年初めに経験したよりも「おそらくより軟化した消費環境」に対処していると述べた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T01:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse"
+  },
+  {
+   "title": "Appleはあまりにも予測可能になりすぎている。次期CEOは驚きの要素を取り戻すことができるだろうか？",
+   "link": "https://www.marketwatch.com/story/apple-has-gotten-too-predictable-can-its-next-ceo-bring-back-the-element-of-surprise-5bd674a0?mod=mw_rss_topstories",
+   "summary": "ウォール街は、ジョン・ターナス氏が支出を増やし、大規模な合併を追求し、イノベーションを倍増させることでアップルのAI戦略を転換することを期待している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T01:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?"
+  },
+  {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/finance/investing/health-care-roundup-market-talk-b4eee231?mod=rss_markets_main",
+   "summary": "ヘルスケア分野をカバーする最新のマーケット トークで、Moderna、Novonesis、Merck KGaA などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T01:36:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "「ゴーストオフィス」と長い待ち時間：社会保障職員は30億ドルと2万人の雇用を要求",
+   "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
+   "summary": "「国民がこれらの給付金を利用するのはますます困難になるだろう」と組合関係者は語った。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T01:35:00+09:00",
+   "lang": "en",
+   "title_orig": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-debe172a?mod=rss_markets_main",
+   "summary": "エネルギーと公益事業をカバーする最新のマーケット トークで、石油先物、イサカ エネルギーなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T01:31:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-53b1771b?mod=rss_markets_main",
+   "summary": "自動車および輸送部門をカバーする最新のマーケットトークで、マースク、ハパックロイド、ダイムラートラックなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T01:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "決算発表の中で米国株先物はまちまち",
+   "link": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main",
+   "summary": "米国株先物はウォルマートなどの決算を前に方向感を模索していた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stock Futures Mixed Amid Earnings Reports"
+  },
+  {
+   "title": "ベッセント氏は財務省が債券市場に再び介入する可能性を示唆「我々には大きなツールキットがある」",
+   "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
+   "summary": "スコット・ベッセント米財務長官は今週、同省による長期国債の買い戻し額を少なくとも2倍に増やす計画で波紋を広げた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T01:23:00+09:00",
+   "lang": "en",
+   "title_orig": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’"
+  },
+  {
+   "title": "財務省の最新の買い戻し計画による最大の損失は米ドルです。その理由は次のとおりです。",
+   "link": "https://www.marketwatch.com/story/the-biggest-loser-from-the-treasurys-latest-buyback-plan-the-u-s-dollar-heres-why-5e996225?mod=mw_rss_topstories",
+   "summary": "ある為替市場専門家は、重要な痛みの閾値を超えたと警告する。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T01:22:00+09:00",
+   "lang": "en",
+   "title_orig": "The biggest loser from the Treasury’s latest buyback plan: The U.S. dollar. Here’s why."
+  },
+  {
+   "title": "ベッセント介入が投資家を落ち着かせることができず、米長期債は下落",
+   "link": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1",
+   "summary": "証券購入額を「少なくとも2倍」にする動きにもかかわらず、30年国債利回りは上昇",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-21T01:20:40+09:00",
+   "lang": "en",
+   "title_orig": "US long-term bonds slide as Bessent intervention fails to soothe investors"
+  },
+  {
    "title": "ホワイトハウスでの明るい会合後、仮想通貨株は上昇を続ける",
    "link": "https://www.wsj.com/finance/currencies/crypto-stocks-continue-surge-premarket-after-upbeat-white-house-meeting-d344afcd?mod=rss_markets_main",
    "summary": "トランプ大統領は、もし法案が可決されれば、ビットコインとその類似品の米国経済へのさらなる統合を可能にするクラリティ法への支持を再確認した。",
@@ -111,16 +211,6 @@
    "title_orig": "Gold Loses Some of Its Shine After Yesterday’s Leap"
   },
   {
-   "title": "ベッセント氏は財務省が債券市場に再び介入する可能性を示唆「我々には大きなツールキットがある」",
-   "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
-   "summary": "スコット・ベッセント米財務長官は今週、同省による長期国債の買い戻し額を少なくとも2倍に増やす計画で波紋を広げた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T00:25:00+09:00",
-   "lang": "en",
-   "title_orig": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’"
-  },
-  {
    "title": "エネルギー市場の「クラック・スプレッド」の上昇により、米国の消費者生活が崩壊する恐れがある",
    "link": "https://www.marketwatch.com/story/the-energy-markets-rising-crack-spread-is-threatening-to-break-the-american-consumer-90b421dc?mod=mw_rss_topstories",
    "summary": "エネルギー市場は、資金繰りに困っている消費者に警告を発している。「ポンプ価格がすぐに下がることを期待しないでください」。",
@@ -141,16 +231,6 @@
    "title_orig": "Walmart shares tumble as sales growth slows to six-year low"
   },
   {
-   "title": "ベッセント介入が投資家を落ち着かせることができず、米長期債は下落",
-   "link": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1",
-   "summary": "証券購入額を「少なくとも2倍」にする動きにもかかわらず、30年国債利回りは上昇",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-21T00:09:59+09:00",
-   "lang": "en",
-   "title_orig": "US long-term bonds slide as Bessent intervention fails to soothe investors"
-  },
-  {
    "title": "スーパー・マイクロ、密輸疑惑で上級管理職を釈放",
    "link": "https://www.wsj.com/business/super-micro-clears-senior-management-in-alleged-smuggling-scheme-5b0d888d?mod=rss_markets_main",
    "summary": "サーバーメーカーは、従業員2名と請負業者によるNvidiaチップを中国に密輸する計画の疑いについての調査を終了した。",
@@ -161,52 +241,12 @@
    "title_orig": "Super Micro Clears Senior Management in Alleged Smuggling Scheme"
   },
   {
-   "title": "米国の天然ガス在庫、週間ベースでは緩やかな増加にとどまる",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-inventories-post-modest-weekly-build-459cc5f8?mod=rss_markets_main",
-   "summary": "現在の注入シーズンで在庫の増加がこれまでで最小となったため、米国の天然ガス先物は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T23:57:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Inventories Post Modest Weekly Build"
-  },
-  {
-   "title": "さらに多くのSpaceX株が市場に出回ろうとしている。知っておくべきことは次のとおりです。",
-   "link": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
-   "summary": "インサイダーが保有するスペースX株の約7％が取引対象となる予定だ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T23:53:00+09:00",
-   "lang": "en",
-   "title_orig": "More SpaceX stock is about to hit the market. Here’s what to know."
-  },
-  {
    "title": "26年産新米 大幅値下がりの見通し",
    "link": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-20T23:47:54+09:00"
-  },
-  {
-   "title": "米国の先行指標は7月に上昇",
-   "link": "https://www.wsj.com/economy/u-s-leading-indicators-ticked-up-in-july-8a288be9?mod=rss_markets_main",
-   "summary": "コンファレンス・ボードの景気先行指数は0.2%上昇して99.5となり、緩やかな成長が訪れる可能性があることを示しています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T23:38:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Leading Indicators Ticked Up in July"
-  },
-  {
-   "title": "私たちの 4 歳の息子は、529 口座に 100,000 ドルを持っています。強気相場は株を買うのに悪い時期なのでしょうか?",
-   "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-   "summary": "「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T23:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
   },
   {
    "title": "戦争ショックにもかかわらず、西側の製油所閉鎖は続く見通し",
@@ -219,52 +259,12 @@
    "title_orig": "Western oil refinery closures set to continue despite war shock"
   },
   {
-   "title": "「かなりの緊張感が漂っている」：99歳の祖母は、母を自分の意志から切り離したいと考えている。介入すべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-   "summary": "「おばあちゃんは、母から 5 万ドルの HELOC を引き出すよう圧力をかけられたと感じています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T23:15:00+09:00",
-   "lang": "en",
-   "title_orig": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
-  },
-  {
-   "title": "市場の「事故」の条件は整っているが、債券利回りの急上昇だけでは事故は起こらないと悲観的なストラテジストは認める",
-   "link": "https://www.marketwatch.com/story/conditions-are-ripe-for-a-market-accident-but-surging-bond-yields-alone-wont-cause-it-concedes-pessimistic-strategist-222cfc57?mod=mw_rss_topstories",
-   "summary": "ソシエテ・ジェネラルの「パーマベア」アルバート・エドワーズ氏は、債券利回りの上昇により市場が悪材料に対してより脆弱になっていると指摘する。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-20T23:14:00+09:00",
-   "lang": "en",
-   "title_orig": "Conditions are ripe for a market ‘accident,’ but surging bond yields alone won’t cause it, concedes pessimistic strategist"
-  },
-  {
    "title": "郵便事業 縮小も視野に検討開始",
    "link": "https://news.yahoo.co.jp/pickup/6592469?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-20T23:05:35+09:00"
-  },
-  {
-   "title": "決算発表の中で米国株先物はまちまち",
-   "link": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main",
-   "summary": "米国株先物はウォルマートなどの決算を前に方向感を模索していた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T23:00:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stock Futures Mixed Amid Earnings Reports"
-  },
-  {
-   "title": "国債買い戻しは利回りを一時的に抑制するだけ",
-   "link": "https://www.wsj.com/finance/investing/treasury-buyback-might-only-briefly-tame-yields-e35657c5?mod=rss_markets_main",
-   "summary": "アナリストらは、高水準の債務と政府支出に対する懸念が依然として残るため、予想外の介入に対する市場の安堵感は長くは続かなかったと指摘した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-20T22:55:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Buyback Only Briefly Tames Yields"
   },
   {
    "title": "風船から鍋まで：便利なテクノロジーを讃えて",
@@ -345,7 +345,7 @@
    "published": "2026-08-20T20:21:13+09:00"
   },
   {
-   "title": "残業月45時間超は「例外中の例外」反発広がる　一律抑制取りやめ",
+   "title": "残量「例外中の例外」の45時間超、反発広がる　一律抑制取りやめ",
    "link": "https://www.asahi.com/articles/ASV8N3GHQV8NULFA01CM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
