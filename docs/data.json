@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T00:54:18.710783+09:00",
+ "generated_at": "2026-08-21T01:19:00.652731+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,14 @@
  "errors": [],
  "items": [
   {
-   "title": "スタンダード生命保険、英国の年金リスク移転でCVC主導グループと提携",
-   "link": "https://www.wsj.com/pro/private-equity/standard-life-teams-up-with-cvc-led-group-on-u-k-pension-risk-transfers-b5e4518c?mod=rss_markets_main",
-   "summary": "このパートナーシップの初期コミットメント総額は最大 27 億 2,000 万ドルで、英国の退職金制度に対する民間資本会社の関心の高まりを反映しています。",
+   "title": "ホワイトハウスでの明るい会合後、仮想通貨株は上昇を続ける",
+   "link": "https://www.wsj.com/finance/currencies/crypto-stocks-continue-surge-premarket-after-upbeat-white-house-meeting-d344afcd?mod=rss_markets_main",
+   "summary": "トランプ大統領は、もし法案が可決されれば、ビットコインとその類似品の米国経済へのさらなる統合を可能にするクラリティ法への支持を再確認した。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-08-21T00:42:00+09:00",
+   "published": "2026-08-21T01:14:00+09:00",
    "lang": "en",
-   "title_orig": "Standard Life Teams Up With CVC-Led Group on U.K. Pension Risk Transfers"
+   "title_orig": "Crypto Stocks Continue to Surge After Upbeat White House Meeting"
   },
   {
    "title": "ベッセント社の債券買い戻し計画から翌日、米国債利回りはすでに再び急上昇している",
@@ -129,6 +129,16 @@
    "published": "2026-08-21T00:22:00+09:00",
    "lang": "en",
    "title_orig": "The energy market’s rising ‘crack spread’ is threatening to break the American consumer"
+  },
+  {
+   "title": "売上高の伸びが6年ぶりの低水準に鈍化し、ウォルマート株が下落",
+   "link": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1",
+   "summary": "小売業者は関税還付金約29億ドルを利用して、窮地に陥った米国の消費者に値下げを提供する",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-21T00:19:28+09:00",
+   "lang": "en",
+   "title_orig": "Walmart shares tumble as sales growth slows to six-year low"
   },
   {
    "title": "ベッセント介入が投資家を落ち着かせることができず、米長期債は下落",
@@ -283,6 +293,14 @@
    "published": "2026-08-20T21:55:52+09:00",
    "lang": "en",
    "title_orig": "Investors cut bets on US and UK rate rises"
+  },
+  {
+   "title": "トランプ氏、対イラン「経済戦争」　取引国に甚大な代償",
+   "link": "https://www.jiji.com/jc/article?k=2026082000769&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-20T21:26:00+09:00"
   },
   {
    "title": "市場前に大きな動きをする銘柄: Walmart、Coinbase、Moderna、Alibaba など",
@@ -473,6 +491,14 @@
    "published": "2026-08-20T16:05:43+09:00"
   },
   {
+   "title": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeTBsWUp2dkZZSHA5OVZwd0FpclFJRkI2b3BjTWplZlpDMkxiWkEtUFprZ2hZRzNCVURpVEgxNUZXdkxFSE5kVUFOYzl5V0ZDclB2bndzRnI1Q0J2dUNaS1R6TlczczBURUZFRDRLaEZTeGh0ZWYydg?oc=5",
+   "summary": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-20T15:53:00+09:00"
+  },
+  {
    "title": "午後3時のドルは158円後半へじり高、前日の急落受け押し目買い - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQRGtIMG04bVBuMUM2ZmtLSm9PZm51b1FIb3FPN3NoQ0l3M2VxeFc3bE5nMmRQT3d6c2phdWI5SG9aMlN6a2ZCZ3FvWUJOb2NrYXdTLVI0MUxoYlE4ZEc2MTllTTUxYW03Q24zemZoaFFhMnVUR05kcg?oc=5",
    "summary": "午後3時のドルは158円後半へじり高、前日の急落受け押し目買い&nbsp;&nbsp;ロイター",
@@ -557,16 +583,6 @@
    "title_orig": "Trump turns on Washington’s museums in new culture war offensive"
   },
   {
-   "title": "米国のトップ法律事務所、1年生の「無謀な」採用で反発に見舞われる",
-   "link": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
-   "summary": "ウォール街の企業はかつてないほど早期に採用活動を行っており、学生や経営陣から懸念を集めている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-20T13:00:19+09:00",
-   "lang": "en",
-   "title_orig": "Top US law firms hit by backlash over ‘crazy’ hiring of first-year students"
-  },
-  {
    "title": "｢140年の老舗企業｣が大変革を遂げた\"4つの仕掛け\"｢古い会社＝変われない｣は大誤解だ【専門家が解説】 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/950536?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢老舗企業は変われない｣——そんな常識を覆す事例があります。創業140年のカクイチが挑んだ組織変革の実例から､会社の\"本質的な変化\"を生む秘訣を､人的資本経営専門家の田中弦氏が解説します。",
@@ -599,12 +615,12 @@
    "published": "2026-08-20T12:00:00+09:00"
   },
   {
-   "title": "午前の日経平均は反発、米金利低下・株高受け 買い一巡後は伸び悩む - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2tIR1YydzE2N09ZbWhTWGRyR05DeXFMaHBuRkZiTDdSN1FaUzE3ZmZKQXRIYWNvS3gxYVdBRkMzb1R2VjdrNEFNblhGZ2k4bnVzMW9XZ252YjJvQ3BLanlSWklRdHhzN1FkLVNkdTcxT2dhR2ZnQkpQVklnR1RHYw?oc=5",
-   "summary": "午前の日経平均は反発、米金利低下・株高受け 買い一巡後は伸び悩む&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
+   "title": "最低賃金、１７県で目安超え　上乗せ縮小、競争は緩和傾向―１９日時点",
+   "link": "https://www.jiji.com/jc/article?k=2026081900946&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
    "category": "報道機関",
-   "published": "2026-08-20T11:59:00+09:00"
+   "published": "2026-08-20T11:47:00+09:00"
   },
   {
    "title": "中国は世界的な債券利回りの急上昇に対抗し、分散投資の魅力を高めている",
