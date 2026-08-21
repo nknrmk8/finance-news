@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T16:55:38.928614+09:00",
+ "generated_at": "2026-08-21T17:25:50.081459+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,9 +58,7 @@
    "category": "海外金融"
   }
  ],
- "errors": [
-  "ロイター: HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "items": [
   {
    "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
@@ -69,6 +67,66 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-21T23:00:00+09:00"
+  },
+  {
+   "title": "金融政策への期待変化の中で金が下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-amid-changing-monetary-policy-expectations-bced8141?mod=rss_markets_main",
+   "summary": "金は初期のアジア貿易で下落した。クリティカル・メタルズは、貴金属は今後も金融政策期待の変化に反応し続ける可能性が高いと述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T17:17:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Slips Amid Changing Monetary Policy Expectations"
+  },
+  {
+   "title": "〈独自〉大手マンションデベロッパー7社は10年間でどこにマンションを建ててきたのか､その｢勢力図｣を公開 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955390?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "マンション業界を牽引する大手デベロッパー｢メジャー7｣。各社は過去10年間でどのエリアにマンションを供給してきたのでしょうか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-21T17:02:00+09:00"
+  },
+  {
+   "title": "中国の人型ロボットの最大の障害: 人間はまだ(ほとんど)優れている",
+   "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+   "summary": "人型ロボットは、ほとんどの労働シナリオにおいて人間と同じように効率的にパフォーマンスを発揮するのに依然として苦労しています。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-21T17:01:46+09:00",
+   "lang": "en",
+   "title_orig": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better"
+  },
+  {
+   "title": "三井不動産の街づくりで｢経年優化するマンション｣…次々と大型案件を獲得していく仕組みとは | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955389?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢メジャー7｣と呼ばれる大手デベロッパー各社が競い合うマンション業界。三井不動産は面的な街づくりで資産価値を高めています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-21T17:01:00+09:00"
+  },
+  {
+   "title": "アジアや欧州でAI無償提供　狙うスキル底上げ、タイは500万人に",
+   "link": "https://www.asahi.com/articles/ASV8P2FT2V8PUHBI00QM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-21T17:00:00+09:00"
+  },
+  {
+   "title": "完成物件は\"財産\"―― 住友不動産｢シティタワー千住大橋｣に見る値引きしない販売戦略の勝ちパターン | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "大手7社が牽引するマンション業界。その戦略のポイントは用地取得や街づくり､唯一無二のブランド構築､高級志向､持続的商品力など多岐にわたります。住友不動産の値引きしない販売戦略に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-21T17:00:00+09:00"
+  },
+  {
+   "title": "中国人民銀、投信の長期国債投資を調査＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlBuUjJCekQ1aEo2RjNhNnlfdDhYRS1WcFJWcXFjc1M5eFZxOUZHRkZwc0l6YUpoX3phR0Eyd2JPUXNNMXd2WHp2N1ZFUjhHOU1WOWtrb3NoVjFodTVFa0FiZDc3OVNfRG9iaVkydHY5TVB0RUFERmZ3YVp3czRSWQ?oc=5",
+   "summary": "中国人民銀、投信の長期国債投資を調査＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:57:43+09:00"
   },
   {
    "title": "原油先物はテクニカル調整の可能性で下落",
@@ -109,6 +167,22 @@
    "published": "2026-08-21T16:30:00+09:00",
    "lang": "en",
    "title_orig": "Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali"
+  },
+  {
+   "title": "英財政収支、7月予想外の赤字 社会保障関連費など増加 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVBrcXBkTktFVVJQa2diQ0NvN2lrczBjejJJT25FZnFQb3JQZEJLMDhqUU4wb2IxYWZjY0xGU1RMa3pCaUZwVnZ3NGxwTGdUaUktZ09wQl9aaXVockl0bU52Z0w2b21mNVdVZnJrNEJhYnlfbkVYVjZFSnFRMW1jWQ?oc=5",
+   "summary": "英財政収支、7月予想外の赤字 社会保障関連費など増加&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:22:10+09:00"
+  },
+  {
+   "title": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVhwb2hlY1NFWXlobFFFYUNJTHYtRDl1b0RidGJROWFVb1QteTlna0lLQnJOby0tTHNhekQ4SFdiQV9TX3h2OHFIa2xUVE1Fc0VLXzZFRk9EdGFkejN5RjJlQ0QyT0xfX2toczF1Z0xuTnlmRXhDTU4zd2FkQTdjbg?oc=5",
+   "summary": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:19:43+09:00"
   },
   {
    "title": "LabubuメーカーのPop Mart株は主要な中国国外売上高統計の下落を受けて下落、シティは目標株価を引き下げる",
@@ -229,14 +303,14 @@
    "published": "2026-08-21T12:30:00+09:00"
   },
   {
-   "title": "北朝鮮経済はまれにみる「フラッシュ・フォー・ダッシュ」を享受",
-   "link": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab",
+   "title": "北朝鮮、珍しい「フラッシュへのダッシュ」を楽しむ",
+   "link": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab?syn-25a6b1a6=1",
    "summary": "ロシアの対ウクライナ戦争を金正恩氏が支持、建設ブームと高級品の売り上げが加速",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-21T12:21:12+09:00",
    "lang": "en",
-   "title_orig": "North Korea’s economy enjoys rare ‘dash for flash’"
+   "title_orig": "North Korea enjoys rare ‘dash for flash’"
   },
   {
    "title": "芸能事務所に異変 倒産が相次ぐ",
@@ -245,6 +319,14 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-21T12:14:59+09:00"
+  },
+  {
+   "title": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QZXFJRUgyLWNNa2NseHZ4ODYyRnFGUmRwODdDdkhmUlJ0V3JEM25NSGZUem1UdS1BTE8zYXU2dnQ0akl6UnFEMnlQa25ZSmUzV2RlX3ZkY2lCcjJtUTk4b1JlZUJfVnJWSjFJOFg4YWdwNHpnSDc4ZVl4dnJLQQ?oc=5",
+   "summary": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T12:08:00+09:00"
   },
   {
    "title": "秋サケ激減の異常事態 転換した漁",
@@ -263,6 +345,14 @@
    "published": "2026-08-21T12:00:00+09:00"
   },
   {
+   "title": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFlFcjJlQjRpQkF4QWFJZjRDd3BDcVFTRGd0VlBXLTdyWHV2THlIbkRyMm4yenozQmFnZnJzS3lya1ktMlFsS3JHSmtwWnh0LTRBZ2VqRWJLdjhkTmFPOVlMY1hNNDd6YjlxUkRzb0V0MmdIZ2VjUUtnd2JZTzFYZmRsQXpDOUNfM05J?oc=5",
+   "summary": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T11:55:00+09:00"
+  },
+  {
    "title": "｢国民の生命を守る｣はどこへ行った？ トランプのICC制裁にモノ申せぬ高市首相｢言動不一致｣と｢弱腰外交｣の末路 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955523?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢国民の生命と財産を守る｣と誓った高市首相。そのリーダーシップは､内外の難題にどう立ち向かえているのでしょうか。アメリカによる国際刑事裁判所所長への制裁に揺れる中､リーダーの覚悟が問われています。",
@@ -279,22 +369,36 @@
    "published": "2026-08-21T11:28:37+09:00"
   },
   {
+   "title": "サウジ原油輸出、6月は増加 覚書署名で過去最低から反転 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WDl6a2l0UktEZUlXdG5sMExKcy1hUk5jS3lRVGxqOGJzT1VxaDFMYk16cjZndXdWcUYwNmVoRTJyV2Z5YzFmVjN3Z3R6OU40OEdzS0VBSHRyV0sxaXpPQzBVSVRvZHRUQ2FiWlFnVHNBNkhBVDhVYXN3?oc=5",
+   "summary": "サウジ原油輸出、6月は増加 覚書署名で過去最低から反転&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T11:26:00+09:00"
+  },
+  {
+   "title": "原油先物、2週連続上昇へ 米イラン戦争膠着で供給懸念 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KMVFTUTByVk0ydk92ZzM1T0N0Q01YdTNOaXJlV2d6Tm91NkdOblFPSTZpaHZ6SnlqS0xJWjJyVHQ3WlY3STQwMFItOHJCY1dBZEU4WVZidFhoZDEwVkk1SXZiUnFnWHlhcVVHTTUxVVZPa3BLS1F6ZnFR?oc=5",
+   "summary": "原油先物、2週連続上昇へ 米イラン戦争膠着で供給懸念&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T11:14:00+09:00"
+  },
+  {
+   "title": "ルーマニアが海上ドローン破壊、黒海の天然ガス開発区域近くで - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWtZWXZTaXdqbHY0Ty1zaVhEczU3eWhOdllCRzdfenptUkZqYnVIMzRrbnI2XzJYOGRhNW83YV9SVldBZ0Q3eW9uLXVIdU9CNnBVbVhicElrTUVKbXJTdGFxcURPcnFHR1FZRUI4bkNxd2lQSzQ2Q04ycERnOTZkYg?oc=5",
+   "summary": "ルーマニアが海上ドローン破壊、黒海の天然ガス開発区域近くで&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T11:06:00+09:00"
+  },
+  {
    "title": "｢テレビに夢中な子｣どう声をかけて､お風呂に入ってもらう？→子どもへの声かけで最も大切な｢3S｣ | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/953973?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "子どもの行動に違和感を覚えながらも､どう対応すれば良いか悩む親御さんは多いはず。｢脳の特性｣に着目し､家庭でできる発達支援を提案する本記事では､魔法の｢3S｣や会話の\"型\"を紹介。子育ての新しいヒン…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-21T11:00:00+09:00"
-  },
-  {
-   "title": "中国の人型ロボットの最大の障害: 人間はまだ(ほとんど)優れている",
-   "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-   "summary": "人型ロボットは、ほとんどの労働シナリオにおいて人間と同じように効率的にパフォーマンスを発揮するのに依然として苦労しています。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-21T10:56:01+09:00",
-   "lang": "en",
-   "title_orig": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better"
   },
   {
    "title": "金融庁が企画室新設へ 検査司令塔",
@@ -335,16 +439,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-21T10:20:00+09:00"
-  },
-  {
-   "title": "金融政策への期待変化の中で金が下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-amid-changing-monetary-policy-expectations-bced8141?mod=rss_markets_main",
-   "summary": "金は初期のアジア貿易で下落した。クリティカル・メタルズは、貴金属は今後も金融政策期待の変化に反応し続ける可能性が高いと述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T10:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Slips Amid Changing Monetary Policy Expectations"
   },
   {
    "title": "【特別連載ダイジェスト】オリックス宮内義彦が語る｢改革の真実｣――なぜ日本は変われないのか？ | キャリア・教育 | 東洋経済オンライン",
@@ -403,6 +497,14 @@
    "published": "2026-08-21T09:00:00+09:00"
   },
   {
+   "title": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWpmOC1STlN3QkhlNGRpcTdtQ2p3N2UxaWxRQjIwOWVBZUdJalBVSlB4T0tUX0NiU0VWZ01GUDNxcXhOblB2U0xyQmFvMnlfRlE4emd1bElVTmxWSUVDV1lSZUExNDR4TjBEdGNGcy11X1J5elBkNFRoQlNOZFU4Yg?oc=5",
+   "summary": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T08:46:00+09:00"
+  },
+  {
    "title": "54歳で東京藝大合格。｢京大卒→電通で32年勤務｣のエリートに退職＆学び直しを決断させた\"あの時の後悔\"〈再配信〉 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954990?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "大手広告会社を54歳で退職し､東京藝術大学に入学した和田満徳さん。若い頃の後悔を胸に再び受験勉強に挑み､半年の努力で見事合格を果たしました。（※読者の反響が大きかった記事を再配信します。本稿は202…",
@@ -419,14 +521,22 @@
    "published": "2026-08-21T08:23:41+09:00"
   },
   {
-   "title": "ベッセントは32兆ドルの国債市場で何をしているのか、そしてそれは機能するのだろうか？",
-   "link": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
-   "summary": "米財務長官、借り入れコストの高騰を阻止できるかどうか一か八かの賭けをした",
+   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
+   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T08:10:55+09:00"
+  },
+  {
+   "title": "頭部外傷が原因で3億ドルの詐欺を犯した創業者に実刑判決",
+   "link": "https://www.ft.com/content/dfa7c084-f997-4d76-82cb-6d45f543dc3c?syn-25a6b1a6=1",
+   "summary": "判事はクリスティーン・ハンシッカーさんの犯罪に起因する傷害を認め、懲役5年の実刑判決を下す",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-08-21T08:08:14+09:00",
+   "published": "2026-08-21T08:10:29+09:00",
    "lang": "en",
-   "title_orig": "What is Bessent doing with the $32tn Treasury market — and will it work?"
+   "title_orig": "Founder who blamed $300mn fraud on head injury sentenced to prison"
   },
   {
    "title": "“数合わせの障害者雇用”は通用しない　イマドキの採用・定着プロセスとは",
@@ -471,6 +581,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-21T07:30:00+09:00"
+  },
+  {
+   "title": "ＮＹ市場サマリー（20日）ダウ703ドル安、ドル・利回り上昇 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wa3VvUmZiY1FjUDFmRl8xc216dlZGVXU5TnFEVDBzQU9yMU95bmV0YjBWQWhJYlJQX3A5dlE0UnJDNWg5dUYySm1LcDhlX05ERGhHaXpwdEY1cFlZNVltN3JHWndOMkN2RWhlN2Q2Z002MVRvcDNBSw?oc=5",
+   "summary": "ＮＹ市場サマリー（20日）ダウ703ドル安、ドル・利回り上昇&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T07:20:52+09:00"
   },
   {
    "title": "1600円｢ホルモンランチ｣でサラダ･果物･ご飯《食べ放題》＆ドリンクバーも！ …九州で熱烈支持｢焼肉チェーン｣の実力 | ライフ | 東洋経済オンライン",
@@ -563,30 +681,6 @@
    "title_orig": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
   },
   {
-   "title": "〈米トランプ政権が制裁〉ICCの赤根所長が1年前に語っていた｢もし私が制裁対象になれば…｣その甚大な影響 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955448?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アメリカのトランプ政権による国際刑事裁判所（ICC）所長･赤根智子氏への制裁指定は､戦争犯罪を裁く最後の砦であるICCの存続を揺るがしています。法の支配が失われた世界では何が起きるのか。国際秩序が危…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-21T06:00:00+09:00"
-  },
-  {
-   "title": "やっぱりアメリカの問題意識は｢高止まりする米金利｣にある…サプライズの米国債買い戻しが協調介入の意図を裏付ける | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955427?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "米財務省が突如発表した長期･超長期国債のバイバック増額は､金融市場に大きな波紋を広げました。背景には｢下がらない米金利｣への強い警戒感があります。米国の政策措置は本当に金利と為替の混乱を鎮められるの…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-21T06:00:00+09:00"
-  },
-  {
-   "title": "信頼できる｢CSR企業ランキング｣金融機関トップ30…3位は東京海上ホールディングス､2位は日本生命保険､では1位は？ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955391?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "企業の社会的責任（CSR）がますます重視される現代､金融機関の評価はどう変わっているのでしょうか。『週刊東洋経済』『CSR企業総覧』による最新のCSR企業ランキングから､注目の上位金融機関の取り組み…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-21T06:00:00+09:00"
-  },
-  {
    "title": "「アルファードバブル」は終わるのか　残クレ時代の“新たな主役”を探る",
    "link": "https://www.itmedia.co.jp/business/articles/2608/21/news024.html",
    "summary": "トヨタのアルファードの中古車価格が下落傾向にある。残価設定クレジットによる購入者が増え、市場に在庫が増えたからだ。現在、高級SUVの人気再燃の兆しもあり、残価設定クレジットを利用する層の需要も移り変わるかもしれない。",
@@ -643,6 +737,14 @@
    "published": "2026-08-21T04:01:00+09:00",
    "lang": "en",
    "title_orig": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped"
+  },
+  {
+   "title": "米新規失業保険申請、前週比6000件減の20.6万件 予想下回る - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVRHLWV0bXFaQm4zVS11Y3czZjJlTTY5U0h4Qk8wQkM0T3BkQ0dZSXZQb1hPSG5OT2dIcGc5OVJ2U19fMVRjd2tCMW0wcThoenRYck1MaWlFR3c4Rk1ULW1pUmRNNFNaYmYxS3JxNnZDLUkzQ1BtRllPQzFIbFBsOA?oc=5",
+   "summary": "米新規失業保険申請、前週比6000件減の20.6万件 予想下回る&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T02:56:01+09:00"
   },
   {
    "title": "26年産新米 大幅値下がりの見通し",
@@ -775,12 +877,20 @@
    "published": "2026-08-20T17:03:34+09:00"
   },
   {
-   "title": "「乗れない市バス」解消へ　LRT導入案、経済界が金閣寺ルート議論",
-   "link": "https://www.asahi.com/articles/ASV8L2JLKV8LPLZB009M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
+   "title": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTE5ud3loSFRYeF84NWlDbFZLRXFtanpFQ1UtVlJBclZ0b0haYk9OQkFtTzN0MU50Q1dhZG5xOUFyMTdhYk5aS2o1N1lQNnRucDBsekp1Q1JyX1FsSURfMGU4NFhYTlhxZ29OZTh3QUpuNENmR0tvQU8yUDUtRWc2dA?oc=5",
+   "summary": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-20T17:00:00+09:00"
+   "published": "2026-08-20T16:05:43+09:00"
+  },
+  {
+   "title": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeTBsWUp2dkZZSHA5OVZwd0FpclFJRkI2b3BjTWplZlpDMkxiWkEtUFprZ2hZRzNCVURpVEgxNUZXdkxFSE5kVUFOYzl5V0ZDclB2bndzRnI1Q0J2dUNaS1R6TlczczBURUZFRDRLaEZTeGh0ZWYydg?oc=5",
+   "summary": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-20T15:53:00+09:00"
   },
   {
    "title": "20年利付国債（第197回）の第II非価格競争入札結果（令和8年8月20日入札）",
@@ -813,6 +923,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-20T14:00:00+09:00"
+  },
+  {
+   "title": "中国恒大創業者に無期懲役の判決、全資産没収 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HR2EtcEs3WlhpSjk4akdvT3FWSFRZT2xDYzU3MFlEYzcyRW5pNEp6U3NuQ0N2YjJWN2R2ZEZjOWtlZl9fTlBIWU9LTkhwTlY4bnZjTEozNUtlRTZJcEFNMy1ndEpxU2twcFNjcGc5SFZJSW1WaXZuQVY3LWxTUQ?oc=5",
+   "summary": "中国恒大創業者に無期懲役の判決、全資産没収&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-20T13:58:00+09:00"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年8月20日入札）",
