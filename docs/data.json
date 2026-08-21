@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T06:17:01.062467+09:00",
+ "generated_at": "2026-08-22T06:44:13.683270+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,100 @@
  "errors": [],
  "items": [
   {
+   "title": "ビットコインが8万ドルに近づくと米国株が上昇",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?mod=rss_markets_main",
+   "summary": "金曜日の米国株は、ビットコインと堅調な仮想通貨株の高騰が地合いの押し上げにつながり、上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-22T06:38:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stocks Rise as Bitcoin Nears $80,000"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-e63b598b?mod=rss_markets_main",
+   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、石油先物やバンチャック社などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-22T06:34:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3?mod=rss_markets_main",
+   "summary": "金融サービスをカバーする最新のマーケットトークで、ビットコインETF、仮想通貨に関連する米国株式、エクスペリアンなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-22T06:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "基本資料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9b4cadce?mod=rss_markets_main",
+   "summary": "基本的な材料をカバーする最新のマーケットトークで、金の価格、アルケマ、ソルベイなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-22T06:31:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "｢何がなんだかわからない今の市場｣の｢正体｣とは……｢21世紀最大の金融危機｣が目の前に迫っているといっても過言ではない | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955587?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "急激な国債価格の下落､増大するAI関連企業の資金調達､米国政府の財政問題など､世界の金融市場はかつてない揺らぎに直面しています。専門家の見解も分かれる中､真のリスクはどこに潜むのか―。事実を徹底的に…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-22T06:30:00+09:00"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-83301203?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、ビットコイン、暗号通貨、アリババ グループなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-22T06:28:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "お子様の大学の学費を Venmo で賄えるようになりました。しかし、そうすべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
+   "summary": "消費者が柔軟な支出オプションを求める中、一部の大学は非伝統的な支払い方法を受け入れ始めるだろう。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-22T06:20:00+09:00",
+   "lang": "en",
+   "title_orig": "You can now Venmo your kid’s college tuition. But should you?"
+  },
+  {
+   "title": "まもなく、コストコでメディケア アドバンテージ プランを購入できるようになります。知っておくべきこと。",
+   "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
+   "summary": "ウェアハウス クラブは、健康保険を提供する最新の消費者ブランドになります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-22T06:17:00+09:00",
+   "lang": "en",
+   "title_orig": "Soon you can buy Medicare Advantage plans at Costco. What you need to know."
+  },
+  {
+   "title": "離婚後､子ども3人､異国でゼロから…外国人夫と別れた｢30代日本人女性｣がつかんだ\"自分の生きる道\"　国際結婚の現実とは | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/951779?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "異国スペインで3人の子を抱え､離婚後もひとり奮闘する章子さん。社会の冷たさやさまざまな壁に直面しながらも､一歩ずつ人生を切り開いてきました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-22T06:16:00+09:00"
+  },
+  {
+   "title": "トランプ氏、カナダとの貿易協定締結に期待 関税発動期限迫る - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmdxdU1kQ2F1a1A1RUJmRnZDRGJhWld1TmYzYndtb19yUlhCN1BkOVdmM05zUzdrdVIxeXFuQnYwVGRmb0JhRVB4dWl0SmhoZXZ3NWY4bkExa2d3S09mbjN6U3BDMWtGNGdvVEtIZFpHdnV0cmdMb0Y3aU5taTBqRXJR?oc=5",
+   "summary": "トランプ氏、カナダとの貿易協定締結に期待 関税発動期限迫る&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T06:15:43+09:00"
+  },
+  {
    "title": "華やかなイメージの国際結婚だが…《離婚》を選んだ夫婦の10年　義家族との溝､｢オープンリレーションシップ｣の顛末 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/951780?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "国際結婚の\"華やかさ\"の裏に潜む､異文化や義家族との葛藤､そして夫婦間のすれ違い――。結婚から10年､スペインで離婚を選んだ章子さんのリアルがそこにありました。",
@@ -75,16 +169,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-22T06:05:00+09:00"
-  },
-  {
-   "title": "ビットコインが8万ドルに近づくと米国株が上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?mod=rss_markets_main",
-   "summary": "金曜日の米国株は、ビットコインと堅調な仮想通貨株の高騰が地合いの押し上げにつながり、上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-22T06:04:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Rise as Bitcoin Nears $80,000"
   },
   {
    "title": "日本の｢民主主義｣の誕生は戦後からではない―明治の思想的格闘からみる国民主権の源流､日本に根付いた民主制150年 | 政治・経済・投資 | 東洋経済オンライン",
@@ -233,16 +317,6 @@
    "title_orig": "Oil Posts Weekly Gains on Simmering Middle East Tension"
   },
   {
-   "title": "米国の天然ガス先物は週間で小幅上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-on-weather-outlook-4a0dc26f?mod=rss_markets_main",
-   "summary": "米国の天然ガス先物は値上がりして落ち着き、夏の暑い天候によりエアコン対策のための電力部門の使用が促進されたため、2週連続で上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-22T04:36:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Futures Post Small Weekly Gain"
-  },
-  {
    "title": "｢赤い電車｣名鉄､パノラマカー全盛期の記憶　流線形の旧型から気動車まで｢何でもあり｣のバラエティ | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955402?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "赤い電車で知られる名鉄。先頭に展望席を設けた｢パノラマカー｣をはじめ､戦前生まれの電車や気動車特急などさまざまな車両が走っていた懐かしい時代を､鉄道写真家･南正時氏が振り返ります。全盛期のパノラマカ…",
@@ -261,16 +335,6 @@
    "title_orig": "Former JPMorgan exec takes on Social Security advisory role"
   },
   {
-   "title": "「これは本当に悲劇です」：娘は4年間私と話をしていませんが、それは政治とは何の関係もありません",
-   "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-   "summary": "「彼女には愛、サポート、そしてチャンスがあったと言ったら、信じてもらう必要があります。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-22T04:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘It’s truly a tragedy’: My daughter hasn’t spoken to me for 4 years, but it has nothing to do with politics"
-  },
-  {
    "title": "イラン大統領、「強い立場」から米国との戦争終結を呼びかけ",
    "link": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
    "summary": "マスード・ペゼシキアン氏のコメントは、国がどれだけの経済的圧力に耐えられるかについての政権内の議論を反映している",
@@ -281,52 +345,12 @@
    "title_orig": "Iran’s president calls to end war with US from ‘position of strength’"
   },
   {
-   "title": "財務省介入の説得に苦戦する中、債券利回りは安定",
-   "link": "https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17?mod=rss_markets_main",
-   "summary": "財務省の突然の債券市場介入に続いて当初急落した後、財務省利回りはほぼ横ばいを維持した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-22T03:38:00+09:00",
-   "lang": "en",
-   "title_orig": "Bond Yields Steady as Treasury Intervention Struggles to Convince"
-  },
-  {
    "title": "令和８年７月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20260821.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-22T03:30:00+09:00"
-  },
-  {
-   "title": "トランプ氏、バンス氏、ベッセント氏は「もう一つの事実」で債券市場を落ち着かせようとしている",
-   "link": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
-   "summary": "おそらくこれはテレビや切り株で機能するでしょう。しかし、人々が数えられるウォール街ではそれは機能しません。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-22T03:29:00+09:00",
-   "lang": "en",
-   "title_orig": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’"
-  },
-  {
-   "title": "ドルは最近の安値付近で安定",
-   "link": "https://www.wsj.com/finance/currencies/thai-baht-likely-to-stay-weak-in-near-term-d8814445?mod=rss_markets_main",
-   "summary": "WSJドル指数は、市場が回復力のあるデータと財務省の長期国債調達額の増加計画をうまく調整する中、数か月ぶりの安値付近で安定した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-22T03:10:00+09:00",
-   "lang": "en",
-   "title_orig": "Dollar Stabilizes Near Recent Lows"
-  },
-  {
-   "title": "コメックスゴールドは5.56%高の4624.10ドルで今週を終えた。",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-amid-changing-monetary-policy-expectations-bced8141?mod=rss_markets_main",
-   "summary": "金曜日は金が2.4%上昇し、銀は2.1%上昇し、両金属とも3回連続の上昇となり、今週では上昇を記録した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-22T02:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Comex Gold Ends the Week 5.56% Higher at $4624.10"
   },
   {
    "title": "カルシのトレーダーらは、ビットコインの上昇は現在の水準付近で年末を迎える可能性があると考えている",
@@ -561,27 +585,11 @@
    "published": "2026-08-21T17:02:00+09:00"
   },
   {
-   "title": "三井不動産の街づくりで｢経年優化するマンション｣…次々と大型案件を獲得していく仕組みとは | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955389?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢メジャー7｣と呼ばれる大手デベロッパー各社が競い合うマンション業界。三井不動産は面的な街づくりで資産価値を高めています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-21T17:01:00+09:00"
-  },
-  {
    "title": "アジアや欧州でAI無償提供　狙うスキル底上げ、タイは500万人に",
    "link": "https://www.asahi.com/articles/ASV8P2FT2V8PUHBI00QM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
-   "published": "2026-08-21T17:00:00+09:00"
-  },
-  {
-   "title": "完成物件は\"財産\"…住友不動産｢シティタワー千住大橋｣に見る値引きしない販売戦略の勝ちパターン | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "大手7社が牽引するマンション業界。その戦略のポイントは用地取得や街づくり､唯一無二のブランド構築､高級志向､持続的商品力など多岐にわたります。住友不動産の値引きしない販売戦略に迫ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
    "published": "2026-08-21T17:00:00+09:00"
   },
   {
@@ -809,14 +817,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-21T08:23:41+09:00"
-  },
-  {
-   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
-   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T08:10:55+09:00"
   },
   {
    "title": "“数合わせの障害者雇用”は通用しない　イマドキの採用・定着プロセスとは",
