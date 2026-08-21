@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T16:13:36.610120+09:00",
+ "generated_at": "2026-08-21T16:55:38.928614+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,7 +58,9 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
    "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
@@ -69,12 +71,34 @@
    "published": "2026-08-21T23:00:00+09:00"
   },
   {
-   "title": "実質輸出入の動向",
-   "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-08-21T16:00:00+09:00"
+   "title": "原油先物はテクニカル調整の可能性で下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e?mod=rss_markets_main",
+   "summary": "木曜日の原油先物相場は５取引連続で上昇した後、テクニカル調整の可能性があり、原油先物相場は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T16:51:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Fall on Likely Technical Correction"
+  },
+  {
+   "title": "米債券買い戻し計画に対する懐疑的な見方からアジアのほとんどの通貨が小幅上昇",
+   "link": "https://www.wsj.com/finance/currencies/thai-baht-likely-to-stay-weak-in-near-term-d8814445?mod=rss_markets_main",
+   "summary": "米財務省の債券買い戻し計画に対する懐疑的な見方から、ほとんどのアジア通貨は対ドルで若干上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T16:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Most Asian Currencies Edge Higher on Skepticism Over U.S. Bond Buyback Plan"
+  },
+  {
+   "title": "日経平均株価が0.5%下落、ウォール街の損失に追随",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?mod=rss_markets_main",
+   "summary": "日経平均株価は0.5%下落し、一夜にしてウォール街の損失を追跡した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T16:44:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 0.5%, Tracking Wall Street’s Losses"
   },
   {
    "title": "モンテ・デイ・パスキ、400億ドルでイタリアの同業者バンコBPM、バンカ・ジェネラリの買収に動く",
@@ -82,19 +106,37 @@
    "summary": "シエナ銀行は、イタリアの同業バンコBPMとバンカ・ジェネラリに対して総額397億3000万ドルの全株入札を開始すると発表した。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-08-21T15:34:00+09:00",
+   "published": "2026-08-21T16:30:00+09:00",
    "lang": "en",
    "title_orig": "Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali"
   },
   {
-   "title": "原油先物はテクニカル調整の可能性で下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e?mod=rss_markets_main",
-   "summary": "木曜日の原油先物相場は５取引連続で上昇した後、テクニカル調整の可能性があり、原油先物相場は下落した。",
-   "source": "WSJ マーケット",
+   "title": "LabubuメーカーのPop Mart株は主要な中国国外売上高統計の下落を受けて下落、シティは目標株価を引き下げる",
+   "link": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
+   "summary": "ポップマート株は上半期決算発表後に下落。",
+   "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-08-21T15:02:00+09:00",
+   "published": "2026-08-21T16:18:33+09:00",
    "lang": "en",
-   "title_orig": "Oil Futures Fall on Likely Technical Correction"
+   "title_orig": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target"
+  },
+  {
+   "title": "モンテ・デイ・パスキ、バンカ・ジェネラリとバンコBPMの二重買収入札を開始",
+   "link": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
+   "summary": "計画では価値約700億ユーロのイタリアの巨大銀行会社が誕生する",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-21T16:17:38+09:00",
+   "lang": "en",
+   "title_orig": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM"
+  },
+  {
+   "title": "実質輸出入の動向",
+   "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-08-21T16:00:00+09:00"
   },
   {
    "title": "｢言葉狩りだろ｣｢代替案がひどい｣と物議…死球を｢当球｣､盗塁を｢隙あり｣に？ \"野球用語見直し\"に世間が嫌悪感を抱くワケ | ライフ | 東洋経済オンライン",
@@ -111,16 +153,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-21T14:40:00+09:00"
-  },
-  {
-   "title": "イムラン・カーンはパキスタンの刑務所から病院に移送され、また戻ってきた",
-   "link": "https://www.ft.com/content/0af3065f-15dc-4444-aa45-b7b62546c649?syn-25a6b1a6=1",
-   "summary": "人気のある元首相が最高裁判所の命令を受けて治療を受けた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-21T14:37:54+09:00",
-   "lang": "en",
-   "title_orig": "Imran Khan moved from Pakistan jail to hospital and back again"
   },
   {
    "title": "セコマ なぜ人口580人の村にも店",
@@ -215,14 +247,6 @@
    "published": "2026-08-21T12:14:59+09:00"
   },
   {
-   "title": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QZXFJRUgyLWNNa2NseHZ4ODYyRnFGUmRwODdDdkhmUlJ0V3JEM25NSGZUem1UdS1BTE8zYXU2dnQ0akl6UnFEMnlQa25ZSmUzV2RlX3ZkY2lCcjJtUTk4b1JlZUJfVnJWSjFJOFg4YWdwNHpnSDc4ZVl4dnJLQQ?oc=5",
-   "summary": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T12:08:00+09:00"
-  },
-  {
    "title": "秋サケ激減の異常事態 転換した漁",
    "link": "https://news.yahoo.co.jp/pickup/6592517?source=rss",
    "summary": "",
@@ -239,24 +263,6 @@
    "published": "2026-08-21T12:00:00+09:00"
   },
   {
-   "title": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFlFcjJlQjRpQkF4QWFJZjRDd3BDcVFTRGd0VlBXLTdyWHV2THlIbkRyMm4yenozQmFnZnJzS3lya1ktMlFsS3JHSmtwWnh0LTRBZ2VqRWJLdjhkTmFPOVlMY1hNNDd6YjlxUkRzb0V0MmdIZ2VjUUtnd2JZTzFYZmRsQXpDOUNfM05J?oc=5",
-   "summary": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T11:55:00+09:00"
-  },
-  {
-   "title": "米債券買い戻し計画に対する懐疑的な見方からアジアのほとんどの通貨が小幅上昇",
-   "link": "https://www.wsj.com/finance/currencies/thai-baht-likely-to-stay-weak-in-near-term-d8814445?mod=rss_markets_main",
-   "summary": "米財務省の債券買い戻し計画に対する懐疑的な見方から、ほとんどのアジア通貨は対ドルで若干上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T11:36:00+09:00",
-   "lang": "en",
-   "title_orig": "Most Asian Currencies Edge Higher on Skepticism Over U.S. Bond Buyback Plan"
-  },
-  {
    "title": "｢国民の生命を守る｣はどこへ行った？ トランプのICC制裁にモノ申せぬ高市首相｢言動不一致｣と｢弱腰外交｣の末路 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955523?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢国民の生命と財産を守る｣と誓った高市首相。そのリーダーシップは､内外の難題にどう立ち向かえているのでしょうか。アメリカによる国際刑事裁判所所長への制裁に揺れる中､リーダーの覚悟が問われています。",
@@ -271,14 +277,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-21T11:28:37+09:00"
-  },
-  {
-   "title": "サウジ原油輸出、6月は増加 覚書署名で過去最低から反転 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WDl6a2l0UktEZUlXdG5sMExKcy1hUk5jS3lRVGxqOGJzT1VxaDFMYk16cjZndXdWcUYwNmVoRTJyV2Z5YzFmVjN3Z3R6OU40OEdzS0VBSHRyV0sxaXpPQzBVSVRvZHRUQ2FiWlFnVHNBNkhBVDhVYXN3?oc=5",
-   "summary": "サウジ原油輸出、6月は増加 覚書署名で過去最低から反転&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T11:26:00+09:00"
   },
   {
    "title": "｢テレビに夢中な子｣どう声をかけて､お風呂に入ってもらう？→子どもへの声かけで最も大切な｢3S｣ | キャリア・教育 | 東洋経済オンライン",
@@ -381,16 +379,6 @@
    "published": "2026-08-21T10:00:00+09:00"
   },
   {
-   "title": "日経平均株価が0.5%下落、ウォール街の損失に追随",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?mod=rss_markets_main",
-   "summary": "日経平均株価は0.5%下落し、一夜にしてウォール街の損失を追跡した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T09:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Falls 0.5%, Tracking Wall Street’s Losses"
-  },
-  {
    "title": "国債金利情報(令和8年8月20日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
@@ -415,14 +403,6 @@
    "published": "2026-08-21T09:00:00+09:00"
   },
   {
-   "title": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWpmOC1STlN3QkhlNGRpcTdtQ2p3N2UxaWxRQjIwOWVBZUdJalBVSlB4T0tUX0NiU0VWZ01GUDNxcXhOblB2U0xyQmFvMnlfRlE4emd1bElVTmxWSUVDV1lSZUExNDR4TjBEdGNGcy11X1J5elBkNFRoQlNOZFU4Yg?oc=5",
-   "summary": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T08:46:00+09:00"
-  },
-  {
    "title": "54歳で東京藝大合格。｢京大卒→電通で32年勤務｣のエリートに退職＆学び直しを決断させた\"あの時の後悔\"〈再配信〉 | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954990?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "大手広告会社を54歳で退職し､東京藝術大学に入学した和田満徳さん。若い頃の後悔を胸に再び受験勉強に挑み､半年の努力で見事合格を果たしました。（※読者の反響が大きかった記事を再配信します。本稿は202…",
@@ -437,14 +417,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-21T08:23:41+09:00"
-  },
-  {
-   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
-   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T08:10:55+09:00"
   },
   {
    "title": "ベッセントは32兆ドルの国債市場で何をしているのか、そしてそれは機能するのだろうか？",
@@ -499,14 +471,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-21T07:30:00+09:00"
-  },
-  {
-   "title": "ＮＹ市場サマリー（20日）ダウ703ドル安、ドル・利回り上昇 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wa3VvUmZiY1FjUDFmRl8xc216dlZGVXU5TnFEVDBzQU9yMU95bmV0YjBWQWhJYlJQX3A5dlE0UnJDNWg5dUYySm1LcDhlX05ERGhHaXpwdEY1cFlZNVltN3JHWndOMkN2RWhlN2Q2Z002MVRvcDNBSw?oc=5",
-   "summary": "ＮＹ市場サマリー（20日）ダウ703ドル安、ドル・利回り上昇&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T07:20:52+09:00"
   },
   {
    "title": "1600円｢ホルモンランチ｣でサラダ･果物･ご飯《食べ放題》＆ドリンクバーも！ …九州で熱烈支持｢焼肉チェーン｣の実力 | ライフ | 東洋経済オンライン",
@@ -681,14 +645,6 @@
    "title_orig": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped"
   },
   {
-   "title": "米新規失業保険申請、前週比6000件減の20.6万件 予想下回る - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVRHLWV0bXFaQm4zVS11Y3czZjJlTTY5U0h4Qk8wQkM0T3BkQ0dZSXZQb1hPSG5OT2dIcGc5OVJ2U19fMVRjd2tCMW0wcThoenRYck1MaWlFR3c4Rk1ULW1pUmRNNFNaYmYxS3JxNnZDLUkzQ1BtRllPQzFIbFBsOA?oc=5",
-   "summary": "米新規失業保険申請、前週比6000件減の20.6万件 予想下回る&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T02:56:01+09:00"
-  },
-  {
    "title": "26年産新米 大幅値下がりの見通し",
    "link": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
    "summary": "",
@@ -827,22 +783,6 @@
    "published": "2026-08-20T17:00:00+09:00"
   },
   {
-   "title": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTE5ud3loSFRYeF84NWlDbFZLRXFtanpFQ1UtVlJBclZ0b0haYk9OQkFtTzN0MU50Q1dhZG5xOUFyMTdhYk5aS2o1N1lQNnRucDBsekp1Q1JyX1FsSURfMGU4NFhYTlhxZ29OZTh3QUpuNENmR0tvQU8yUDUtRWc2dA?oc=5",
-   "summary": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T16:05:43+09:00"
-  },
-  {
-   "title": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeTBsWUp2dkZZSHA5OVZwd0FpclFJRkI2b3BjTWplZlpDMkxiWkEtUFprZ2hZRzNCVURpVEgxNUZXdkxFSE5kVUFOYzl5V0ZDclB2bndzRnI1Q0J2dUNaS1R6TlczczBURUZFRDRLaEZTeGh0ZWYydg?oc=5",
-   "summary": "三菱電機、米ＰＣＩエナジー・ソリューションズ買収 2200億円&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T15:53:00+09:00"
-  },
-  {
    "title": "20年利付国債（第197回）の第II非価格競争入札結果（令和8年8月20日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260820a.htm",
    "summary": "",
@@ -873,22 +813,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-20T14:00:00+09:00"
-  },
-  {
-   "title": "中国恒大創業者に無期懲役の判決、全資産没収 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HR2EtcEs3WlhpSjk4akdvT3FWSFRZT2xDYzU3MFlEYzcyRW5pNEp6U3NuQ0N2YjJWN2R2ZEZjOWtlZl9fTlBIWU9LTkhwTlY4bnZjTEozNUtlRTZJcEFNMy1ndEpxU2twcFNjcGc5SFZJSW1WaXZuQVY3LWxTUQ?oc=5",
-   "summary": "中国恒大創業者に無期懲役の判決、全資産没収&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T13:58:00+09:00"
-  },
-  {
-   "title": "シルチェスター、博報堂ＤＹ株を大量保有 5.07％ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm9ac3AtaVFXbGk1d3FVQ0JCQkNpTmU4WlcwV285UWxWamJyZV9VU1JUVEU5UmJfUDd0OVc3MGdleEtwMVhDSjV6cVZ2MmVQd29IMHk2eEEtQUFrMzJFVHJVbFdGbjVoc3RPSm8xWl9UYmF4dTAwTjZoVHdKOWhwQQ?oc=5",
-   "summary": "シルチェスター、博報堂ＤＹ株を大量保有 5.07％&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T13:38:00+09:00"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年8月20日入札）",
@@ -933,14 +857,6 @@
    "published": "2026-08-20T10:30:00+09:00"
   },
   {
-   "title": "日経平均は反発で寄り付く、米株高の流れ引き継ぐ 幅広く上昇 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1nNWdjZ0RnNWExNml1VkdfV2RTU1pZTE16TDI0cVZ3QnE4ZmNsbVVxRFhnVWl4ZE5CQ3RocENOWHVGZnF6Qm5QVGtWc2xiSG1IVFp5RUh3bkZsYWYzeDFLNGlTY1AtUG1CNEE5T2ZhMUZZZjIwUTV6NlgzZlZUUQ?oc=5",
-   "summary": "日経平均は反発で寄り付く、米株高の流れ引き継ぐ 幅広く上昇&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T09:18:00+09:00"
-  },
-  {
    "title": "基準外国為替相場及び裁定外国為替相場（9月分）",
    "link": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2609.htm",
    "summary": "",
@@ -963,30 +879,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-20T08:50:00+09:00"
-  },
-  {
-   "title": "イラン支援国にトランプ氏警告、「前例ない規模の経済戦争と孤立」 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43c3BoUF9VSjZ1UmVwd3FIVUpFdEk2NVJnaG9PSVQ3QTUwc1RWV2RHdkZZSFlSSkJTblJOYzB6TmFxV2FueGM0MWpYTXpxdnhYbnF2ZlhLckh0eEE5b2hDV29iY0NMTUhCWTJNUmtuUTlDSEducDVQSExB?oc=5",
-   "summary": "イラン支援国にトランプ氏警告、「前例ない規模の経済戦争と孤立」&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T08:28:00+09:00"
-  },
-  {
-   "title": "トランプ氏、暗号資産法案可決を議会に要請 業界幹部と会合 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbTIxNE5OZEpNV3dqZjdjcHUwR1RDTzNQbUtNbGtjVUJsV0tla2twS3dYNzNEVEt3NmFIOFFJVEJ3dmk5QkZBWHk0WHl5dnJQbWJVVmNQSXh0dU1LbWlGSkRBd0tMZ3MzQlR3Z1AzLU5vbnpFNXZDY1VUaG1WZmpKMA?oc=5",
-   "summary": "トランプ氏、暗号資産法案可決を議会に要請 業界幹部と会合&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T07:41:21+09:00"
-  },
-  {
-   "title": "米連邦債務が初の40兆ドル突破、トランプ・バイデン両政権下で倍増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3liX2plOG9mcVo1RFhhRExMVHBGVU9WWDVVYnhENkNLWW04aVpySTJQb3JqOEFzQlZESjB2eDNOdzdXeU1UTjhqS25LU2pRSng5Rm9YZE1VWnlJbl9IRHdReW56akZvY2ZJXzFXaXplVUtRM2hHTGl3cXNtNlE3WQ?oc=5",
-   "summary": "米連邦債務が初の40兆ドル突破、トランプ・バイデン両政権下で倍増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T06:20:00+09:00"
   },
   {
    "title": "マーク・ウォルター捜査が投資家の不安を煽り、今週カルバナ株は圧力にさらされている",
@@ -1033,16 +925,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-19T23:56:00+09:00"
-  },
-  {
-   "title": "市場前に大きな動きをする銘柄: モデルナ、ロウズ、エスティ ローダーなど",
-   "link": "https://www.cnbc.com/2026/08/19/stocks-making-the-biggest-moves-premarket-mrna-low-el.html",
-   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-19T21:57:16+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: Moderna, Lowe's, Estee Lauder & more"
   },
   {
    "title": "通販生活が楽天市場から撤退　「戦時下では買い物どころではない」その理由は",
