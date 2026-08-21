@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T04:53:47.549339+09:00",
+ "generated_at": "2026-08-22T05:11:07.080681+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,26 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "富を築くためのスポーツ賭博は新たなアメリカンドリームになりつつある",
+   "link": "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
+   "summary": "30歳未満の人が住宅購入や学生ローンの支払いの近道としてギャンブルを利用する人が増えている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-22T05:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Sports betting to build wealth is becoming the new American dream"
+  },
+  {
+   "title": "トランプ大統領、牛肉の輸入関税引き下げで高価格抑制に向けた合意を主張",
+   "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
+   "summary": "大統領が匿名の外国供給業者が3か月間25％の割引を提供すると発言後、牛先物相場が下落",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T04:44:48+09:00",
+   "lang": "en",
+   "title_orig": "Trump claims deal to cut beef import tariffs to help curb high prices"
+  },
   {
    "title": "くすぶっている中東の緊張を受けて石油が毎週利益を記録",
    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e?mod=rss_markets_main",
@@ -257,26 +277,6 @@
    "title_orig": "Health Care Roundup: Market Talk"
   },
   {
-   "title": "米国とカナダは新たな関税を回避し、貿易協定を締結しようと躍起になっている。その中に含まれるものは次のとおりです。",
-   "link": "https://www.marketwatch.com/story/the-u-s-and-canada-are-scrambling-to-avoid-new-tariffs-and-seal-a-trade-deal-heres-what-could-be-in-it-f01dd61c?mod=mw_rss_topstories",
-   "summary": "米国とカナダの当局者は金曜日に追加協議を行った。彼らの新たな貿易協定の内容に関する詳細が少しずつ明らかになってきた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-22T01:38:00+09:00",
-   "lang": "en",
-   "title_orig": "The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here’s what could be in it."
-  },
-  {
-   "title": "トランプ大統領、牛肉の輸入関税引き下げで高価格抑制に向けた合意を主張",
-   "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
-   "summary": "大統領が匿名の外国供給業者が3か月間25％の割引を提供すると発言後、牛先物相場が下落",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T01:18:04+09:00",
-   "lang": "en",
-   "title_orig": "Trump claims deal to cut beef import tariffs to help curb high prices"
-  },
-  {
    "title": "ナタリー・ハープ、トランプ側近の献身的な「人間印刷者」",
    "link": "https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1",
    "summary": "大統領補佐官と大統領との関係は、大統領周囲の広範な迎合を象徴している",
@@ -431,6 +431,14 @@
    "published": "2026-08-21T18:08:18+09:00",
    "lang": "en",
    "title_orig": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback"
+  },
+  {
+   "title": "野村傘下レーザー・デジタル、暗号資産交換業者に登録 約4年ぶり新規参入 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFl0a1lMNmdpeXJjZGhqNHpIdEdQQ0RfdnJRd0ZMZmVxNGVnNlRBRzJZUGd2QXk0UUhyMzdobHVrNWM3S05ZaVhxcGJLRHc0ZWVwM0RfVm5VTWFrSFhlbHBBLTlKbXprREpwR2M1T1JsQlpQblVEOERaLXJtQ0tVag?oc=5",
+   "summary": "野村傘下レーザー・デジタル、暗号資産交換業者に登録 約4年ぶり新規参入&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T17:57:43+09:00"
   },
   {
    "title": "中国・香港株式市場・大引け＝小幅高、財政支援策に期待 - ロイター",
@@ -801,14 +809,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-21T08:23:41+09:00"
-  },
-  {
-   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
-   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T08:10:55+09:00"
   },
   {
    "title": "“数合わせの障害者雇用”は通用しない　イマドキの採用・定着プロセスとは",
