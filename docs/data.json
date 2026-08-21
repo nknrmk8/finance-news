@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T18:49:36.239972+09:00",
+ "generated_at": "2026-08-21T19:17:08.039555+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -77,6 +77,34 @@
    "published": "2026-08-21T23:00:00+09:00"
   },
   {
+   "title": "米債券買い戻し計画に対する懐疑的な見方からアジアのほとんどの通貨が小幅上昇",
+   "link": "https://www.wsj.com/finance/currencies/thai-baht-likely-to-stay-weak-in-near-term-d8814445?mod=rss_markets_main",
+   "summary": "米財務省の債券買い戻し計画に対する懐疑的な見方から、ほとんどのアジア通貨は対ドルで若干上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T19:04:00+09:00",
+   "lang": "en",
+   "title_orig": "Most Asian Currencies Edge Higher on Skepticism Over U.S. Bond Buyback Plan"
+  },
+  {
+   "title": "AIに対する怒りが広がる中、政治家もデータセンターに反対",
+   "link": "https://www.wsj.com/articles/politicians-turn-against-data-centers-as-anger-over-ai-spreads-8ddce345?mod=rss_markets_main",
+   "summary": "さらに、ドナルド トランプ ジュニアが支援した MAGA マーケットプレイスの崩壊の内部に入り込み、おそらく聞いたこともないであろう最も人気のあるスポーツを探索します。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T19:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Politicians Turn Against Data Centers as Anger Over AI Spreads"
+  },
+  {
+   "title": "【量子コンピュータの核心】産業での実用化はいつ？／変わる勢力図／「量子」と「コンピュータ」が融合した背景／「量子AI」って何？／日本のベンチャーが躍進／恩恵を受ける業界は？／京大・藤井教授が徹底解説 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955602?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "生成AIの革新で世の中は一変したが、次の社会基盤の1つとして着実に研究・開発が進んでいるのが「量子コンピュータ」だ。世界各国や大手IT企業による開発投資が加速しており、関連市場の動向にも注目が集まっ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-21T19:00:00+09:00"
+  },
+  {
    "title": "中国の人型ロボットの最大の障害: 人間はまだ(ほとんど)優れている",
    "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
    "summary": "人型ロボットは、ほとんどの労働シナリオにおいて人間と同じように効率的にパフォーマンスを発揮するのに依然として苦労しています。",
@@ -113,13 +141,14 @@
    "published": "2026-08-21T18:26:39+09:00"
   },
   {
-   "title": "Samsung to return record $80bn to shareholders",
+   "title": "サムスン、過去最高となる800億ドルを株主に還元へ",
    "link": "https://www.ft.com/content/d434a48b-4b6c-4071-bf16-da16a6b95bda?syn-25a6b1a6=1",
-   "summary": "South Korean chipmaker has come under pressure to distribute more of its bumper profits from AI boom",
+   "summary": "韓国の半導体メーカーはAIブームによる莫大な利益をさらに分配するよう圧力にさらされている",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-21T18:19:30+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Samsung to return record $80bn to shareholders"
   },
   {
    "title": "「これは本当に悲劇です」：娘は4年間私と話をしていませんが、それは政治とは何の関係もありません",
@@ -292,32 +321,12 @@
    "title_orig": "Oil Futures Fall on Likely Technical Correction"
   },
   {
-   "title": "米債券買い戻し計画に対する懐疑的な見方からアジアのほとんどの通貨が小幅上昇",
-   "link": "https://www.wsj.com/finance/currencies/thai-baht-likely-to-stay-weak-in-near-term-d8814445?mod=rss_markets_main",
-   "summary": "米財務省の債券買い戻し計画に対する懐疑的な見方から、ほとんどのアジア通貨は対ドルで若干上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T16:48:00+09:00",
-   "lang": "en",
-   "title_orig": "Most Asian Currencies Edge Higher on Skepticism Over U.S. Bond Buyback Plan"
-  },
-  {
    "title": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVBrcXBkTktFVVJQa2diQ0NvN2lrczBjejJJT25FZnFQb3JQZEJLMDhqUU4wb2IxYWZjY0xGU1RMa3pCaUZwVnZ3NGxwTGdUaUktZ09wQl9aaXVockl0bU52Z0w2b21mNVdVZnJrNEJhYnlfbkVYVjZFSnFRMW1jWQ?oc=5",
    "summary": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-21T16:46:07+09:00"
-  },
-  {
-   "title": "日経平均株価が0.5%下落、ウォール街の損失に追随",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?mod=rss_markets_main",
-   "summary": "日経平均株価は0.5%下落し、一夜にしてウォール街の損失を追跡した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T16:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Falls 0.5%, Tracking Wall Street’s Losses"
   },
   {
    "title": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場 - ロイター",
@@ -758,14 +767,6 @@
    "title_orig": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
   },
   {
-   "title": "｢東京･神保町｣で発見した《至高の名所20選》　由緒ある蕎麦屋､レトロ喫茶､カレー名店､楽器も…本屋街の\"本当の顔\"は？ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955254?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "東京･神保町は､世界有数の古書店街として名高い本の街。文学や学問の叡智が集まり､歴史ある喫茶店や蕎麦屋､カレーの名店､さらには楽器店街やスポーツ用品店も軒を連ねます。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-21T06:30:00+09:00"
-  },
-  {
    "title": "私たちは50代で、従来の401(k)で150万ドルを持っています。 Roth への変換を開始するには時期尚早ですか?",
    "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
    "summary": "「私たちが最後に協力したアドバイザーは、私たちのポートフォリオのかなりの部分を失いました。」",
@@ -972,14 +973,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-20T12:35:00+09:00"
-  },
-  {
-   "title": "最低賃金、１７県で目安超え　上乗せ縮小、競争は緩和傾向―１９日時点",
-   "link": "https://www.jiji.com/jc/article?k=2026081900946&g=soc&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-20T11:47:00+09:00"
   },
   {
    "title": "中国は世界的な債券利回りの急上昇に対抗し、分散投資の魅力を高めている",
