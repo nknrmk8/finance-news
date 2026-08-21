@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T08:56:37.340180+09:00",
+ "generated_at": "2026-08-21T09:48:32.981261+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,48 @@
  "errors": [],
  "items": [
   {
+   "title": "日経平均株価が0.5%下落、ウォール街の損失に追随",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?mod=rss_markets_main",
+   "summary": "日経平均株価は0.5%下落し、一夜にしてウォール街の損失を追跡した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T09:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 0.5%, Tracking Wall Street’s Losses"
+  },
+  {
+   "title": "国債金利情報(令和8年8月20日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-21T09:30:00+09:00"
+  },
+  {
+   "title": "日経平均は反落で寄り付く、米金利上昇や米大手決算後の株安を嫌気 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVRRNGhqbjhYSGNvX2dmYy1FZ2I5anEwUmk0SGN2YUg0SjNMbFBUamV4RmNtRURoUFZSSGxDQklqeGFPR05yTnVTWnB4aDVGY0dkQkVXQVVza3h4d2Y0U3BMc1Z3c1Zyam9VY3Jod3lFZmZ5aTlScVNiOVkwQ1owMQ?oc=5",
+   "summary": "日経平均は反落で寄り付く、米金利上昇や米大手決算後の株安を嫌気&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T09:22:00+09:00"
+  },
+  {
+   "title": "SKハイニックス 宮城に工場案",
+   "link": "https://news.yahoo.co.jp/pickup/6592493?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-21T09:07:12+09:00"
+  },
+  {
+   "title": "｢地域ナンバーワン塾｣を選んで後悔する子が急増中　倒産最多の業界で､塾選びに失敗する子と失敗しない子の差 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954657?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "塾選びで見えない本質を見抜くには､実際に足を運び､自分の目で現場と先生を確かめることが大切です。｢地域ナンバーワン塾｣が子どもにとって最適な環境とは限らない理由とは？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-21T09:00:00+09:00"
+  },
+  {
    "title": "原油先物はテクニカル調整の可能性で下落",
    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e?mod=rss_markets_main",
    "summary": "木曜日の原油先物相場は５取引連続で上昇した後、テクニカル調整の可能性があり、原油先物相場は下落した。",
@@ -93,6 +135,14 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-21T08:23:41+09:00"
+  },
+  {
+   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
+   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T08:10:55+09:00"
   },
   {
    "title": "ベッセントは32兆ドルの国債市場で何をしているのか、そしてそれは機能するのだろうか？",
@@ -245,14 +295,6 @@
    "title_orig": "James Hardie Selling European Fermacell Business for $980 Million to Holcim"
   },
   {
-   "title": "ＮＹ株大幅反落、７０３ドル安　金利上昇や原油高が重荷",
-   "link": "https://www.jiji.com/jc/article?k=2026082100150&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-21T06:28:00+09:00"
-  },
-  {
    "title": "意見 | World Libertyのステーブルコインが党派の標的に",
    "link": "https://www.wsj.com/opinion/world-libertys-stablecoin-becomes-a-partisan-target-12dbbfa0?mod=rss_markets_main",
    "summary": "エリザベス・ウォーレンは仮想通貨業界を批判しているが、天才法に賛成票を投じた民主党議員も彼女に加わっている。",
@@ -375,16 +417,6 @@
    "title_orig": "Walmart shares tumble as sales growth slows to six-year low"
   },
   {
-   "title": "債券利回りが回復する中、米国株は下落。ウォルマートはがっかりする",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-bond-yields-rebound-walmart-disappoints-950aa1d1?mod=rss_markets_main",
-   "summary": "債券市場の一時的な静けさが消え、米国株は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T05:50:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Slide as Bond Yields Rebound; Walmart Disappoints"
-  },
-  {
    "title": "パワートレインは1種類のみ､シンプルだが奥が深い…日産の高級ミニバン新型｢エルグランド｣買うならどのグレード？ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954402?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "16年ぶりに刷新された日産｢エルグランド｣を買うなら､どのグレードが最適解なのかを徹底解説します。",
@@ -406,14 +438,6 @@
    "title": "〈判明〉アパホテル運営のアパグループが｢ホテル椿山荘東京｣で知られる藤田観光の大株主に急浮上 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955472?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "東証プライム市場に上場する藤田観光の株が上昇しています。背景にあるのは好業績だけではないようです。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-21T05:40:00+09:00"
-  },
-  {
-   "title": "｢イオンの奇跡｣から一転した爆発事故…防災優等生を襲った現場の死角､全国の商業施設が直面する想定外のリスクとは？ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955361?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "「災害に強いイオンがなぜ」―。7月28日、熊本県を襲った地震の直後、大型商業施設「イオンモール熊本」（熊本県嘉島町）で発生した爆発事故が業界に衝撃を与えている。イオンは長年にわたり、地域防災の拠点と…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-21T05:40:00+09:00"
@@ -485,14 +509,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-21T02:56:01+09:00"
-  },
-  {
-   "title": "米債買い戻し規模拡大も、金利上昇は経済基礎的条件反映せず＝財務長官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
-   "summary": "米債買い戻し規模拡大も、金利上昇は経済基礎的条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T02:32:28+09:00"
   },
   {
    "title": "Nvidia は AI ブームの次の段階から恩恵を受けるのに有利な立場にあると思われる",
@@ -759,14 +775,6 @@
    "published": "2026-08-20T13:58:00+09:00"
   },
   {
-   "title": "シルチェスター、博報堂ＤＹ株を大量保有 5.07％ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm9ac3AtaVFXbGk1d3FVQ0JCQkNpTmU4WlcwV285UWxWamJyZV9VU1JUVEU5UmJfUDd0OVc3MGdleEtwMVhDSjV6cVZ2MmVQd29IMHk2eEEtQUFrMzJFVHJVbFdGbjVoc3RPSm8xWl9UYmF4dTAwTjZoVHdKOWhwQQ?oc=5",
-   "summary": "シルチェスター、博報堂ＤＹ株を大量保有 5.07％&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T13:38:00+09:00"
-  },
-  {
    "title": "トランプ大統領、新たな文化戦争攻勢でワシントンの博物館を攻撃する",
    "link": "https://www.ft.com/content/659a00b4-be9b-467b-a676-cb73e2d3d64d?syn-25a6b1a6=1",
    "summary": "政府はスミソニアン博物館が奴隷制度よりもアメリカの偉大さにもっと重点を置くことを望んでいる",
@@ -793,6 +801,14 @@
    "published": "2026-08-20T12:35:00+09:00"
   },
   {
+   "title": "最低賃金、１７県で目安超え　上乗せ縮小、競争は緩和傾向―１９日時点",
+   "link": "https://www.jiji.com/jc/article?k=2026081900946&g=soc&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-20T11:47:00+09:00"
+  },
+  {
    "title": "中国は世界的な債券利回りの急上昇に対抗し、分散投資の魅力を高めている",
    "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
    "summary": "中国国債利回りは世界的な急騰の中で低水準にとどまっている。",
@@ -801,14 +817,6 @@
    "published": "2026-08-20T11:39:14+09:00",
    "lang": "en",
    "title_orig": "China is defying the global bond yield surge, boosting its diversification appeal"
-  },
-  {
-   "title": "うどん業界競争 丸亀に急ブレーキ",
-   "link": "https://news.yahoo.co.jp/pickup/6592377?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-20T11:36:44+09:00"
   },
   {
    "title": "20年利付国債（第197回）の入札発行（令和8年8月20日入札）",
@@ -825,14 +833,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-20T10:00:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年8月19日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-20T09:30:00+09:00"
   },
   {
    "title": "日経平均は反発で寄り付く、米株高の流れ引き継ぐ 幅広く上昇 - ロイター",
@@ -981,14 +981,6 @@
    "published": "2026-08-19T19:51:56+09:00"
   },
   {
-   "title": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り 新規上場の宇樹科技は高騰 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXZ2ejFLcjh3ZjlIWkhySW9SX2VVMkJDNURjcmVpRVdURFhPcWlKcm5qeTNRTDJCdHhyQ2k2ZlFWVWczZkRlUkhPZ1lGRjJhZHA3cWI3MkQ4MFVRYTlFMFowd1V0ZWtiYk12WFhMVVBaX3UybW5KOXlORUJTZnVZUA?oc=5",
-   "summary": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り 新規上場の宇樹科技は高騰&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-19T18:52:38+09:00"
-  },
-  {
    "title": "昭和100年記念貨幣の販売要領が公表されました【造幣局ホームページ】",
    "link": "https://www.mof.go.jp/insideLink/20260818170645.html",
    "summary": "",
@@ -1019,6 +1011,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-19T14:00:00+09:00"
+  },
+  {
+   "title": "中国企業がロケットブースターを回収、再利用技術で米2社に続く - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QUUotMFBTYVZoWmJzRFV3ZEplVzduZHpiS2x3dm5BbEdKRXRndkg5X2p0emkxRmp4d1ZVdFRsY2dlbWxlU2xZQzFfWE9naGg0VXdMeXhYNHpuRGFRMUNPOWZjcF9BTTZtTnUwREtnX2t4Zmdia1dPWQ?oc=5",
+   "summary": "中国企業がロケットブースターを回収、再利用技術で米2社に続く&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-19T10:59:00+09:00"
   },
   {
    "title": "「Netflix」「U-NEXT」を追う4位「ディズニープラス」　“会員数争い”ではない独自の勝ち筋",
