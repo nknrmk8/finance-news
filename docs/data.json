@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T18:05:07.860095+09:00",
+ "generated_at": "2026-08-21T18:49:36.239972+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,105 @@
  "errors": [],
  "items": [
   {
+   "title": "令和８年７月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260821.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-08-22T03:30:00+09:00"
+  },
+  {
    "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-21T23:00:00+09:00"
+  },
+  {
+   "title": "中国の人型ロボットの最大の障害: 人間はまだ(ほとんど)優れている",
+   "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+   "summary": "人型ロボットは、ほとんどの労働シナリオにおいて人間と同じように効率的にパフォーマンスを発揮するのに依然として苦労しています。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-21T18:30:55+09:00",
+   "lang": "en",
+   "title_orig": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better"
+  },
+  {
+   "title": "第4回日韓財務官級協議の開催について（令和8年8月21日（金））",
+   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260818104829.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-21T18:30:00+09:00"
+  },
+  {
+   "title": "株式市場のお買い得品はこの見過ごされている場所に隠れています",
+   "link": "https://www.wsj.com/finance/stocks/stock-market-bargains-are-hiding-in-this-overlooked-place-6239c1ef?mod=rss_markets_main",
+   "summary": "欧州企業はここ数年で最高の決算シーズンを迎えたばかりだ。投資家は気づき始めています。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Stock Market Bargains Are Hiding in This Overlooked Place"
+  },
+  {
+   "title": "馬渕隆一さん死去 マブチモーター",
+   "link": "https://news.yahoo.co.jp/pickup/6592569?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-21T18:26:39+09:00"
+  },
+  {
+   "title": "Samsung to return record $80bn to shareholders",
+   "link": "https://www.ft.com/content/d434a48b-4b6c-4071-bf16-da16a6b95bda?syn-25a6b1a6=1",
+   "summary": "South Korean chipmaker has come under pressure to distribute more of its bumper profits from AI boom",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-21T18:19:30+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "「これは本当に悲劇です」：娘は4年間私と話をしていませんが、それは政治とは何の関係もありません",
+   "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+   "summary": "「彼女には愛、サポート、そしてチャンスがあったと言ったら、信じてもらう必要があります。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T18:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘It’s truly a tragedy’: My daughter hasn’t spoken to me for 4 years, but it has nothing to do with politics"
+  },
+  {
+   "title": "夏のボラティリティが大規模なポートフォリオの整理を引き起こした後でも、ヘッジファンドはビッグテックへの投資を倍増させている",
+   "link": "https://www.marketwatch.com/story/hedge-funds-are-doubling-down-on-big-tech-even-after-summer-volatility-triggered-a-massive-portfolio-cleanup-57dbbf8a?mod=mw_rss_topstories",
+   "summary": "ヘッジファンドはAI取引にオールインして第2四半期に入ったが、最近ポートフォリオの多様化を始めている。彼らはヘルスケアに没頭しており、",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T18:11:00+09:00",
+   "lang": "en",
+   "title_orig": "Hedge funds are doubling down on Big Tech even after summer volatility triggered a massive portfolio cleanup"
+  },
+  {
+   "title": "市場は財務省の買い戻し計画を無視",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-and-bonds-slide-brushing-off-treasurys-buyback-plans-57ced23b?mod=rss_markets_main",
+   "summary": "ウォルマートや他の小売店の業績はまちまちで、米国の消費者の健康状態にさらに暗い影をもたらした。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T18:09:00+09:00",
+   "lang": "en",
+   "title_orig": "Markets Brush Off Treasury’s Buyback Plans"
+  },
+  {
+   "title": "サムスン、SKハイニックス買収後最大800億ドルの株主還元を計画",
+   "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+   "summary": "サムスン電子、第3四半期の現金配当約30兆ウォンを含む総額90兆～110兆ウォンの株主還元を計画",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-21T18:08:18+09:00",
+   "lang": "en",
+   "title_orig": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback"
   },
   {
    "title": "『ミス・コンジニアリティ』や『トップガン』の伝説的な映画編集者ビリー・ウェバーがロサンゼルスの歴史ある邸宅を400万ドルでリストアップ",
@@ -79,14 +172,12 @@
    "title_orig": "Legendary film editor Billy Weber of ‘Miss Congeniality’ and ‘Top Gun’ lists historic L.A. home for $4 million"
   },
   {
-   "title": "中国の人型ロボットの最大の障害: 人間はまだ(ほとんど)優れている",
-   "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-   "summary": "人型ロボットは、ほとんどの労働シナリオにおいて人間と同じように効率的にパフォーマンスを発揮するのに依然として苦労しています。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-21T17:52:53+09:00",
-   "lang": "en",
-   "title_orig": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better"
+   "title": "野村傘下レーザー・デジタル、暗号資産交換業者に登録 約4年ぶり新規参入 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFl0a1lMNmdpeXJjZGhqNHpIdEdQQ0RfdnJRd0ZMZmVxNGVnNlRBRzJZUGd2QXk0UUhyMzdobHVrNWM3S05ZaVhxcGJLRHc0ZWVwM0RfVm5VTWFrSFhlbHBBLTlKbXprREpwR2M1T1JsQlpQblVEOERaLXJtQ0tVag?oc=5",
+   "summary": "野村傘下レーザー・デジタル、暗号資産交換業者に登録 約4年ぶり新規参入&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T17:57:43+09:00"
   },
   {
    "title": "財務省、来年度予算の想定金利3.8%で調整　金利上昇で財政を圧迫",
@@ -229,16 +320,6 @@
    "title_orig": "Nikkei Falls 0.5%, Tracking Wall Street’s Losses"
   },
   {
-   "title": "モンテ・デイ・パスキ、400億ドルでイタリアの同業者バンコBPM、バンカ・ジェネラリの買収に動く",
-   "link": "https://www.wsj.com/business/deals/monte-dei-paschi-makes-40-billion-move-to-buy-italian-peers-banco-bpm-banca-generali-711620fd?mod=rss_markets_main",
-   "summary": "シエナ銀行は、イタリアの同業バンコBPMとバンカ・ジェネラリに対して総額397億3000万ドルの全株入札を開始すると発表した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T16:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali"
-  },
-  {
    "title": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVhwb2hlY1NFWXlobFFFYUNJTHYtRDl1b0RidGJROWFVb1QteTlna0lLQnJOby0tTHNhekQ4SFdiQV9TX3h2OHFIa2xUVE1Fc0VLXzZFRk9EdGFkejN5RjJlQ0QyT0xfX2toczF1Z0xuTnlmRXhDTU4zd2FkQTdjbg?oc=5",
    "summary": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場&nbsp;&nbsp;ロイター",
@@ -255,16 +336,6 @@
    "published": "2026-08-21T16:18:33+09:00",
    "lang": "en",
    "title_orig": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target"
-  },
-  {
-   "title": "モンテ・デイ・パスキ、バンカ・ジェネラリとバンコBPMの二重買収入札を開始",
-   "link": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
-   "summary": "計画では価値約700億ユーロのイタリアの巨大銀行会社が誕生する",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-21T16:17:38+09:00",
-   "lang": "en",
-   "title_orig": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM"
   },
   {
    "title": "実質輸出入の動向",
@@ -461,14 +532,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-21T11:00:00+09:00"
-  },
-  {
-   "title": "金融庁が企画室新設へ 検査司令塔",
-   "link": "https://news.yahoo.co.jp/pickup/6592503?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-21T10:44:33+09:00"
   },
   {
    "title": "「ほんだし」炎上の本質　消費者が怒ったのは「AIの使用」ではなく「自社商品への愛のなさ」だ",
@@ -695,16 +758,6 @@
    "title_orig": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
   },
   {
-   "title": "ウォルマート、売上高の伸び悩みでウォール街の圧力をさらに高める",
-   "link": "https://www.wsj.com/business/walmart-adds-to-wall-street-pressures-with-weak-sales-growth-4f1bd3bb?mod=rss_markets_main",
-   "summary": "さらに、ルーマニアはロシアが爆発性無人機を発射したと非難しており、医療費は急増する見通しだ。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T06:36:00+09:00",
-   "lang": "en",
-   "title_orig": "Walmart Adds to Wall Street Pressures With Weak Sales Growth"
-  },
-  {
    "title": "｢東京･神保町｣で発見した《至高の名所20選》　由緒ある蕎麦屋､レトロ喫茶､カレー名店､楽器も…本屋街の\"本当の顔\"は？ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955254?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "東京･神保町は､世界有数の古書店街として名高い本の街。文学や学問の叡智が集まり､歴史ある喫茶店や蕎麦屋､カレーの名店､さらには楽器店街やスポーツ用品店も軒を連ねます。",
@@ -749,26 +802,6 @@
    "published": "2026-08-21T04:40:00+09:00",
    "lang": "en",
    "title_orig": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan"
-  },
-  {
-   "title": "富を築くためのスポーツ賭博は新たなアメリカンドリームになりつつある",
-   "link": "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
-   "summary": "30歳未満の人が住宅購入や学生ローンの支払いの近道としてギャンブルを利用する人が増えている",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T04:14:00+09:00",
-   "lang": "en",
-   "title_orig": "Sports betting to build wealth is becoming the new American dream"
-  },
-  {
-   "title": "債券市場は株式市場バブルを崩壊させるだろう",
-   "link": "https://www.marketwatch.com/story/the-bond-market-is-going-to-burst-the-stock-market-bubble-1c6f0971?mod=mw_rss_topstories",
-   "summary": "利回りの上昇はあらゆるもの、特に過度にエクステンションされた株式を脅かします。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T04:06:00+09:00",
-   "lang": "en",
-   "title_orig": "The bond market is going to burst the stock-market bubble"
   },
   {
    "title": "米新規失業保険申請、前週比6000件減の20.6万件 予想下回る - ロイター",
@@ -925,14 +958,6 @@
    "published": "2026-08-20T14:00:00+09:00"
   },
   {
-   "title": "中国恒大創業者に無期懲役の判決、全資産没収 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HR2EtcEs3WlhpSjk4akdvT3FWSFRZT2xDYzU3MFlEYzcyRW5pNEp6U3NuQ0N2YjJWN2R2ZEZjOWtlZl9fTlBIWU9LTkhwTlY4bnZjTEozNUtlRTZJcEFNMy1ndEpxU2twcFNjcGc5SFZJSW1WaXZuQVY3LWxTUQ?oc=5",
-   "summary": "中国恒大創業者に無期懲役の判決、全資産没収&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T13:58:00+09:00"
-  },
-  {
    "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年8月20日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260820.htm",
    "summary": "",
@@ -991,14 +1016,6 @@
    "published": "2026-08-20T09:00:00+09:00"
   },
   {
-   "title": "貿易統計(令和8年7月分速報)【税関ホームページ】",
-   "link": "https://www.mof.go.jp/outside_link/20260819131627.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-20T08:50:00+09:00"
-  },
-  {
    "title": "マーク・ウォルター捜査が投資家の不安を煽り、今週カルバナ株は圧力にさらされている",
    "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
    "summary": "この精査により、捜査の余波でウォルター氏に資金調達の圧力がかかった場合、ウォルター氏のカルバナの立場はどうなるのかという疑問が生じた。",
@@ -1025,16 +1042,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-20T02:00:00+09:00"
-  },
-  {
-   "title": "正午に最も大きく値動きした銘柄: モデルナ、ピルグリムズ プライド、ターゲット、金鉱株など",
-   "link": "https://www.cnbc.com/2026/08/19/stocks-making-the-biggest-moves-midday-mrna-ppc-tgt-gdx.html",
-   "summary": "これらは正午に最大の値動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-20T00:41:55+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves midday: Moderna, Pilgrim's Pride, Target, gold miners & more"
   },
   {
    "title": "「第２回　気候変動関連データの活用と適応に関する実践パネル」の開催について公表しました。",
