@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T19:53:53.657597+09:00",
+ "generated_at": "2026-08-21T20:14:52.546109+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -75,6 +75,36 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-21T23:00:00+09:00"
+  },
+  {
+   "title": "米国政府は40兆ドルの債務を取り締まる計画だが、今後の「厳しい時期」に備えている",
+   "link": "https://www.marketwatch.com/story/the-u-s-government-plans-to-crack-down-on-its-40-trillion-debt-but-brace-for-a-wrenching-time-ahead-b3fb76a8?mod=mw_rss_topstories",
+   "summary": "ワシントンには選択肢が不足することはありません。どれも簡単ではありません。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T20:00:00+09:00",
+   "lang": "en",
+   "title_orig": "The U.S. government plans to crack down on its $40 trillion debt — but brace for a ‘wrenching time’ ahead"
+  },
+  {
+   "title": "Nvidia の収益が失速する株式市場を救う可能性がある — AI チップメーカーがこの傾向を打破できれば",
+   "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
+   "summary": "ジェンスン・ファン氏の会社の株価は、前日の決算発表日以来、苦戦している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T19:54:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia earnings could rescue a stalling stock market — if the AI chip maker breaks this trend"
+  },
+  {
+   "title": "ザ・モーニング・リスク・レポート：密猟熱狂のさなか、雨乞いたちはヴァイル・ゴッシャルからの離脱に向けて交渉中",
+   "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-bb68e497?mod=rss_markets_main",
+   "summary": "さらに、CFTC は元 FTX、アラメダ幹部に取引禁止を課し、ペンシルベニア州は新しいデータセンター規則を設定します。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T19:52:00+09:00",
+   "lang": "en",
+   "title_orig": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy"
   },
   {
    "title": "ベッセントの債券市場介入がドルの重しとなり、ビットコインと金が急騰",
@@ -281,16 +311,6 @@
    "title_orig": "Bond Yields Steady as Treasury Intervention Struggles to Convince"
   },
   {
-   "title": "今日の株式市場: 利回りは安定。 S&P、週間損失に向かう",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026?mod=rss_markets_main",
-   "summary": "債券市場は財務省の借入コスト抑制努力を無視",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T17:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Stock Market Today: Yields Steady; S&P Heads for Weekly Loss"
-  },
-  {
    "title": "育児サービス利用など税優遇 方針",
    "link": "https://news.yahoo.co.jp/pickup/6592556?source=rss",
    "summary": "",
@@ -337,6 +357,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-21T16:57:43+09:00"
+  },
+  {
+   "title": "旧村上ファンド系、ヤマダＨＤ株を買い増し 7.33％ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm9rajN2MFJ1Wkp4NHQ5RW1XdmpKVmxhNjhydzBrUUpwRGZXRXVWVk5YY2N1bHRBMGtYVGFISWVyaGJyZkxIM2RsbDVhbEhoVzZjS1JmSmRCYU1Jc2dMUTJaeDE3UFVMWjdZT1QyU21wcWJ5d0p2VHFMTlB3aDlURw?oc=5",
+   "summary": "旧村上ファンド系、ヤマダＨＤ株を買い増し 7.33％&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:51:17+09:00"
   },
   {
    "title": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加 - ロイター",
@@ -673,14 +701,6 @@
    "published": "2026-08-21T08:23:41+09:00"
   },
   {
-   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
-   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T08:10:55+09:00"
-  },
-  {
    "title": "“数合わせの障害者雇用”は通用しない　イマドキの採用・定着プロセスとは",
    "link": "https://www.itmedia.co.jp/business/articles/2608/21/news026.html",
    "summary": "2026年7月、民間企業における障害者の法定雇用率が2.5％から2.7％へ引き上げられました。これからの障害者雇用に求められる実務上の論点を「採用」「業務設計」「定着支援」の3つの視点から整理します。",
@@ -775,16 +795,6 @@
    "title_orig": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
   },
   {
-   "title": "私たちは50代で、従来の401(k)で150万ドルを持っています。 Roth への変換を開始するには時期尚早ですか?",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-   "summary": "「私たちが最後に協力したアドバイザーは、私たちのポートフォリオのかなりの部分を失いました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T06:01:00+09:00",
-   "lang": "en",
-   "title_orig": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
-  },
-  {
    "title": "「アルファードバブル」は終わるのか　残クレ時代の“新たな主役”を探る",
    "link": "https://www.itmedia.co.jp/business/articles/2608/21/news024.html",
    "summary": "トヨタのアルファードの中古車価格が下落傾向にある。残価設定クレジットによる購入者が増え、市場に在庫が増えたからだ。現在、高級SUVの人気再燃の兆しもあり、残価設定クレジットを利用する層の需要も移り変わるかもしれない。",
@@ -803,22 +813,20 @@
    "title_orig": "Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more"
   },
   {
-   "title": "ベッセント社の債券買い戻し計画から翌日、米国債利回りはすでに再び急上昇している",
-   "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-   "summary": "市場を落ち着かせるスコット・ベッセント財務長官の計画はうまく機能していない。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T04:40:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan"
-  },
-  {
    "title": "米新規失業保険申請、前週比6000件減の20.6万件 予想下回る - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVRHLWV0bXFaQm4zVS11Y3czZjJlTTY5U0h4Qk8wQkM0T3BkQ0dZSXZQb1hPSG5OT2dIcGc5OVJ2U19fMVRjd2tCMW0wcThoenRYck1MaWlFR3c4Rk1ULW1pUmRNNFNaYmYxS3JxNnZDLUkzQ1BtRllPQzFIbFBsOA?oc=5",
    "summary": "米新規失業保険申請、前週比6000件減の20.6万件 予想下回る&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-21T02:56:01+09:00"
+  },
+  {
+   "title": "セントルイス連銀総裁、追加利上げ支持示唆 「インフレなお高い」 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzJGZWR2cVR3Rm9RaTV3TGcwTXF6VmpZaENBREhnN2E0VnJmb1BFQ0FVQ1pWWkhsczhPWTByVVEzbHdJX1RBRjUxYzhseFdEUVc4a3otOWhWZDE5RU1EQTBvdDhwUm02QWN4ZlhnQUpIeWtjTzhyUWZRaENhaEttRQ?oc=5",
+   "summary": "セントルイス連銀総裁、追加利上げ支持示唆 「インフレなお高い」&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T01:55:46+09:00"
   },
   {
    "title": "市場前に大きな動きをする銘柄: Walmart、Coinbase、Moderna、Alibaba など",
@@ -917,14 +925,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-20T18:15:00+09:00"
-  },
-  {
-   "title": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTE5ud3loSFRYeF84NWlDbFZLRXFtanpFQ1UtVlJBclZ0b0haYk9OQkFtTzN0MU50Q1dhZG5xOUFyMTdhYk5aS2o1N1lQNnRucDBsekp1Q1JyX1FsSURfMGU4NFhYTlhxZ29OZTh3QUpuNENmR0tvQU8yUDUtRWc2dA?oc=5",
-   "summary": "日経平均は3日ぶり反発、金利低下を好感 中東不透明感はくすぶる&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-20T16:05:43+09:00"
   },
   {
    "title": "20年利付国債（第197回）の第II非価格競争入札結果（令和8年8月20日入札）",
@@ -1075,14 +1075,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-19T01:00:00+09:00"
-  },
-  {
-   "title": "採用,職員を募集しています。（国内金融及び金融機関等の行う国際業務に関する制度の企画及び立案等に従事する職員（課長補佐クラス）【弁護士資格を有する者】）",
-   "link": "https://www.fsa.go.jp/common/recruit/r8/kikaku-02/kikaku-02.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-08-18T19:55:00+09:00"
   }
  ]
 }
