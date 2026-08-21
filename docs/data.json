@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T22:35:35.117522+09:00",
+ "generated_at": "2026-08-21T23:17:01.454741+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -69,12 +69,72 @@
    "published": "2026-08-22T03:30:00+09:00"
   },
   {
+   "title": "米国の天然ガス先物は天候見通しを反映して上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-on-weather-outlook-4a0dc26f?mod=rss_markets_main",
+   "summary": "天然ガス先物は、短期的な暑さ予報を受けて上昇してスタートしたが、快適な貯蔵レベルにより上昇は依然として限定的であった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T23:11:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Pick Up on Weather Outlook"
+  },
+  {
+   "title": "財務省介入の説得に苦戦する中、債券利回りは安定",
+   "link": "https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17?mod=rss_markets_main",
+   "summary": "財務省の突然の債券市場介入に続いて当初急落した後、財務省利回りはほぼ横ばいを維持した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T23:08:00+09:00",
+   "lang": "en",
+   "title_orig": "Bond Yields Steady as Treasury Intervention Struggles to Convince"
+  },
+  {
+   "title": "トランプ政権、社会保障庁の顧問にJPモルガン・チェースの元幹部マット・ゼームス氏を指名",
+   "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+   "summary": "マット・ゼームス氏は、JPモルガンの元同僚であるフランク・ビシニャーノ氏がSSAの近代化に取り組むのを支援するために無給で役職に就いているとCNBCが報じた。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-21T23:06:15+09:00",
+   "lang": "en",
+   "title_orig": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency"
+  },
+  {
+   "title": "社会保障組合は、長い待ち時間と「ゴーストオフィス」を解決するには30億ドルとさらに2万人の労働者が必要だと述べている",
+   "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
+   "summary": "「国民がこれらの給付金を利用するのはますます困難になるだろう」と組合関係者は語った。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T23:03:00+09:00",
+   "lang": "en",
+   "title_orig": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’"
+  },
+  {
    "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-21T23:00:00+09:00"
+  },
+  {
+   "title": "「かなりの緊張感が漂っている」：99歳の祖母は、母を自分の意志から切り離したいと考えている。介入すべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+   "summary": "「おばあちゃんは、母から 5 万ドルの HELOC を引き出すよう圧力をかけられたと感じています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-21T23:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
+  },
+  {
+   "title": "巨額の賭けと型破りなライフスタイルで知られるヴィクトル・ニーダーホッファー氏が82歳で死去",
+   "link": "https://www.wsj.com/finance/investing/victor-niederhoffer-dead-54ca91a9?mod=rss_markets_main",
+   "summary": "ウォール街とスカッシュコートでは、彼は他の人と同じように振る舞うことなく勝利を収めたことで有名になりました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-21T23:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Victor Niederhoffer, Known for Big Bets and an Unconventional Lifestyle, Dies  at 82"
   },
   {
    "title": "Nvidia の収益が失速する株式市場を救う可能性がある — AI チップメーカーがこの傾向を打破できれば",
@@ -207,16 +267,6 @@
    "title_orig": "Gold Extends Gains on U.S. Debt Concerns"
   },
   {
-   "title": "米債券買い戻し計画に対する懐疑的な見方からアジアのほとんどの通貨が小幅上昇",
-   "link": "https://www.wsj.com/finance/currencies/thai-baht-likely-to-stay-weak-in-near-term-d8814445?mod=rss_markets_main",
-   "summary": "米財務省の債券買い戻し計画に対する懐疑的な見方から、ほとんどのアジア通貨は対ドルで若干上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T21:18:00+09:00",
-   "lang": "en",
-   "title_orig": "Most Asian Currencies Edge Higher on Skepticism Over U.S. Bond Buyback Plan"
-  },
-  {
    "title": "自社株買いに関して言えば、SKハイニックスにできることは何でも、サムスンにはもっと大きなことができるはずだ",
    "link": "https://www.marketwatch.com/story/when-it-comes-to-returning-cash-to-shareholders-anything-sk-hynix-can-do-samsung-can-do-bigger-87db6ef4?mod=mw_rss_topstories",
    "summary": "メモリチップ市場では需要が供給をはるかに上回っているため、SKハイニックスとサムスン電子は莫大な利益を生み出し、巨額の無償資金を投じている。",
@@ -225,54 +275,6 @@
    "published": "2026-08-21T21:15:00+09:00",
    "lang": "en",
    "title_orig": "When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger"
-  },
-  {
-   "title": "アメリカの消費者はバーゲン品を狙って小売の現実をチェックしている",
-   "link": "https://www.marketwatch.com/story/american-consumers-are-delivering-a-retail-reality-check-as-they-laser-in-on-bargains-96816053?mod=mw_rss_topstories",
-   "summary": "最近の収益結果は、典型的な買い物客が「雇用されており、依然として支出を続けており、それに対する規律がますます高まっている」ことを示唆しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T21:00:00+09:00",
-   "lang": "en",
-   "title_orig": "American consumers are delivering a retail reality check as they laser in on bargains"
-  },
-  {
-   "title": "インドネシア、中国と経済・軍事協力確認　戦略対話と２プラス２開催",
-   "link": "https://www.jiji.com/jc/article?k=2026082100986&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-21T20:55:00+09:00"
-  },
-  {
-   "title": "モデルナの個別化されたmRNAショットは皮膚がんとの闘いを再構築する可能性があるが、誇張されすぎている可能性もある",
-   "link": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
-   "summary": "医師と患者は画期的な進歩の可能性に興奮しているが、一部のアナリストは誇大広告が多すぎると考えている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-21T20:22:00+09:00",
-   "lang": "en",
-   "title_orig": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped"
-  },
-  {
-   "title": "財務省介入の説得に苦戦する中、債券利回りは安定",
-   "link": "https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17?mod=rss_markets_main",
-   "summary": "財務省の突然の債券市場介入に続いて当初急落した後、財務省利回りはほぼ横ばいを維持した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T20:21:00+09:00",
-   "lang": "en",
-   "title_orig": "Bond Yields Steady as Treasury Intervention Struggles to Convince"
-  },
-  {
-   "title": "ザ・モーニング・リスク・レポート：密猟熱狂のさなか、雨乞いたちはヴァイル・ゴッシャルからの離脱に向けて交渉中",
-   "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-bb68e497?mod=rss_markets_main",
-   "summary": "さらに、CFTC は元 FTX、アラメダ幹部に取引禁止を課し、ペンシルベニア州は新しいデータセンター規則を設定します。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-21T19:52:00+09:00",
-   "lang": "en",
-   "title_orig": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy"
   },
   {
    "title": "【量子コンピュータの核心】産業での実用化はいつ？／変わる勢力図／「量子」と「コンピュータ」が融合した背景／「量子AI」って何？／日本のベンチャーが躍進／恩恵を受ける業界は？／京大・藤井教授が徹底解説 | ビジネス | 東洋経済オンライン",
@@ -586,7 +588,7 @@
    "summary": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-21T11:57:45+09:00"
+   "published": "2026-08-21T11:55:00+09:00"
   },
   {
    "title": "｢国民の生命を守る｣はどこへ行った？ トランプのICC制裁にモノ申せぬ高市首相｢言動不一致｣と｢弱腰外交｣の末路 | 政治・経済・投資 | 東洋経済オンライン",
@@ -1025,16 +1027,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-20T09:00:00+09:00"
-  },
-  {
-   "title": "マーク・ウォルター捜査が投資家の不安を煽り、今週カルバナ株は圧力にさらされている",
-   "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-   "summary": "この精査により、捜査の余波でウォルター氏に資金調達の圧力がかかった場合、ウォルター氏のカルバナの立場はどうなるのかという疑問が生じた。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-20T06:05:31+09:00",
-   "lang": "en",
-   "title_orig": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters"
   },
   {
    "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
