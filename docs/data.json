@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T13:20:08.054170+09:00",
+ "generated_at": "2026-08-22T13:56:19.855433+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,22 +61,90 @@
  "errors": [],
  "items": [
   {
+   "title": "米国とカナダ、深夜関税の脅威が迫り貿易協定をめぐって交渉",
+   "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+   "summary": "トランプ大統領が北米貿易相手国に対する200億ドルの新たな課税を一時停止したことを受け、当局者らが合意の見通しを語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:42:17+09:00",
+   "lang": "en",
+   "title_orig": "US and Canada haggle over trade deal as midnight tariffs threat looms"
+  },
+  {
+   "title": "｢勉強しない子｣｢ゲームばかりの子｣に親が言いがちな\"3つのNG声かけ\"子どもを追いつめる｢ヤバい言い方｣に要注意 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/953846?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "教え子5人に1人を東大合格に導いた国語科教諭･市野瀬早織氏が､逆効果になる｢子どもへの声かけ｣を解明します。親が心掛けるべき｢正しい伝え方｣とは？今こそ｢言葉の力｣を見直しましょう。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-22T13:30:00+09:00"
+  },
+  {
+   "title": "債券市場を威圧しても決してうまくいかない",
+   "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
+   "summary": "スコット・ベッセント氏の努力にもかかわらず、投資家は何かが起きているのではないかと懸念している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:00:38+09:00",
+   "lang": "en",
+   "title_orig": "Bossing the bond market around never works"
+  },
+  {
+   "title": "ヨーロッパの致命的な美しさ",
+   "link": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1",
+   "summary": "魅力の少ない大陸であれば、それほど多くの敵を引き寄せることはないだろう",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:00:38+09:00",
+   "lang": "en",
+   "title_orig": "Europe’s fatal beauty"
+  },
+  {
+   "title": "トランプ大統領のアメリカでは誰が重要なのだろうか？",
+   "link": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1",
+   "summary": "ジリアン・テットが、10年に一度の国勢調査を改革しようとする大統領の取り組みと、誰が調査対象となり、誰が決定を下すのかの背後にある爆発的な政治について語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:00:29+09:00",
+   "lang": "en",
+   "title_orig": "Who counts in Trump’s America?"
+  },
+  {
+   "title": "カタール、戦争で経済縮小を受けて国内外の国家支出を削減",
+   "link": "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1",
+   "summary": "湾岸の裕福な国がホルムズ海峡をめぐる米国とイランの紛争で大きな打撃を受けた",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:00:29+09:00",
+   "lang": "en",
+   "title_orig": "Qatar cuts state spending at home and abroad as war shrinks economy"
+  },
+  {
+   "title": "EUは重要な鉱物の獲得競争で米国にさらに後れをとっている",
+   "link": "https://www.ft.com/content/c6220205-ee40-4b71-95c0-d53399a17cd1?syn-25a6b1a6=1",
+   "summary": "ワシントンと中国は、防衛および環境技術に使用される部品を確保する競争でブリュッセルに勝利している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:00:20+09:00",
+   "lang": "en",
+   "title_orig": "EU slips further behind US in race for critical minerals"
+  },
+  {
+   "title": "ドイツがヨーロッパ最大の規制大麻市場となる",
+   "link": "https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce",
+   "summary": "批評家らは、薬物が部分的に自由化されてから2年が経過した今、法規制を強化するよう求めている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:00:09+09:00",
+   "lang": "en",
+   "title_orig": "Germany becomes Europe’s largest regulated cannabis market"
+  },
+  {
    "title": "｢ローカット登山靴｣は中高年の登山者には絶対NG！｢低山遭難｣しないために最低限これだけは準備すべきモノとは？ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/954881?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢低山だから安全｣。その油断が遭難のリスクを高めていることをご存じでしょうか。低山には高山とは異なる､あるいは共通する危険が潜み､正しい準備と装備が命を守ります。あなたの登山準備､万全ですか？",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-22T13:00:00+09:00"
-  },
-  {
-   "title": "米国とカナダ、深夜関税の脅威が迫り貿易協定をめぐって交渉",
-   "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
-   "summary": "トランプ大統領が北米貿易相手国に対する200億ドルの新たな課税を一時停止したことを受け、当局者らが合意の見通しを語る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T12:39:47+09:00",
-   "lang": "en",
-   "title_orig": "US and Canada haggle over trade deal as midnight tariffs threat looms"
   },
   {
    "title": "フェラーリが｢初めて乗る人を歓迎したい｣という4000万円級オープンカー｢アマルフィ スパイダー｣の素質 | ビジネス | 東洋経済オンライン",
@@ -243,14 +311,6 @@
    "published": "2026-08-22T08:02:00+09:00"
   },
   {
-   "title": "世界は社会主義以前に戻った､でも今はトランプがきらいなら｢きらいだ｣と言える 安彦良和氏インタビュー⑦ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955532?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アニメ監督､漫画家として多くの作品を生み出してきた安彦良和氏。2万字超のロングインタビュー全8回の7回目では､漫画を描くことで何を伝え､何を提供したいのか､『乾と巽』でシベリア出兵を描いた背景､戦争…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-22T08:01:00+09:00"
-  },
-  {
    "title": "トランプ大統領、牛肉の輸入関税引き下げで高価格抑制に向けた合意を主張",
    "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
    "summary": "大統領が匿名の外国供給業者が3か月間25％の割引を提供すると発言後、牛先物相場が下落",
@@ -277,16 +337,6 @@
    "published": "2026-08-22T06:57:00+09:00",
    "lang": "en",
    "title_orig": "The WSJ Dollar Index Falls 0.74% This Week to 95.33"
-  },
-  {
-   "title": "ベッセントの債券市場介入がドルの重しとなり、ビットコインと金が急騰",
-   "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
-   "summary": "世界最大の仮想通貨が過去3年以上で最高の週を記録",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T06:46:46+09:00",
-   "lang": "en",
-   "title_orig": "Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar"
   },
   {
    "title": "ビットコインが8万ドルに近づくと米国株が上昇",
@@ -359,6 +409,14 @@
    "title_orig": "Soon you can buy Medicare Advantage plans at Costco. What you need to know."
   },
   {
+   "title": "トランプ氏、輸入牛ひき肉の関税を一時緩和へ 物価高対策狙う - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnSDJsNzFFaWkwUWRQZHBkc3labG5ndlJwSnZxSE5HMlYyN213RjZnX3NXUXM2bUhhUzZETXZUMnBqY1NmSXh3YjF3QTl5ME5ORTIwbmFPSm5vNy1ndEVZcVpsN3pMUThhdjdjeTVMX0NTcDFDUmwzMkJR?oc=5",
+   "summary": "トランプ氏、輸入牛ひき肉の関税を一時緩和へ 物価高対策狙う&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T05:52:59+09:00"
+  },
+  {
    "title": "テスラ株が急騰、同社がロボタクシー推進の準備を整える",
    "link": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
    "summary": "同社はまもなくテキサス州オースティンでサイバーキャブを発売する予定で、ネバダ州に数千台の車両を配備することに同意した。",
@@ -419,16 +477,6 @@
    "title_orig": "Former JPMorgan exec takes on Social Security advisory role"
   },
   {
-   "title": "イラン大統領、「強い立場」から米国との戦争終結を呼びかけ",
-   "link": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
-   "summary": "マスード・ペゼシキアン氏のコメントは、国がどれだけの経済的圧力に耐えられるかについての政権内の議論を反映している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T03:51:35+09:00",
-   "lang": "en",
-   "title_orig": "Iran’s president calls to end war with US from ‘position of strength’"
-  },
-  {
    "title": "令和８年７月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20260821.html",
    "summary": "",
@@ -457,24 +505,6 @@
    "title_orig": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more"
   },
   {
-   "title": "ナタリー・ハープ、トランプ側近の献身的な「人間印刷者」",
-   "link": "https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1",
-   "summary": "大統領補佐官と大統領との関係は、大統領周囲の広範な迎合を象徴している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T00:22:00+09:00",
-   "lang": "en",
-   "title_orig": "Natalie Harp, the devoted ‘human printer’ in Trump’s entourage"
-  },
-  {
-   "title": "ユーロ圏消費者信頼感指数、8月はマイナス15.5に改善 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRW1UVi00NC1IYWswVW14Z3U3MmExbGtuUWtkT1pmZXA0UlBlZGk5aUprNE0xdjJrZGMwdTlBTHBKS1JNODJ6MVNPV1NWOFBsZkYyNnlhdlpfdWk2MlAybGFYRGtvS0RHdTJZTWxGS2hPdUJHbTB6MzdCRW4xT3NaTA?oc=5",
-   "summary": "ユーロ圏消費者信頼感指数、8月はマイナス15.5に改善&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-22T00:21:43+09:00"
-  },
-  {
    "title": "トランプ政権、社会保障庁の顧問にJPモルガン・チェースの元幹部マット・ゼームス氏を指名",
    "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
    "summary": "マット・ゼームス氏は、JPモルガンの元同僚であるフランク・ビシニャーノ氏がSSAの近代化に取り組むのを支援するために無給で役職に就いているとCNBCが報じた。",
@@ -493,42 +523,12 @@
    "published": "2026-08-22T00:09:44+09:00"
   },
   {
-   "title": "シタデルは状況認識から収集したポートフォリオの 80% をオフロードします",
-   "link": "https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1",
-   "summary": "ケン・グリフィン氏のヘッジファンドが40億ドル以上のブロック取引を実行",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-21T23:50:54+09:00",
-   "lang": "en",
-   "title_orig": "Citadel offloads 80% of portfolio scooped up from Situational Awareness"
-  },
-  {
-   "title": "絆の恐怖とパワーバランス",
-   "link": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d",
-   "summary": "2010年代の夢の世界を経て、権力と財政能力の結びつきが戻ってきた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-21T23:10:27+09:00",
-   "lang": "en",
-   "title_orig": "The bond scare and the balance of power"
-  },
-  {
    "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-21T23:00:00+09:00"
-  },
-  {
-   "title": "ジェーンストリートとは何ですか？",
-   "link": "https://www.ft.com/content/ef1d7530-a514-4b18-9a0f-8843cac02929",
-   "summary": "質問は答えよりも重要です",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-21T21:30:04+09:00",
-   "lang": "en",
-   "title_orig": "What is Jane Street?"
   },
   {
    "title": "市場前に大きな動きをする銘柄: BJ's Wholesale、Broadcom、Ross Stores など",
@@ -747,20 +747,20 @@
    "published": "2026-08-21T11:55:00+09:00"
   },
   {
+   "title": "コラム：なお残る米9月利上げの公算、 ＦＯＭＣ議事要旨が示唆 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSS3pUTVdzNUZEUnZGZWFuMTZodTdVVThkZ0FiNDdVVUpFblJ3SExsTVlqQ3Q4YXd4R2FMSlBCNzFxLWdEMFRONmdzYmNfNTEwbUUteEN6SjlRZU9KZGIzOVpLeVZQQkN0R1R6MG5kbHdqbV9CdllEZA?oc=5",
+   "summary": "コラム：なお残る米9月利上げの公算、 ＦＯＭＣ議事要旨が示唆&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T11:52:00+09:00"
+  },
+  {
    "title": "7月の消費者物価、1.8%上昇　メモリーカードは前年の2.5倍に",
    "link": "https://www.asahi.com/articles/ASV8P0QMSV8PULFA005M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-21T11:28:37+09:00"
-  },
-  {
-   "title": "サウジ原油輸出、6月は増加 覚書署名で過去最低から反転 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WDl6a2l0UktEZUlXdG5sMExKcy1hUk5jS3lRVGxqOGJzT1VxaDFMYk16cjZndXdWcUYwNmVoRTJyV2Z5YzFmVjN3Z3R6OU40OEdzS0VBSHRyV0sxaXpPQzBVSVRvZHRUQ2FiWlFnVHNBNkhBVDhVYXN3?oc=5",
-   "summary": "サウジ原油輸出、6月は増加 覚書署名で過去最低から反転&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T11:26:00+09:00"
   },
   {
    "title": "「ほんだし」炎上の本質　消費者が怒ったのは「AIの使用」ではなく「自社商品への愛のなさ」だ",
