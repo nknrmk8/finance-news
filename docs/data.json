@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T23:11:29.647133+09:00",
+ "generated_at": "2026-08-22T23:35:45.872632+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -69,6 +69,16 @@
    "published": "2026-08-22T22:45:00+09:00",
    "lang": "en",
    "title_orig": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+  },
+  {
+   "title": "ロシアによるウクライナのショッピングモールへの「ダブルタップ」攻撃で少なくとも16人死亡",
+   "link": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1",
+   "summary": "ヴォロディミル・ゼレンスキー大統領、同盟国に対し、戦争を終わらせるためにモスクワに「本当の圧力」をかけるよう呼びかけ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T22:31:30+09:00",
+   "lang": "en",
+   "title_orig": "Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16"
   },
   {
    "title": "私たちの 4 歳の息子は、529 口座に 100,000 ドルを持っています。強気相場は株を買うのに悪い時期なのでしょうか?",
@@ -263,16 +273,6 @@
    "published": "2026-08-22T14:00:00+09:00"
   },
   {
-   "title": "米国とカナダ、深夜関税の脅威が迫り貿易協定をめぐって交渉",
-   "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
-   "summary": "トランプ大統領が北米貿易相手国に対する200億ドルの新たな課税を一時停止したことを受け、当局者らが合意の見通しを語る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T13:51:58+09:00",
-   "lang": "en",
-   "title_orig": "US and Canada haggle over trade deal as midnight tariffs threat looms"
-  },
-  {
    "title": "米、カナダ製品に50％追加関税 通商交渉が決裂 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSTdGMEkySDhMeTFLMWRLR3pHVzJaMFpiTDNRWndVVEd2a1BFZlFDYnhiN25xU091NlB6TE43ZUNuQi1mRDVUOWhteFZXMk9qajJ5YjRXSkFwUWppNzY3R1Y4RnBBVlp1TE8yR05fVUNMZ2V4dlAzYQ?oc=5",
    "summary": "米、カナダ製品に50％追加関税 通商交渉が決裂&nbsp;&nbsp;ロイター",
@@ -327,16 +327,6 @@
    "published": "2026-08-22T13:00:29+09:00",
    "lang": "en",
    "title_orig": "Who counts in Trump’s America?"
-  },
-  {
-   "title": "カタール、戦争で経済縮小を受けて国内外の国家支出を削減",
-   "link": "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1",
-   "summary": "湾岸の裕福な国がホルムズ海峡をめぐる米国とイランの紛争で大きな打撃を受けた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T13:00:29+09:00",
-   "lang": "en",
-   "title_orig": "Qatar cuts state spending at home and abroad as war shrinks economy"
   },
   {
    "title": "ドイツがヨーロッパ最大の規制大麻市場となる",
@@ -573,12 +563,30 @@
    "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
   },
   {
+   "title": "トランプ氏、カナダとの貿易協定締結に期待 関税発動期限迫る - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmdxdU1kQ2F1a1A1RUJmRnZDRGJhWld1TmYzYndtb19yUlhCN1BkOVdmM05zUzdrdVIxeXFuQnYwVGRmb0JhRVB4dWl0SmhoZXZ3NWY4bkExa2d3S09mbjN6U3BDMWtGNGdvVEtIZFpHdnV0cmdMb0Y3aU5taTBqRXJR?oc=5",
+   "summary": "トランプ氏、カナダとの貿易協定締結に期待 関税発動期限迫る&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T06:15:43+09:00"
+  },
+  {
    "title": "トランプ氏、輸入牛ひき肉の関税を一時緩和へ 物価高対策狙う - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnSDJsNzFFaWkwUWRQZHBkc3labG5ndlJwSnZxSE5HMlYyN213RjZnX3NXUXM2bUhhUzZETXZUMnBqY1NmSXh3YjF3QTl5ME5ORTIwbmFPSm5vNy1ndEVZcVpsN3pMUThhdjdjeTVMX0NTcDFDUmwzMkJR?oc=5",
    "summary": "トランプ氏、輸入牛ひき肉の関税を一時緩和へ 物価高対策狙う&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-22T05:52:59+09:00"
+  },
+  {
+   "title": "グリニッジの月時?月の時計を設定する一か八かのレース",
+   "link": "https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88?syn-25a6b1a6=1",
+   "summary": "地球に最も近い天の隣国への植民地化に対する潜在的な脅威にどのように対処するかを決定するために世界大国が集結",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T05:00:02+09:00",
+   "lang": "en",
+   "title_orig": "Greenwich moon time? The high-stakes race to set lunar clocks"
   },
   {
    "title": "令和８年７月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について公表しました。",
@@ -607,6 +615,14 @@
    "published": "2026-08-22T02:38:21+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more"
+  },
+  {
+   "title": "ユーロ圏消費者信頼感指数、8月はマイナス15.5に改善 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRW1UVi00NC1IYWswVW14Z3U3MmExbGtuUWtkT1pmZXA0UlBlZGk5aUprNE0xdjJrZGMwdTlBTHBKS1JNODJ6MVNPV1NWOFBsZkYyNnlhdlpfdWk2MlAybGFYRGtvS0RHdTJZTWxGS2hPdUJHbTB6MzdCRW4xT3NaTA?oc=5",
+   "summary": "ユーロ圏消費者信頼感指数、8月はマイナス15.5に改善&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T00:21:43+09:00"
   },
   {
    "title": "トランプ政権、社会保障庁の顧問にJPモルガン・チェースの元幹部マット・ゼームス氏を指名",
@@ -801,22 +817,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-21T12:30:00+09:00"
-  },
-  {
-   "title": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QZXFJRUgyLWNNa2NseHZ4ODYyRnFGUmRwODdDdkhmUlJ0V3JEM25NSGZUem1UdS1BTE8zYXU2dnQ0akl6UnFEMnlQa25ZSmUzV2RlX3ZkY2lCcjJtUTk4b1JlZUJfVnJWSjFJOFg4YWdwNHpnSDc4ZVl4dnJLQQ?oc=5",
-   "summary": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T12:08:00+09:00"
-  },
-  {
-   "title": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFlFcjJlQjRpQkF4QWFJZjRDd3BDcVFTRGd0VlBXLTdyWHV2THlIbkRyMm4yenozQmFnZnJzS3lya1ktMlFsS3JHSmtwWnh0LTRBZ2VqRWJLdjhkTmFPOVlMY1hNNDd6YjlxUkRzb0V0MmdIZ2VjUUtnd2JZTzFYZmRsQXpDOUNfM05J?oc=5",
-   "summary": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T11:55:00+09:00"
   },
   {
    "title": "7月の消費者物価、1.8%上昇　メモリーカードは前年の2.5倍に",
