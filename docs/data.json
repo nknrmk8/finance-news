@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T16:05:56.423936+09:00",
+ "generated_at": "2026-08-22T16:41:54.059907+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,22 @@
  "errors": [],
  "items": [
   {
+   "title": "「自販機」に逆風 飲料各社が工夫",
+   "link": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-22T16:27:25+09:00"
+  },
+  {
+   "title": "プーチン大統領が北方領土で発信した対日メッセージ､彼の｢柔道外交｣の本質を日本は見極めよ | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955333?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ロシアのプーチン大統領が太平洋艦隊の演習視察後､初めて北方領土･択捉島を訪問しました。この一連の行動は､日本への明確なシグナルであり､｢柔道外交｣ともいえる独特の戦略が背景にあります。はたして日本は…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-22T16:00:00+09:00"
+  },
+  {
    "title": "トランプ政権、カナダに50%追加関税を発動　カナダ首相は報復示唆",
    "link": "https://www.asahi.com/articles/ASV8Q1SKVV8QUHBI00NM.html?ref=rss",
    "summary": "",
@@ -103,14 +119,6 @@
    "published": "2026-08-22T13:49:00+09:00"
   },
   {
-   "title": "米、カナダに５０％追加関税　貿易協議が決裂",
-   "link": "https://www.jiji.com/jc/article?k=2026082200265&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-22T13:43:00+09:00"
-  },
-  {
    "title": "トランプ米政権はカナダに５０％の追加関税を発動した",
    "link": "https://www.jiji.com/jc/article?k=2026082200269&g=flash&m=rss",
    "summary": "",
@@ -127,14 +135,6 @@
    "published": "2026-08-22T13:30:00+09:00"
   },
   {
-   "title": "カナダ政府によると、米国との貿易協議が決裂した",
-   "link": "https://www.jiji.com/jc/article?k=2026082200261&g=flash&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-22T13:03:00+09:00"
-  },
-  {
    "title": "トランプ経済：40兆ドルの負債、6.7％の住宅ローン、5ドルのディーゼル",
    "link": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
    "summary": "イラン戦争による物価上昇と米国財政の悪化により、大統領の政策は緊張にさらされている",
@@ -145,16 +145,6 @@
    "title_orig": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel"
   },
   {
-   "title": "ヨーロッパの致命的な美しさ",
-   "link": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1",
-   "summary": "魅力の少ない大陸であれば、それほど多くの敵を引き寄せることはないだろう",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-22T13:00:38+09:00",
-   "lang": "en",
-   "title_orig": "Europe’s fatal beauty"
-  },
-  {
    "title": "債券市場を威圧しても決してうまくいかない",
    "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
    "summary": "スコット・ベッセント氏の努力にもかかわらず、投資家は何かが起きているのではないかと懸念している",
@@ -163,6 +153,16 @@
    "published": "2026-08-22T13:00:38+09:00",
    "lang": "en",
    "title_orig": "Bossing the bond market around never works"
+  },
+  {
+   "title": "ヨーロッパの致命的な美しさ",
+   "link": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1",
+   "summary": "魅力の少ない大陸であれば、それほど多くの敵を引き寄せることはないだろう",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-22T13:00:38+09:00",
+   "lang": "en",
+   "title_orig": "Europe’s fatal beauty"
   },
   {
    "title": "トランプ大統領のアメリカでは誰が重要なのだろうか？",
@@ -351,14 +351,6 @@
    "published": "2026-08-22T08:34:00+09:00",
    "lang": "en",
    "title_orig": "The Wild Week When Scott Bessent Was Schooled by the Bond Market"
-  },
-  {
-   "title": "名字の不思議…人によって｢渡辺｣｢渡邉｣と漢字が違うのはなぜ？　発音も意味も同じ\"異体字\"が現代まで残っている理由 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954520?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢辺｣と｢邉｣､｢島｣と｢嶋｣――読み方も意味も同じなのに､なぜ形の違う漢字が存在するのでしょうか。実はその背景には､漢字が使われてきた長い歴史と､文字を書く道具や文化の変化が深く関係しているようで…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-22T08:30:00+09:00"
   },
   {
    "title": "100均業界2トップ 快進撃の理由",
@@ -663,14 +655,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-21T17:36:18+09:00"
-  },
-  {
-   "title": "育児サービス利用など税優遇 方針",
-   "link": "https://news.yahoo.co.jp/pickup/6592556?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-21T17:28:09+09:00"
   },
   {
    "title": "アジアや欧州でAI無償提供　狙うスキル底上げ、タイは500万人に",
