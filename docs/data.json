@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T05:08:52.193922+09:00",
+ "generated_at": "2026-08-23T05:35:50.324778+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,22 +61,58 @@
  "errors": [],
  "items": [
   {
+   "title": "カナダ、通商交渉決裂を受け米国製品に報復関税を発表",
+   "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+   "summary": "カナダのマーク・カーニー首相は土曜日、同国が米国製品に「ドル対ドル」関税を課すことを発表した。これはその後の報復措置である",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-23T05:31:00+09:00",
+   "lang": "en",
+   "title_orig": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
+  },
+  {
+   "title": "希少なロータリーエンジン搭載､77年式マツダ｢サバンナGT｣が王道ビンテージカー並みの1000万円超で販売される真相 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954831?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "マツダを代表する名車｢サバンナGT｣が王道ビンテージカー並みの1000万円超で販売される理由とは？その謎に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-23T05:30:00+09:00"
+  },
+  {
+   "title": "「私たちは献身的なクリスチャンです」: 私たちの息子と嫁は、政治的議論の後、私たちを人生から遠ざけました。 300万ドルの遺言書を変更すべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+   "summary": "「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-23T05:30:00+09:00",
+   "lang": "en",
+   "title_orig": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
+  },
+  {
+   "title": "「彼女は絶望的です」: 私の友人は解雇され、健康保険を失いました。どうすれば手頃な保険を見つけることができるでしょうか?",
+   "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+   "summary": "「彼女は COBRA を検討しましたが、費用はまったく法外です。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-23T05:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+  },
+  {
+   "title": "食品トレー・容器から見える景気動向は？　最大手エフピコ会長に聞く",
+   "link": "https://www.asahi.com/articles/ASV8N1BTYV8NULFA01WM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-23T05:00:00+09:00"
+  },
+  {
    "title": "平均年収ランキング｢中部に本社を置く411社｣3位はファナック､2位は中部日本放送､では1位は？ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955641?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "中部10県の上場企業に焦点を当て､最新の有価証券報告書を基に作成された｢平均年収が高い会社ランキング｣トップ企業を紹介します。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-23T05:00:00+09:00"
-  },
-  {
-   "title": "カナダ、通商交渉決裂を受け米国製品に報復関税を発表",
-   "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-   "summary": "カナダのマーク・カーニー首相は土曜日、同国が米国製品に「ドル対ドル」関税を課すことを発表した。これはその後の報復措置である",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-23T04:51:00+09:00",
-   "lang": "en",
-   "title_orig": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
   },
   {
    "title": "ロシアによるウクライナのショッピングモールへの「ダブルタップ」攻撃で少なくとも16人死亡",
@@ -129,16 +165,6 @@
    "title_orig": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
   },
   {
-   "title": "「彼女は絶望的です」: 私の友人は解雇され、健康保険を失いました。どうすれば手頃な保険を見つけることができるでしょうか?",
-   "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-   "summary": "「彼女は COBRA を検討しましたが、費用はまったく法外です。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-22T22:45:00+09:00",
-   "lang": "en",
-   "title_orig": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-  },
-  {
    "title": "私たちの 4 歳の息子は、529 口座に 100,000 ドルを持っています。強気相場は株を買うのに悪い時期なのでしょうか?",
    "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
    "summary": "「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」",
@@ -169,14 +195,12 @@
    "title_orig": "Move over, credit cards: Social-media stars are tapping magic wands to buy things"
   },
   {
-   "title": "「私たちは献身的なクリスチャンです」: 私たちの息子と嫁は、政治的議論の後、私たちを人生から遠ざけました。 300万ドルの遺言書を変更すべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-   "summary": "「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-22T21:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
+   "title": "国債買い戻し、効果続かず　財政・インフレ懸念根強く―米市場",
+   "link": "https://www.jiji.com/jc/article?k=2026082200306&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-08-22T20:32:00+09:00"
   },
   {
    "title": "爆発で休業のイオン 従業員は不安",
@@ -233,14 +257,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-22T18:00:00+09:00"
-  },
-  {
-   "title": "米、５０％追加関税を発動　カナダは報復、交渉決裂",
-   "link": "https://www.jiji.com/jc/article?k=2026082200265&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-22T16:33:00+09:00"
   },
   {
    "title": "「自販機」に逆風 飲料各社が工夫",
@@ -461,14 +477,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-22T09:30:00+09:00"
-  },
-  {
-   "title": "編集部厳選､注目の経済ニュース！【8月22日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955569?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "東洋経済オンライン有料会員の皆様に､注目のスケジュールやトピックスをお届けします。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-22T09:00:00+09:00"
   },
   {
    "title": "スコット・ベッセント氏が債券市場の教えを受けたワイルドな一週間",
@@ -931,38 +939,6 @@
    "published": "2026-08-21T05:43:16+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more"
-  },
-  {
-   "title": "くら寿司、ねぎまぐろなど「最低価格」5円値下げ　33品目は値上げ",
-   "link": "https://www.asahi.com/articles/ASV8N3T7ZV8NPLFA005M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-20T21:01:54+09:00"
-  },
-  {
-   "title": "AI・半導体など7兆円要求へ　経産省、新たな投資枠には4兆円計上",
-   "link": "https://www.asahi.com/articles/ASV8N3RFQV8NULFA01GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-20T20:33:27+09:00"
-  },
-  {
-   "title": "データセンターの「捨てる熱」を工場などで有効活用　東電が技術開発",
-   "link": "https://www.asahi.com/articles/ASV8N2H6ZV8NULFA00XM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-20T20:21:13+09:00"
-  },
-  {
-   "title": "45時間超の残業は「例外中の例外」　一律抑制取りやめ、反発広がる",
-   "link": "https://www.asahi.com/articles/ASV8N3GHQV8NULFA01CM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-20T19:50:15+09:00"
   },
   {
    "title": "20年利付国債（第197回）の第II非価格競争入札結果（令和8年8月20日入札）",
