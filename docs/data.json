@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T20:54:38.188478+09:00",
+ "generated_at": "2026-08-23T21:13:52.528374+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,10 +58,62 @@
    "category": "海外金融"
   }
  ],
- "errors": [
-  "ロイター: HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "20歳の振り袖選び 高校生で契約も",
+   "link": "https://news.yahoo.co.jp/pickup/6592806?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-23T21:04:09+09:00"
+  },
+  {
+   "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+   "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+   "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-23T21:00:01+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+   "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-23T21:00:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+   "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+   "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-23T21:00:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+   "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+   "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-23T21:00:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "マーク・カーニー、カナダは現在貿易をめぐって米国と「戦争状態」にあると語る",
+   "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+   "summary": "首相、ドナルド・トランプ大統領は対中関税攻撃をエスカレートさせたことは誤算だったと語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-23T20:58:38+09:00",
+   "lang": "en",
+   "title_orig": "Mark Carney says Canada is now ‘at war’ with US over trade"
+  },
   {
    "title": "人類超え連発の中国ロボット、なぜ急速に進化？　識者が語るその背景",
    "link": "https://www.asahi.com/articles/ASV8R3QVFV8RUHBI00CM.html?ref=rss",
@@ -125,14 +177,6 @@
    "lang": "en"
   },
   {
-   "title": "「二つの海峡」安定に注力　日本政府、原油輸送確保狙う―首脳外交求める声",
-   "link": "https://www.jiji.com/jc/article?k=2026082300168&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-23T19:01:00+09:00"
-  },
-  {
    "title": "Hype for Moderna’s Cancer Vaccine Is Running Ahead of the Math",
    "link": "https://www.wsj.com/health/pharma/hype-for-modernas-cancer-vaccine-is-running-ahead-of-the-math-b9b596f5?mod=rss_markets_main",
    "summary": "Personalized mRNA shots may prove neither as wide-reaching nor as lucrative as hoped.",
@@ -175,16 +219,6 @@
    "category": "海外金融",
    "published": "2026-08-23T17:23:24+09:00",
    "lang": "en"
-  },
-  {
-   "title": "マーク・カーニー、カナダは現在貿易をめぐって米国と「戦争状態」にあると語る",
-   "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
-   "summary": "首相、ドナルド・トランプ大統領は対中関税攻撃をエスカレートさせたことは誤算だったと語る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-23T17:22:35+09:00",
-   "lang": "en",
-   "title_orig": "Mark Carney says Canada is now ‘at war’ with US over trade"
   },
   {
    "title": "過疎地ガソリンスタンド50カ所、経産省選定で重点支援　概算要求へ",
@@ -290,6 +324,14 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-23T10:30:00+09:00"
+  },
+  {
+   "title": "アングル：急成長のニコチンパウチに投資家注目、たばこ業界に新成長もたらすか - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYRXhpNEZuOHFpU08zTmpfQjE4WXZBTUJ6NzNXT1V3Y3k0WE9vdXVjWmxXei0wWlN0SnMyQjdjSEYyMmF6a2htOExCNC00aE1heXpzVVEtV2RZenBkOWExeTNyRkt2VUVMR0xlaW5TR29IUGRxZml6MA?oc=5",
+   "summary": "アングル：急成長のニコチンパウチに投資家注目、たばこ業界に新成長もたらすか&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-23T10:15:00+09:00"
   },
   {
    "title": "日本のいなり寿司がルーツの｢豆腐飯｣や｢人造肉｣…韓国に広がる脱北者経営のお店でリアルな北朝鮮料理を味わう | ライフ | 東洋経済オンライン",
@@ -461,44 +503,6 @@
    "title_orig": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?"
   },
   {
-   "title": "「もう時間がない」: 30 万ドルの賃貸物件を売却し、7 万 5,000 ドルの損失を出しました。税金を避けるために別のものを購入する必要がありますか?",
-   "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-   "summary": "「公認会計士から連絡がありません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-23T01:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
-  },
-  {
-   "title": "私たちの 4 歳の息子は、529 口座に 100,000 ドルを持っています。強気相場は株を買うのに悪い時期なのでしょうか?",
-   "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-   "summary": "「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-22T22:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
-  },
-  {
-   "title": "なぜ財務省の発表が今週​​金とビットコインの上昇を引き起こしたのか",
-   "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-   "summary": "財務省が債券買い入れを倍増させる計画を発表したことを受け、仮想通貨と貴金属は急騰する一方、米ドルは下落した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-22T22:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week"
-  },
-  {
-   "title": "爆発で休業のイオン 従業員は不安",
-   "link": "https://news.yahoo.co.jp/pickup/6592697?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-22T20:24:59+09:00"
-  },
-  {
    "title": "TikTok、米司法省と和解　子どもの情報訴訟で635億円支払い",
    "link": "https://www.asahi.com/articles/ASV8Q3137V8QULFA005M.html?ref=rss",
    "summary": "",
@@ -547,6 +551,14 @@
    "published": "2026-08-22T14:15:00+09:00"
   },
   {
+   "title": "米、カナダ製品に50％追加関税 通商交渉が決裂 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSTdGMEkySDhMeTFLMWRLR3pHVzJaMFpiTDNRWndVVEd2a1BFZlFDYnhiN25xU091NlB6TE43ZUNuQi1mRDVUOWhteFZXMk9qajJ5YjRXSkFwUWppNzY3R1Y4RnBBVlp1TE8yR05fVUNMZ2V4dlAzYQ?oc=5",
+   "summary": "米、カナダ製品に50％追加関税 通商交渉が決裂&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T13:49:00+09:00"
+  },
+  {
    "title": "中国がイラン石油ショックをどのように乗り越えたかを見る",
    "link": "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8?mod=rss_markets_main",
    "summary": "中国政府がどのようにして原油輸入を削減し、世界価格を抑え、生き残ったのかという謎の背後にある謎を見てみましょう。",
@@ -565,6 +577,14 @@
    "published": "2026-08-22T08:34:00+09:00",
    "lang": "en",
    "title_orig": "The Wild Week When Scott Bessent Was Schooled by the Bond Market"
+  },
+  {
+   "title": "Breakingviews - コラム：猛暑「適応」に巨額投資迫られる欧州、冷房なし世帯8割の現実 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDFvUEM1elcxR3ZuRDFva0xlSlhhMk5seHQwcUMxSTJocU0yc1hOazZqMy1RN0E2a3pYX0V0NFpuUXFQeFMyeXJaMnNiOFpEQ09qUkh6LTYxa3NrQ2lwTGxjM1UzaTNlNlpVcHU3dTluNkg5OXdqS1VCU08zVWFQSC1DS2dDNi1aZkRv?oc=5",
+   "summary": "Breakingviews - コラム：猛暑「適応」に巨額投資迫られる欧州、冷房なし世帯8割の現実&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T08:08:04+09:00"
   },
   {
    "title": "Uber Eats黒字化の立役者　Airbnb新社長が明かす「脱・インバウンド依存」の勝算",
@@ -623,6 +643,14 @@
    "title_orig": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency"
   },
   {
+   "title": "中国、対外投資の管理措置を改正へ 投資家保護を強化 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FSGtORmhWMnBnWWVFeU5IMlNvN2FTVjdfbnpHMGdTMVZPY2o0NGxweUNFdFJXaEtKZnlSZXd0X2RxMFVjaXNvLTZydko2VEhxdFAwXzBLSTkzLXdWYXdYN3Y4V3FfVlg1MkU2TzgyczI1SThfWVVQcWlMSjItdw?oc=5",
+   "summary": "中国、対外投資の管理措置を改正へ 投資家保護を強化&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T00:09:44+09:00"
+  },
+  {
    "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
    "summary": "",
@@ -639,6 +667,14 @@
    "published": "2026-08-21T21:27:49+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: BJ's Wholesale, Broadcom, Ross Stores & more"
+  },
+  {
+   "title": "イラン、米は軍事作戦あきらめと指摘 経済制裁に「壊滅的」報復警告 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQzdjT2FBNUpvUGNLMGFwdmF1TTdYZk0xbmttS3d1VHhyWmJwQm5rQzZ4NkQwbEF0cEZTR2drNTNzazVGNGFRVEdMVXZLTFBscE92VVFzVkRocUl4aFNuVjdreXpTQjlVZTNVcEY5cV9QT2tRcFdBZ3VWYnBXSlVwTGtR?oc=5",
+   "summary": "イラン、米は軍事作戦あきらめと指摘 経済制裁に「壊滅的」報復警告&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T19:20:46+09:00"
   },
   {
    "title": "中国の人型ロボットの最大の障害: 人間はまだ(ほとんど)優れている",
@@ -667,6 +703,46 @@
    "published": "2026-08-21T18:08:18+09:00",
    "lang": "en",
    "title_orig": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback"
+  },
+  {
+   "title": "中国人民銀、投信の長期国債投資を調査＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlBuUjJCekQ1aEo2RjNhNnlfdDhYRS1WcFJWcXFjc1M5eFZxOUZHRkZwc0l6YUpoX3phR0Eyd2JPUXNNMXd2WHp2N1ZFUjhHOU1WOWtrb3NoVjFodTVFa0FiZDc3OVNfRG9iaVkydHY5TVB0RUFERmZ3YVp3czRSWQ?oc=5",
+   "summary": "中国人民銀、投信の長期国債投資を調査＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:57:43+09:00"
+  },
+  {
+   "title": "旧村上ファンド系、ヤマダＨＤ株を買い増し 7.33％ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm9rajN2MFJ1Wkp4NHQ5RW1XdmpKVmxhNjhydzBrUUpwRGZXRXVWVk5YY2N1bHRBMGtYVGFISWVyaGJyZkxIM2RsbDVhbEhoVzZjS1JmSmRCYU1Jc2dMUTJaeDE3UFVMWjdZT1QyU21wcWJ5d0p2VHFMTlB3aDlURw?oc=5",
+   "summary": "旧村上ファンド系、ヤマダＨＤ株を買い増し 7.33％&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:51:17+09:00"
+  },
+  {
+   "title": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVBrcXBkTktFVVJQa2diQ0NvN2lrczBjejJJT25FZnFQb3JQZEJLMDhqUU4wb2IxYWZjY0xGU1RMa3pCaUZwVnZ3NGxwTGdUaUktZ09wQl9aaXVockl0bU52Z0w2b21mNVdVZnJrNEJhYnlfbkVYVjZFSnFRMW1jWQ?oc=5",
+   "summary": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:46:07+09:00"
+  },
+  {
+   "title": "財務省、27年度国債費の想定金利3.8％で調整 29年ぶり高水準＝政府筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemd3TmdmUGZvZ29JU2NhdDdwdHVudThrVGFlMFBBd0hXYmNCUEh1S3g5WXdPNmtWUHFiSXRJVFI1dV84NmFQSWdfOEhyQmxZTzdReWtodFBoaE5NcWxpTjFoS1p4TE9kRFBuX002YzhFWEZXa0ZqcG8zTG9vUFl1OTYyM29rZXN6NzNN?oc=5",
+   "summary": "財務省、27年度国債費の想定金利3.8％で調整 29年ぶり高水準＝政府筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:33:08+09:00"
+  },
+  {
+   "title": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVhwb2hlY1NFWXlobFFFYUNJTHYtRDl1b0RidGJROWFVb1QteTlna0lLQnJOby0tTHNhekQ4SFdiQV9TX3h2OHFIa2xUVE1Fc0VLXzZFRk9EdGFkejN5RjJlQ0QyT0xfX2toczF1Z0xuTnlmRXhDTU4zd2FkQTdjbg?oc=5",
+   "summary": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:19:43+09:00"
   },
   {
    "title": "LabubuメーカーのPop Mart株は主要な中国国外売上高統計の下落を受けて下落、シティは目標株価を引き下げる",
@@ -701,6 +777,22 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-21T12:30:00+09:00"
+  },
+  {
+   "title": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QZXFJRUgyLWNNa2NseHZ4ODYyRnFGUmRwODdDdkhmUlJ0V3JEM25NSGZUem1UdS1BTE8zYXU2dnQ0akl6UnFEMnlQa25ZSmUzV2RlX3ZkY2lCcjJtUTk4b1JlZUJfVnJWSjFJOFg4YWdwNHpnSDc4ZVl4dnJLQQ?oc=5",
+   "summary": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T12:08:00+09:00"
+  },
+  {
+   "title": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFlFcjJlQjRpQkF4QWFJZjRDd3BDcVFTRGd0VlBXLTdyWHV2THlIbkRyMm4yenozQmFnZnJzS3lya1ktMlFsS3JHSmtwWnh0LTRBZ2VqRWJLdjhkTmFPOVlMY1hNNDd6YjlxUkRzb0V0MmdIZ2VjUUtnd2JZTzFYZmRsQXpDOUNfM05J?oc=5",
+   "summary": "Breakingviews - コラム：米財務省の国債買い戻し拡大、効果損なうＦＲＢ議長方針との矛盾&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T11:55:00+09:00"
   },
   {
    "title": "「ほんだし」炎上の本質　消費者が怒ったのは「AIの使用」ではなく「自社商品への愛のなさ」だ",
@@ -759,6 +851,22 @@
    "published": "2026-08-21T09:30:00+09:00"
   },
   {
+   "title": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWpmOC1STlN3QkhlNGRpcTdtQ2p3N2UxaWxRQjIwOWVBZUdJalBVSlB4T0tUX0NiU0VWZ01GUDNxcXhOblB2U0xyQmFvMnlfRlE4emd1bElVTmxWSUVDV1lSZUExNDR4TjBEdGNGcy11X1J5elBkNFRoQlNOZFU4Yg?oc=5",
+   "summary": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T08:46:00+09:00"
+  },
+  {
+   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
+   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T08:10:55+09:00"
+  },
+  {
    "title": "“数合わせの障害者雇用”は通用しない　イマドキの採用・定着プロセスとは",
    "link": "https://www.itmedia.co.jp/business/articles/2608/21/news026.html",
    "summary": "2026年7月、民間企業における障害者の法定雇用率が2.5％から2.7％へ引き上げられました。これからの障害者雇用に求められる実務上の論点を「採用」「業務設計」「定着支援」の3つの視点から整理します。",
@@ -773,6 +881,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-21T08:00:00+09:00"
+  },
+  {
+   "title": "ＮＹ市場サマリー（20日）ダウ703ドル安、ドル・利回り上昇 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wa3VvUmZiY1FjUDFmRl8xc216dlZGVXU5TnFEVDBzQU9yMU95bmV0YjBWQWhJYlJQX3A5dlE0UnJDNWg5dUYySm1LcDhlX05ERGhHaXpwdEY1cFlZNVltN3JHWndOMkN2RWhlN2Q2Z002MVRvcDNBSw?oc=5",
+   "summary": "ＮＹ市場サマリー（20日）ダウ703ドル安、ドル・利回り上昇&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T07:20:52+09:00"
   },
   {
    "title": "「たった14人」の挑戦から7兆円の逆転劇へ　ラピダス小池社長の「TSMCとは戦わない」2ナノ半導体の勝算",
@@ -805,16 +921,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-21T06:00:00+09:00"
-  },
-  {
-   "title": "正午に最も大きく値動きした銘柄: ウォルマート、ディア、クラウドストライク、モデルナなど",
-   "link": "https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-midday-wmt-de-crwd-mrna-more.html",
-   "summary": "これらは、正午に最大の値動きを記録した銘柄の一部です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-21T05:43:16+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more"
   }
  ]
 }
