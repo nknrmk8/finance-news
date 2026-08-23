@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T01:57:50.937280+09:00",
+ "generated_at": "2026-08-24T02:16:19.023201+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,15 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+   "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+   "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-24T02:00:00+09:00",
+   "lang": "en"
+  },
   {
    "title": "「彼女は絶望的です」: 私の友人は解雇され、健康保険を失いました。どうすれば手頃な保険を見つけることができるでしょうか?",
    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
@@ -385,14 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "米に報復関税、来月発動　「譲歩不十分」と批判―カナダ首相",
-   "link": "https://www.jiji.com/jc/article?k=2026082300108&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-23T09:55:00+09:00"
-  },
-  {
    "title": "Trump Discloses 1,000 Stock Trades in June",
    "link": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?mod=rss_markets_main",
    "summary": "The White House said the president’s accounts are invested in “computer-based model portfolios” to replicate stock indexes.",
@@ -496,15 +497,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-23T07:00:00+09:00"
-  },
-  {
-   "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
-   "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-   "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-23T05:45:00+09:00",
-   "lang": "en"
   },
   {
    "title": "カナダ、通商交渉決裂を受け米国製品に報復関税を発表",
@@ -727,12 +719,28 @@
    "published": "2026-08-21T16:57:43+09:00"
   },
   {
+   "title": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVBrcXBkTktFVVJQa2diQ0NvN2lrczBjejJJT25FZnFQb3JQZEJLMDhqUU4wb2IxYWZjY0xGU1RMa3pCaUZwVnZ3NGxwTGdUaUktZ09wQl9aaXVockl0bU52Z0w2b21mNVdVZnJrNEJhYnlfbkVYVjZFSnFRMW1jWQ?oc=5",
+   "summary": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:46:07+09:00"
+  },
+  {
    "title": "財務省、27年度国債費の想定金利3.8％で調整 29年ぶり高水準＝政府筋 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemd3TmdmUGZvZ29JU2NhdDdwdHVudThrVGFlMFBBd0hXYmNCUEh1S3g5WXdPNmtWUHFiSXRJVFI1dV84NmFQSWdfOEhyQmxZTzdReWtodFBoaE5NcWxpTjFoS1p4TE9kRFBuX002YzhFWEZXa0ZqcG8zTG9vUFl1OTYyM29rZXN6NzNN?oc=5",
    "summary": "財務省、27年度国債費の想定金利3.8％で調整 29年ぶり高水準＝政府筋&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-21T16:33:08+09:00"
+  },
+  {
+   "title": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVhwb2hlY1NFWXlobFFFYUNJTHYtRDl1b0RidGJROWFVb1QteTlna0lLQnJOby0tTHNhekQ4SFdiQV9TX3h2OHFIa2xUVE1Fc0VLXzZFRk9EdGFkejN5RjJlQ0QyT0xfX2toczF1Z0xuTnlmRXhDTU4zd2FkQTdjbg?oc=5",
+   "summary": "波乱含み、エヌビディア決算とジャクソンホール会議で方向感探る＝来週の東京株式市場&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:19:43+09:00"
   },
   {
    "title": "LabubuメーカーのPop Mart株は主要な中国国外売上高統計の下落を受けて下落、シティは目標株価を引き下げる",
@@ -847,6 +855,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-21T08:46:00+09:00"
+  },
+  {
+   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
+   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T08:10:55+09:00"
   },
   {
    "title": "“数合わせの障害者雇用”は通用しない　イマドキの採用・定着プロセスとは",
