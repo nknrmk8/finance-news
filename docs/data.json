@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T17:15:26.256037+09:00",
+ "generated_at": "2026-08-23T17:53:59.078642+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,34 @@
  "errors": [],
  "items": [
   {
+   "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
+   "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
+   "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-23T17:33:27+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+   "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+   "summary": "AI lab’s Fable 5 has met with sluggish demand from corporate clients",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-23T17:23:24+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "マーク・カーニー、カナダは現在貿易をめぐって米国と「戦争状態」にあると語る",
+   "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+   "summary": "首相、ドナルド・トランプ大統領は対中関税攻撃をエスカレートさせたことは誤算だったと語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-23T17:22:35+09:00",
+   "lang": "en",
+   "title_orig": "Mark Carney says Canada is now ‘at war’ with US over trade"
+  },
+  {
    "title": "過疎地ガソリンスタンド50カ所、経産省選定で重点支援　概算要求へ",
    "link": "https://www.asahi.com/articles/ASV8R13HGV8RULFA00FM.html?ref=rss",
    "summary": "",
@@ -102,6 +130,14 @@
    "lang": "en"
   },
   {
+   "title": "米、カナダ製品に50％追加関税 通商交渉が決裂 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSTdGMEkySDhMeTFLMWRLR3pHVzJaMFpiTDNRWndVVEd2a1BFZlFDYnhiN25xU091NlB6TE43ZUNuQi1mRDVUOWhteFZXMk9qajJ5YjRXSkFwUWppNzY3R1Y4RnBBVlp1TE8yR05fVUNMZ2V4dlAzYQ?oc=5",
+   "summary": "米、カナダ製品に50％追加関税 通商交渉が決裂&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-23T13:17:51+09:00"
+  },
+  {
    "title": "Are America’s vast Gulf bases worth rebuilding?",
    "link": "https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1",
    "summary": "Iran’s attacks exposed vulnerability of US military footprint spanning the region since the 1990s",
@@ -132,15 +168,6 @@
    "title": "Europe can do better than US-style air conditioning",
    "link": "https://www.ft.com/content/fe9be519-ceae-4279-83b1-220f9505d6a9",
    "summary": "The instinct is to bolt a dripping box to every building but there is a smarter, cooler way",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-23T13:00:08+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
-   "link": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
-   "summary": "Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-23T13:00:08+09:00",
@@ -388,26 +415,6 @@
    "published": "2026-08-23T05:00:00+09:00"
   },
   {
-   "title": "イスラエルのシリア攻撃はトルコ紛争を誘発する目的であった可能性があると米国特使が語る",
-   "link": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2",
-   "summary": "駐アンカラのワシントン大使は、空軍基地への攻撃は「攻撃的」だった可能性があると述べた。 。 。 10月の投票に先立って「選挙前コンセプト」",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-23T03:17:56+09:00",
-   "lang": "en",
-   "title_orig": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says"
-  },
-  {
-   "title": "マーク・カーニー、カナダは現在貿易をめぐって米国と「戦争状態」にあると語る",
-   "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
-   "summary": "首相、ドナルド・トランプ大統領は対中関税攻撃をエスカレートさせたことは誤算だったと語る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-23T02:22:54+09:00",
-   "lang": "en",
-   "title_orig": "Mark Carney says Canada is now ‘at war’ with US over trade"
-  },
-  {
    "title": "私は義母の委任状を持っています。私は彼女の執行者兼管財人でもあります。私は彼女の問題に対してあまりにも大きな権限を持っているのでしょうか？",
    "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
    "summary": "「私の手には多くの法的および財政的権限があります。」",
@@ -520,14 +527,6 @@
    "published": "2026-08-22T14:15:00+09:00"
   },
   {
-   "title": "米、カナダ製品に50％追加関税 通商交渉が決裂 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSTdGMEkySDhMeTFLMWRLR3pHVzJaMFpiTDNRWndVVEd2a1BFZlFDYnhiN25xU091NlB6TE43ZUNuQi1mRDVUOWhteFZXMk9qajJ5YjRXSkFwUWppNzY3R1Y4RnBBVlp1TE8yR05fVUNMZ2V4dlAzYQ?oc=5",
-   "summary": "米、カナダ製品に50％追加関税 通商交渉が決裂&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-22T13:49:00+09:00"
-  },
-  {
    "title": "中国がイラン石油ショックをどのように乗り越えたかを見る",
    "link": "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8?mod=rss_markets_main",
    "summary": "中国政府がどのようにして原油輸入を削減し、世界価格を抑え、生き残ったのかという謎の背後にある謎を見てみましょう。",
@@ -584,6 +583,14 @@
    "published": "2026-08-22T06:34:00+09:00",
    "lang": "en",
    "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "トランプ氏、カナダとの貿易協定締結に期待 関税発動期限迫る - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmdxdU1kQ2F1a1A1RUJmRnZDRGJhWld1TmYzYndtb19yUlhCN1BkOVdmM05zUzdrdVIxeXFuQnYwVGRmb0JhRVB4dWl0SmhoZXZ3NWY4bkExa2d3S09mbjN6U3BDMWtGNGdvVEtIZFpHdnV0cmdMb0Y3aU5taTBqRXJR?oc=5",
+   "summary": "トランプ氏、カナダとの貿易協定締結に期待 関税発動期限迫る&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-22T06:15:43+09:00"
   },
   {
    "title": "トランプ氏、輸入牛ひき肉の関税を一時緩和へ 物価高対策狙う - ロイター",
@@ -742,6 +749,14 @@
    "published": "2026-08-21T17:37:44+09:00"
   },
   {
+   "title": "旧村上ファンド系、ヤマダＨＤ株を買い増し 7.33％ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm9rajN2MFJ1Wkp4NHQ5RW1XdmpKVmxhNjhydzBrUUpwRGZXRXVWVk5YY2N1bHRBMGtYVGFISWVyaGJyZkxIM2RsbDVhbEhoVzZjS1JmSmRCYU1Jc2dMUTJaeDE3UFVMWjdZT1QyU21wcWJ5d0p2VHFMTlB3aDlURw?oc=5",
+   "summary": "旧村上ファンド系、ヤマダＨＤ株を買い増し 7.33％&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-21T16:51:17+09:00"
+  },
+  {
    "title": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVBrcXBkTktFVVJQa2diQ0NvN2lrczBjejJJT25FZnFQb3JQZEJLMDhqUU4wb2IxYWZjY0xGU1RMa3pCaUZwVnZ3NGxwTGdUaUktZ09wQl9aaXVockl0bU52Z0w2b21mNVdVZnJrNEJhYnlfbkVYVjZFSnFRMW1jWQ?oc=5",
    "summary": "英財政収支、7月予想外の赤字 利払いや社会保障関連費など増加&nbsp;&nbsp;ロイター",
@@ -862,22 +877,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-21T09:30:00+09:00"
-  },
-  {
-   "title": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWpmOC1STlN3QkhlNGRpcTdtQ2p3N2UxaWxRQjIwOWVBZUdJalBVSlB4T0tUX0NiU0VWZ01GUDNxcXhOblB2U0xyQmFvMnlfRlE4emd1bElVTmxWSUVDV1lSZUExNDR4TjBEdGNGcy11X1J5elBkNFRoQlNOZFU4Yg?oc=5",
-   "summary": "全国ＣＰＩ、7月は＋1.8％ 加速の「芽」確認で9月利上げ後押しの声&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T08:46:00+09:00"
-  },
-  {
-   "title": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRHplU3k0M3l5Vkg5M1hLdkJuS01qRGlGZ015R3pyZnBtek13Zng4VlZjNnFpOVU5bWhuVlc4X1lPR1BvU0xxT19JaG9QdU5KdG4wemFDVG0ybjQ1UjBLaFA3RDlOcDFkalpScnFXNE9HV1Rlakd6eQ?oc=5",
-   "summary": "米債買い戻し規模拡大も、金利上昇は経済条件反映せず＝財務長官&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T08:10:55+09:00"
   },
   {
    "title": "“数合わせの障害者雇用”は通用しない　イマドキの採用・定着プロセスとは",
