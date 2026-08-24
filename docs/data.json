@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T08:54:21.561608+09:00",
+ "generated_at": "2026-08-24T09:31:15.264484+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,65 @@
  "errors": [],
  "items": [
   {
+   "title": "国債金利情報(令和8年8月21日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-24T09:30:00+09:00"
+  },
+  {
+   "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
+   "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+   "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-24T09:26:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "日経平均は小幅続落で寄り付く、米半導体株安嫌気 プラス転換も - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjBTUlhKazgtZS1PNnNFZkRROVNiRThZbTVlYlpWRVIzdUk4ejlJMGljMm16YUF2MXNCckE3OFNPWGF5eERFMmEzYmkzblM2ZXRsUWpESDdiT1B6eVJFWDdxdTJlMU5pSTRWQ0ZsN29ISHBqS3Jhd0ZHMklYTDhldg?oc=5",
+   "summary": "日経平均は小幅続落で寄り付く、米半導体株安嫌気 プラス転換も&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-24T09:24:00+09:00"
+  },
+  {
+   "title": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-potential-u-s-sanctions-on-iran-6d0d22c3?mod=rss_markets_main",
+   "summary": "Oil fell in early Asian trade on possible position adjustments. The U.S. is expected to announce new economic sanctions against Iran on Monday.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-24T09:22:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Nikkei Edges 0.3% Higher, Tracking Wall Street’s Gains",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-edges-0-3-higher-tracking-wall-streets-gains-7da05fa9?mod=rss_markets_main",
+   "summary": "The Nikkei Stock Average rose 0.3% to 66212.61. Japanese stocks swung between mild gains and losses as investors digested the U.S.-Canada trade spat.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-24T09:19:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "AI秩序を決する米中競争が始まる！日本は｢アメリカのクローズド型｣を選ぶか､それとも｢中国のオープン型｣を選ぶか | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "11月3日のアメリカ中間選挙は、AIの規制、開放性、技術主権をめぐる世界のルールを左右することになりそうだ。問われているのは、「どの国が最も高性能なモデルを開発するか」だけではない。より重要なのは、…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-24T09:00:00+09:00"
+  },
+  {
+   "title": "欧州のＥＶ市場シェア、7月25％突破 仏独が伸びけん引 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTJHc0FXT3c5UTdwVmlXVWRmRHlQbE8zLXFvXzlEczk4ZlVOeTFQZEJSVnhuNlNrZHJQTjR5UTFuUTRBY2xHVWYyMlEtN2dNU2phSWItOF9DUlJTNmdzU0VwUFdjVGU5b25DM3E4ZS1KS1ZpWHdUUnNFX25EWEVPRg?oc=5",
+   "summary": "欧州のＥＶ市場シェア、7月25％突破 仏独が伸びけん引&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-24T08:55:44+09:00"
+  },
+  {
    "title": "FSBレポ統計の日本分集計結果",
    "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
    "summary": "",
@@ -75,15 +134,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-24T08:45:43+09:00"
-  },
-  {
-   "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
-   "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-   "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-24T08:45:00+09:00",
-   "lang": "en"
   },
   {
    "title": "副業で人事の評価は下がる？　企業のリアルな本音と､ダントツ人気を集めた｢ある外食企業の接客｣とは？ | キャリア・教育 | 東洋経済オンライン",
@@ -149,6 +199,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-24T07:59:30+09:00"
+  },
+  {
+   "title": "エヌビディア、ＡＩサーバー15％超値上げ 大口顧客に通知＝報道 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OZUNFZHVuNWFiOFFCR1JOUmR3dEFwazBMTmxJQzFsejBKaWxlY3M3a3ZhWVpPczZ4WHVfazhjOWhQeE1jQ2NTei1pVllkUUh3N0JCZThkRUNOZXNrZ2pJUlZvWVA2U2JLWjVQeG9TcGhBM2w2UWh4ZA?oc=5",
+   "summary": "エヌビディア、ＡＩサーバー15％超値上げ 大口顧客に通知＝報道&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-24T07:43:45+09:00"
   },
   {
    "title": "ビールが進む…！22年ぶりのカナダで飲んだら｢食｣の進化が凄かった　移民国家だからこその多彩な｢酒の肴｣を一挙ご紹介 | ライフ | 東洋経済オンライン",
@@ -249,6 +307,15 @@
    "published": "2026-08-24T06:30:00+09:00"
   },
   {
+   "title": "How New Zealand’s biggest city solved its housing crisis",
+   "link": "https://www.ft.com/content/ec25a937-3dbd-417c-82a1-db223b62cca6?syn-25a6b1a6=1",
+   "summary": "Rezoning has changed the face of Auckland though critics warn lessons hard to replicate",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-24T06:00:01+09:00",
+   "lang": "en"
+  },
+  {
    "title": "「牛丼は日本のハンバーガーに」　すき家創業者・小川氏が貫いた反骨",
    "link": "https://www.asahi.com/articles/ASV8N35P5V8NULFA00QM.html?ref=rss",
    "summary": "",
@@ -303,14 +370,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-24T05:50:00+09:00"
-  },
-  {
-   "title": "〈センサー王者ソニー〉の技術者を〝年収2000万円〟で狙う中国企業の正体…TSMCがソニーとの合弁で打つ2つの布石 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955121?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "ソニーとTSMCによる熊本でのイメージセンサー合弁設立は､総額1兆円規模の巨大プロジェクト。サムスンや中国オムニビジョンなど熾烈な世界競争を背景に､両社が何を狙い､どんな\"防衛線\"を張ろうとしている…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-24T05:40:00+09:00"
   },
   {
    "title": "クマ対策からサクラ害虫防除まで　実質外国人が負担、出国税の増税分",
@@ -498,14 +557,6 @@
    "lang": "en"
   },
   {
-   "title": "「二つの海峡」安定に注力　日本政府、原油輸送確保狙う―首脳外交求める声",
-   "link": "https://www.jiji.com/jc/article?k=2026082300168&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-23T19:01:00+09:00"
-  },
-  {
    "title": "Hype for Moderna’s Cancer Vaccine Is Running Ahead of the Math",
    "link": "https://www.wsj.com/health/pharma/hype-for-modernas-cancer-vaccine-is-running-ahead-of-the-math-b9b596f5?mod=rss_markets_main",
    "summary": "Personalized mRNA shots may prove neither as wide-reaching nor as lucrative as hoped.",
@@ -523,21 +574,12 @@
    "published": "2026-08-23T18:28:39+09:00"
   },
   {
-   "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
+   "title": "China’s Alibaba plans $10.2bn share placement in AI push",
    "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
    "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-23T17:33:27+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-   "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
-   "summary": "AI lab’s Fable 5 has met with sluggish demand from corporate clients",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-23T17:23:24+09:00",
    "lang": "en"
   },
   {
@@ -603,15 +645,6 @@
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-23T10:00:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Trump Discloses 1,000 Stock Trades in June",
-   "link": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?mod=rss_markets_main",
-   "summary": "The White House said the president’s accounts are invested in “computer-based model portfolios” to replicate stock indexes.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-23T09:41:00+09:00",
    "lang": "en"
   },
   {
@@ -685,24 +718,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-22T14:15:00+09:00"
-  },
-  {
-   "title": "中国がイラン石油ショックをどのように乗り越えたかを見る",
-   "link": "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8?mod=rss_markets_main",
-   "summary": "中国政府がどのようにして原油輸入を削減し、世界価格を抑え、生き残ったのかという謎の背後にある謎を見てみましょう。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-22T11:00:00+09:00",
-   "lang": "en",
-   "title_orig": "See How China Weathered the Iran Oil Shock"
-  },
-  {
-   "title": "Breakingviews - コラム：猛暑「適応」に巨額投資迫られる欧州、冷房なし世帯8割の現実 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDFvUEM1elcxR3ZuRDFva0xlSlhhMk5seHQwcUMxSTJocU0yc1hOazZqMy1RN0E2a3pYX0V0NFpuUXFQeFMyeXJaMnNiOFpEQ09qUkh6LTYxa3NrQ2lwTGxjM1UzaTNlNlpVcHU3dTluNkg5OXdqS1VCU08zVWFQSC1DS2dDNi1aZkRv?oc=5",
-   "summary": "Breakingviews - コラム：猛暑「適応」に巨額投資迫られる欧州、冷房なし世帯8割の現実&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-22T08:08:04+09:00"
   },
   {
    "title": "Uber Eats黒字化の立役者　Airbnb新社長が明かす「脱・インバウンド依存」の勝算",
@@ -885,14 +900,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-21T10:00:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年8月20日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-08-21T09:30:00+09:00"
   }
  ]
 }
