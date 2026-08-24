@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T04:50:07.478045+09:00",
+ "generated_at": "2026-08-25T05:15:35.293018+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,40 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "Crypto extends gains after biggest 3-day rally since 2023",
+   "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+   "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-25T05:02:22+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "100メートル走であっさりウサイン･ボルト超え！人よりずっと速い中国人型ロボの価値を支える｢地味な作業｣とは？ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955771?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "中国の人型ロボットは、最速記録を持つ人間よりも速く走れることを証明した。真価が問われるのはここからだ。ケーブル接続のような精密作業を確実にこなしながら、梱包や倉庫業務にも対応し、地味な仕事でも人間の…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-25T05:00:00+09:00"
+  },
+  {
+   "title": "｢社員の時給｣が高い企業ランキング…5位は住友商事､4位伊藤忠商事､ではトップ3は？ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955575?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "東京都の最低賃金が1280円へと上昇し続ける中､上場企業の｢計算時給｣は一体どれほどの差があるのでしょうか？　本記事では有名企業の時給ランキング上位100社を徹底解説。平均年収や労働時間､働き方改革…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-25T05:00:00+09:00"
+  },
+  {
+   "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
+   "link": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
+   "summary": "Elon Musk’s company now plans to launch orbital data centers by the end of next year.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-25T04:59:00+09:00",
+   "lang": "en"
+  },
   {
    "title": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
    "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
@@ -211,15 +245,6 @@
    "lang": "en"
   },
   {
-   "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
-   "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-   "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T02:44:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Comex Gold Settles 0.36% Higher at $4640.80",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-appeal-grows-amid-uneasy-u-s-fiscal-outlook-868ddd14?mod=rss_markets_main",
    "summary": "Gold settled 0.4% higher, up for a fourth-consecutive session, while silver fell 1.3%, snapping a three-session winning streak.",
@@ -359,15 +384,6 @@
    "published": "2026-08-24T23:53:04+09:00"
   },
   {
-   "title": "Crypto extends gains after biggest 3-day rally since 2023",
-   "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-   "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-24T23:02:54+09:00",
-   "lang": "en"
-  },
-  {
    "title": "損保ジャパン 車保険料5%値上げへ",
    "link": "https://news.yahoo.co.jp/pickup/6592942?source=rss",
    "summary": "",
@@ -464,6 +480,14 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-24T18:05:00+09:00"
+  },
+  {
+   "title": "中国・香港株式市場・大引け＝反落、アリババの新株発行でＡＩ懸念再燃 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXE1N2E4WGRjYWE0TDBqUVZZWklvT29IMGw3NzJhQ2NtZ3hqSFR4RG5xV1BadEhPZ3JhV2ozb1JST0hZTWktRmhXc2YyLTBXYkxOVkJ1QTAxRnYwVXFveExJb2R2Mm1PNnBuRVBMc2tJY0R4cWF0SDVuUi0yRDVlNA?oc=5",
+   "summary": "中国・香港株式市場・大引け＝反落、アリババの新株発行でＡＩ懸念再燃&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-24T17:47:03+09:00"
   },
   {
    "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
@@ -779,14 +803,6 @@
    "published": "2026-08-24T09:30:00+09:00"
   },
   {
-   "title": "日経平均は小幅続落で寄り付く、米半導体株安嫌気 プラス転換も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjBTUlhKazgtZS1PNnNFZkRROVNiRThZbTVlYlpWRVIzdUk4ejlJMGljMm16YUF2MXNCckE3OFNPWGF5eERFMmEzYmkzblM2ZXRsUWpESDdiT1B6eVJFWDdxdTJlMU5pSTRWQ0ZsN29ISHBqS3Jhd0ZHMklYTDhldg?oc=5",
-   "summary": "日経平均は小幅続落で寄り付く、米半導体株安嫌気 プラス転換も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-24T09:24:00+09:00"
-  },
-  {
    "title": "AI秩序を決する米中競争が始まる！日本は｢アメリカのクローズド型｣を選ぶか､それとも｢中国のオープン型｣を選ぶか | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "11月3日のアメリカ中間選挙は、AIの規制、開放性、技術主権をめぐる世界のルールを左右することになりそうだ。問われているのは、「どの国が最も高性能なモデルを開発するか」だけではない。より重要なのは、…",
@@ -827,28 +843,12 @@
    "published": "2026-08-24T08:00:00+09:00"
   },
   {
-   "title": "走り続けることにも､休むことにも正解はない——田中希実が迷い､悩み､それでもスタートラインに立ち続ける現在地 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954728?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "日本女子中長距離界を牽引する田中希実選手が向き合う｢なぜ走り続けるのか｣。田中選手と親交があり､今年『アフリカから来たランナーたち 箱根駅伝のケニア人留学生』で第57回大宅壮一ノンフィクション賞を受…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-24T08:00:00+09:00"
-  },
-  {
    "title": "離職率低下は「定着」か、それとも社員の“諦め”か──「人が辞めない会社」が見逃しがちなリスクとは？",
    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news003.html",
    "summary": "人が辞めないことは、企業にとって歓迎すべきことなのか──。米国で進む人々が会社を辞めない「ビッグステイ」現象を通して、日本のITエンジニア市場で起きている変化を読み解きます。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-24T08:00:00+09:00"
-  },
-  {
-   "title": "ビールが進む…！22年ぶりのカナダで飲んだら｢食｣の進化が凄かった　移民国家だからこその多彩な｢酒の肴｣を一挙ご紹介 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955288?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "22年ぶりに訪れたカナダで最も驚かされたのは､進化した\"食\"文化でした。食を通じて見えた､カナダならではの魅力とは――。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-24T07:30:00+09:00"
   },
   {
    "title": "「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ",
