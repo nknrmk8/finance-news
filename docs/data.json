@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T11:10:46.466114+09:00",
+ "generated_at": "2026-08-24T12:14:12.353663+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,82 @@
  "errors": [],
  "items": [
   {
+   "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
+   "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+   "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-24T12:02:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "AIで｢1人1台｣は本当に正しいのか──世界1500万人に教えた開発者が語る､タブレット学習の誤解 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955277?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "小学校に1人1台の端末が普及し､家庭学習でもアプリの活用が当たり前となったが､｢画面ばかりでよいのか｣という親の不安は依然強い。孤独な学びへの懸念と､AI活用の本質とは何か？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-24T12:00:00+09:00"
+  },
+  {
+   "title": "製造たばこの小売定価の認可",
+   "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-24T12:00:00+09:00"
+  },
+  {
+   "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+   "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+   "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-24T11:55:22+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Shein seeks $27bn valuation from Hong Kong IPO",
+   "link": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1",
+   "summary": "New figure is just over a quarter of its peak after fast-fashion retailer’s attempts to list in New York and London derailed by opposition",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-24T11:55:10+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "ソフトバンクG、個人向け社債1兆円　国内最大規模、AI投資を加速",
+   "link": "https://www.asahi.com/articles/ASV8S0SS3V8SULFA004M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-24T11:47:43+09:00"
+  },
+  {
+   "title": "Singapore Dollar Steady, Supported by U.S. Dollar-Debasement Concerns",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd?mod=rss_markets_main",
+   "summary": "The Singapore dollar was steady against its U.S. counterpart, supported by greenback-debasement concerns.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-24T11:39:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "｢月約9000円で平日回り放題｣ドコモのGOLF me！が2年半でまさかの終了　無理があった\"ゴルフサブスク\"の次なる手 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955219?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "毎月およそ9000円で､平日なら何度でもゴルフができる――。夢のような定額サービスだったはずのNTTドコモ｢GOLF me！｣が､9月30日で終了します。なぜ人気サービスは2年半で幕を閉じたのでしょ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-24T11:30:00+09:00"
+  },
+  {
+   "title": "軽EV、後発スズキは「低電費」追求　慣れ重視で残したシフトレバー",
+   "link": "https://www.asahi.com/articles/ASV8K26CLV8KULFA018M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-24T11:19:41+09:00"
+  },
+  {
    "title": "東京23区中古マンション価格、2カ月連続で下落　周辺3県に流入か",
    "link": "https://www.asahi.com/articles/ASV8P232FV8PULFA004M.html?ref=rss",
    "summary": "",
@@ -118,22 +194,12 @@
    "published": "2026-08-24T10:30:00+09:00"
   },
   {
-   "title": "Asian Currencies Consolidate, May Be Supported by U.S. Fiscal Worries",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd?mod=rss_markets_main",
-   "summary": "Asian currencies consolidated against the dollar, but may be supported by worries over U.S. national debt",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-24T10:28:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
-   "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-   "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-24T10:01:00+09:00",
-   "lang": "en"
+   "title": "ノルウェーの対ウクライナ財政支援、27年度も850億クローネ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3E1NXhNcXIzVFR3bDd4dDdBNHc4YlMtSUVwRXVGM29TYWxHal8wMW1JWW5FVzMzSnlKNUJQUWZhNGE5eU5qNTNqSWdsdW5FR210UDV4UHNDcEJqSlpoMjMwUGlxNlRoRkRORVBWX1RUbUduNkZrUktkcF8xRE1ncA?oc=5",
+   "summary": "ノルウェーの対ウクライナ財政支援、27年度も850億クローネ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-24T10:12:00+09:00"
   },
   {
    "title": "営業毎旬報告（8月20日現在）",
@@ -249,23 +315,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-24T08:30:00+09:00"
-  },
-  {
-   "title": "ＴｉｋＴｏｋ、児童プライバシー訴訟で4億ドル支払いへ 米司法省と和解 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02amhxelBrNUZxaVdhNF9NdlNEZnpPOEp4aXBSS2gyRnFWam5MSmZHZkRzTHgwUzBEM3oyendINDlEbnhXV3liS3hCN0FqTDZwUjlyQnI3NmFTOXRvVXI0TXRfcWd5VXhxRTRwTC1BODZmYmI5c1RNTw?oc=5",
-   "summary": "ＴｉｋＴｏｋ、児童プライバシー訴訟で4億ドル支払いへ 米司法省と和解&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-24T08:09:43+09:00"
-  },
-  {
-   "title": "Burnham to pledge support for long-range missile construction in Ukraine",
-   "link": "https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1",
-   "summary": "UK prime minister will shrug off warnings from Russia in first overseas visit",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-24T08:01:01+09:00",
-   "lang": "en"
   },
   {
    "title": "離島航路悩ます船員不足、背景・対応策は　九産大・行平准教授に聞く",
@@ -434,22 +483,6 @@
    "title": "デフレを脱したはずなのに…今度はインフレ懸念でやっぱり根強い｢ネガティブ･ノルム｣､実質賃金プラス化でも弱い消費 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955470?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "実質賃金が回復しつつも､個人消費は力強さを欠き続けています。家計は物価高や将来の不安から消費拡大に慎重で､増えた所得も貯蓄へ回されがちです。デフレからインフレへの転換期､日本経済はなぜ消費マインドを…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-24T06:00:00+09:00"
-  },
-  {
-   "title": "ハッカーの｢オフ会｣発祥､世界最大セキュリティイベント｢Black Hat｣で注目された\"AI暴走\"の次に問題となるサイバー脅威 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955166?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "Black Hat USA 2026は､かつてないほど官民連携やAI攻防の最前線に焦点が移りました。セキュリティ業界は今後､どんな課題と変化に直面していくのでしょうか？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-24T06:00:00+09:00"
-  },
-  {
-   "title": "AI巨額投資をドライブしてきた〈循環資金〉エコシステムの曲がり角…｢投資拡大一辺倒｣から｢AIで稼げるか｣の選別段階へ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955077?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "AI技術の進化とともに膨大な資金が巡る｢循環資金｣は､業界成長の原動力として注目されてきました。しかし､収益性を重視する声が強まり､ハイパースケーラーやAI開発企業の戦略にも変化が表れています。はた…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-24T06:00:00+09:00"
@@ -630,15 +663,6 @@
    "published": "2026-08-23T20:38:30+09:00"
   },
   {
-   "title": "Zelenskyy rejects election call from fired defence minister",
-   "link": "https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35",
-   "summary": "President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-23T20:26:39+09:00",
-   "lang": "en"
-  },
-  {
    "title": "ソニー 中国「TCL」と手を組む訳",
    "link": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
    "summary": "",
@@ -653,6 +677,15 @@
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-23T17:33:27+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+   "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+   "summary": "AI lab’s Fable 5 has met with sluggish demand from corporate clients",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-23T17:23:24+09:00",
    "lang": "en"
   },
   {
@@ -750,22 +783,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-23T05:00:00+09:00"
-  },
-  {
-   "title": "TikTok、米司法省と和解　子どもの情報訴訟で635億円支払い",
-   "link": "https://www.asahi.com/articles/ASV8Q3137V8QULFA005M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-22T18:27:49+09:00"
-  },
-  {
-   "title": "一番茶の荒茶生産量、鹿児島は2年続けてトップならず　静岡返り咲き",
-   "link": "https://www.asahi.com/articles/ASV8Q0G97V8QTLTB00HM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-22T18:00:00+09:00"
   },
   {
    "title": "「スマホリタイア」が新市場を生む？　老親との「遠距離同居」を支えるテレビ電話",
@@ -884,16 +901,6 @@
    "title_orig": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback"
   },
   {
-   "title": "LabubuメーカーのPop Mart株は主要な中国国外売上高統計の下落を受けて下落、シティは目標株価を引き下げる",
-   "link": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
-   "summary": "ポップマート株は上半期決算発表後に下落。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-21T16:18:33+09:00",
-   "lang": "en",
-   "title_orig": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target"
-  },
-  {
    "title": "実質輸出入の動向",
    "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
    "summary": "",
@@ -916,14 +923,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-21T12:30:00+09:00"
-  },
-  {
-   "title": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QZXFJRUgyLWNNa2NseHZ4ODYyRnFGUmRwODdDdkhmUlJ0V3JEM25NSGZUem1UdS1BTE8zYXU2dnQ0akl6UnFEMnlQa25ZSmUzV2RlX3ZkY2lCcjJtUTk4b1JlZUJfVnJWSjFJOFg4YWdwNHpnSDc4ZVl4dnJLQQ?oc=5",
-   "summary": "中国7月原油輸入、インドネシア産が前年比50％超増 ロシア産も5％増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-21T12:08:00+09:00"
   }
  ]
 }
