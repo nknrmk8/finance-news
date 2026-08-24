@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T02:42:38.553086+09:00",
+ "generated_at": "2026-08-25T03:03:35.047825+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,51 @@
  "errors": [],
  "items": [
   {
+   "title": "Oil Remains in Red as U.S. Moves to Isolate Iran",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-potential-u-s-sanctions-on-iran-6d0d22c3?mod=rss_markets_main",
+   "summary": "Oil futures extended losses as U.S. Treasury Secretary Scott Bessent announced the plan to isolate Iran with sanctions against anyone doing business with the country.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-25T02:59:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+   "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories",
+   "summary": "A state-based financing system would introduce a new layer of uncertainty",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-25T02:55:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
+   "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
+   "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-25T02:44:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Comex Gold Settles 0.36% Higher at $4640.80",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-appeal-grows-amid-uneasy-u-s-fiscal-outlook-868ddd14?mod=rss_markets_main",
+   "summary": "Gold settled 0.4% higher, up for a fourth-consecutive session, while silver fell 1.3%, snapping a three-session winning streak.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-25T02:43:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Scott Bessent threatens wider US sanctions on Iran’s economic partners",
+   "link": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
+   "summary": "Treasury secretary warns of further measures in bid to increase pressure on Tehran",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-25T02:30:46+09:00",
+   "lang": "en"
+  },
+  {
    "title": "Canada’s Big Banks Expected to Log Another Strong Quarter While Valuations Stretched",
    "link": "https://www.wsj.com/finance/banking/canadas-big-banks-expected-to-log-another-strong-quarter-while-valuations-stretched-0eaa08bc?mod=rss_markets_main",
    "summary": "Canada’s biggest banks face a high bar ahead of their latest quarterly readouts, as recent strong trends have stretched market valuations.",
@@ -93,6 +138,15 @@
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-08-25T02:02:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Britain gains access to Ukraine battlefield data",
+   "link": "https://www.ft.com/content/063dbdd2-fb5a-4ece-9152-74e791e4835c?syn-25a6b1a6=1",
+   "summary": "Trove of combat imagery used to train AI models to identify and strike Russian targets",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-25T02:00:03+09:00",
    "lang": "en"
   },
   {
@@ -175,15 +229,6 @@
    "lang": "en"
   },
   {
-   "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
-   "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-   "summary": "What matters more for oil prices is how hard U.S. sanctions hit China, Iran’s biggest oil buyer, and whether Beijing pushes back.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T01:03:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Trump says US to increase tariffs on Canadian cars to 50%",
    "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
    "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
@@ -215,15 +260,6 @@
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-08-25T00:50:50+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "U.S. automakers and home builders are among the big losers as Trump launches a trade war against Canada",
-   "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-   "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T00:46:00+09:00",
    "lang": "en"
   },
   {
@@ -315,30 +351,12 @@
    "lang": "en"
   },
   {
-   "title": "Japanese Yen Has Plenty of Scope to Fall",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd?mod=rss_markets_main",
-   "summary": "The Japanese yen has ample room to weaken against the dollar unless the U.S. fundamental backdrop changes materially, Morgan Stanley analysts said.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-24T22:55:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "損保ジャパン 車保険料5%値上げへ",
    "link": "https://news.yahoo.co.jp/pickup/6592942?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-24T22:33:23+09:00"
-  },
-  {
-   "title": "Oil Retreats Awaiting Details of U.S. Measures Against Iran",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-potential-u-s-sanctions-on-iran-6d0d22c3?mod=rss_markets_main",
-   "summary": "Oil prices fell, following six straight sessions of gains, as investors awaited details of U.S. measures against Iran.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-24T22:22:00+09:00",
-   "lang": "en"
   },
   {
    "title": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
@@ -365,24 +383,6 @@
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-08-24T20:31:23+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "An offer Canada could only refuse",
-   "link": "https://www.ft.com/content/c806d2ce-efed-47a0-9abb-508e218b62b5?syn-25a6b1a6=1",
-   "summary": "Saint Mark Carney’s canonisation owes much to Donald Trump’s inept bullying",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-24T20:31:01+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine hits Russia’s second-largest online retailer",
-   "link": "https://www.ft.com/content/353032d0-4031-40fe-83ab-958d473401f0?syn-25a6b1a6=1",
-   "summary": "Kyiv’s drones target Ozon warehouses after weeks of strikes against market leader Wildberries",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-24T20:27:46+09:00",
    "lang": "en"
   },
   {
@@ -953,16 +953,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-08-22T03:30:00+09:00"
-  },
-  {
-   "title": "カルシのトレーダーらは、ビットコインの上昇は現在の水準付近で年末を迎える可能性があると考えている",
-   "link": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
-   "summary": "予測市場プラットフォームの投機家らは、仮想通貨が現在取引されている時期に近い2026年に終了する可能性が最も高いと考えている。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-22T02:43:25+09:00",
-   "lang": "en",
-   "title_orig": "Kalshi traders think the bitcoin rally could end the year near current levels"
   }
  ]
 }
