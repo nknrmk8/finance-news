@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T07:20:59.636653+09:00",
+ "generated_at": "2026-08-26T07:50:32.171339+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -58,8 +58,36 @@
    "category": "海外金融"
   }
  ],
- "errors": [],
+ "errors": [
+  "ロイター: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
+  {
+   "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+   "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+   "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T07:45:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "｢『ラヴ上等』は深い人間理解を促進する｣…犯罪心理学者が\"ヤンキーの恋リア\"に感じた｢切ない葛藤｣と｢爽快感｣ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955747?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "Netflixで話題の『ラヴ上等』。不器用なヤンキーたちの言動に､なぜ私たちは惹かれるのでしょうか？　犯罪心理学者の出口保行さんが､行動の背景にある切ない葛藤と心理構造を解き明かします。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-26T07:30:00+09:00"
+  },
+  {
+   "title": "Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI",
+   "link": "https://www.wsj.com/tech/ai/druckenmillers-surprising-critique-of-bessent-was-delivered-with-the-help-of-ai-9dd0a4fd?mod=rss_markets_main",
+   "summary": "The legendary hedge-fund investor said he was “kind of proud of using it.”",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T07:25:00+09:00",
+   "lang": "en"
+  },
   {
    "title": "｢なぜ脱がすの？｣綾瀬はるかのユニクロ\"上半身裸\"CMに賛否の声…｢高好感度の女優｣が出演も､何度も物議を醸したワケ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955773?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -73,6 +101,14 @@
    "link": "https://toyokeizai.net/articles/-/955476?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "2008年のリーマンショック後､厳格な規制で金融危機は防げると信じられてきました。しかし､巨大プライベート･エクイティ（PE）ファームが規制の網を巧みにかいくぐり､私たちの保険や年金を高リスク投資に…",
    "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-26T07:00:00+09:00"
+  },
+  {
+   "title": "町中華の倒産が過去最多ペース　「安い・うまい」を支えた店に何が？",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/26/news016.html",
+   "summary": "東京商工リサーチは、中華料理店（負債1000万円以上）の倒産動向について調査を実施した。その結果……。",
+   "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-26T07:00:00+09:00"
   },
@@ -135,14 +171,6 @@
    "source": "時事通信",
    "category": "報道機関",
    "published": "2026-08-26T06:27:00+09:00"
-  },
-  {
-   "title": "米国株式市場＝上昇、ハイテクが反発 金利低下も支援 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjFBaGdmZS1ZZnR1RnNmUTZsbjBBXzlCTk5FRzNHbG9oTHFOYzdPbjM4SkFWR0Rnak8tT0pybG1Tc0lGbHVOVnZicHJadlhUMVNiQUxYY1hhclNoNmhFNVBub1ByYVIwZFhEd1FxeVdFUVNFRW5NckZFNGx3dFotNg?oc=5",
-   "summary": "米国株式市場＝上昇、ハイテクが反発 金利低下も支援&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-26T06:20:34+09:00"
   },
   {
    "title": "Health Care Roundup: Market Talk",
@@ -268,15 +296,6 @@
    "published": "2026-08-26T06:00:00+09:00"
   },
   {
-   "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-   "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-   "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-26T06:00:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
    "link": "https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories",
    "summary": "The viral ad shows a male golfer pushing a female golfer to the ground. Since 2019, women and girls made up nearly 60% of net golfer growth.",
@@ -330,14 +349,6 @@
    "published": "2026-08-26T05:30:00+09:00"
   },
   {
-   "title": "｢麻辣湯｣はタピオカのように消えるのか…サラダ専門店までもが虎ノ門で始めた｢1280円の一杯｣でわかった《ブームの現在地》 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955669?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "麻辣湯専門店が急増する中､サラダ専門店｢クリスプサラダワークス｣の運営会社も新たな業態で参入。その舞台は虎ノ門ヒルズ､注目の店｢バイウェイヌードル｣です。ランチタイムのオフィスワーカーに支持される秘…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-26T05:30:00+09:00"
-  },
-  {
    "title": "Canada Strikes Back",
    "link": "https://www.wsj.com/finance/stocks/canada-strikes-back-2eba01b9?mod=rss_markets_main",
    "summary": "Plus, oil declines and Dick’s Sporting Goods gets slammed .",
@@ -374,22 +385,6 @@
    "lang": "en"
   },
   {
-   "title": "原油先物3%超安、1週間ぶり安値 対イラン制裁の影響限定的との見方 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pX1FBWmtHZFlVM0pzQ25qX1FDVnIzWmE4MU5meGpyMlpTVXNhZ2VZNG5VWHRqSTVvdzNYTHY2S0xWOVlldUNSXzUzellKY2VRYm5SZk5JMXJIM0pwN0ZITHg1MjdWalc4Q1dWZzdXRXFrOGJwd0ZOUw?oc=5",
-   "summary": "原油先物3%超安、1週間ぶり安値 対イラン制裁の影響限定的との見方&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-26T05:03:44+09:00"
-  },
-  {
-   "title": "ＥＣＢ、9月理事会で利上げの公算 追加引き締めには消極的＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnlPMjR4ejA4ZEFjMS12Vk9jWDliajB3Tm9YdWVfU0hPOFVFbzJXMnpzMjJNbjRtaVBWN005NGF3OUh1R0w2ZVgwTmhtbzd4NG55YXJhbTBYN3JhanVHQkFzODRBVmtDZENiTnVZSFN4czU1MkNlM3k0aEFDMXBDSw?oc=5",
-   "summary": "ＥＣＢ、9月理事会で利上げの公算 追加引き締めには消極的＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-26T04:43:44+09:00"
-  },
-  {
    "title": "Former Forbes Editor Got $6 Million for Helping Magazine’s Partner With Sale",
    "link": "https://www.wsj.com/business/media/former-forbes-editor-got-6-million-for-helping-magazines-partner-with-sale-e892131a?mod=rss_markets_main",
    "summary": "A founder of Shook Research said Randall Lane, who was fired by Forbes in July, offered guidance during Shook’s sale to a private-equity firm.",
@@ -405,23 +400,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-08-26T04:24:17+09:00"
-  },
-  {
-   "title": "Oil Futures Fall Further on Hopes for Hormuz",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-as-traders-assess-u-s-measures-against-iran-2291fac0?mod=rss_markets_main",
-   "summary": "Oil futures posted back-to-back losses as the U.S. tightens the economic squeeze on Iran, raising expectations the measures could bring Iran to the negotiating table.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-26T04:19:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "世界経済、エネルギーショック乗り切る 財政悪化を懸念＝ＩＭＦ専務理事 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwb0VBQkFhMlN0dTlrNzhJZU42MjBpSVh3RXB0OWdCTk5DN1JUeWRKZTJucDZDTzdOMG83UTB1dXdVR05fekRrdTZiUkM2b1ZhRy1QVmdkLUJtN3RIaDN3SEVkVi1kdVBJQnA2ZmlfNTJ6WVI1TExiOWVn?oc=5",
-   "summary": "世界経済、エネルギーショック乗り切る 財政悪化を懸念＝ＩＭＦ専務理事&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-26T03:57:46+09:00"
   },
   {
    "title": "SpaceX commits $100bn to Louisiana space base",
@@ -585,22 +563,6 @@
    "published": "2026-08-25T18:26:49+09:00"
   },
   {
-   "title": "中国・香港株式市場・大引け＝ほぼ横ばい、中東情勢とジャクソンホール会議にらみ慎重ムード - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1p2YXFXSXA3Z1Q4SmF0dktPdFhYUHFQcHhka2xDS1VVcHlJUkNqSUhfc1NHSGpkX3dhbExUY0I4M0JyRXlYdm4xYXpXWGpwUzJnY0JNeGNFdm9iTFotRkt6SWhLQU40YW9RSE1nenpTRnF4c0pkdHp4aW1IUDVPSg?oc=5",
-   "summary": "中国・香港株式市場・大引け＝ほぼ横ばい、中東情勢とジャクソンホール会議にらみ慎重ムード&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T18:25:24+09:00"
-  },
-  {
-   "title": "独ＧＤＰ、輸出けん引し第2四半期前期比＋0.3％ 消費・投資は弱い - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYS0xUWVZSWFaR05LaGF1WVJ1YUFONTY2alc1V2RXUmVRZFo5VkNIZnpQRkdPaHFYQXZraUJaT0htQkE0NVp4cEEwNHBwZnpRM3E5T1ljMTREVE96STJJU24zUXM2bUY1OTYxelJCM0QzSU4yd3pUYUFaWTNIZl9RWQ?oc=5",
-   "summary": "独ＧＤＰ、輸出けん引し第2四半期前期比＋0.3％ 消費・投資は弱い&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T18:05:12+09:00"
-  },
-  {
    "title": "モス スーパーなどで冷食販売へ",
    "link": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
    "summary": "",
@@ -623,14 +585,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-25T17:18:12+09:00"
-  },
-  {
-   "title": "維新、熊本地震で財政支援要望 2016年並み規模 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VbklwSWhFWlg4dVJIdUJQZjYxS0UtUVAxcmYzQnNJQXpYc0VKNlAyVFozdzJTVFVrbjdnWURJQzkzbFpUeVVHQ0p6VFhEemtCc0RqZ2h5TjJ0MWRReUs0R2lmZHAta3Q1LVd5RU1KU2FWMDQxWFB3TmRkWmlhdw?oc=5",
-   "summary": "維新、熊本地震で財政支援要望 2016年並み規模&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T17:00:26+09:00"
   },
   {
    "title": "「契約を更新したら安く…」実際は追加契約　高額請求のトラブル多発",
@@ -673,76 +627,12 @@
    "published": "2026-08-25T16:47:02+09:00"
   },
   {
-   "title": "大幸薬品、東証プライムからスタンダード市場に変更申請 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHRpYXVrZEd1YzdHWTVyQVhYZWV2RFYwU3FtQkpXYTE4YzE2R2tCcnlBLU9lejJVUlhaYjJ4ejE2Y2VlX0RYQWlSN1U2NTdFTXd2NGRVaEdPN3dadXZyRG1aaHNtZVJmRE5HamY3dmRnb1dudmxRbTg4c2xiMF9ZTQ?oc=5",
-   "summary": "大幸薬品、東証プライムからスタンダード市場に変更申請&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T16:29:58+09:00"
-  },
-  {
-   "title": "東京海上ＨＤ、9月30日を基準日に株式15分割 株主優待も導入 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXZrZE4zd2t6el95RmpsYXVPaE1ZNks3RnAzeF9vcjFvSGRIdVFibm9YUU1maDRocl9wWHhYbm9Ob2UwWjRLU19aYlQ1WWY2elZFeWNNYWo0bDE1QWluNC00RnJMVWRyamh5Z29LejA2RDlzVGdNclFoT2RSTG1EOQ?oc=5",
-   "summary": "東京海上ＨＤ、9月30日を基準日に株式15分割 株主優待も導入&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T16:29:40+09:00"
-  },
-  {
-   "title": "米国債買い戻し拡大は「誤り」、信認損なう＝ドラッケンミラー氏 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTktMHFVZzByYnlGR1Q5MlZ3MGRVMDhfVVNnWEdpcGZQZnJxaUVyNzhjVVVyaEVNb01wdDB3cGViSDdMWlN0ZlBpeEVOR3VZcWhIMFdxRUoydktHa29SU19HTWdfajY1eHBRWnFOa0dWamUtMVlUOXRHYTNacGlJSw?oc=5",
-   "summary": "米国債買い戻し拡大は「誤り」、信認損なう＝ドラッケンミラー氏&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T16:21:43+09:00"
-  },
-  {
-   "title": "日経平均は3日ぶり小反発、売り一巡後下げ渋り 様子見は継続 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1pJNkdUcF9XbURjdEdfRHJzOFVGcF9WUWRlZEtGTHdFQmlfVXUwNFZfOFo1NnpTMGdzSXJwVERoVl8wbG5MaGFWLTljcTM1OC1WMzJiM1U5MUxsUml0dlNVTlBaRWQ1OGJIbEpCdWxJbFpMeE9GV0F3UnJGWERueA?oc=5",
-   "summary": "日経平均は3日ぶり小反発、売り一巡後下げ渋り 様子見は継続&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T16:13:51+09:00"
-  },
-  {
    "title": "（金研ニュースレター）情報セキュリティ・セミナー「生体認証技術の現在地」",
    "link": "http://www.boj.or.jp/about/release_2026/rel260825a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-08-25T16:00:00+09:00"
-  },
-  {
-   "title": "午後3時のドルは159円前半で方向感欠く、ＦＲＢ議長の発言待ち - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdFVnbVY5RUZseUZxdzJWMHgydno2X25PYTdrREl3aWYyaHVlNEdlQlVDMVBTbFFGWjgxMFNPclo2VGdmeUM4YVJUNzJVbzdHOHhtX0RMQ2JTcjJjU0V4MVozYUlwWjJ1VTBJaF9QRDVtbkpYTi1xaw?oc=5",
-   "summary": "午後3時のドルは159円前半で方向感欠く、ＦＲＢ議長の発言待ち&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T15:52:00+09:00"
-  },
-  {
-   "title": "特殊要因除くコアＣＰＩ、7月は＋2.3％に鈍化 コアコアは加速＝日銀 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ25haGtDVHo0b1RYcmgybjEwS3NSVUFoUlRTd0dOYmlPMXk2SmM2Q0Z6X2VvVmpiakZCLXAzd19sdGoxYzNCd1JhbzJqc21DQlhtRHNMaFZVdnRERDRONTdNanRzRlVkZ3hhWklmZXc3UVJHWk1RcE5yWno2a0NnTkJOeHdxRUM1MDZv?oc=5",
-   "summary": "特殊要因除くコアＣＰＩ、7月は＋2.3％に鈍化 コアコアは加速＝日銀&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T14:44:00+09:00"
-  },
-  {
-   "title": "6月改定景気動向指数、一致は118.5 判断据え置き＝内閣府 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVh2YW1pdWZGdV9vSkU5SzQ2c0FTUzdvckN4VHl1WlBYcU51UHQxMGVhbnlVTUZLM3k4NDQ3WElyZHlIbnJXRkJqZk5vMzBDRnppYjhkN2FMbGE3eWhacjE1MUd5aGdoNDA4NVFsOV8ydVZicElNLWFnT2c0VHhoTA?oc=5",
-   "summary": "6月改定景気動向指数、一致は118.5 判断据え置き＝内閣府&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T14:25:00+09:00"
-  },
-  {
-   "title": "中国、道交法に自動運転規則を新設へ メーカー・輸入業者に責任も - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKUXdDRU9OWHFqcjdUTHROaGM0bkVkUXVqVG8wX3hIRkNYUml2NjRaUnY4ejhXZkE3VklqT2pBdVNjRUNLMEhWUEdiNk1zY0U5QVB5YlU5bXJhb0l6WWppTGpxQ29jNjdqWFl6RXc3LWlacXlrTThVWER4dkFQQQ?oc=5",
-   "summary": "中国、道交法に自動運転規則を新設へ メーカー・輸入業者に責任も&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T14:05:00+09:00"
   },
   {
    "title": "消費者物価のコア指標",
@@ -987,22 +877,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-24T07:10:00+09:00"
-  },
-  {
-   "title": "ドトールVS.コメダ　なぜ好調？　店舗数だけでは分からない「強さ」の違い",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/24/news018.html",
-   "summary": "ドトールコーヒーショップとコメダ珈琲店が激しい競争を繰り広げている。店舗数でドトールの背中を捉えたコメダ。両者の決算や歴史を振り返りながら、今後の動向を見ていきたい。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-24T06:00:00+09:00"
-  },
-  {
-   "title": "信者数減、後継者不足……苦境の寺社救え　三菱UFJ銀が寺社支援コンサル",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/23/news008.html",
-   "summary": "三菱UFJ銀行が、人口減少に伴う信者数の減少や後継者不足などに悩む神社仏閣を対象に、コンサルティングサービス「寺社Connect（コネクト）」を令和9年中に始める。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-08-23T12:04:00+09:00"
   }
  ]
 }
