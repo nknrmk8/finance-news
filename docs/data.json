@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T00:00:38.591476+09:00",
+ "generated_at": "2026-08-26T00:56:07.262755+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,111 @@
  "errors": [],
  "items": [
   {
-   "title": "Bitcoin Rally Pauses After Jumping to 3-Month High",
+   "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+   "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+   "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-26T00:45:18+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
+   "link": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
+   "summary": "Hundreds of US goods will face increased levies from September 8",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T00:40:20+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+   "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+   "summary": "“We don’t know whether they have signed leases or are renting month to month.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T00:30:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Home prices in Chicago have risen the most in the U.S. over the past year",
+   "link": "https://www.marketwatch.com/story/home-prices-in-chicago-have-risen-the-most-in-the-u-s-over-the-past-year-3ee317a8?mod=mw_rss_topstories",
+   "summary": "Nationally, home prices are rising at a slow pace as housing inventory remains relatively low. But some markets, particularly in the Midwest, are seeing big gains.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T00:22:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Oil Extends Retreat As U.S. Tightens Iran Sanctions",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-as-traders-assess-u-s-measures-against-iran-2291fac0?mod=rss_markets_main",
+   "summary": "Oil futures lost more ground with the market seeing stepped-up U.S. economic pressure on Iran more likely to lead to negotiations than military escalation.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T00:11:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
+   "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+   "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T00:10:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. Natural Gas Futures Give Back Gains",
+   "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-holds-above-68-euros-on-winter-supply-concerns-e2775bb6?mod=rss_markets_main",
+   "summary": "U.S. natural gas futures fell back after rising the previous two sessions with support from extended summer weather.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T00:07:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+   "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+   "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T00:05:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "What Nvidia says on Wednesday to address concerns about its competitiveness could be key for the stock",
+   "link": "https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
+   "summary": "The company’s commentary on its competitiveness, business agreements and memory will be key to the stock, a J.P. Morgan analyst says.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T00:04:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Dollar Could Rise if Fed’s Warsh Sounds Credible",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-parse-u-s-new-measures-on-iran-40b529c7?mod=rss_markets_main",
+   "summary": "The DXY dollar index fell as traders look ahead toward Federal Reserve Chairman Kevin Warsh’s  Jackson Hole symposium speech Friday.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T00:04:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Bitcoin Rally Pauses After Jumping to Three-Month High",
    "link": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad?mod=rss_markets_main",
    "summary": "Bitcoin eased after rising above $80,000 as the cryptocurrency’s rally stalled in the absence of new positive catalysts.",
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-25T23:56:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "‘Embarrassing’: US officials recoil fromTrump’s Canada attacks",
+   "link": "https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1",
+   "summary": "Deepening trade war between two long-term allies descends into insults and recrimination",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-25T23:55:15+09:00",
    "lang": "en"
   },
   {
@@ -114,6 +213,15 @@
    "lang": "en"
   },
   {
+   "title": "Boss of Trump Jr-backed start-up donated to Republicans after winning US contract",
+   "link": "https://www.ft.com/content/7a889a33-1af5-4704-a57f-7890d169d94e?syn-25a6b1a6=1",
+   "summary": "Companies connected to investment firm of US president’s son have benefited from lucrative government business deals",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-25T23:25:34+09:00",
+   "lang": "en"
+  },
+  {
    "title": "You don’t have to be rich to start investing. Here’s a simple way to begin.",
    "link": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-start-investing-heres-a-simple-way-to-begin-f1b0e194?mod=mw_rss_topstories",
    "summary": "You don’t need to be fluent in market jargon or have thousands of dollars stashed away to get started.",
@@ -129,33 +237,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-25T23:20:57+09:00"
-  },
-  {
-   "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
-   "link": "https://www.marketwatch.com/story/think-medicare-advantage-provides-better-care-for-chronic-conditions-a-new-study-suggests-otherwise-276c7ffd?mod=mw_rss_topstories",
-   "summary": "Medicare Advantage enrollees with diabetes aren’t healthier than Americans on traditional Medicare — despite the grocery and gym perks.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T23:20:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "This has been one of the most affordable U.S. cities to buy a home in for more than 134 years",
-   "link": "https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories",
-   "summary": "Home prices in America have changed dramatically over the last century — but the Midwest has remained a bastion of affordability through it all.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T23:14:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
-   "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories",
-   "summary": "A state-based financing system would introduce a new layer of uncertainty",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T23:10:00+09:00",
-   "lang": "en"
   },
   {
    "title": "Regulators Probing Near-Collapse of Hedge Fund Situational Awareness",
@@ -176,39 +257,12 @@
    "lang": "en"
   },
   {
-   "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
-   "link": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-   "summary": "BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T22:59:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Stocks Rise, Shrugging Off Mideast Tensions, Canada Trade Fight",
-   "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-yields-steady-after-bessent-iran-speech-573e9dd6?mod=rss_markets_main",
-   "summary": "U.S. stocks were pressing ahead, led by a rally in tech stocks.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-25T22:59:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Can Trump’s ‘economic D-day’ force Iran to capitulate?",
    "link": "https://www.ft.com/content/b6009dd2-7e97-4bbc-941d-cd0b8fc046b6?syn-25a6b1a6=1",
    "summary": "Tehran made no concessions as a result of ‘maximum pressure’ sanctions eight years ago. Few expect it to yield this time",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-25T22:58:58+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
-   "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-   "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-25T22:58:00+09:00",
    "lang": "en"
   },
   {
@@ -227,24 +281,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-25T22:51:16+09:00"
-  },
-  {
-   "title": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms to help you select a firm that could best con",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-25T22:06:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-   "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-   "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-25T21:42:15+09:00",
-   "lang": "en"
   },
   {
    "title": "Stocks making the biggest moves premarket: Dick's Sporting Goods, Advanced Micro Devices, Kura Oncology & more",
@@ -288,41 +324,6 @@
    "published": "2026-08-25T20:30:00+09:00"
   },
   {
-   "title": "防衛装備庁、テラドローンと量産契約",
-   "link": "https://www.jiji.com/jc/article?k=2026082500977&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-08-25T20:28:00+09:00"
-  },
-  {
-   "title": "Store water and tinned food to prepare for emergencies, UK citizens to be told",
-   "link": "https://www.ft.com/content/5811d9e6-f48d-43ac-bc05-c273287a27d0?syn-25a6b1a6=1",
-   "summary": "Ministers step up work on ‘war book’ in push for resilience against extreme weather and cyber threats",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-25T20:20:10+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Scotiabank Earnings Lifted by Record Result in Wealth Management",
-   "link": "https://www.wsj.com/business/earnings/scotiabank-earnings-lifted-by-record-result-in-wealth-management-1fd50f60?mod=rss_markets_main",
-   "summary": "Bank of Nova Scotia notched a rise in third-quarter earnings, driven by strong results across its business lines that included a record result from its global wealth management and global banking and ",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-25T19:47:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks",
-   "link": "https://www.ft.com/content/d926671a-4f27-44f3-a2bf-4a0743c67534?syn-25a6b1a6=1",
-   "summary": "Latest discovery made near scene where explosive-laden drone was uncovered on August 4",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-25T19:16:46+09:00",
-   "lang": "en"
-  },
-  {
    "title": "China warns US it could retaliate over Iran sanctions",
    "link": "https://www.ft.com/content/aa7ba671-8175-4b53-b6a5-28803a851493?syn-25a6b1a6=1",
    "summary": "Beijing says it will take ‘all necessary measures’ if Washington expands crackdown on business with Tehran",
@@ -362,6 +363,22 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-25T18:26:49+09:00"
+  },
+  {
+   "title": "中国・香港株式市場・大引け＝ほぼ横ばい、中東情勢とジャクソンホール会議にらみ慎重ムード - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1p2YXFXSXA3Z1Q4SmF0dktPdFhYUHFQcHhka2xDS1VVcHlJUkNqSUhfc1NHSGpkX3dhbExUY0I4M0JyRXlYdm4xYXpXWGpwUzJnY0JNeGNFdm9iTFotRkt6SWhLQU40YW9RSE1nenpTRnF4c0pkdHp4aW1IUDVPSg?oc=5",
+   "summary": "中国・香港株式市場・大引け＝ほぼ横ばい、中東情勢とジャクソンホール会議にらみ慎重ムード&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T18:25:24+09:00"
+  },
+  {
+   "title": "独ＧＤＰ、輸出けん引し第2四半期前期比＋0.3％ 消費・投資は弱い - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYS0xUWVZSWFaR05LaGF1WVJ1YUFONTY2alc1V2RXUmVRZFo5VkNIZnpQRkdPaHFYQXZraUJaT0htQkE0NVp4cEEwNHBwZnpRM3E5T1ljMTREVE96STJJU24zUXM2bUY1OTYxelJCM0QzSU4yd3pUYUFaWTNIZl9RWQ?oc=5",
+   "summary": "独ＧＤＰ、輸出けん引し第2四半期前期比＋0.3％ 消費・投資は弱い&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T18:05:12+09:00"
   },
   {
    "title": "モス スーパーなどで冷食販売へ",
@@ -468,6 +485,14 @@
    "published": "2026-08-25T16:21:43+09:00"
   },
   {
+   "title": "午後3時のドルは159円前半で方向感欠く、ＦＲＢ議長の発言待ち - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdFVnbVY5RUZseUZxdzJWMHgydno2X25PYTdrREl3aWYyaHVlNEdlQlVDMVBTbFFGWjgxMFNPclo2VGdmeUM4YVJUNzJVbzdHOHhtX0RMQ2JTcjJjU0V4MVozYUlwWjJ1VTBJaF9QRDVtbkpYTi1xaw?oc=5",
+   "summary": "午後3時のドルは159円前半で方向感欠く、ＦＲＢ議長の発言待ち&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T16:14:07+09:00"
+  },
+  {
    "title": "日経平均は3日ぶり小反発、売り一巡後下げ渋り 様子見は継続 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1pJNkdUcF9XbURjdEdfRHJzOFVGcF9WUWRlZEtGTHdFQmlfVXUwNFZfOFo1NnpTMGdzSXJwVERoVl8wbG5MaGFWLTljcTM1OC1WMzJiM1U5MUxsUml0dlNVTlBaRWQ1OGJIbEpCdWxJbFpMeE9GV0F3UnJGWERueA?oc=5",
    "summary": "日経平均は3日ぶり小反発、売り一巡後下げ渋り 様子見は継続&nbsp;&nbsp;ロイター",
@@ -492,31 +517,6 @@
    "published": "2026-08-25T16:00:00+09:00"
   },
   {
-   "title": "午後3時のドルは159円前半で方向感欠く、ＦＲＢ議長の発言待ち - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdFVnbVY5RUZseUZxdzJWMHgydno2X25PYTdrREl3aWYyaHVlNEdlQlVDMVBTbFFGWjgxMFNPclo2VGdmeUM4YVJUNzJVbzdHOHhtX0RMQ2JTcjJjU0V4MVozYUlwWjJ1VTBJaF9QRDVtbkpYTi1xaw?oc=5",
-   "summary": "午後3時のドルは159円前半で方向感欠く、ＦＲＢ議長の発言待ち&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T15:52:00+09:00"
-  },
-  {
-   "title": "ビットコイン8万ドル突破、3カ月ぶり高値 米債買い戻し拡大が追い風 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGR29NMnV1ZDYtbENNLVdMeEdjWjNiN21MVktBQkJzdlhnUUZEdDVqeXlhSXUxandid29Zb1R2WkthaGJfZzFVcktLbUEtVnhDM0N3Y3NfRm9ocDRtSXMweEIzVXBUbXpKVG9zbThKTlNzdU9MRmxWSg?oc=5",
-   "summary": "ビットコイン8万ドル突破、3カ月ぶり高値 米債買い戻し拡大が追い風&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T15:22:00+09:00"
-  },
-  {
-   "title": "OnlyFans owner received $700mn in dividends before his death this year",
-   "link": "https://www.ft.com/content/8472a7c3-64bb-4526-9aea-9c98c1af0e2a?syn-25a6b1a6=1",
-   "summary": "Streaming platform used by sex workers has 5mn creator accounts according to latest annual results",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-25T15:00:08+09:00",
-   "lang": "en"
-  },
-  {
    "title": "特殊要因除くコアＣＰＩ、7月は＋2.3％に鈍化 コアコアは加速＝日銀 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ25haGtDVHo0b1RYcmgybjEwS3NSVUFoUlRTd0dOYmlPMXk2SmM2Q0Z6X2VvVmpiakZCLXAzd19sdGoxYzNCd1JhbzJqc21DQlhtRHNMaFZVdnRERDRONTdNanRzRlVkZ3hhWklmZXc3UVJHWk1RcE5yWno2a0NnTkJOeHdxRUM1MDZv?oc=5",
    "summary": "特殊要因除くコアＣＰＩ、7月は＋2.3％に鈍化 コアコアは加速＝日銀&nbsp;&nbsp;ロイター",
@@ -539,6 +539,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-25T14:25:00+09:00"
+  },
+  {
+   "title": "アングル：中国ユニツリー、上場後に株価急落 バブルやＩＰＯ制度に懸念 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbC16UkpxcHRJeWVrYV9sT3NzOENVWGRSczhFNXV3U3NvZU01RHp6bXZHUGVGa1hkMmhuNkx0YjJSdUVSQXd2el9Gd3RuOFpra1FqTVdQai1ST0NNOFlfVnJqbzdQY2FUZlNxZjhKX2h3ZW9pVmhYUlZISmcxbUxkQw?oc=5",
+   "summary": "アングル：中国ユニツリー、上場後に株価急落 バブルやＩＰＯ制度に懸念&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T14:08:00+09:00"
   },
   {
    "title": "アップルが｢Mac mini｣新モデルを約2年ぶりに投入…miniはAIアプリをローカル環境で実行するツールとして人気化 | 政治・経済・投資 | 東洋経済オンライン",
@@ -573,6 +581,14 @@
    "published": "2026-08-25T14:00:00+09:00"
   },
   {
+   "title": "原油先物反発、米国の対イラン制裁強化の影響見極め - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xLS1XTzY1TkpVNjAyclNjZk9QeUg1Z0h0aGUwaUx3TG85TEE0ZFFrNVNVSW5nLVVZczB4NWZhX2NTNVZ4TTI4UUEyNlVrQjZkYWtRdVdLWk9xajVnbWdqT3pGVWZDWHFhclU2WGs5cElyZy1qdC1lQm13?oc=5",
+   "summary": "原油先物反発、米国の対イラン制裁強化の影響見極め&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T13:47:51+09:00"
+  },
+  {
    "title": "\"政権安定度\"80超えでも安泰といえない高市政権の｢深刻な内憂外患｣､炎上を招いた｢3つのミス｣と迷走する政権の行く末 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955812?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "発足当初は圧倒的な支持率を誇っていた高市政権。しかし､その勢いにも陰りが見えてきています。党内基盤の弱さや外交での曖昧な対応も重なり､政権の行方は不透明。高市首相はこの難局をどう乗り越えるのでしょう…",
@@ -589,18 +605,18 @@
    "published": "2026-08-25T13:04:01+09:00"
   },
   {
-   "title": "Iranians queue for petrol as US blockade bites",
-   "link": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776?syn-25a6b1a6=1",
-   "summary": "Long lines form in capital as officials warn that war and inflation are triggering fuel shortages",
+   "title": "Socialists and Maga are both wrong about economic liberalism",
+   "link": "https://www.ft.com/content/02e197fb-e6dc-426b-a952-72cc906a2733",
+   "summary": "People are not puppets responding to the string pulls of market forces — free enterprise gives us agency",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-25T13:00:31+09:00",
    "lang": "en"
   },
   {
-   "title": "Socialists and Maga are both wrong about economic liberalism",
-   "link": "https://www.ft.com/content/02e197fb-e6dc-426b-a952-72cc906a2733",
-   "summary": "People are not puppets responding to the string pulls of market forces — free enterprise gives us agency",
+   "title": "US grain farmers pummelled as Iran war triggers surge in costs",
+   "link": "https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1",
+   "summary": "Middle East conflict adds to strains in America’s heartland months ahead of midterm elections",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-08-25T13:00:31+09:00",
@@ -640,6 +656,22 @@
    "published": "2026-08-25T12:57:48+09:00"
   },
   {
+   "title": "市場参加者との会合準備に着手、金利上昇要因はさまざま＝城内経財相 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWstRFdDaVFnaTdzX0c1MUxKLWpkQWpQYkJIS1ZtRDgwSC1aQnFNeW81YTdKQms2ZmhVZzFGQnIxOHN1LVR2MW1PeWd0RWtkWWEyZW5YR2RDazNqMVJRYXhQN0VsTk9Edmx2aEF5ZzBEMkxiY1hFRXJmRmgxX1psMQ?oc=5",
+   "summary": "市場参加者との会合準備に着手、金利上昇要因はさまざま＝城内経財相&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T11:59:00+09:00"
+  },
+  {
+   "title": "強い経済構築と財政持続性「一体的に実現」、予算要求で片山財務相 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42UFFLbWx4NG44UDIzejBjSlpha3lkQ0tNV29aNGNKMXkzaGcwY1V6dUlockdyNXhrRFQ1aXZkUWZGYjhFNGYyLWpVdG9CdS1ZM3JoZmJKbGJvckhMQktTYUd4ZWFkMVEtYWpsTm1IWmEtMXZBZUEzVg?oc=5",
+   "summary": "強い経済構築と財政持続性「一体的に実現」、予算要求で片山財務相&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T11:55:00+09:00"
+  },
+  {
    "title": "ついに見えてきた高市政権｢改造人事｣の知られざる輪郭､\"ライバル封じ込め\"と\"維新入閣\"で狙う｢総裁再選｣の皮算用 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955781?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "高市早苗首相が政権浮揚を懸ける党役員･内閣改造人事。その日程が9月16日で固まろうとしています。幹事長人事やライバルの処遇､維新の入閣など､裏で激しく動く人事戦の行方は？",
@@ -664,20 +696,12 @@
    "published": "2026-08-25T11:00:00+09:00"
   },
   {
-   "title": "東京海上ＨＤ、豪サンコープが有力買収候補に浮上＝ＦＴ - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15RFJFVzJvbWFjejdVNFZ0WFhCRVhWeFRXeHVTN3lOQnRXdzAwNG00NVRGMjNMQWtGbE5ya21hZnpuWDUxNFkzdTR3WlJocDBlRU9iT0toZFZZX0UtOTZoNmtFUzN6SjRic0RHdWRYbzR0eVRzSXc?oc=5",
-   "summary": "東京海上ＨＤ、豪サンコープが有力買収候補に浮上＝ＦＴ&nbsp;&nbsp;ロイター",
+   "title": "コラム：問われるベセント氏の信認、市場介入は小手先との批判も - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FNVN3TjZXMW5tN1hCdmpNUl9XQ1diRVhVTWFaaW9ZRkV0SVQ1QVM3TS0xcHY5Z3JXc0FSb0g2MnJ6ZVRFRWMxN0hfWEk2YmZSTURMYmcyeEVIN250dDF0WElSODVlX2JVX3VPdXJ0c1FkQmhmaTJZXw?oc=5",
+   "summary": "コラム：問われるベセント氏の信認、市場介入は小手先との批判も&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-08-25T10:58:00+09:00"
-  },
-  {
-   "title": "原油先物反発、米国の対イラン制裁強化の影響見極め - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xLS1XTzY1TkpVNjAyclNjZk9QeUg1Z0h0aGUwaUx3TG85TEE0ZFFrNVNVSW5nLVVZczB4NWZhX2NTNVZ4TTI4UUEyNlVrQjZkYWtRdVdLWk9xajVnbWdqT3pGVWZDWHFhclU2WGs5cElyZy1qdC1lQm13?oc=5",
-   "summary": "原油先物反発、米国の対イラン制裁強化の影響見極め&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T10:54:00+09:00"
+   "published": "2026-08-25T10:51:00+09:00"
   },
   {
    "title": "東大･気象予報士･シカゴ大…難関を突破してきた2名に学ぶ､｢社会人の勉強が捗る｣意外な秘訣 | キャリア・教育 | 東洋経済オンライン",
@@ -736,14 +760,6 @@
    "published": "2026-08-25T09:00:00+09:00"
   },
   {
-   "title": "米ＳＥＣ、ＡＩ特化型ヘッジファンド巡り銀行に召喚状 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV3JYdW16NEtuUExiOTFWd2pWaHlmblluZ1hBOHR4dDV6bUs4eGZRVmZqV3dFeXZxT09lVXBHNXkyMVptSXRibjVZczVxeEEwV1ZIYVFWdml5ck9MQmNnbDdPaENPZ0RvUHY4THNTMlMtTFNrWmo2V09fUnhudTRCMA?oc=5",
-   "summary": "米ＳＥＣ、ＡＩ特化型ヘッジファンド巡り銀行に召喚状&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T08:35:43+09:00"
-  },
-  {
    "title": "電車でのハンディファン使用 賛否",
    "link": "https://news.yahoo.co.jp/pickup/6592963?source=rss",
    "summary": "",
@@ -774,30 +790,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-08-25T08:00:00+09:00"
-  },
-  {
-   "title": "トランプ氏、スペースＸ株を6月購入 最大5万ドル - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCM1RBalBhUDE2MmplOVQwalFVaTU0eXFjd2ZGdWFxMzY1blBuMkRJWnAxc0c4d2h1c1UzTnNsUndXYW5wRlUwVFdYRERnV1lfQ24xWHRwVlAxTGZ6WU9paENMdDdoZjFwZmplWTMyZlYtWEpBd1E?oc=5",
-   "summary": "トランプ氏、スペースＸ株を6月購入 最大5万ドル&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T07:35:45+09:00"
-  },
-  {
-   "title": "米がシリアのテロ支援国家指定解除、投資促進へ最後の障壁なくなる - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92VGdvdDJlNWE0MGRwUjAyZGNIR0FLa2JfN25PVFlnRTJoZGUxOFpzRFFuUjI5QVdXdU9aQXU1LVA5VU8zN2kyVUdmQmtkMGNDNG9pVm9feEpJX044STBZLW42aF94Njg3TjY4SFUtNzhITF9qLVNsQkNB?oc=5",
-   "summary": "米がシリアのテロ支援国家指定解除、投資促進へ最後の障壁なくなる&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T07:15:43+09:00"
-  },
-  {
-   "title": "政府、非中核事業の売却益で課税繰り延べ検討 事業再編を促進＝関係者 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORlk5bTU5cGVtcEJNcG00OTJfOVd5THQ2N1Z5UUpIa1V0YVhEZnFBRUo0eHNjcXJDWTJqbFlJdmJfelJXSHRjUDRJZmx1Y2FYb2xtR2pRaW5XNG02Tk5DLThScWRJLXRKa2VpTTBYd1ZTTVJWT19KTVJHQlp0Ykd4NQ?oc=5",
-   "summary": "政府、非中核事業の売却益で課税繰り延べ検討 事業再編を促進＝関係者&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T07:00:05+09:00"
   },
   {
    "title": "40代の転職が増えている　結局のところ、年収は上がるのか、下がるのか",
