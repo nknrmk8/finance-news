@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T16:23:46.730885+09:00",
+ "generated_at": "2026-08-26T17:04:55.227231+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,40 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "流動性供給(第460回)入札において追加発行した国債の銘柄",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260826a.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-08-26T17:00:00+09:00"
+  },
+  {
+   "title": "Oil Falls on Signs of Potential Hormuz Reopening",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-middle-east-talks-b6581385?mod=rss_markets_main",
+   "summary": "Oil prices held below $90 a barrel as a flurry of positive headlines around U.S.-Iran peace talks soothed oil traders.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T16:36:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "European Indexes Mostly Gain, Tech Stocks Fall",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8?mod=rss_markets_main",
+   "summary": "European stock indexes largely rose at the open, as lower oil prices buoyed sentiment.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T16:26:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "国債費、金利上昇で過去最大36.6兆円　来年度予算の概算要求",
+   "link": "https://www.asahi.com/articles/ASV8V2CQLV8VULFA00KM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-26T16:18:54+09:00"
+  },
   {
    "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
    "link": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
@@ -475,30 +509,12 @@
    "lang": "en"
   },
   {
-   "title": "Nikkei Falls 0.4%, Dragged by Chip-Related Stocks",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8?mod=rss_markets_main",
-   "summary": "Japanese stocks declined, with chip stocks leading falls.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-26T09:19:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "ジムニー対抗車 他社が作らない訳",
    "link": "https://news.yahoo.co.jp/pickup/6593096?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-26T09:05:42+09:00"
-  },
-  {
-   "title": "Oil Falls on Signs of Middle East Talks",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-middle-east-talks-b6581385?mod=rss_markets_main",
-   "summary": "Oil fell in early trade on signs of Middle East talks, which could lead to reduced supply disruptions.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-26T09:05:00+09:00",
-   "lang": "en"
   },
   {
    "title": "スウェーデン中銀、年内利上げ視野 時期は不透明＝議事要旨 - ロイター",
@@ -773,14 +789,6 @@
   {
    "title": "原油タンカー保険、政府が肩代わりの新法検討　国際情勢の悪化に備え",
    "link": "https://www.asahi.com/articles/ASV8T3G02V8TULFA01PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-25T20:30:00+09:00"
-  },
-  {
-   "title": "生成AIは何を学んでいる？　政府が情報公開求める基本原則を公表",
-   "link": "https://www.asahi.com/articles/ASV8T3JPTV8TUCVL03DM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
