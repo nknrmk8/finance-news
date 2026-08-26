@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T20:52:14.692111+09:00",
+ "generated_at": "2026-08-26T21:23:07.835543+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,32 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "浜岡原発巡り不適切手続き疑い",
+   "link": "https://news.yahoo.co.jp/pickup/6593183?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-26T21:16:40+09:00"
+  },
+  {
+   "title": "Wall Street’s biggest optimist says ‘I wouldn’t jump into the AI trade right now’",
+   "link": "https://www.marketwatch.com/story/wall-streets-biggest-optimist-says-i-wouldnt-jump-into-the-ai-trade-right-now-18110306?mod=mw_rss_topstories",
+   "summary": "Ed Yardeni, who has been called the most bullish person on Wall Street, says he hasn’t been bullish enough on the stock market.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T21:16:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "There’s so much betting against long-term bonds that a turnaround could catch investors off guard, says Citadel Securities",
+   "link": "https://www.marketwatch.com/story/wall-streets-massive-bet-against-long-term-bonds-is-a-recipe-for-a-painful-bearish-unwind-says-citadel-securities-430dc145?mod=mw_rss_topstories",
+   "summary": "Citadel Securities’ strategist Frank Flight says a bet that appears to be one-sided against long-term bonds could be setting up for a painful unwind.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T21:01:00+09:00",
+   "lang": "en"
+  },
   {
    "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
    "link": "https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories",
@@ -123,6 +149,15 @@
    "lang": "en"
   },
   {
+   "title": "The end of Trumpsplaining",
+   "link": "https://www.ft.com/content/ea6efd7b-83c3-40ed-803a-e86402aa3aeb?syn-25a6b1a6=1",
+   "summary": "The pretence that America’s leader is a grand strategist will not survive the Iran fiasco",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T20:26:18+09:00",
+   "lang": "en"
+  },
+  {
    "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
    "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
    "summary": "“The property is very old and requires significant ongoing maintenance.”",
@@ -138,15 +173,6 @@
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-26T20:08:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "There’s so much betting against long-term bonds that a turnaround could catch investors off guard, says Citadel Securities",
-   "link": "https://www.marketwatch.com/story/wall-streets-massive-bet-against-long-term-bonds-is-a-recipe-for-a-painful-bearish-unwind-says-citadel-securities-430dc145?mod=mw_rss_topstories",
-   "summary": "Citadel Securities’ strategist Frank Flight says a bet that appears to be one-sided against long-term bonds could be setting up for a painful unwind.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-26T20:07:00+09:00",
    "lang": "en"
   },
   {
@@ -225,15 +251,6 @@
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-08-26T19:00:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Customers are fleeing TurboTax over price, and Intuit’s stock is sliding",
-   "link": "https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories",
-   "summary": "Cost-conscious customers giving up on TurboTax sent Intuit shares sliding in early Wednesday trade.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-26T18:50:00+09:00",
    "lang": "en"
   },
   {
@@ -494,15 +511,6 @@
    "lang": "en"
   },
   {
-   "title": "‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance",
-   "link": "https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1",
-   "summary": "Elon Musk’s company faces formidable challenges in launching millions of satellites into orbit to power AI",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-26T13:00:04+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Four Russian bankers made millions from EU sanctions",
    "link": "https://www.ft.com/content/3cb40de7-89f5-4c64-b769-70da374dcd4a?syn-25a6b1a6=1",
    "summary": "As Moscow reeled from western blowback over Ukraine war, traders at Gazprombank Luxembourg cashed in",
@@ -542,14 +550,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-08-26T12:30:00+09:00"
-  },
-  {
-   "title": "ホンダ 米国で新工場建設を検討",
-   "link": "https://news.yahoo.co.jp/pickup/6593124?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-26T12:16:45+09:00"
   },
   {
    "title": "｢息子も傷ついた｣ 再婚夢見たのに…シングルマザーが\"独身偽装\"の裁判で勝訴　再婚支援アプリで出会った男の｢驚く言動｣ | ライフ | 東洋経済オンライン",
@@ -630,14 +630,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-26T11:00:00+09:00"
-  },
-  {
-   "title": "仏ＢＮＰパリバ、サウジで地域統括本部認可取得 政府が企業誘致 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03VWxEMW9NRUZ4N0tkWktuV2xfaUU4c3F0TkRLaFAtbWkwekNCQ2xHclpOSWY5dENQcW02NzJzajI2WmNCbWtOc21PdHN5MTdQWlZwY25WOFVWWmU5RnRaZk8wbk9LWTM2UzVKdEthNldzOXloNlE?oc=5",
-   "summary": "仏ＢＮＰパリバ、サウジで地域統括本部認可取得 政府が企業誘致&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-26T10:46:00+09:00"
   },
   {
    "title": "焦点：国債利払い過去最大、「積極財政元年」予算要求130兆円超 気迷う市場 - ロイター",
@@ -798,6 +790,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-26T03:56:00+09:00"
+  },
+  {
+   "title": "カナダ、200億ドル相当の米製品に報復関税 鉄鋼・アルミは50％ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZkRXNEN2ckR6RXlsS0h5eE45UDh1M1g0ZmVUZnI4WjBvbXBBLUN0NnpaVWJLWFlRTlNxa3hXM1FFekJ4V2xYdVB5c3Q2R1NadjZTTVdrOHctQzhINVhMU1g5RVRnWHdxN2RCaWVEbndWdDBObWd5cENB?oc=5",
+   "summary": "カナダ、200億ドル相当の米製品に報復関税 鉄鋼・アルミは50％&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-26T03:32:53+09:00"
   },
   {
    "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Marvell, AMD, Kura Oncology & more",
