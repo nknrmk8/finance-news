@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T13:09:36.014618+09:00",
+ "generated_at": "2026-08-26T13:52:30.688062+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,90 @@
  "errors": [],
  "items": [
   {
+   "title": "日銀の植田総裁、ジャクソンホール会議欠席「健康上の問題ではない」",
+   "link": "https://www.asahi.com/articles/ASV8V1C5RV8VULFA005M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-26T13:31:40+09:00"
+  },
+  {
+   "title": "どれだけAIが普及してもマーケティング実務は《社内調整が9割》…デジタルマーケのプロがそう言い切る3つの理由 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955719?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "マーケティングの現場では､華やかな戦略や理論よりも｢社内調整｣に膨大な時間が費やされています。なぜ\"正解\"がわかっていても､実践の前に壁が立ちはだかるのでしょうか。成果に直結する社内調整の極意とは—…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-26T13:30:00+09:00"
+  },
+  {
+   "title": "セブンとヤマト セルフ発送機発表",
+   "link": "https://news.yahoo.co.jp/pickup/6593127?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-08-26T13:29:37+09:00"
+  },
+  {
+   "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+   "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+   "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-08-26T13:20:31+09:00",
+   "lang": "en"
+  },
+  {
    "title": "低価格から変化 ベローチェの戦略",
    "link": "https://news.yahoo.co.jp/pickup/6593126?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-26T13:05:59+09:00"
+  },
+  {
+   "title": "Bessent’s bond intervention puts US Treasury on collision course with Fed",
+   "link": "https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
+   "summary": "Increased purchases of debt threaten to undermine central bank chief Kevin Warsh’s bid to tame inflation",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T13:00:30+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Institutional investors back Blackstone and KKR funds for wealthy individuals",
+   "link": "https://www.ft.com/content/6b355049-3122-4167-8a8a-ce37da73463d?syn-25a6b1a6=1",
+   "summary": "Shift by private equity’s traditional backers could threaten traditional 10-year fund model",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T13:00:13+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "How chicken conquered the world",
+   "link": "https://www.ft.com/content/6cbabfff-c549-42ce-b4a8-4a6535bf165b?syn-25a6b1a6=1",
+   "summary": "A global surge in poultry numbers is transforming high streets, diets and landscapes. Is the chicken takeover unstoppable?",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T13:00:04+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The bankers cashing in on Italy’s wealth boom",
+   "link": "https://www.ft.com/content/73134cc3-2ff4-43db-8d49-019bf1abb385?syn-25a6b1a6=1",
+   "summary": "Private equity helped create a new generation of wealthy Italians. Private banks are in a bidding war to serve them",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T13:00:04+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Four Russian bankers made millions from EU sanctions",
+   "link": "https://www.ft.com/content/3cb40de7-89f5-4c64-b769-70da374dcd4a?syn-25a6b1a6=1",
+   "summary": "As Moscow reeled from western blowback over Ukraine war, traders at Gazprombank Luxembourg cashed in",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T13:00:04+09:00",
+   "lang": "en"
   },
   {
    "title": "なぜスマホメーカーの｢リアル店舗｣がいま重要なのか､グーグル表参道進出に見るキャリアショップとの新たな役割分担 | ビジネス | 東洋経済オンライン",
@@ -91,15 +169,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-26T12:35:00+09:00"
-  },
-  {
-   "title": "China’s YMTC aims to overtake Samsung and SK Hynix in flash memory race",
-   "link": "https://www.ft.com/content/1b1c357f-6a1c-4ce3-bb47-980c3de4d3d2?syn-25a6b1a6=1",
-   "summary": "Chipmaker sets out Nand production ambitions in investor meetings for $5bn Shanghai IPO",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-26T12:31:38+09:00",
-   "lang": "en"
   },
   {
    "title": "野党再編の\"起爆剤\"か？ 単なる\"売名\"か？ ｢ゴリラ｣｢ひろゆき＆泉｣異色新党乱立が永田町にもたらす\"地殻変動\"の現実味 | 政治・経済・投資 | 東洋経済オンライン",
@@ -175,15 +244,6 @@
    "published": "2026-08-26T11:30:00+09:00"
   },
   {
-   "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-   "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-   "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-08-26T11:01:01+09:00",
-   "lang": "en"
-  },
-  {
    "title": "巨大IT規制のスマホ新法 　アプリ事業者ら「法の目的達成されず」",
    "link": "https://www.asahi.com/articles/ASV8T23PQV8TULFA00SM.html?ref=rss",
    "summary": "",
@@ -222,14 +282,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-26T11:00:00+09:00"
-  },
-  {
-   "title": "米雇用主の14％、来年に肥満症薬の保険適用終了方針 医療費上昇で - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEbHZiZm1QaXVfaTBseUkxWFJSM2JUWlduLTJReEtSR2paam1jSFp6Y2ZURktLWG0tQXA0SjlOMW1pNTRZU1ZodGpLa1NpQXBtN3oxR0hrb3BERjBfSG0zMUZXalFaUHJWZlhkX2p0cjA3WlRfZHFHZA?oc=5",
-   "summary": "米雇用主の14％、来年に肥満症薬の保険適用終了方針 医療費上昇で&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-26T10:48:00+09:00"
   },
   {
    "title": "仏ＢＮＰパリバ、サウジで地域統括本部認可取得 政府が企業誘致 - ロイター",
@@ -340,14 +392,6 @@
    "published": "2026-08-26T09:50:00+09:00"
   },
   {
-   "title": "住友商事、豪車両リース会社に5.8億ドルの買収提案 4陣営の争いに - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLTBwVGRMd0dCNTZWQ3NxbkExR285UnVRRm5FMlAtZDdLLUNXTF9BSWZ0YUhaeTlrRFdTdEtXN1Bvb0hEXzNxTUtXckN0dTNOdzh5alZabUIyRE00TnA5T3NnN3o1anUtSFYybWtLcGZGUGlaczl1SUVlOFdRZFZsVQ?oc=5",
-   "summary": "住友商事、豪車両リース会社に5.8億ドルの買収提案 4陣営の争いに&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-26T09:47:00+09:00"
-  },
-  {
    "title": "Gold Slips as Markets Await Fed Chairman Comments at Jackson Hole",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-as-markets-await-fed-chairman-comments-at-jackson-hole-5a931818?mod=rss_markets_main",
    "summary": "Gold declined in Asian trade. Markets appear to be waiting for Fed Chairman Kevin Warsh to clarify his views on when the central bank is likely to react to inflation when he speaks at the annual Jacks",
@@ -388,15 +432,6 @@
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-08-26T09:19:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Deloitte to pay US administration $21.5mn to settle ‘discriminatory’ practices probe",
-   "link": "https://www.ft.com/content/33304634-1594-487c-9031-5fdf7adf5652?syn-25a6b1a6=1",
-   "summary": "Firm one of several professional services businesses targeted by the American Alliance for Equal Rights",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-26T09:07:15+09:00",
    "lang": "en"
   },
   {
@@ -516,23 +551,6 @@
    "category": "海外金融",
    "published": "2026-08-26T07:45:00+09:00",
    "lang": "en"
-  },
-  {
-   "title": "US audit regulator scraps investor advocate role as Trump-era revamp accelerates",
-   "link": "https://www.ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1",
-   "summary": "Public Company Accounting Oversight Board scraps office set-up under Biden administration to represent shareholders",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-26T07:34:06+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "｢『ラヴ上等』は深い人間理解を促進する｣…犯罪心理学者が\"ヤンキーの恋リア\"に感じた｢切ない葛藤｣と｢爽快感｣ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955747?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "Netflixで話題の『ラヴ上等』。不器用なヤンキーたちの言動に､なぜ私たちは惹かれるのでしょうか？　犯罪心理学者の出口保行さんが､行動の背景にある切ない葛藤と心理構造を解き明かします。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-26T07:30:00+09:00"
   },
   {
    "title": "Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI",
@@ -669,30 +687,12 @@
    "lang": "en"
   },
   {
-   "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
-   "link": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
-   "summary": "Hundreds of US goods will face increased levies from September 8",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-26T02:22:48+09:00",
-   "lang": "en"
-  },
-  {
    "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
    "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
    "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-08-26T01:00:40+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "The drip-drip US debt crisis",
-   "link": "https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2?syn-25a6b1a6=1",
-   "summary": "Rising deficits and debt-servicing costs no longer seem to have the power to restore prudence",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-26T00:20:40+09:00",
    "lang": "en"
   },
   {
@@ -754,14 +754,6 @@
    "published": "2026-08-25T20:30:00+09:00"
   },
   {
-   "title": "ガソリン170円程度を維持　首相、ガソリン補助金の支給継続を表明",
-   "link": "https://www.asahi.com/articles/ASV8T3C38V8TULFA018M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-25T19:07:32+09:00"
-  },
-  {
    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月25日(火曜日))",
    "link": "https://www.mof.go.jp/public_relations/conference/my20260825.html",
    "summary": "",
@@ -786,14 +778,6 @@
    "published": "2026-08-25T18:25:24+09:00"
   },
   {
-   "title": "モス スーパーなどで冷食販売へ",
-   "link": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-08-25T17:33:42+09:00"
-  },
-  {
    "title": "宅配業者に暴言 カスハラ被害深刻",
    "link": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
    "summary": "",
@@ -816,6 +800,22 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-25T16:29:58+09:00"
+  },
+  {
+   "title": "東京海上ＨＤ、9月30日を基準日に株式15分割 株主優待も導入 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXZrZE4zd2t6el95RmpsYXVPaE1ZNks3RnAzeF9vcjFvSGRIdVFibm9YUU1maDRocl9wWHhYbm9Ob2UwWjRLU19aYlQ1WWY2elZFeWNNYWo0bDE1QWluNC00RnJMVWRyamh5Z29LejA2RDlzVGdNclFoT2RSTG1EOQ?oc=5",
+   "summary": "東京海上ＨＤ、9月30日を基準日に株式15分割 株主優待も導入&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T16:29:40+09:00"
+  },
+  {
+   "title": "米国債買い戻し拡大は「誤り」、信認損なう＝ドラッケンミラー氏 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTktMHFVZzByYnlGR1Q5MlZ3MGRVMDhfVVNnWEdpcGZQZnJxaUVyNzhjVVVyaEVNb01wdDB3cGViSDdMWlN0ZlBpeEVOR3VZcWhIMFdxRUoydktHa29SU19HTWdfajY1eHBRWnFOa0dWamUtMVlUOXRHYTNacGlJSw?oc=5",
+   "summary": "米国債買い戻し拡大は「誤り」、信認損なう＝ドラッケンミラー氏&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-25T16:21:43+09:00"
   },
   {
    "title": "（金研ニュースレター）情報セキュリティ・セミナー「生体認証技術の現在地」",
