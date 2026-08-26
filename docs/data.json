@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T17:04:55.227231+09:00",
+ "generated_at": "2026-08-26T17:58:31.047297+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,106 @@
  "errors": [],
  "items": [
   {
+   "title": "Oil prices extend slide as Iran and Oman eye temporary Hormuz deal",
+   "link": "https://www.marketwatch.com/story/oil-prices-extend-slide-as-iran-and-oman-eye-temporary-hormuz-deal-a86a86bf?mod=mw_rss_topstories",
+   "summary": "West Texas Intermediate and Brent crude’s October contracts declined by almost 7% and 9% in five days, respectively.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T17:54:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Gold Rangebound as Traders Await Jackson Hole",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-as-markets-await-fed-chairman-comments-at-jackson-hole-5a931818?mod=rss_markets_main",
+   "summary": "New York gold futures traded broadly in morning European trade with traders waiting for U.S. Federal Reserve Chair Kevin Warsh to speak at the Jackson Hole gathering on Friday.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T17:43:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Oil Extends Falls, Nasdaq Futures Lower Before Nvidia Earnings",
+   "link": "https://www.wsj.com/finance/investing/oil-extends-falls-nasdaq-futures-lower-before-nvidia-earnings-579f51f5?mod=rss_markets_main",
+   "summary": "Oil prices slid in early European trade on fresh Middle East optimism, while Nasdaq futures fell as investors anticipate Nvidia’s narrative-setting earnings and U.S. inflation data.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T17:37:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The S&P 500 has three hurdles to clear before a move to 8,000, says this strategist",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories",
+   "summary": "If the market can safely negotiate this week’s three major clearing events, the S&P 500 benchmark should rally toward the 7,900 to 8,000 level, one closely followed strategist says.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-08-26T17:36:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "政府、小規模の農林漁業者に給付検討　消費減税の対応　支援額は未定",
+   "link": "https://www.asahi.com/articles/ASV8V2HN7V8VULFA002M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-26T17:31:46+09:00"
+  },
+  {
+   "title": "テレワーク導入企業の助成金、26年度で終了　厚労省「役割終えた」",
+   "link": "https://www.asahi.com/articles/ASV8V2K16V8VULFA00JM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-26T17:30:00+09:00"
+  },
+  {
+   "title": "｢悪趣味すぎる｣と批判殺到…｢ママせか｣厚労省タイアップの大炎上は当然だし､エモ映画で広報するのは国家の責任放棄だ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955961?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "厚生労働省と映画『ママがもうこの世界にいなくても 私の命の日記』のタイアップが炎上。感動的な物語が､がん患者支援の現実から目を逸らす｢美化｣にすり替わった背景には､行政が本来向き合うべき現場への配慮…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-08-26T17:30:00+09:00"
+  },
+  {
+   "title": "タイ中銀、予想通り金利据え置き 3会合連続 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1dWNFM5NENob2Zta21PZjlXN082YUM2UVc0V29jYVRrVHR1Y3M4UXhpMklzS1pfWTJfSUhQMVVpNW93Tk1CeVFodjE1cjZnNllNaXhuXzIzMWtHR0c1RGd1OGo2YnBuUUhTWkF1Z2tKX3N1UzlYbExvRTBLN0pubw?oc=5",
+   "summary": "タイ中銀、予想通り金利据え置き 3会合連続&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-26T17:25:46+09:00"
+  },
+  {
+   "title": "Stock Market Today: Brent Crude Retreats to $85, Nvidia Earnings Due",
+   "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026?mod=rss_markets_main",
+   "summary": "Investors will also parse PCE inflation data this morning",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-08-26T17:11:58+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "郵便サービス見直しへ議論スタート　海外でも週3日配達やポスト減に",
+   "link": "https://www.asahi.com/articles/ASV8V2F8MV8VULFA01TM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-08-26T17:03:18+09:00"
+  },
+  {
    "title": "流動性供給(第460回)入札において追加発行した国債の銘柄",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260826a.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-08-26T17:00:00+09:00"
+  },
+  {
+   "title": "Liquidators can pursue PwC globally over Chinese property giant’s collapse, court rules",
+   "link": "https://www.ft.com/content/930f2c92-f0e3-4609-b0ad-cdd3d791ab70?syn-25a6b1a6=1",
+   "summary": "Hong Kong decision has potential to threaten Big Four firms’ partnership network model",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-08-26T16:52:45+09:00",
+   "lang": "en"
   },
   {
    "title": "Oil Falls on Signs of Potential Hormuz Reopening",
@@ -434,15 +528,6 @@
    "published": "2026-08-26T10:26:13+09:00"
   },
   {
-   "title": "Lindsey Graham’s sister wins South Carolina primary with Trump backing",
-   "link": "https://www.ft.com/content/5bd905f6-5460-4e76-890f-20746a4c16a8?syn-25a6b1a6=1",
-   "summary": "Victory for sibling of late senator reinforces US president’s hold on the Republican Party ahead of November’s midterm elections",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-08-26T10:16:12+09:00",
-   "lang": "en"
-  },
-  {
    "title": "スイス「ホテル大学」卒業生の進路に異変　観光業は世界で人手不足に",
    "link": "https://www.asahi.com/articles/ASV8L15ZHV8LPLFA008M.html?ref=rss",
    "summary": "",
@@ -475,13 +560,12 @@
    "published": "2026-08-26T09:50:00+09:00"
   },
   {
-   "title": "Gold Slips as Markets Await Fed Chairman Comments at Jackson Hole",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-as-markets-await-fed-chairman-comments-at-jackson-hole-5a931818?mod=rss_markets_main",
-   "summary": "Gold declined in Asian trade. Markets appear to be waiting for Fed Chairman Kevin Warsh to clarify his views on when the central bank is likely to react to inflation when he speaks at the annual Jacks",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-26T09:36:00+09:00",
-   "lang": "en"
+   "title": "住友商事、豪車両リース会社に5.8億ドルの買収提案 4陣営の争いに - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLTBwVGRMd0dCNTZWQ3NxbkExR285UnVRRm5FMlAtZDdLLUNXTF9BSWZ0YUhaeTlrRFdTdEtXN1Bvb0hEXzNxTUtXckN0dTNOdzh5alZabUIyRE00TnA5T3NnN3o1anUtSFYybWtLcGZGUGlaczl1SUVlOFdRZFZsVQ?oc=5",
+   "summary": "住友商事、豪車両リース会社に5.8億ドルの買収提案 4陣営の争いに&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-08-26T09:47:00+09:00"
   },
   {
    "title": "同型のパワートレインを搭載､大柄になったA5との差別化は…アウディ新型｢A6｣が単なるサイズ違いではない明確な理由 | ライフ | 東洋経済オンライン",
@@ -559,14 +643,6 @@
    "published": "2026-08-26T08:50:00+09:00"
   },
   {
-   "title": "アップル､｢Mac mini｣と｢Mac Studio｣を刷新…需要の高い両機種のプロセッサーを大幅に強化 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955907?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アップルが最新のMac miniとMac Studioを発表しました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-08-26T08:32:00+09:00"
-  },
-  {
    "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
    "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
    "summary": "“The property is very old and requires significant ongoing maintenance.”",
@@ -582,15 +658,6 @@
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-08-26T07:57:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-   "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-   "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-26T07:45:00+09:00",
    "lang": "en"
   },
   {
@@ -619,15 +686,6 @@
    "published": "2026-08-26T07:00:00+09:00"
   },
   {
-   "title": "Opinion | America’s Spiraling Debt Crisis",
-   "link": "https://www.wsj.com/opinion/americas-spiraling-debt-crisis-e95dc05a?mod=rss_markets_main",
-   "summary": "Short-term Treasury fixes and reliance on growth won’t turn the tide. Real reform will.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-26T06:35:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Trump administration pauses immigrant visa applications",
    "link": "https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1",
    "summary": "State department wants consular officers to screen out people likely to need public benefits",
@@ -637,30 +695,12 @@
    "lang": "en"
   },
   {
-   "title": "The WSJ Dollar Index Falls 0.08% to 95.38",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-parse-u-s-new-measures-on-iran-40b529c7?mod=rss_markets_main",
-   "summary": "The WSJ Dollar Index declined 0.1% — down two of the past three trading days.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-08-26T06:28:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "米国株式市場＝上昇、ハイテクが反発 金利低下も支援 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjFBaGdmZS1ZZnR1RnNmUTZsbjBBXzlCTk5FRzNHbG9oTHFOYzdPbjM4SkFWR0Rnak8tT0pybG1Tc0lGbHVOVnZicHJadlhUMVNiQUxYY1hhclNoNmhFNVBub1ByYVIwZFhEd1FxeVdFUVNFRW5NckZFNGx3dFotNg?oc=5",
    "summary": "米国株式市場＝上昇、ハイテクが反発 金利低下も支援&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-08-26T06:20:34+09:00"
-  },
-  {
-   "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
-   "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
-   "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-08-26T06:01:00+09:00",
-   "lang": "en"
   },
   {
    "title": "ふるさと納税「赤字」19都府県　25年度、東京都は2255億円に",
@@ -745,14 +785,6 @@
    "lang": "en"
   },
   {
-   "title": "政府、中小農家などへの給付金を検討　消費税率引き下げ対策",
-   "link": "https://www.asahi.com/articles/ASV8T4TRRV8TULFA02BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-25T23:47:18+09:00"
-  },
-  {
    "title": "Crypto extends gains after biggest 3-day rally since 2023",
    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
    "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
@@ -771,28 +803,12 @@
    "lang": "en"
   },
   {
-   "title": "「がんこ」創業者、小嶋淳司さん死去　たたき上げの知恵で財界に貢献",
-   "link": "https://www.asahi.com/articles/ASV8T3QYZV8TPLFA00GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-25T20:36:55+09:00"
-  },
-  {
    "title": "「がんこ」創業 小嶋淳司さん死去",
    "link": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-25T20:30:25+09:00"
-  },
-  {
-   "title": "原油タンカー保険、政府が肩代わりの新法検討　国際情勢の悪化に備え",
-   "link": "https://www.asahi.com/articles/ASV8T3G02V8TULFA01PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-08-25T20:30:00+09:00"
   },
   {
    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月25日(火曜日))",
@@ -817,22 +833,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-08-25T17:18:12+09:00"
-  },
-  {
-   "title": "維新、熊本地震で財政支援要望 2016年並み規模 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VbklwSWhFWlg4dVJIdUJQZjYxS0UtUVAxcmYzQnNJQXpYc0VKNlAyVFozdzJTVFVrbjdnWURJQzkzbFpUeVVHQ0p6VFhEemtCc0RqZ2h5TjJ0MWRReUs0R2lmZHAta3Q1LVd5RU1KU2FWMDQxWFB3TmRkWmlhdw?oc=5",
-   "summary": "維新、熊本地震で財政支援要望 2016年並み規模&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T17:00:26+09:00"
-  },
-  {
-   "title": "大幸薬品、東証プライムからスタンダード市場に変更申請 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHRpYXVrZEd1YzdHWTVyQVhYZWV2RFYwU3FtQkpXYTE4YzE2R2tCcnlBLU9lejJVUlhaYjJ4ejE2Y2VlX0RYQWlSN1U2NTdFTXd2NGRVaEdPN3dadXZyRG1aaHNtZVJmRE5HamY3dmRnb1dudmxRbTg4c2xiMF9ZTQ?oc=5",
-   "summary": "大幸薬品、東証プライムからスタンダード市場に変更申請&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-08-25T16:29:58+09:00"
   },
   {
    "title": "（金研ニュースレター）情報セキュリティ・セミナー「生体認証技術の現在地」",
