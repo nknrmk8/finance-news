@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T02:54:42.696468+09:00",
+ "generated_at": "2026-09-07T04:40:01.735155+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,30 @@
  "errors": [],
  "items": [
   {
-   "title": "Far-right AfD surges in German state elections, exit polls show",
-   "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-   "summary": "Alternative for Germany projected to secure more than 44 per cent of Saxony-Anhalt vote in big electoral setback for established parties",
+   "title": "まるで地下鉄駅､東京メトロ｢新オフィス｣の狙い　西武HDや京急の｢本社移転｣とは何が違うのか | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/956858?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "東京メトロが､本社を上野から隅田川沿いの25階建てビル内に移転しました。来客エリアは駅をイメージするなどユニークな作りですが､実は｢一時的な移転｣です。地下鉄各線のカラーで色分けした打ち合わせブース…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-07T04:30:00+09:00"
+  },
+  {
+   "title": "ホルムズ海峡の地雷除去という危険な任務",
+   "link": "https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1",
+   "summary": "米海軍のダイバー、ボート、ロボットが夜間に秘密裏に移動し、重要な海峡で爆発物を処理した",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-07T01:26:54+09:00",
+   "published": "2026-09-07T03:33:07+09:00",
+   "lang": "en",
+   "title_orig": "The risky mission to de-mine the Strait of Hormuz"
+  },
+  {
+   "title": "Far-right AfD surges in German state elections, partial results show",
+   "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+   "summary": "Alternative for Germany is projected to become the largest party in Saxony-Anhalt while falling short of a parliamentary majority",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-07T03:10:48+09:00",
    "lang": "en"
   },
   {
@@ -75,7 +93,7 @@
    "summary": "Steve Witkoff and Jared Kushner are seeking to revive earlier proposals to end war",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-07T00:06:49+09:00",
+   "published": "2026-09-07T02:46:52+09:00",
    "lang": "en"
   },
   {
@@ -235,16 +253,6 @@
    "published": "2026-09-06T13:00:20+09:00",
    "lang": "en",
    "title_orig": "Iceland’s ‘no’ exposes EU complacency"
-  },
-  {
-   "title": "ホルムズ海峡の地雷除去という危険な任務",
-   "link": "https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1",
-   "summary": "米海軍のダイバー、ボート、ロボットが夜間に秘密裏に移動し、重要な海峡で爆発物を処理した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-06T13:00:12+09:00",
-   "lang": "en",
-   "title_orig": "The risky mission to de-mine the Strait of Hormuz"
   },
   {
    "title": "西側の制裁を受けてロシアの金が香港に殺到",
@@ -431,14 +439,6 @@
    "published": "2026-09-06T07:30:00+09:00"
   },
   {
-   "title": "｢僕だけ落ちていた｣友人と見に行った合格発表の張り出し…高校受験に失敗し号泣→15歳で決めた中学浪人とその後の30年 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956371?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "15歳で中学浪人を決断した深石圭さん。その経験は､いかにして彼を変え､現在につながるのか──自分と向き合うことで得た成長について伺いました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-06T07:15:00+09:00"
-  },
-  {
    "title": "丸亀製麺が韓国に再進出、今度は行列　「撤退した市場」で何を変えた？",
    "link": "https://www.itmedia.co.jp/business/articles/2609/06/news005.html",
    "summary": "丸亀製麺が韓国市場に再進出し、1年足らずで4店舗まで拡大。今回はロッテグループと組み、商業施設を中心に出店するほか、メニューも現地の食文化に合わせて工夫している。過去の撤退から何を変えたのか。",
@@ -617,6 +617,14 @@
    "title_orig": "Energy & Utilities Roundup: Market Talk"
   },
   {
+   "title": "米国株式市場＝反落、雇用統計受け利上げ観測強まる",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEZrX2Z6RFREaTBPblZvNS01cDhTbl95RVJnTFVQbjNXMFZHUFFabERQbUhwaFl0VUJUZmFyY3hGSUNraExQUTNVSUNOVDVBZ2hRLWYtaUhMdm41aTlyMWI0bW5jNWdxMmMybzVtR052ZUR1V0F0MVpxWGk5X3g1ZQ?oc=5",
+   "summary": "米国株式市場＝反落、雇用統計受け利上げ観測強まる&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-05T05:55:45+09:00"
+  },
+  {
    "title": "トランプ氏、中間選挙に最大5億ドル拠出へ 自身のスーパーＰＡＣから",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPNWlDNzdLcVZsMHMyQmNCQ2tkcVJwOXRpaG5iak11eXFMUW1QZFRjOEFFSzkzRlo0MTdIbFFoYXV3N1lVSjR5MUJqSkZ3LW1RdkpuZUE0MGZvSktNUW5UWjNiNml4YWZVSVVQV3Q2VDNoVXFraWlKbTlB?oc=5",
    "summary": "トランプ氏、中間選挙に最大5億ドル拠出へ 自身のスーパーＰＡＣから&nbsp;&nbsp;Reuters",
@@ -659,14 +667,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T02:24:00+09:00"
-  },
-  {
-   "title": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWZfa1dRUjRWeWduVm9DTTNFNnk1U3YtaGdEQUYxY1dsdmdTWVhLdFhEd0dwZGJIMEJCclBqdDBnT3VHVU1zSjBBU3RsVjk4b1A4MGpNXzdjRk1tLVU1ekdQclEyNzVCUTN2ZmlLSTZmdTFXVHNBY2g0ZFlWeHNSMQ?oc=5",
-   "summary": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-05T02:19:02+09:00"
   },
   {
    "title": "利上げに動くべき時、インフレなお高過ぎる＝クリーブランド連銀総裁",
