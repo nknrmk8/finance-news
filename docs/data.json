@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T08:09:06.040927+09:00",
+ "generated_at": "2026-09-07T09:58:42.024532+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,97 @@
  "errors": [],
  "items": [
   {
+   "title": "国債金利情報(令和8年9月4日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-07T09:30:00+09:00"
+  },
+  {
+   "title": "Nikkei Rises 1.8%, Led by Chip-Related Stocks",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?mod=rss_markets_main",
+   "summary": "Japanese stocks were higher in early trade amid continued hopes for artificial intelligence-related demand and signs of U.S. economic strength.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-07T09:18:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Asian Currencies Consolidate; May Be Weighed by Fed Rate-Hike Prospects",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-fed-rate-hike-prospects-b9db2269?mod=rss_markets_main",
+   "summary": "Asian currencies consolidated against the dollar, but may be weighed by Fed rate-hike prospects.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-07T09:15:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "新宿区の民泊 住宅地の営業禁止へ",
+   "link": "https://news.yahoo.co.jp/pickup/6594497?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-07T09:13:21+09:00"
+  },
+  {
+   "title": "関西人おなじみ｢頑固オヤジ｣の素顔は偉大なイノベーターだった… 和食チェーン｢がんこ｣創業者がつむいだ一代記の神髄 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/956948?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "関西を代表する和食チェーン｢がんこ｣。看板の親父は頑固者の象徴ながら､創業者･小嶋淳司氏の生涯は柔軟な発想と人本主義に貫かれていました。彼の商売哲学､革新の数々､その素顔に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-07T09:00:00+09:00"
+  },
+  {
+   "title": "マネタリーベースと日本銀行の取引（8月）",
+   "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-09-07T08:50:00+09:00"
+  },
+  {
+   "title": "日本銀行の対政府取引（8月）",
+   "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-09-07T08:50:00+09:00"
+  },
+  {
+   "title": "オペレーション（8月）",
+   "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-09-07T08:50:00+09:00"
+  },
+  {
+   "title": "外貨準備等の状況（令和8年8月末現在）",
+   "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-07T08:50:00+09:00"
+  },
+  {
+   "title": "Oil Rises Amid Escalation in U.S.-Iran Conflict",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-u-s-iran-conflict-aab0d7fb?mod=rss_markets_main",
+   "summary": "Oil rose in early Asian trade amid an escalation in the U.S.-Iran conflict that could increase supply disruptions in the Middle East.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-07T08:38:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "今日の株式見通し＝強含み、米半導体株堅調が追い風 買い一巡後は伸び悩みも - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUhwZFItMzQwQnhzNzRZeVhuMC1zdDRpU21OUUxwZ1c5dEdzSjFMeEpoUUxwY2k1Y0k4cExwb1laTUozOFc4SVRpb3dwZDc3Z0dORlp3VEhiOEwtbWg2THNMZ2hBZzRaY1pzZnh6dFE4VzIzQ0JrMHhzdG04QU1DTA?oc=5",
+   "summary": "今日の株式見通し＝強含み、米半導体株堅調が追い風 買い一巡後は伸び悩みも&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-07T08:20:23+09:00"
+  },
+  {
    "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
    "link": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
    "summary": "Crash of Prime Air 767-300 is latest in a string of recent US aviation accidents",
@@ -76,14 +167,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-07T08:00:00+09:00"
-  },
-  {
-   "title": "東北新幹線一部見合わせ 人身事故",
-   "link": "https://news.yahoo.co.jp/pickup/6594492?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-07T07:46:15+09:00"
   },
   {
    "title": "｢われわれには新たなアイデアがある｣…米特使が開戦後初めて首都キーウ入り…ロシアとの戦争終結に向けて協議 | 政治・経済・投資 | 東洋経済オンライン",
@@ -161,6 +244,14 @@
    "lang": "en"
   },
   {
+   "title": "インフレ指標に注目、金利の行方占う手がかり探る＝今週の米株式市場 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkI5NnpkcjBGUTAteXZVek5oQmotTnVRajdqLS13aXJISzM0bXdCcVp2bnA4eEFVOTgwaHNreXlaVzM2b2xwdlRDSVUwZDZ3UThROUxKVnl6a3Z3LXRrRFg2bXVKTzlNNVZNYlVOdm1vUVRvVzZKWmFzZEY4VUlWMA?oc=5",
+   "summary": "インフレ指標に注目、金利の行方占う手がかり探る＝今週の米株式市場&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-07T06:23:43+09:00"
+  },
+  {
    "title": "〈iPS細胞製品が保険適用〉日本が再生医療を｢産業化｣するために不可欠なこと/｢ハートシート｣の失敗から何を学ぶか | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/956525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "2012年のノーベル賞受賞で脚光を浴びたiPS細胞が､ついに公的医療保険の中で患者に届ける段階へと突入しています。社会実装のために何が必要なのでしょうか",
@@ -212,14 +303,6 @@
    "title": "｢東京19位､大阪31位｣の創薬エコシステム世界順位を上げるため｢リスクマネーを増やす｣と経産省幹部 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/956689?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "2025年､トランプ米大統領による｢最恵国待遇（MFN）｣薬価政策が日本の製薬業界に波紋を広げています。新薬供給や投資停滞の懸念､アメリカや中国に後れを取る創薬体制――かつて｢創薬大国｣と呼ばれた日…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-07T06:00:00+09:00"
-  },
-  {
-   "title": "ドライバーの荷待ち時間を劇的削減､トラック予約受付システムは｢物流改革の切り札｣となるか | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956685?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "トラックドライバーの過酷な労働環境を是正しようと、国による荷主側への圧力が高まっている。4月に全面施行した改正物流効率化法（物効法）では、年間9万トン以上の貨物を扱う事業者を「特定荷主」に指定し、長…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-07T06:00:00+09:00"
@@ -394,14 +477,6 @@
    "published": "2026-09-06T13:51:05+09:00"
   },
   {
-   "title": "習氏訪米に大規模な企業代表団同行へ、投資意欲アピールか＝関係筋",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTdaTmswa2FOZnFHcnZVajkxRUVpWXF2NTJjX1ZjSDBRN2czVkRaQUl5NmdZVXNkNjFSQVpHZGp2a1JvbEpfZ0JZX0JzTUtkdm1HZkdzankyZjI4LTNFM1NTR3pSdC02STdZektoODVQeC1CdFJhRXhzeGdubmk4UmpR?oc=5",
-   "summary": "習氏訪米に大規模な企業代表団同行へ、投資意欲アピールか＝関係筋&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-06T12:39:09+09:00"
-  },
-  {
    "title": "コラボ中止のくら寿司 割引を発表",
    "link": "https://news.yahoo.co.jp/pickup/6594399?source=rss",
    "summary": "",
@@ -522,9 +597,9 @@
    "published": "2026-09-05T16:00:00+09:00"
   },
   {
-   "title": "韓国輸出、年初来で7094億ドル 昨年通年の過去最高を上回る",
+   "title": "韓国輸出、年初来で7094億ドル 昨年通年の過去最高を上回る - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wRENuNVcwMmQ3WDlwODU4cGlwekNWWU04Y19QZm9RUndZSm1pNUZsc0s5VGZUb3lCUmJ5UnZPYmU0RU9ubkh4Q2ltZ1U5RkU5dWU0RU9Xc2pYOEdJZDk4bnN2czF0aExpR2NkQmlYX1lrT0wtMlhjejFR?oc=5",
-   "summary": "韓国輸出、年初来で7094億ドル 昨年通年の過去最高を上回る&nbsp;&nbsp;Reuters",
+   "summary": "韓国輸出、年初来で7094億ドル 昨年通年の過去最高を上回る&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T15:57:00+09:00"
@@ -556,9 +631,9 @@
    "title_orig": "For Many Individual Traders, Prediction Markets Are Hot—and Crypto Is Not"
   },
   {
-   "title": "アングル：インド、待望の民間投資復活の兆し 政府主導から成長エンジン多様化",
+   "title": "アングル：インド、待望の民間投資復活の兆し 政府主導から成長エンジン多様化 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEpXaHlTQk9oTk1jMkV6Q1BEb1hkVmxFOWJUZzlaak5ZbHpIaDZqQjJWZFVoWTlLQmFqamF4ZUZEbDdha0tOWVlRcUx1WGlwakIyQldqeHdhSWxKc2h4VWlyY29ZVnlSU3dDdWdKb05DQW9oQ28xTG9Vdjl2d0RENA?oc=5",
-   "summary": "アングル：インド、待望の民間投資復活の兆し 政府主導から成長エンジン多様化&nbsp;&nbsp;Reuters",
+   "summary": "アングル：インド、待望の民間投資復活の兆し 政府主導から成長エンジン多様化&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T08:08:39+09:00"
@@ -572,63 +647,33 @@
    "published": "2026-09-05T08:00:00+09:00"
   },
   {
-   "title": "WSJドル指数は小幅上昇",
-   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-likely-buoyed-by-prospects-of-hawkish-boj-rate-hike-b1eb9c38?mod=rss_markets_main",
-   "summary": "WSJドル指数は雇用統計を受けて上昇した後、横ばいをわずかに上回った。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-05T06:24:00+09:00",
-   "lang": "en",
-   "title_orig": "WSJ Dollar Index Edges Higher"
-  },
-  {
-   "title": "8月の堅調な雇用統計で利回り上昇と利上げ観測が高まる中、米国株は下落",
-   "link": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-robust-august-jobs-data-spurs-yields-rate-hike-bets-0adff908?mod=rss_markets_main",
-   "summary": "驚くほど好調な雇用統計で連邦準備制度理事会の政策見通しが濁ったことを受け、米国株は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-05T06:18:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Fall as Robust August Jobs Data Spurs Yields, Rate-Hike Bets"
-  },
-  {
-   "title": "ＮＹ市場サマリー（4日）ドル・利回り上昇、株反落",
+   "title": "ＮＹ市場サマリー（4日）ドル・利回り上昇、株反落 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XZi1yMFR1Xy1IUWhkSzFZUC11cTdZMlZTZjZpeXRZek50QnZGaDJmblFRS1M3NzlYYTF3eEtROEw5N1hzX1NJWmRtbnl3WXlOVG5iT3lUeFFzeW9SX1ZVb2NKUVBnNVRNRjJsWXVuOGhFcDhTNnl1Sg?oc=5",
-   "summary": "ＮＹ市場サマリー（4日）ドル・利回り上昇、株反落&nbsp;&nbsp;Reuters",
+   "summary": "ＮＹ市場サマリー（4日）ドル・利回り上昇、株反落&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T06:11:56+09:00"
   },
   {
-   "title": "ＮＹ外為市場＝ドル上昇、米雇用統計受け9月利上げ観測強まる",
+   "title": "ＮＹ外為市場＝ドル上昇、米雇用統計受け9月利上げ観測強まる - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVQVVfNEZ5TWJNYzZzaDV6SkgxYjNNZkdVMFpHRHVuS1NCVEIzNHYyS0hvb3NZLTJHZ2tzT1hfeDNzRDZtbHpmaDhuVURXRXdKZjdVMG1BYnBITVpXa01SbW1IUTRHcmhzbnI1X0NuZHhfRjZsc1Bmdg?oc=5",
-   "summary": "ＮＹ外為市場＝ドル上昇、米雇用統計受け9月利上げ観測強まる&nbsp;&nbsp;Reuters",
+   "summary": "ＮＹ外為市場＝ドル上昇、米雇用統計受け9月利上げ観測強まる&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T06:02:02+09:00"
   },
   {
-   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-5b4267ce?mod=rss_markets_main",
-   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、石油先物、斗山エネルギーなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-05T05:58:00+09:00",
-   "lang": "en",
-   "title_orig": "Energy & Utilities Roundup: Market Talk"
-  },
-  {
-   "title": "米国株式市場＝反落、雇用統計受け利上げ観測強まる",
+   "title": "米国株式市場＝反落、雇用統計受け利上げ観測強まる - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEZrX2Z6RFREaTBPblZvNS01cDhTbl95RVJnTFVQbjNXMFZHUFFabERQbUhwaFl0VUJUZmFyY3hGSUNraExQUTNVSUNOVDVBZ2hRLWYtaUhMdm41aTlyMWI0bW5jNWdxMmMybzVtR052ZUR1V0F0MVpxWGk5X3g1ZQ?oc=5",
-   "summary": "米国株式市場＝反落、雇用統計受け利上げ観測強まる&nbsp;&nbsp;Reuters",
+   "summary": "米国株式市場＝反落、雇用統計受け利上げ観測強まる&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T05:55:45+09:00"
   },
   {
-   "title": "トランプ氏、中間選挙に最大5億ドル拠出へ 自身のスーパーＰＡＣから",
+   "title": "トランプ氏、中間選挙に最大5億ドル拠出へ 自身のスーパーＰＡＣから - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPNWlDNzdLcVZsMHMyQmNCQ2tkcVJwOXRpaG5iak11eXFMUW1QZFRjOEFFSzkzRlo0MTdIbFFoYXV3N1lVSjR5MUJqSkZ3LW1RdkpuZUE0MGZvSktNUW5UWjNiNml4YWZVSVVQV3Q2VDNoVXFraWlKbTlB?oc=5",
-   "summary": "トランプ氏、中間選挙に最大5億ドル拠出へ 自身のスーパーＰＡＣから&nbsp;&nbsp;Reuters",
+   "summary": "トランプ氏、中間選挙に最大5億ドル拠出へ 自身のスーパーＰＡＣから&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T04:43:43+09:00"
@@ -654,33 +699,33 @@
    "title_orig": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled"
   },
   {
-   "title": "米雇用者数、8月予想大幅に上回る＋16.2万人 失業率4.1％で変わらず",
+   "title": "米雇用者数、8月予想大幅に上回る＋16.2万人 失業率4.1％で変わらず - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHJ1S2tKM1doc0xzM1BYLUYwaFBRaG5QblBYRXZlN3d0MWh6M3h6NXlyeXB3aVpDaS1LVTZiY25IVXo3RENBOU9EOXcxRHdPajN4UmdDazZpMjMyNFNpaU13RUN4U1BtbmtYRFlMSUlyNEFwMnM1cmJlSklNYk55LQ?oc=5",
-   "summary": "米雇用者数、8月予想大幅に上回る＋16.2万人 失業率4.1％で変わらず&nbsp;&nbsp;Reuters",
+   "summary": "米雇用者数、8月予想大幅に上回る＋16.2万人 失業率4.1％で変わらず&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T02:46:58+09:00"
   },
   {
-   "title": "米財務省、トルコの銀行3社に制裁 対イラン圧力強化の一環",
+   "title": "米財務省、トルコの銀行3社に制裁 対イラン圧力強化の一環 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53MWdFQ0tHQVo4eFY4Q3EyVFFHVlA5QUppbWh3YWl5QlNyXzBrVlFpOEgzbi1pekduYlNVZDdNYnlBS1NNSEZVRkhmXzI1LTBtVmxjQXdBZGtFSVd5cFBDc0p2ZHpGZGxVNjFPT2Z2Qm9TMk1JZ0cyblpn?oc=5",
-   "summary": "米財務省、トルコの銀行3社に制裁 対イラン圧力強化の一環&nbsp;&nbsp;Reuters",
+   "summary": "米財務省、トルコの銀行3社に制裁 対イラン圧力強化の一環&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T02:24:00+09:00"
   },
   {
-   "title": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明",
+   "title": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWZfa1dRUjRWeWduVm9DTTNFNnk1U3YtaGdEQUYxY1dsdmdTWVhLdFhEd0dwZGJIMEJCclBqdDBnT3VHVU1zSjBBU3RsVjk4b1A4MGpNXzdjRk1tLVU1ekdQclEyNzVCUTN2ZmlLSTZmdTFXVHNBY2g0ZFlWeHNSMQ?oc=5",
-   "summary": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明&nbsp;&nbsp;Reuters",
+   "summary": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T02:19:02+09:00"
   },
   {
-   "title": "利上げに動くべき時、インフレなお高過ぎる＝クリーブランド連銀総裁",
+   "title": "利上げに動くべき時、インフレなお高過ぎる＝クリーブランド連銀総裁 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjUzNV9ZN1ozeGJCd0o5RHBxejV0SFJBaHZEcl9LOEEtOHRtYmpvWUg5UjlBNkpZMWd5VnUwWmxXY0NtcWFPT3lpMk9vZEpYbnhIbkR4TDZaOXU0azdSUUtfMFEzc1F6U2dyY3JwZTREb0dpc3d6ZnhQMnV5Um1WTA?oc=5",
-   "summary": "利上げに動くべき時、インフレなお高過ぎる＝クリーブランド連銀総裁&nbsp;&nbsp;Reuters",
+   "summary": "利上げに動くべき時、インフレなお高過ぎる＝クリーブランド連銀総裁&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T02:16:56+09:00"
@@ -694,17 +739,25 @@
    "published": "2026-09-05T02:00:00+09:00"
   },
   {
-   "title": "米当局、テスラ「サイバーキャブ」の安全基準認証を調査 株価6％安",
+   "title": "米当局、テスラ「サイバーキャブ」の安全基準認証を調査 株価6％安 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SHRaakliZFk4Tno5Vjg5cGhra1h6M0lFYUY2allSRkJVSXdtckIybWhoajhHZzZCMzB6am02VHBYclZPZ0hEZ1V6TlAwb21hdEtsNWhjSXRIS1Q1dmFvLXZDVWF2YklUeDE3eFloMWtINFFnYlJRcQ?oc=5",
-   "summary": "米当局、テスラ「サイバーキャブ」の安全基準認証を調査 株価6％安&nbsp;&nbsp;Reuters",
+   "summary": "米当局、テスラ「サイバーキャブ」の安全基準認証を調査 株価6％安&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T00:33:43+09:00"
   },
   {
-   "title": "米9月利上げ確率65％に上昇、8月雇用統計が予想上振れ",
+   "title": "習氏訪米に大規模な企業代表団同行へ、投資意欲アピールか＝関係筋 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTdaTmswa2FOZnFHcnZVajkxRUVpWXF2NTJjX1ZjSDBRN2czVkRaQUl5NmdZVXNkNjFSQVpHZGp2a1JvbEpfZ0JZX0JzTUtkdm1HZkdzankyZjI4LTNFM1NTR3pSdC02STdZektoODVQeC1CdFJhRXhzeGdubmk4UmpR?oc=5",
+   "summary": "習氏訪米に大規模な企業代表団同行へ、投資意欲アピールか＝関係筋&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-05T00:23:00+09:00"
+  },
+  {
+   "title": "米9月利上げ確率65％に上昇、8月雇用統計が予想上振れ - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0QwVGRsUl9IT3YtUWFxSlVxd1hEbDd2ZnNrRzNpRmNQUWs4akg3ZHRwT1dfT25qcFNQdjJNNXZoS2s5RUhNZkNwS0ZiNXV3OUcxQk1nd0ZPUzNsOHhpbGJvUUFuNWh6QnB1RU5EWlpGZDJMaDlUTjNaaUd2NEJ1bg?oc=5",
-   "summary": "米9月利上げ確率65％に上昇、8月雇用統計が予想上振れ&nbsp;&nbsp;Reuters",
+   "summary": "米9月利上げ確率65％に上昇、8月雇用統計が予想上振れ&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-05T00:16:48+09:00"
@@ -718,14 +771,6 @@
    "published": "2026-09-04T23:36:48+09:00",
    "lang": "en",
    "title_orig": "Bitcoin heads for third winning week in a row as macro pressures mount"
-  },
-  {
-   "title": "トランプ氏、ＦＲＢに利下げ要求 「応じなければ対米赤字国との貿易停止」",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNckFZRndwbXQydUMyTXFNNzkyTW9pYll4eTBiZjhyWmdOYjZPMUowQlhhZnZIR1h6WjdTY0pTb1NqQzFlejlCVllHM0xBblFqN2lTeUtJdWwxRlRSRDJZREQwOFR5b0FxcG1WM0VLamVnZE1PazZhcXEyd1lhdWVCWQ?oc=5",
-   "summary": "トランプ氏、ＦＲＢに利下げ要求 「応じなければ対米赤字国との貿易停止」&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-04T23:11:28+09:00"
   },
   {
    "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
@@ -752,62 +797,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-04T21:10:00+09:00"
-  },
-  {
-   "title": "ノルウェー政府系ファンド、米国債を大幅削減方針 資産構成を変更",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0JUZlNtRjA5N21lNGRfc0JnNXVHcnl1NE9qdXR4UC1jb1lxNEdMUEFTNE1GZzhYdWpMcDNpbEdZZ212dkxwczBTLVRib2JTWndIV2U3aFl6eEhBTVM1R2ltdVpDcEJuOGhGWUpScnVTSzR1b2Q4dG5FcVFOcVVHZQ?oc=5",
-   "summary": "ノルウェー政府系ファンド、米国債を大幅削減方針 資産構成を変更&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-04T20:35:46+09:00"
-  },
-  {
-   "title": "8分で1円超の円急騰、突如の買い注文　市場で何が起きたのか",
-   "link": "https://www.asahi.com/articles/ASV943JLKV94ULFA00VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-04T20:09:36+09:00"
-  },
-  {
-   "title": "現場追いつめた経営陣の圧力　ニデック品質不正、無理と矛盾が常態化",
-   "link": "https://www.asahi.com/articles/ASV943G41V94PLFA00BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-04T20:03:03+09:00"
-  },
-  {
-   "title": "シールやW杯ユニホーム…大阪税関の輸入差し止め、上半期の最多更新",
-   "link": "https://www.asahi.com/articles/ASV9434J0V94OXIE028M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-04T19:30:00+09:00"
-  },
-  {
-   "title": "ライザップ、病歴など生成AIに誤送信　保健指導利用者らの2万件か",
-   "link": "https://www.asahi.com/articles/ASV943CDDV94ULFA01JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-04T19:28:52+09:00"
-  },
-  {
-   "title": "波紋呼ぶ米財務長官の注文　金融市場に影響、高市政権の姿勢に変化？",
-   "link": "https://www.asahi.com/articles/ASV943CB3V94ULFA00SM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-04T19:21:12+09:00"
-  },
-  {
-   "title": "造船再生へ最大2131億円の支援決定　今治・JMU・名村に",
-   "link": "https://www.asahi.com/articles/ASV9431JWV94ULFA00LM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-04T19:10:23+09:00"
   },
   {
    "title": "【記者会見】植田総裁（G20、9月1日分）",
@@ -912,30 +901,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-04T10:20:00+09:00"
-  },
-  {
-   "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和8年9月4日）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer417.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-04T10:10:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年9月3日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-04T09:30:00+09:00"
-  },
-  {
-   "title": "新大阪に「1600人ライブハウス」　リニア・北陸新幹線で街はどう変わる？",
-   "link": "https://www.itmedia.co.jp/business/articles/2609/04/news063.html",
-   "summary": "リニア中央新幹線や北陸新幹線の大阪延伸を見据え、新大阪駅周辺の開発が活発化している。ロッテホールディングスと野村不動産は駅付近でライブハウスを建設する計画で、交通利便性を生かした集客をもくろむ。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-09-04T08:30:00+09:00"
   }
  ]
 }
