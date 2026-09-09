@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T07:40:52.157987+09:00",
+ "generated_at": "2026-09-09T09:36:43.835072+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,174 @@
  "errors": [],
  "items": [
   {
+   "title": "国債金利情報(令和8年9月8日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-09T09:30:00+09:00"
+  },
+  {
+   "title": "Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35?mod=rss_markets_main",
+   "summary": "Oil rose in early Asian trade as Houthi militants’ attack on Saudi Arabia’s energy infrastructure amplifies fears over supply disruptions in the Middle East.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T09:30:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Nikkei Rises 0.1%, Led by Chip-Related Stocks",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?mod=rss_markets_main",
+   "summary": "Japanese stocks edged higher in early trade due to bargain hunting despite uncertainty over the Middle East conflict.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T09:27:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "大阪メトロ 磁気切符を廃止へ",
+   "link": "https://news.yahoo.co.jp/pickup/6594712?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-09T09:24:35+09:00"
+  },
+  {
+   "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
+   "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+   "summary": "Shares in Bombardier lost altitude Tuesday after President Donald Trump threatened to ban the Canadian aircraft manufacturer unless it makes new commitments to build in the U.S.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T09:17:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "〈開発に10年〉待望のアップル初の折り畳み式iPhone､チタンとアルミニウムを使った先進的なヒンジ機構に | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/957382?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "アップルが約10年にわたり極秘で開発してきた折り畳み式iPhoneが､ついに発表を迎えます。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T09:07:00+09:00"
+  },
+  {
+   "title": "｢『ちーたんたん』ください｣ 岩手で食べた\"謎のソウルフード\"に驚愕…漫画｢55歳のひとり旅デビュー まめ旅すたいる。｣ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/956500?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "子育てがひと段落した、50代漫画家の「まめ」。さて、これからの人生をどう楽しもう？推し活など楽しい趣味はいろいろあるけれど、もっと世界を広げてみたい……。──それなら、ひとり旅はどうだろう？ずっと憧…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T09:00:00+09:00"
+  },
+  {
+   "title": "就活人気企業ランキング、伊藤忠商事が男女・文理で1位　2位以下は？",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/09/news033.html",
+   "summary": "文化放送キャリアパートナーズは、2027年卒業予定の学生を対象とした「就職ブランドランキング調査（後半）」を実施した。その結果……。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T08:58:00+09:00"
+  },
+  {
+   "title": "OpenAI faces competing claims around maths breakthrough",
+   "link": "https://www.ft.com/content/4d6d28a0-4b12-438e-8850-4b3d49fc57f5?syn-25a6b1a6=1",
+   "summary": "Chief executive Sam Altman says the lab was threatened with ‘unfounded accusations of plagiarism’",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-09T08:53:14+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "マネーストック（8月）",
+   "link": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-09-09T08:50:00+09:00"
+  },
+  {
+   "title": "新型窓口販売方式による5年利付国債（第187回）の発行条件等",
+   "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260909.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-09T08:50:00+09:00"
+  },
+  {
+   "title": "Oil nears $100 as US launches new strikes on Iranian tankers",
+   "link": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
+   "summary": "American military hit ‘multiple’ ships linked to Iran’s Revolutionary Guards in response to more attempted missile attacks on a US Navy warship",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-09T08:46:20+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "US bans Canadian dairy, motorcycles and most alcoholic beverages",
+   "link": "https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1",
+   "summary": "Trump administration announces move day after Ottawa imposed US$20bn in retaliatory tariffs on US goods",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-09T08:32:32+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "｢幸せは人生の目的なのか｣ダーウィンの進化論を知れば今の人生が楽になる不思議　約2300年の思い込みを覆す最新研究 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/954776?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢幸せ｣は本当に人生の究極の目的なのでしょうか。私たちが無意識に信じてきた幸福論は､実は哲学者アリストテレスの目的論に根ざした一つの見解に過ぎません。進化論の視点で世界を見直せば､人間と幸福の本質は…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T08:30:00+09:00"
+  },
+  {
+   "title": "米政権は、カナダ製の酒類と乳製品の一部の輸入を禁止する",
+   "link": "https://www.jiji.com/jc/article?k=2026090900277&g=flash&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-09-09T08:23:00+09:00"
+  },
+  {
+   "title": "CVC hires Todd Sisitsky with plans to name him co-chief",
+   "link": "https://www.ft.com/content/2b171670-c0ce-442f-85a0-2d475369ffa3?syn-25a6b1a6=1",
+   "summary": "London-based private capital group brings on TPG executive as part of succession plan for chief Rob Lucas",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-09T08:05:43+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "メタが自律型AI｢ミューズ｣の提供を開始､社内からは｢個人情報へのアクセス管理に問題がある｣との声も | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/957396?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "米メタが発表したAIアシスタント｢ミューズ｣は､メール送信や旅行予約を自律的にこなす革新的なサービス。しかし利便性の裏で､個人情報へのアクセス懸念も指摘されています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T08:00:00+09:00"
+  },
+  {
+   "title": "朝ドラ『風､薫る』直美のモデル《鈴木雅》がまさかの事故に…\"アメリカ留学の夢を断念\"した雅の｢その後｣ | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/956887?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "朝ドラ｢風､薫る｣のヒロイン直美。モデルの鈴木雅はアメリカ留学を決意しますが､まさかの不慮の事故に。その後の雅の人生とは？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T08:00:00+09:00"
+  },
+  {
+   "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+   "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+   "summary": "Poland’s reclassification as a developed economy from an emerging market opens it up for investment by many more investors.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T07:50:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "クアルコム､アマゾンとAI半導体で提携…長期的な提携の下で最大600億ドル相当を供給へ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/957397?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "米半導体大手クアルコムは8日､アマゾン･ドット･コムに対し､長期的な提携の下で最大600億ドル相当のAI（人工知能）データセンター向け半導体および関連製品を供給する可能性があると発表しました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T07:42:00+09:00"
+  },
+  {
    "title": "仕事で｢もう無理｣になるのは突然ではない…真面目で責任感が強い人が見逃す｢3つの前兆｣ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/956631?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "仕事の悩みに押しつぶされる前に､自分の心の小さな違和感に気づいていますか？｢無理｣｢我慢｣｢自己犠牲｣といった小さなサインを見逃さず､思考の渋滞を防ぐ方法を解説します。あなたの働き方､今のままで本当…",
@@ -119,15 +287,6 @@
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-09-09T06:51:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Oil nears $100 as US launches new strikes on Iranian tankers",
-   "link": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
-   "summary": "American military hit ‘multiple’ ships linked to Iran’s Revolutionary Guards in response to more attempted missile attacks on a US Navy warship",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T06:48:15+09:00",
    "lang": "en"
   },
   {
@@ -193,15 +352,6 @@
    "lang": "en"
   },
   {
-   "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
-   "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
-   "summary": "Shares in Bombardier lost altitude Tuesday after President Donald Trump threatened to ban the Canadian aircraft manufacturer unless it makes new commitments to build in the U.S.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T06:29:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "WSJ Dollar Index Falls 0.08% to 94.91",
    "link": "https://www.wsj.com/finance/currencies/yen-strengthens-further-sentiment-toward-currency-has-materially-shifted-72af55be?mod=rss_markets_main",
    "summary": "The WSJ Dollar Index declined 0.1% — down four of the past five trading days.",
@@ -217,15 +367,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-09T06:28:54+09:00"
-  },
-  {
-   "title": "Expecting an inheritance? Don’t count on it.",
-   "link": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
-   "summary": "Too many people may be relying on the so-called Great Wealth Transfer",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T06:28:00+09:00",
-   "lang": "en"
   },
   {
    "title": "Auto & Transport Roundup: Market Talk",
@@ -255,29 +396,12 @@
    "lang": "en"
   },
   {
-   "title": "ＮＹ株、６２８ドル安　原油高を嫌気",
-   "link": "https://www.jiji.com/jc/article?k=2026090900172&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-09-09T06:20:00+09:00"
-  },
-  {
-   "title": "Energy & Utilities Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-38f2c04d?mod=rss_markets_main",
-   "summary": "Find insight on oil futures, BP, Santos and more in the latest Market Talks covering energy and utilities.",
-   "source": "WSJ マーケット",
+   "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+   "link": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
+   "summary": "Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners",
+   "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-09T06:19:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Tech, Media & Telecom Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-dfa40493?mod=rss_markets_main",
-   "summary": "Find insight on ASML Holdings, Adobe, EchoStar and more in the latest Market Talks covering Technology, Media and Telecom.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T06:18:00+09:00",
+   "published": "2026-09-09T06:04:53+09:00",
    "lang": "en"
   },
   {
@@ -324,54 +448,6 @@
    "title": "長期金利3％で深刻化する島根銀行の｢含み損｣･･･自己資本比率7％に潜む\"規制の盲点\"､SBI子会社化も現実味 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/957114?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "9月1日、10年物日本国債の利回り（長期金利）が30年ぶりに3％を突破した。背景には、インフレや財政への警戒に加え、日本銀行の追加利上げ観測がある。一般に、長期金利の上昇は銀行経営にとってはポジティ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T06:00:00+09:00"
-  },
-  {
-   "title": "防衛省による国民の目を欺く前例なき160超の事項要求､｢事項要求｣で10兆円に膨らむ防衛費と文民統制への重大な疑問 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/957108?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "防衛省の来年度予算概算要求は表向き約8兆9000億円ですが､実際には｢事項要求｣が多用され､総額は10兆円超が見込まれます。この不透明な仕組みが､文民統制を揺るがし国会や国民の監視を困難にします。な…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T06:00:00+09:00"
-  },
-  {
-   "title": "｢過小評価していた…｣足元の受注は倍増！日立の稼ぎ頭･送配電事業のトップが語るAIデータセンター向け需要爆増の実態 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/957028?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "――約1年前にもお話を聞きましたが、この1年で状況はどう変わりましたか。DCを過小評価していた。私が考えていたよりも（需要は）はるかに大きい。今も非常に活況だ。バブルの兆候はまったく見えない。DC建…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T06:00:00+09:00"
-  },
-  {
-   "title": "〈大臣に直撃〉｢それは誤情報だ｣と政府は介入できない…林芳正総務相が語る､選挙の偽情報は誰が正すのか | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956856?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "選挙期間中にSNSのあり方はどうなるか､地方のテレビ局の未来はーー。選挙や放送の電波を所管する林芳正総務相に直撃インタビューしました。今回は後編です。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T06:00:00+09:00"
-  },
-  {
-   "title": "乗用車ではシェア0.1％未満のBYD､EVバスでは500台超…日本市場で先行した中国メーカーの次なる壁 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956851?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "中国BYDが軽EV｢ラッコ｣で日本攻勢を図る一方､同社のEVバスは全国で先行普及を果たし､市場シェアも5割に達します。価格や航続距離で優位なBYDですが､補助金減額や国産メーカーの台頭など難題も山積…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T06:00:00+09:00"
-  },
-  {
-   "title": "〈流産や新生児仮死の報告も〉糖尿病薬･マンジャロの｢やせ薬利用｣が一律規制できない複雑な事情 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956842?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "糖尿病治療薬｢マンジャロ｣をダイエット目的で利用した妊娠中の女性に､自然流産や新生児仮死が起きたことが報告されています。深刻な健康被害が起きる懸念がある一方､自由診療での利用を一律に規制するのは難し…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T06:00:00+09:00"
-  },
-  {
-   "title": "たった1社の停止で全米の医療が麻痺…｢ハッキングされていない病院｣の経営まで止まったサイバー攻撃の戦慄 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956822?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "もしあなたの地域にある病院のシステムが突如停止したら､診療や経営はどうなるでしょうか。DX化が進む医療現場では､診療に不可欠なシステムの基盤がつながっていることも多く､1つのシステムが止まるだけで深…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-09T06:00:00+09:00"
@@ -436,15 +512,6 @@
    "lang": "en"
   },
   {
-   "title": "Smithsonian head to resign after Trump attacks US slavery exhibits",
-   "link": "https://www.ft.com/content/d1d0054d-16ae-45b4-b2e1-421ce5461041?syn-25a6b1a6=1",
-   "summary": "Lonnie Bunch announces retirement following pressure from White House over how the museum complex portrays US history",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T03:30:51+09:00",
-   "lang": "en"
-  },
-  {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月４日）について掲載しました。",
    "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20260904-1.html",
    "summary": "",
@@ -459,33 +526,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-09T00:51:45+09:00"
-  },
-  {
-   "title": "Putin praises US peace efforts in call with Trump",
-   "link": "https://www.ft.com/content/76d33021-57c6-4240-ae0b-cd4a79a24980?syn-25a6b1a6=1",
-   "summary": "Russian president denies waging ‘hybrid war’ against Europe",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T00:28:29+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Young Americans have never witnessed a functioning foreign policy",
-   "link": "https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc",
-   "summary": "Twenty-five years after 9/11, debt and defence spending are ballooning while diplomacy is starved and allies are alienated",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-08T23:24:07+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Iceland summons US ambassador over Trump’s Stars and Stripes map",
-   "link": "https://www.ft.com/content/792e9e30-7a96-402c-a472-d7304f5bc1ef?syn-25a6b1a6=1",
-   "summary": "Post showed US flag covering Canada, Mexico, Greenland, Iceland and other nations",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-08T22:35:13+09:00",
-   "lang": "en"
   },
   {
    "title": "Stocks making the biggest moves premarket: Peloton Interactive, Roivant Sciences, Boston Scientific & more",
@@ -681,7 +721,7 @@
    "summary": "アングル：9月に0.5％利上げの市場観測、日銀が慎重な理由&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-08T14:56:00+09:00"
+   "published": "2026-09-08T15:05:13+09:00"
   },
   {
    "title": "カナダが対米報復関税発動、200億ドル相当 通商交渉は膠着",
@@ -722,14 +762,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-08T12:35:00+09:00"
-  },
-  {
-   "title": "一時1ドル152円台 約半年ぶり水準",
-   "link": "https://news.yahoo.co.jp/pickup/6594633?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-08T12:08:53+09:00"
   },
   {
    "title": "GDP年率1.4%増に上方修正　4～6月期、設備投資の減少幅縮む",
@@ -836,16 +868,8 @@
    "published": "2026-09-08T09:38:27+09:00"
   },
   {
-   "title": "国債金利情報(令和8年9月7日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-08T09:30:00+09:00"
-  },
-  {
    "title": "貸出・預金動向（8月）",
-   "link": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
+   "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -934,7 +958,7 @@
   },
   {
    "title": "コール市場残高（8月）",
-   "link": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+   "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -942,7 +966,7 @@
   },
   {
    "title": "消費活動指数",
-   "link": "https://www.boj.or.jp/research/research_data/cai/index.htm",
+   "link": "http://www.boj.or.jp/research/research_data/cai/index.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -950,7 +974,7 @@
   },
   {
    "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
-   "link": "https://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
+   "link": "http://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -982,7 +1006,7 @@
   },
   {
    "title": "マネタリーベースと日本銀行の取引（8月）",
-   "link": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
+   "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -990,7 +1014,7 @@
   },
   {
    "title": "日本銀行の対政府取引（8月）",
-   "link": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
+   "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -998,17 +1022,9 @@
   },
   {
    "title": "オペレーション（8月）",
-   "link": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
+   "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
    "summary": "",
    "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-09-07T08:50:00+09:00"
-  },
-  {
-   "title": "外貨準備等の状況（令和8年8月末現在）",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
-   "summary": "",
-   "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-07T08:50:00+09:00"
   },
