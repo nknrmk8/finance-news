@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T14:13:23.963981+09:00",
+ "generated_at": "2026-09-09T18:44:07.255985+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,30 @@
  "errors": [],
  "items": [
   {
+   "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
+   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-09-10T03:00:00+09:00"
+  },
+  {
+   "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
+   "link": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-09-10T02:00:00+09:00"
+  },
+  {
+   "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
+   "link": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-09-10T01:00:00+09:00"
+  },
+  {
    "title": "イベント,～将来を見据えたおかねのキホン～NISAとiDeCoで始める資産形成セミナーの開催について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20261028/20260909.html",
    "summary": "",
@@ -69,12 +93,317 @@
    "published": "2026-09-09T19:00:00+09:00"
   },
   {
+   "title": "Google Pledges Over $15 Billion for AI Infrastructure in Finland",
+   "link": "https://www.wsj.com/tech/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2?mod=rss_markets_main",
+   "summary": "Google said its largest single investment in Europe would power its popular services — such as Gemini, Search, Maps, and YouTube.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T18:33:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The High-Stakes Gamble Playing Out in the Natural-Gas Market",
+   "link": "https://www.wsj.com/finance/commodities-futures/the-high-stakes-gamble-playing-out-in-the-natural-gas-market-334f774b?mod=rss_markets_main",
+   "summary": "Europe has stockpiled only enough natural gas to get through a mild winter.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T18:30:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "「AIは10年以内に我々全員を殺す」　アンソロピックの研究者が「企業は無責任」と退社",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/09/news100.html",
+   "summary": "米オープンAIを経て米アンソロピックに勤務していた英国出身のAI研究者、ジェーコブ・コクソン氏（27）が8日、アンソロピックを退社したと、Xで明らかにした。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T18:21:00+09:00"
+  },
+  {
+   "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+   "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+   "summary": "“We have witnessed our parents’ gradual decline in cognitive ability.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T18:15:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "European Gas Prices Hit Highest Since 2023 as Market Braces for Prolonged LNG Squeeze",
+   "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-hit-highest-since-2023-as-market-braces-for-prolonged-lng-squeeze-799356de?mod=rss_markets_main",
+   "summary": "Prolonged disruption could leave Europe competing with Asia for a shrinking pool of available cargoes as winter approaches.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T18:15:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "片山大臣とセラフィン欧州委員との面会（令和8年9月9日（水））",
+   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260909091349.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-09T18:10:00+09:00"
+  },
+  {
+   "title": "How fashion designer Marc Jacobs renovated a $9 million Frank Lloyd Wright house",
+   "link": "https://www.marketwatch.com/story/how-fashion-designer-marc-jacobs-renovated-a-9-million-frank-lloyd-wright-house-3fae7d9c?mod=mw_rss_topstories",
+   "summary": "Marc Jacobs might be best known for his catwalk creations, but in 2019, he took on the ambitious project of overhauling a $9.17 million Frank Lloyd Wright–designed property that he purchased on a whim",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T18:01:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "‘The View’ host Joy Behar finally sells Hamptons house for about half the original asking price",
+   "link": "https://www.marketwatch.com/story/the-view-host-joy-behar-finally-sells-hamptons-house-for-about-half-the-original-asking-price-6e991e03?mod=mw_rss_topstories",
+   "summary": "“The View” host Joy Behar has officially offloaded her longtime Hamptons home for $5.65 million—more than $5 million below her original asking price.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T17:58:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Oil hits $100 for first time since July",
+   "link": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+   "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-09T17:49:36+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "還暦「霧ケ峰」、三菱電機エアコン唯一の生き残り　新商品で狙う長寿",
+   "link": "https://www.asahi.com/articles/ASV992PP9V99ULFA01SM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-09T17:40:00+09:00"
+  },
+  {
+   "title": "Bessent says ‘I am the house now.’ What it means for the yen — and U.S. stocks.",
+   "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
+   "summary": "Treasury Secretary Scott Bessent has never been accused of being a wallflower, but speaking in front of Southern Methodist University’s business school on Tuesday night he made perhaps the most stride",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T17:31:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "清和源氏ゆかりの兵庫・多田神社、再生法を申請　本殿や拝殿は国重文",
+   "link": "https://www.asahi.com/articles/ASV992GYNV99PTIL006M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-09T17:30:16+09:00"
+  },
+  {
+   "title": "丸亀製麺の運営会社、下請け業者の代金を1億円超減額　公取委が勧告",
+   "link": "https://www.asahi.com/articles/ASV990DPMV99UTIL028M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-09T17:28:11+09:00"
+  },
+  {
+   "title": "Brent crude passes $100 threshold as war in Iran intensifies",
+   "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+   "summary": "Oil prices advanced on Thursday after the U.S. said it destroyed five Iranian crude oil vessels.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T17:27:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "‘I am the house now’: Bessent warns currency traders not to bet against yen",
+   "link": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1",
+   "summary": "Comments follow July’s rare joint intervention with Tokyo to support Japanese currency",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-09T17:26:37+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. Stock Futures Steady, Treasurys Weaken After Oil Tops $100",
+   "link": "https://www.wsj.com/finance/investing/u-s-stock-futures-steady-treasurys-weaken-after-oil-tops-100-42f4c05a?mod=rss_markets_main",
+   "summary": "U.S. stock futures were steady and Treasury yields ticked higher after Brent briefly topped the $100 a barrel mark for the first time since July.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T17:25:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "同意なく性的接触 NHK記者を免職",
+   "link": "https://news.yahoo.co.jp/pickup/6594761?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-09T17:12:34+09:00"
+  },
+  {
+   "title": "味の素、マヨネーズなど21品目を値上げへ　中東危機で4月に続き",
+   "link": "https://www.asahi.com/articles/ASV992G34V99ULFA00QM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-09T16:53:26+09:00"
+  },
+  {
+   "title": "ホルムズ海峡のタンカー航行費急騰、保険料高騰で＝石油会社幹部",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlZoR2U3UWJOMFczQWs1S2N5OTdxTVpDQ0hVSEtDd1dESzdMbm5hcUpHczZyUnVUUFBkVktfNllMSjhpck80VVZGZlRiVHJpQkNmcm9ocFNuVTZzbGJOYkxIMm5hVEdZc0wwNXI5MVo5eHdvdi1BZ0NGYXhRVVkxbQ?oc=5",
+   "summary": "ホルムズ海峡のタンカー航行費急騰、保険料高騰で＝石油会社幹部&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T16:45:45+09:00"
+  },
+  {
+   "title": "Euro Firms on Dollar Weakness, Anticipated ECB Rate Hike",
+   "link": "https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483?mod=rss_markets_main",
+   "summary": "The euro firmed against the dollar, driven by the dollar’s broader weakness and anticipation of an interest-rate hike by the European Central Bank on Thursday.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T16:43:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
+   "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
+   "summary": "While nearly all observers anticipate a rate hike today, there is dissent among bond markets about the terminal rate for this tightening cycle from the ECB. Much depends on events in the Middle East a",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-09T16:42:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?mod=rss_markets_main",
+   "summary": "European indexes fell at the open as an escalation in U.S.-Iran tensions lifted oil and weighed on sentiment.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T16:39:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Stock Market Today: Oil Hits $100 for First Time Since July",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026?mod=rss_markets_main",
+   "summary": "Escalating conflict in Middle East stokes fears of supply disruptions",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T16:38:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "丸亀製麺の運営会社に勧告 公取委",
+   "link": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-09T16:35:17+09:00"
+  },
+  {
+   "title": "Gold Rises, With Middle East and Fed Policy in Focus",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?mod=rss_markets_main",
+   "summary": "Gold prices rose as escalating attacks in the Middle East pushed oil higher, raising concerns over inflation and interest-rate hikes.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-09T16:34:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "中小企業の成長投資に10億円保証枠　M＆A資金など融資受けやすく",
+   "link": "https://www.asahi.com/articles/ASV992DNNV99ULFA008M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-09T16:32:14+09:00"
+  },
+  {
+   "title": "ソフトバンクＧ、オープンＡＩ出資に伴うつなぎ融資を前倒し返済",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CaFJQZFlnaDZNUWNzWnJheHNrMDVYcy1zbHJ2N1ZWWVFnZERvQk9QQl9mWDJwTGM1LWMyeTlITTRoZ25jOVpDRmFuSDM1UFpaRXBqTExIanYzc2ViTnpRVVFRelhiSlBsaEZfNzFrNDAtZFZFWHc?oc=5",
+   "summary": "ソフトバンクＧ、オープンＡＩ出資に伴うつなぎ融資を前倒し返済&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T16:09:43+09:00"
+  },
+  {
+   "title": "コメ農家の廃業 過去最多ペース",
+   "link": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-09T16:02:53+09:00"
+  },
+  {
+   "title": "問題だらけの消費減税､残された課題は何か…何層にもわたる批判を押しのけて閣議決定した高市政権 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/956614?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "2027年4月から食料品の消費税率が2年間限定で1％へ引き下げられることが事実上決まりました。しかしこの政策には､財政への影響や効果の限定性､タイミングのずれに関する複雑な批判が渦巻いています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T16:00:00+09:00"
+  },
+  {
+   "title": "動画配信「6000億円市場」の主導権争い　なぜRIZINはU-NEXTを離れ「ABEMAを選んだ」のか？",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/09/news055.html",
+   "summary": "定額制動画配信市場が6000億円を突破し主戦場が「解約防止」に移る中、コンテンツ企業側がプラットフォームを「選ぶ」主客逆転が起きている。今期に年商100億円を見込む格闘技イベント「RIZIN」は、有料配信収益の事業再投資を条件に、配信をABEMAへ一本化した。長年のパートナーU-NEXTとの契約終了と「ゼロ回答」の裏にあった事業構造の違いとは。買い手と売り手の関係から「共創関係」へ挑むコンテンツビ",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T15:30:00+09:00"
+  },
+  {
+   "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+   "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+   "summary": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-09T15:26:59+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "｢夜泣きは当たり前｣を変える！日本人初の乳幼児睡眠コンサルタントが教える｢親子の眠りを救う科学的な選択｣とは | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955726?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢夜泣きは当たり前｣とされてきた日本の育児観に疑問を投げかけ､親子の睡眠の重要性と科学的支援の可能性を探る本連載。夜泣きや寝かしつけに悩む親は多い中､心身の健康を守る新しい選択肢とは？今こそ眠りの常…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T15:00:00+09:00"
+  },
+  {
+   "title": "第55回住宅金融支援機構債券（グリーンボンド）に対する政府保証の付与",
+   "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2022.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-09T15:00:00+09:00"
+  },
+  {
+   "title": "浸水の車 点検前エンジン始動NG",
+   "link": "https://news.yahoo.co.jp/pickup/6594747?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-09T14:56:42+09:00"
+  },
+  {
+   "title": "｢自動運転の想像以上の安心感｣と｢石破氏の独特なしゃべり方の通訳｣から考える､AIに置き換えられることの限界点 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955928?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "AIや自動運転技術が進化し､仕事や生活の現場は大きく変わりつつあります。しかし､現場に根ざした知識､ニュアンスを読み取る高度な通訳など､AIには代替できない人間ならではの価値も依然として存在します。…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-09T14:30:00+09:00"
+  },
+  {
    "title": "自分の目で見て初めて気づく｢ああ､こうなっているのか｣…情報があふれる今こそ｢現地･現場･現物｣で世界を見る | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/957072?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "海外ニュースやSNSで得た情報だけでは見えない世界の現実。数字や報道に頼るだけではなく､実際の現場を感じ､一次情報を探ることの重要性について考えます。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-09T14:00:00+09:00"
+  },
+  {
+   "title": "アシックス、700億円上限に自社株買い 「足元の株価水準勘案」",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2l3VzA0Q0xOdEFfd3JjdndjYnRSYzdGNTBtR0tFeFlETGFhLUM3cXprREdDQWZYLU9zdThpNXRfNHlMbUxwWmJkeVEyT0ZEekpSOGRjNnp1c0VvVWZvdDhyY3JVdHMwb1FBN2tJX01IWGNrSlhyTkhBdHZBMmVRbQ?oc=5",
+   "summary": "アシックス、700億円上限に自社株買い 「足元の株価水準勘案」&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T13:57:00+09:00"
   },
   {
    "title": "｢コト消費｣が半世紀にわたり今のトレンドを示すものとして用いられる訳…なぜ｢○○消費｣は繰り返し語られ続けるのか | ライフ | 東洋経済オンライン",
@@ -94,18 +423,18 @@
    "lang": "en"
   },
   {
-   "title": "Anthropic withheld latest AI model from UK testing agency",
-   "link": "https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870?syn-25a6b1a6=1",
-   "summary": "Decision to exclude Aisi has prompted fears inside British government of protectionist shift among tech groups",
+   "title": "Warsh might yet be a good Fed chair",
+   "link": "https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1",
+   "summary": "He must stay clear on the objectives of policy and sensible on how the central bank should conduct itself",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-09-09T13:00:25+09:00",
    "lang": "en"
   },
   {
-   "title": "Warsh might yet be a good Fed chair",
-   "link": "https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1",
-   "summary": "He must stay clear on the objectives of policy and sensible on how the central bank should conduct itself",
+   "title": "Anthropic withheld latest AI model from UK testing agency",
+   "link": "https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870?syn-25a6b1a6=1",
+   "summary": "Decision to exclude Aisi has prompted fears inside British government of protectionist shift among tech groups",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-09-09T13:00:25+09:00",
@@ -121,21 +450,12 @@
    "lang": "en"
   },
   {
-   "title": "AI borrowing boom shakes up Swiss credit market",
-   "link": "https://www.ft.com/content/fb189d81-e5ce-4aba-8707-53c88dae6e60?syn-25a6b1a6=1",
-   "summary": "Bonds from the likes of Alphabet and Amazon have accounted for more than a quarter of Swiss franc corporate issuance this year",
+   "title": "Iran turns to crypto to get around sanctions",
+   "link": "https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1",
+   "summary": "Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-09T13:00:16+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "World’s biggest relationship? Xi and Modi look to rebuild ties for 2.8bn people",
-   "link": "https://www.ft.com/content/6525cf15-0cf0-4fff-a3a4-298a41569d97?syn-25a6b1a6=1",
-   "summary": "Brics summit expected to bring China’s leader to India for first time in seven years after cautious diplomacy to put bilateral relations back on track",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T13:00:16+09:00",
+   "published": "2026-09-09T13:00:07+09:00",
    "lang": "en"
   },
   {
@@ -148,21 +468,21 @@
    "lang": "en"
   },
   {
+   "title": "EU resists Mario Draghi’s competitiveness cures",
+   "link": "https://www.ft.com/content/4dde2b92-eadb-41e3-9fad-c9bf0636010a?syn-25a6b1a6=1",
+   "summary": "Two years on, the bloc has implemented just 15.7% of former Italian PM’s recommendations",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-09T13:00:07+09:00",
+   "lang": "en"
+  },
+  {
    "title": "なぜ英会話に10年通っても話せないのか､月15万円でも選ばれる英語コーチングの仕組み | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/957050?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢英会話スクールに通っても話せるようにならない｣──そんな悩みを抱える人が､高額な英語コーチングに通い始めている。短期集中で成果を出す仕組みや､受講生の驚きの変化とは何か。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-09T13:00:00+09:00"
-  },
-  {
-   "title": "Global Dividend Growth Likely to be Boosted by Dollar Weakness, Nvidia",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?mod=rss_markets_main",
-   "summary": "Larger one-off dividends and foreign-exchange effects prompt Capital Group to raise its 2026 global dividend projection to $2.23 trillion, representing a 6.4% gain.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T12:47:00+09:00",
-   "lang": "en"
   },
   {
    "title": "「清和源氏発祥」神社 民事再生へ",
@@ -197,15 +517,6 @@
    "published": "2026-09-09T12:30:00+09:00"
   },
   {
-   "title": "Oil nears $100 as US launches new strikes on Iranian tankers",
-   "link": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
-   "summary": "American military hit ‘multiple’ ships linked to Iran’s Revolutionary Guards in response to more attempted missile attacks on a US Navy warship",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T12:16:34+09:00",
-   "lang": "en"
-  },
-  {
    "title": "中国、住宅「予約販売」見直し　建設中断でトラブルも　遠い不況脱却",
    "link": "https://www.asahi.com/articles/ASV982Q61V98UHBI00YM.html?ref=rss",
    "summary": "",
@@ -236,24 +547,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-09T12:00:00+09:00"
-  },
-  {
-   "title": "US bans Canadian dairy, motorcycles and most alcoholic beverages",
-   "link": "https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1",
-   "summary": "Move comes a day after Ottawa imposes $20bn in retaliatory tariffs on US goods",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T11:57:42+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data",
-   "link": "https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483?mod=rss_markets_main",
-   "summary": "The Singapore dollar consolidates against its U.S. counterpart in the Asian session ahead of U.S. PPI data and CPI data.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T11:41:00+09:00",
-   "lang": "en"
   },
   {
    "title": "日本の軽自動車規格参入で存在感を示す…新型BEV｢ラッコ｣投入の真相､BYDオートジャパン社長が語る日本戦略の本音 | ライフ | 東洋経済オンライン",
@@ -295,14 +588,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-09T11:00:00+09:00"
-  },
-  {
-   "title": "NY原油3カ月ぶり高値 6日続伸",
-   "link": "https://news.yahoo.co.jp/pickup/6594720?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-09T10:35:30+09:00"
   },
   {
    "title": "｢40代の転職｣できるのはごく一握りである現実…社会に出た瞬間に自己投資をやめた人を待つ｢助手席人生｣という末路 | ライフ | 東洋経済オンライン",
@@ -369,21 +654,12 @@
    "published": "2026-09-09T09:45:00+09:00"
   },
   {
-   "title": "Gold Slips; Traders Eye Inflation Data",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?mod=rss_markets_main",
-   "summary": "Gold declined. Thursday’s U.S. PPI release and Friday’s CPI data are likely to set the tone around rate-hike expectations for the Sept. 15-16 Federal Reserve meeting, said Critical Metals.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T09:41:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "焦点：5％に迫る米長期金利、借り入れコストや企業価値評価など5つの注目点",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BZHJUQ1kySldKeWtCRHJ2T1hkRzJmVDBrQVVNRnFWWU1iSkJqdmFHTjg3WlRiWjZEbnJ2UEx5ZWFCRC05Y0RaY2pSU29JWkxIWmxZRW5xQnE3cVBST2lOc2JkSk9aMUpKQ1pmNDRPS2V0UVdkTGFOdg?oc=5",
    "summary": "焦点：5％に迫る米長期金利、借り入れコストや企業価値評価など5つの注目点&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-09T09:30:00+09:00"
+   "published": "2026-09-09T09:31:43+09:00"
   },
   {
    "title": "｢＋2℃時代｣はもう始まっている…酷暑が常態化する\"日本の夏\"　生産､物流､価格や｢食卓への影響｣は？ | ライフ | 東洋経済オンライン",
@@ -402,15 +678,6 @@
    "published": "2026-09-09T09:30:00+09:00"
   },
   {
-   "title": "Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35?mod=rss_markets_main",
-   "summary": "Oil rose in early Asian trade as Houthi militants’ attack on Saudi Arabia’s energy infrastructure amplifies fears over supply disruptions in the Middle East.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T09:30:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "大阪メトロ 磁気切符を廃止へ",
    "link": "https://news.yahoo.co.jp/pickup/6594712?source=rss",
    "summary": "",
@@ -426,22 +693,6 @@
    "category": "海外金融",
    "published": "2026-09-09T09:17:00+09:00",
    "lang": "en"
-  },
-  {
-   "title": "〈開発に10年〉待望のアップル初の折り畳み式iPhone､チタンとアルミニウムを使った先進的なヒンジ機構に | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/957382?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アップルが約10年にわたり極秘で開発してきた折り畳み式iPhoneが､ついに発表を迎えます。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T09:07:00+09:00"
-  },
-  {
-   "title": "｢『ちーたんたん』ください｣ 岩手で食べた\"謎のソウルフード\"に驚愕…漫画｢55歳のひとり旅デビュー まめ旅すたいる。｣ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956500?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "子育てがひと段落した、50代漫画家の「まめ」。さて、これからの人生をどう楽しもう？推し活など楽しい趣味はいろいろあるけれど、もっと世界を広げてみたい……。──それなら、ひとり旅はどうだろう？ずっと憧…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T09:00:00+09:00"
   },
   {
    "title": "就活人気企業ランキング、伊藤忠商事が男女・文理で1位　2位以下は？",
@@ -468,39 +719,20 @@
    "published": "2026-09-09T08:50:00+09:00"
   },
   {
-   "title": "｢幸せは人生の目的なのか｣ダーウィンの進化論を知れば今の人生が楽になる不思議　約2300年の思い込みを覆す最新研究 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954776?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢幸せ｣は本当に人生の究極の目的なのでしょうか。私たちが無意識に信じてきた幸福論は､実は哲学者アリストテレスの目的論に根ざした一つの見解に過ぎません。進化論の視点で世界を見直せば､人間と幸福の本質は…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T08:30:00+09:00"
+   "title": "米、カナダ産乳製品・酒類・二輪車の輸入禁止へ 貿易摩擦激化",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tQnpEQjMzZHhPaVN4elhFSkVjbHVRV3NOUXJnazV0ZzdYUndrMHIwYTlZejR6eWdmYmxnM0xRMGQxV2hyYUMtVWFBYmt1ejl5bURTaE9zVG1mSVo4Zkt6akxOQ1p2WTNKU1BRVEFHMTFuRThId2dSZy1B?oc=5",
+   "summary": "米、カナダ産乳製品・酒類・二輪車の輸入禁止へ 貿易摩擦激化&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T08:39:00+09:00"
   },
   {
-   "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
-   "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
-   "summary": "Poland’s reclassification as a developed economy from an emerging market opens it up for investment by many more investors.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T07:50:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Block Applies to Establish Builders Bank & Trust",
-   "link": "https://www.wsj.com/finance/banking/block-applies-to-establish-builders-bank-trust-3c6c9556?mod=rss_markets_main",
-   "summary": "The financial technology company is seeking to establish a federally regulated, uninsured national trust bank called Builders Bank & Trust.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T07:30:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-   "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-   "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T07:00:00+09:00",
-   "lang": "en"
+   "title": "英主要空港、大規模欠航・遅延が発生 管制サービス企業のシステム障害で",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MRS1qSng3NVpJbjN3WTJ4XzZrTUZiZkRVUHhid0NFVmRCdm1FeC1waUlMTG9lOXpyNTNibENlUmFfc3lPNGFYcmdpUDFjZDJ0NlpPaHFPSDBvTS1hMk1MZDNrdmRXYzNKcHc1djM1UmdRQmJxQWVGRQ?oc=5",
+   "summary": "英主要空港、大規模欠航・遅延が発生 管制サービス企業のシステム障害で&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T06:59:44+09:00"
   },
   {
    "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
@@ -512,15 +744,6 @@
    "lang": "en"
   },
   {
-   "title": "Opinion | The SEC Unmuzzles Jamie Dimon",
-   "link": "https://www.wsj.com/opinion/sec-pay-for-play-rule-paul-atkins-jamie-dimon-093288a2?mod=rss_markets_main",
-   "summary": "The agency rescinds an Obama-era rule that limited political speech.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T06:59:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "ＮＹ市場サマリー（8日）米国株続落、円一時152円台後半、利回りやや上昇",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YS0Y4cE0teXFMMnRyWnFXcmhmNU1tLUh0VXBLQVpiRl9nSHJiWHRkNzBlMnMya3RyMGxRQVctNDVDV3FfV29KQVQ5cmZteTdVdVhZVF94a19RN2huT3BuMjZwdUgyS1kzY0JYSWoxcld5RnIybzVTQQ?oc=5",
    "summary": "ＮＹ市場サマリー（8日）米国株続落、円一時152円台後半、利回りやや上昇&nbsp;&nbsp;Reuters",
@@ -529,59 +752,28 @@
    "published": "2026-09-09T06:55:43+09:00"
   },
   {
-   "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
-   "link": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
-   "summary": "Semiconductor industry revenue is expected to reach $1.5 trillion this year, driven mostly by memory chips.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T06:51:00+09:00",
-   "lang": "en"
+   "title": "米国株式市場＝続落、ソフトウェア株が安い インフレ指標に注目",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMEFSZ0pmMFczbXNmRW9qNU9ST1dYNTBDNkVtWjR5SUdKRXVuamVMTFkyTXFJMFNYUVlSRUMtZVZRdzlrTkszbDhpdGZhZEZiWVpPRmY0MGdTeEhyNlkwUDhPQk5BYzItdm5jVXJ4RTdJRk1YUTJnOXVpQ21PYWdJWg?oc=5",
+   "summary": "米国株式市場＝続落、ソフトウェア株が安い インフレ指標に注目&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T06:28:54+09:00"
   },
   {
-   "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
-   "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-   "summary": "“It looks like OpenAI is turning things around,” and that’s seen as good news for Oracle, which has a lot riding on the ChatGPT creator’s success.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T06:38:00+09:00",
-   "lang": "en"
+   "title": "ＮＹ外為市場＝円一時152円台後半、7カ月ぶり高値 ドルは横ばい",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02cllOR0x0Z0dDSU9rQjNuank3WHB4Yk1ZRU5FU2p2X09jbnpWZU1VOWZDb19ISWhVQUFvakFyc1RxNE9ydjNjQW1CSi1PVnlMaHpzOURodm40cHZSMkZqeHBXYkxIb2xRVDFWcWFNQWdiU01wOEtDTw?oc=5",
+   "summary": "ＮＹ外為市場＝円一時152円台後半、7カ月ぶり高値 ドルは横ばい&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T06:02:04+09:00"
   },
   {
-   "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news",
-   "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
-   "summary": "Qualcomm shares have missed out on the chip sector’s rally this year — but the company is now working on various chip projects with Amazon.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T06:32:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "詐欺師を除いて、私のような年上の人々と友達になりたがる人はなぜほとんどいないのでしょうか?",
-   "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-   "summary": "「私の財産は、私の会社を心から評価してくれた私と一緒に時間を過ごしてくれた人たちに任せたいと思っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T06:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Why does almost nobody want to befriend older people like me — except scammers?"
-  },
-  {
-   "title": "WSJ Dollar Index Falls 0.08% to 94.91",
-   "link": "https://www.wsj.com/finance/currencies/yen-strengthens-further-sentiment-toward-currency-has-materially-shifted-72af55be?mod=rss_markets_main",
-   "summary": "The WSJ Dollar Index declined 0.1% — down four of the past five trading days.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T06:29:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Auto & Transport Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-92e8216f?mod=rss_markets_main",
-   "summary": "Find insight on Volkswagen, HD Korea Shipbuilding & Offshore Engineering, Mobico and more in the latest Market Talks covering Auto and Transport.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T06:25:00+09:00",
-   "lang": "en"
+   "title": "カナダが対米報復関税発動、200億ドル相当 通商交渉は膠着",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lNWVFVXZDb1NSQ1BIUVBOU0hPUkRHeE5kU1dITVIwMnV5a1htLXRuaTR4TzlUZEcyZHpBSUZGeEw5dWlyd2ZsVWdubnMxbVNFa3lTbHpiLS05V1o5dnB3dlljUWU2NGJncncyaXVNOHV2VXRld2NTMmNR?oc=5",
+   "summary": "カナダが対米報復関税発動、200億ドル相当 通商交渉は膠着&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T06:01:09+09:00"
   },
   {
    "title": "くら寿司はなぜ「ちいかわ」に頼るのか　景品横領で見えた“コラボ依存”の落とし穴",
@@ -607,6 +799,14 @@
    "category": "海外金融",
    "published": "2026-09-09T05:56:32+09:00",
    "lang": "en"
+  },
+  {
+   "title": "クアルコム、アマゾンとＡＩ半導体で提携 最大600億ドル供給へ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2NUUm1KS1hIUE5nUkhBN3VMSDdWeXZsSnRieU5UZWg4Y0I5NXF6b1MxN3lza09rUDZhbldRUUUxUk54Wm9oREhHekJTODhBcmFmczliNmVMdElWS1I5dnhuTVVsZGdyQ1pabE01aG9EN2d2RFZPalhkekl0bWVmVA?oc=5",
+   "summary": "クアルコム、アマゾンとＡＩ半導体で提携 最大600億ドル供給へ&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T05:43:53+09:00"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月４日）について掲載しました。",
@@ -749,52 +949,12 @@
    "lang": "en"
   },
   {
-   "title": "焦点：円急伸でキャリートレード動揺、タカ派的な日銀の織り込み進む",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NQS1ZVVBLeDhmVGdfSHVCSE12c2ZfRjBwMU5jenJhRVJtSXNyNHhGVmJoWC1yT2RTeFZOZUYzZ0FTbTZON3NZX1BwR0RPdGh0TXRRZXBGdDNEdmQzeWc1U0lIZnlXYTkySkZxa05JVDBpNGZ2MFNLYg?oc=5",
-   "summary": "焦点：円急伸でキャリートレード動揺、タカ派的な日銀の織り込み進む&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T17:04:11+09:00"
-  },
-  {
    "title": "7月の実質賃金、前年比2.4%増  7カ月連続プラス、約5年ぶり",
    "link": "https://www.asahi.com/articles/ASV973FHQV97ULFA01BM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-08T17:03:33+09:00"
-  },
-  {
-   "title": "セブン、ハローキティのパーカ販売へ　「コンビニ服」おしゃれ路線に",
-   "link": "https://www.asahi.com/articles/ASV98249WV98ULFA007M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-08T17:00:00+09:00"
-  },
-  {
-   "title": "街角の景気は「持ち直しの動き」　8月調査、現状判断の改善続く",
-   "link": "https://www.asahi.com/articles/ASV982HNHV98ULFA017M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-08T16:56:35+09:00"
-  },
-  {
-   "title": "日経平均は3日ぶり反落、急速な円高を受け手控えムード 米株動向への警戒も",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjRQelJ5SmVrOGhrSE1XUUhxNWJVOG9Fd3FJQWxZN1BMVDBYMmlldzkzeE5vYURIYlUyWVJqeWl0eXNVTk5Pdi1ic3V2cTBDVnNaZmE0MlFCakg0cU1pREdNbDF2dlM5cHFJbXdMdllWeUZvemtudDFJNjBadlhBXw?oc=5",
-   "summary": "日経平均は3日ぶり反落、急速な円高を受け手控えムード 米株動向への警戒も&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T16:36:04+09:00"
-  },
-  {
-   "title": "りそな、投資一任「ファンドラップ」2兆円へ　社長「時代に合う」",
-   "link": "https://www.asahi.com/articles/ASV982522V98ULFA00GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-08T16:26:46+09:00"
   },
   {
    "title": "5年利付国債（第187回）の第II非価格競争入札結果（令和8年9月8日入札）",
@@ -805,92 +965,12 @@
    "published": "2026-09-08T15:15:00+09:00"
   },
   {
-   "title": "アングル：金利3％でも衰えぬ起債ニーズ、企業はコスト抑制や買い手開拓に腐心",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GcmNuQ2RDZzY2Z3pONDlZTnN1bTRMVUlCNlZQU0U5LV9zbVB2M3pHMksydC10NDhzbldoblJIS3VBdmZ5TzB0dWlWcExmbWJxWGpHVE1nVHFUOTZ5eFR3OU9WYXhHdUdDa3FPWDVUWFZFSEpqaG9JVkRCRVNRZw?oc=5",
-   "summary": "アングル：金利3％でも衰えぬ起債ニーズ、企業はコスト抑制や買い手開拓に腐心&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T15:03:00+09:00"
-  },
-  {
-   "title": "アングル：9月に0.5％利上げの市場観測、日銀が慎重な理由",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYZm5vZ0NhYzVpdUsxUWhTTGpfYnRlb0I1dDByTFVLSmZwZUZ5RWZ3ZUpKSk8zY3dvcTQ5c3RkWnZJOERCRTh0T3J4LUFfNHg5RVlzRFpXRDJlV3paeUMtZHktVFcyeFZSQ2doMVZiYTk0dlFvVjB4WQ?oc=5",
-   "summary": "アングル：9月に0.5％利上げの市場観測、日銀が慎重な理由&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T14:56:00+09:00"
-  },
-  {
-   "title": "カナダが対米報復関税発動、200億ドル相当 通商交渉は膠着",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lNWVFVXZDb1NSQ1BIUVBOU0hPUkRHeE5kU1dITVIwMnV5a1htLXRuaTR4TzlUZEcyZHpBSUZGeEw5dWlyd2ZsVWdubnMxbVNFa3lTbHpiLS05V1o5dnB3dlljUWU2NGJncncyaXVNOHV2VXRld2NTMmNR?oc=5",
-   "summary": "カナダが対米報復関税発動、200億ドル相当 通商交渉は膠着&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T14:07:00+09:00"
-  },
-  {
-   "title": "総務省が聞き取り調査開始　郵政行政部の開示延期チャット、認識問う",
-   "link": "https://www.asahi.com/articles/ASV981CRTV98UTIL00JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-08T13:19:53+09:00"
-  },
-  {
-   "title": "英小売業界、今後3年間に若者10万人分の雇用創出へ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd05wLTc2TjFDNmhuQzE0QWs5Y05rWmZxWGNrVFRtb0VJZGR3Qk9Vd0lqSHZWZ0Juanp3dk1sNTd2cmpOT01SZmpWd0JvMTRVUHZqbGJ6TC1odm0tS0xtWE5OTTNBNHBHYWE2SE8tSDd0MWZaMkpXSUFOSTJ5c3E5TQ?oc=5",
-   "summary": "英小売業界、今後3年間に若者10万人分の雇用創出へ&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T12:44:00+09:00"
-  },
-  {
-   "title": "午前のドルは一時152円台、半年ぶり 円売りの解消継続",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UbUZMcDB2b2pfQzB4Nm9BZVpvOGNJTm4xemlSWWpvYjlVdTQ1TU0yMVBrMk9hT1VIWXRZaE5GQThocFA2NmMxTmwzX2pzeW1aRWhYVnlQdExkSkJKaFN6VXJ2d092SEIxX2FMRDNTYVJIT0pLbFNjag?oc=5",
-   "summary": "午前のドルは一時152円台、半年ぶり 円売りの解消継続&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T12:40:00+09:00"
-  },
-  {
    "title": "5年利付国債（第187回）の入札結果（令和8年9月8日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260908.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-08T12:35:00+09:00"
-  },
-  {
-   "title": "GDP年率1.4%増に上方修正　4～6月期、設備投資の減少幅縮む",
-   "link": "https://www.asahi.com/articles/ASV980W07V98ULFA017M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-08T12:04:23+09:00"
-  },
-  {
-   "title": "午前の日経平均は小幅続伸、ＡＩ・半導体株が支えに ＴＯＰＩＸはさえない",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNGkzTjRrLXMxMU5QVG02TU03XzBrY1o4YlNjVURHQ1E1QXVWWjBjNWxxUjVwenlYLUdJMGlUcjhOam5KMEpyOTUtTHhGUzBmQ25QYTY2b0lsYmk0NV83aGdsYzVsc3lvZ2tRMENGQk94dnhDZmtUTFptNC1CTm82QQ?oc=5",
-   "summary": "午前の日経平均は小幅続伸、ＡＩ・半導体株が支えに ＴＯＰＩＸはさえない&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T12:03:00+09:00"
-  },
-  {
-   "title": "マクロスコープ：消費減税、国会の火種は「閾値」か 大綱へは記載せず",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXlJakx1dVVEVzJvM19Hc1pHS0JJR0NQZlRDaFh2X2gyY09HWl9sRlVhQzNUZEJxQjlUcDI0c0VJUkZ3Y2YybjVVQk9yYmotVm5MMHdIZWNWb204dWFPdE1QNUUyNHZ2LW9PMzZQMHBXU3BHNGFKaUNiRnQzYVdlVQ?oc=5",
-   "summary": "マクロスコープ：消費減税、国会の火種は「閾値」か 大綱へは記載せず&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-08T11:58:00+09:00"
-  },
-  {
-   "title": "小田急駅員の胸元にカメラ 効果は",
-   "link": "https://news.yahoo.co.jp/pickup/6594623?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-08T11:08:29+09:00"
   },
   {
    "title": "5年利付国債（第187回）の入札発行（令和8年9月8日入札）",
@@ -909,14 +989,6 @@
    "published": "2026-09-08T10:30:00+09:00"
   },
   {
-   "title": "銀行の「個人マネー争奪戦」激化",
-   "link": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-08T09:38:27+09:00"
-  },
-  {
    "title": "貸出・預金動向（8月）",
    "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
    "summary": "",
@@ -931,47 +1003,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-08T08:50:00+09:00"
-  },
-  {
-   "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-08T08:50:00+09:00"
-  },
-  {
-   "title": "令和8年7月中 国際収支状況（速報）の概要",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202607.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-08T08:50:00+09:00"
-  },
-  {
-   "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-   "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-   "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-08T08:23:10+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "金利上昇 住宅ローン返済者ら悩み",
-   "link": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-08T06:48:02+09:00"
-  },
-  {
-   "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-09-08T03:30:00+09:00"
   },
   {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
@@ -1012,14 +1043,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-09-07T11:00:00+09:00"
-  },
-  {
-   "title": "「今のやり方で困っていない」「かえって手間が増える」──DX推進を阻む“ベテランの壁”をどう崩す？",
-   "link": "https://www.itmedia.co.jp/business/articles/2609/07/news029.html",
-   "summary": "「今のやり方でうまくいっているのに、なぜ変える必要があるのか」──DXを進める企業では、新しいツールや仕組みを現場に導入する際、こうした反応が壁になることがある。AI活用推進も、一部のメンバーに頼っていては、かえって属人化が進んでしまうリスクになることも。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-09-07T09:30:00+09:00"
   },
   {
    "title": "マネタリーベースと日本銀行の取引（8月）",
