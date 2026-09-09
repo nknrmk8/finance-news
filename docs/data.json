@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T02:23:41.979656+09:00",
+ "generated_at": "2026-09-10T04:52:50.970636+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,136 @@
  "errors": [],
  "items": [
   {
+   "title": "U.S. Natural Gas Futures Fall As Weather Set to Turn",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-decline-as-weather-cools-bbbc4b22?mod=rss_markets_main",
+   "summary": "U.S. natural gas futures fell for a second consecutive session as the market looked beyond this week’s inventory report to cooler weather that’s likely to cut demand heading into the shoulder season.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T04:50:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices",
+   "link": "https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1",
+   "summary": "Pro and Max models will be $100 more expensive than last year’s versions as the company faces supply chain pressures",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T04:46:14+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.",
+   "link": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
+   "summary": "Canada’s top liquor brand looks on track for a reprieve because it’s bottled in the U.S. for American customers.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T04:40:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "アップル初、折りたたみiPhone発売　36万4800円から",
+   "link": "https://www.asahi.com/articles/ASV996G15V99UHBI03DM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-10T04:31:43+09:00"
+  },
+  {
+   "title": "関西初心者が戸惑う｢大阪駅｣と｢梅田駅｣の関係性　かつて土地買収で激しく争った阪急と阪神の現在 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/957043?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "同じ場所にあるのに名前が違う､大阪キタのターミナル｢大阪駅｣と｢梅田駅｣。いったいどんな歴史を歩んできたのでしょうか。貴重な過去の記録と現在の駅前の様子は､本文中の【写真を見る】からご覧いただけます。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-10T04:30:00+09:00"
+  },
+  {
+   "title": "Brent Crude Tops $100 A Barrel on Middle East Escalation",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35?mod=rss_markets_main",
+   "summary": "Oil futures settled at their highest level since May 22 as strikes between the U.S. and Iran escalated and Houthis stepped up attacks on Saudi oil facilities.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T04:29:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
+   "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+   "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T04:27:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Oil hits $100 for first time since July",
+   "link": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+   "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T04:19:03+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Gold Futures Edge Up Despite Higher U.S. Yields",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?mod=rss_markets_main",
+   "summary": "Gold futures made small gains despite a rise in Treasury yields. The dollar weakened, however, which tends to support gold.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T03:48:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+   "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+   "summary": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T03:22:29+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
+   "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
+   "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T03:05:21+09:00",
+   "lang": "en"
+  },
+  {
    "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-09-10T03:00:00+09:00"
+  },
+  {
+   "title": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
+   "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html",
+   "summary": "These are the stocks posting the largest moves midday.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-10T02:41:29+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
+   "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
+   "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T02:30:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
+   "link": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
+   "summary": "“The cost of building the house is expected to be about 30% of the property’s current value.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T02:30:00+09:00",
+   "lang": "en"
   },
   {
    "title": "Steve Witkoff Earned More Than $100 Million From Entity Tied to Trump Crypto",
@@ -78,7 +202,7 @@
    "lang": "en"
   },
   {
-   "title": "OpenAI names top US AI safety official to foundation board",
+   "title": "OpenAI names top US official from model testing agency to its board",
    "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
    "summary": "Former housemate of Anthropic chief joins ChatGPT maker as AI labs accused of regulatory capture",
    "source": "Financial Times",
@@ -93,33 +217,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-09-10T02:00:00+09:00"
-  },
-  {
-   "title": "Oil hits $100 for first time since July",
-   "link": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
-   "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-10T01:55:20+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
-   "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
-   "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-10T01:43:50+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Renewed Middle East Fighting Keeps Bid in Oil",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35?mod=rss_markets_main",
-   "summary": "Oil futures extended their rally as renewed fighting between the U.S. and Iran dimmed prospects for an agreement to settle the conflict.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-10T01:42:00+09:00",
-   "lang": "en"
   },
   {
    "title": "These are the 10 biggest retirement fears — and what you can do about them",
@@ -176,15 +273,6 @@
    "lang": "en"
   },
   {
-   "title": "US Treasury yields jump as plans for $6bn buybacks disappoint investors",
-   "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
-   "summary": "Scott Bessent seeks to steady government debt market with expanded purchase programme",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-10T01:12:18+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
    "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
    "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
@@ -211,33 +299,6 @@
    "published": "2026-09-10T01:00:00+09:00"
   },
   {
-   "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-   "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-   "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-10T01:00:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Gold Futures Steady As Market Digests Higher Rates",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?mod=rss_markets_main",
-   "summary": "Gold futures were steady as bond yields rose after the Treasury said it will buy up to $6 billion of longer-term debt at its Thursday buyback operation.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-10T00:57:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
-   "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
-   "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-10T00:53:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "‘I am the house now’: Bessent warns traders not to bet against yen",
    "link": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1",
    "summary": "Comments follow July’s rare joint intervention with Tokyo to support Japanese currency",
@@ -247,30 +308,12 @@
    "lang": "en"
   },
   {
-   "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
-   "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-   "summary": "“We have witnessed our parents’ gradual decline in cognitive ability.”",
-   "source": "MarketWatch",
+   "title": "France’s Le Pen stays silent on far-right victory in German election",
+   "link": "https://www.ft.com/content/8be9ce96-3307-43db-b755-c67f3c50be29?syn-25a6b1a6=1",
+   "summary": "Rassemblement National distances itself from Alternative for Germany ahead of next year’s French presidential vote",
+   "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-10T00:46:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
-   "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html",
-   "summary": "These are the stocks posting the largest moves midday.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-10T00:43:54+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-   "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-   "summary": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks ",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-10T00:14:00+09:00",
+   "published": "2026-09-10T00:01:46+09:00",
    "lang": "en"
   },
   {
@@ -280,15 +323,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-09T22:57:40+09:00"
-  },
-  {
-   "title": "U.S. Natural Gas Futures Decline as Weather Cools",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-decline-as-weather-cools-bbbc4b22?mod=rss_markets_main",
-   "summary": "U.S. natural gas futures moved lower in early trading as the summer season approaches an end.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T22:48:00+09:00",
-   "lang": "en"
   },
   {
    "title": "中国へAI規制緩めるトランプ政権　「狂気じみている」憂う元当局者",
@@ -373,30 +407,12 @@
    "published": "2026-09-09T19:00:00+09:00"
   },
   {
-   "title": "Thiel-backed start-up to mass-produce ‘deep strike’ missiles in Europe and US",
-   "link": "https://www.ft.com/content/b66ff736-528b-4e3e-a43a-f06749d01991?syn-25a6b1a6=1",
-   "summary": "Covenant to open factories in US, Germany and Israel as it looks to disrupt market for long-range weapons",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T18:53:08+09:00",
-   "lang": "en"
-  },
-  {
    "title": "中国・香港株式市場・大引け＝まちまち、物価指標は伸び加速も内需低調",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1dJVmNsZFhEZmltS3RJMXJ4UkhzOXZ1T05KbG0xNm4wamFJNVZYYS01UG9IbURLbFByMWVkblI2ajRyMGRnQmtYWEVoRHR2U1A2ZUZYSFY2ZmFlMENZdTJRbG10XzNxcnl0N1QyV2pmdEhxamRLQi1HTUFXdFVhUw?oc=5",
    "summary": "中国・香港株式市場・大引け＝まちまち、物価指標は伸び加速も内需低調&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-09T18:34:42+09:00"
-  },
-  {
-   "title": "Anthropic researcher quits over AI labs ‘gambling with our lives’",
-   "link": "https://www.ft.com/content/20c07191-8da6-440f-b04b-8ea0ebdd9153?syn-25a6b1a6=1",
-   "summary": "Latest departure highlights mounting unease inside Silicon Valley companies racing to build ever more powerful systems",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T18:31:37+09:00",
-   "lang": "en"
   },
   {
    "title": "「AIは10年以内に我々全員を殺す」　アンソロピックの研究者が「企業は無責任」と退社",
@@ -737,14 +753,6 @@
    "published": "2026-09-09T09:55:24+09:00"
   },
   {
-   "title": "くら寿司ちいかわコラボ中止､｢何度も挑戦したのに…｣期待を裏切りに変えた\"ランダム商法\"の危うさ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/957401?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "人気の回転寿司チェーン｢くら寿司｣と｢ちいかわ｣のコラボキャンペーンが､従業員の不正発覚により突然中止に。絶大な期待を集めたビッくらポン!の景品を巡り､公平性への疑念が一気に広がりました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-09T09:45:00+09:00"
-  },
-  {
    "title": "焦点：5％に迫る米長期金利、借り入れコストや企業価値評価など5つの注目点",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BZHJUQ1kySldKeWtCRHJ2T1hkRzJmVDBrQVVNRnFWWU1iSkJqdmFHTjg3WlRiWjZEbnJ2UEx5ZWFCRC05Y0RaY2pSU29JWkxIWmxZRW5xQnE3cVBST2lOc2JkSk9aMUpKQ1pmNDRPS2V0UVdkTGFOdg?oc=5",
    "summary": "焦点：5％に迫る米長期金利、借り入れコストや企業価値評価など5つの注目点&nbsp;&nbsp;Reuters",
@@ -842,14 +850,6 @@
    "published": "2026-09-09T06:02:04+09:00"
   },
   {
-   "title": "カナダが対米報復関税発動、200億ドル相当 通商交渉は膠着",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lNWVFVXZDb1NSQ1BIUVBOU0hPUkRHeE5kU1dITVIwMnV5a1htLXRuaTR4TzlUZEcyZHpBSUZGeEw5dWlyd2ZsVWdubnMxbVNFa3lTbHpiLS05V1o5dnB3dlljUWU2NGJncncyaXVNOHV2VXRld2NTMmNR?oc=5",
-   "summary": "カナダが対米報復関税発動、200億ドル相当 通商交渉は膠着&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-09T06:01:09+09:00"
-  },
-  {
    "title": "くら寿司はなぜ「ちいかわ」に頼るのか　景品横領で見えた“コラボ依存”の落とし穴",
    "link": "https://www.itmedia.co.jp/business/articles/2609/09/news021.html",
    "summary": "くら寿司で起きた「ちいかわ」コラボ景品の横領事件。人気コンテンツとのコラボに依存する集客戦略のリスクと、外食企業が陥りかねない「コラボ商法」の落とし穴とは――。",
@@ -873,14 +873,6 @@
    "category": "海外金融",
    "published": "2026-09-09T05:56:32+09:00",
    "lang": "en"
-  },
-  {
-   "title": "クアルコム、アマゾンとＡＩ半導体で提携 最大600億ドル供給へ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2NUUm1KS1hIUE5nUkhBN3VMSDdWeXZsSnRieU5UZWg4Y0I5NXF6b1MxN3lza09rUDZhbldRUUUxUk54Wm9oREhHekJTODhBcmFmczliNmVMdElWS1I5dnhuTVVsZGdyQ1pabE01aG9EN2d2RFZPalhkekl0bWVmVA?oc=5",
-   "summary": "クアルコム、アマゾンとＡＩ半導体で提携 最大600億ドル供給へ&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-09T05:43:53+09:00"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月４日）について掲載しました。",
@@ -949,12 +941,20 @@
    "published": "2026-09-08T18:59:44+09:00"
   },
   {
-   "title": "韓国サムスン、横浜に半導体研究拠点　日本勢とAI向け先端技術開発",
-   "link": "https://www.asahi.com/articles/ASV9832Y8V98ULFA01PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
+   "title": "シンガポール、閣僚給与引き上げへ 首相は64％増の285万ドル",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GZnhfYmw2RXhfRzBfeDQ0VnJUT3laN0MxcXY0YnZLY3JOMWxFTzcwRE9VNThWeHVUT3Z5R085LU5DdkxjQ1BMSWNlbjJLWklyd0I1UENkWE1jTkt0VjQ4VGUwdnBZNFc5M3p1TWVoQW1wcFA1ZXNQag?oc=5",
+   "summary": "シンガポール、閣僚給与引き上げへ 首相は64％増の285万ドル&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-08T18:38:16+09:00"
+   "published": "2026-09-08T18:09:45+09:00"
+  },
+  {
+   "title": "ライフコーポ、アルビスに1株3780円でＴＯＢ 全株取得へ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCb3JQZEFhRjdMeEZuMEh4MTdzSV9DWnlBbUhxRG9FTFQ1UHFxa19naUpFaDB0WXpxaWxWZDV6VzFfNDQyamt3LUV5VkRjc2hsdzU4UGI0VHdpc3pPVUZHUDd6RnNJa1ZpZEhDTzMxWUxzTmRvZ0E?oc=5",
+   "summary": "ライフコーポ、アルビスに1株3780円でＴＯＢ 全株取得へ&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-08T17:45:51+09:00"
   },
   {
    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月8日(火曜日))",
