@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T22:55:33.291154+09:00",
+ "generated_at": "2026-09-10T02:23:41.979656+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -69,6 +69,24 @@
    "published": "2026-09-10T03:00:00+09:00"
   },
   {
+   "title": "Steve Witkoff Earned More Than $100 Million From Entity Tied to Trump Crypto",
+   "link": "https://www.wsj.com/politics/policy/steve-witkoff-earned-more-than-100-million-from-entity-tied-to-trump-crypto-9798b03d?mod=rss_markets_main",
+   "summary": "The Trump envoy’s income surged in 2025, lifted by gains from World Liberty Financial.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T02:09:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "OpenAI names top US AI safety official to foundation board",
+   "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
+   "summary": "Former housemate of Anthropic chief joins ChatGPT maker as AI labs accused of regulatory capture",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T02:00:02+09:00",
+   "lang": "en"
+  },
+  {
    "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
    "summary": "",
@@ -77,12 +95,191 @@
    "published": "2026-09-10T02:00:00+09:00"
   },
   {
+   "title": "Oil hits $100 for first time since July",
+   "link": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+   "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T01:55:20+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
+   "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
+   "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T01:43:50+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Renewed Middle East Fighting Keeps Bid in Oil",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35?mod=rss_markets_main",
+   "summary": "Oil futures extended their rally as renewed fighting between the U.S. and Iran dimmed prospects for an agreement to settle the conflict.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T01:42:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "These are the 10 biggest retirement fears — and what you can do about them",
+   "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+   "summary": "No amount of wealth can erase retirement worries.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T01:38:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Basic Materials Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-92d7a6b8?mod=rss_markets_main",
+   "summary": "Find insight on gold futures, Westgold resources and more in the latest Market Talks covering Basic Materials.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T01:28:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Financial Services Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-20f3a4c1?mod=rss_markets_main",
+   "summary": "Find insight on Chime, Bank of Japan, Public Bank and more in the latest Market Talks covering Financial Services.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T01:25:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Tech, Media & Telecom Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-1307ac74?mod=rss_markets_main",
+   "summary": "Find insight on Meta Platforms, Robinhood, Fortum and more in the latest Market Talks covering Technology, Media and Telecom.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T01:25:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+   "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+   "summary": "Energy and resource stocks have zigged while the market has zagged.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T01:19:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+   "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+   "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T01:18:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "US Treasury yields jump as plans for $6bn buybacks disappoint investors",
+   "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+   "summary": "Scott Bessent seeks to steady government debt market with expanded purchase programme",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T01:12:18+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
+   "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
+   "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T01:09:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. Treasury Plans $6 Billion 10- to 20-Year Bond Buyback",
+   "link": "https://www.wsj.com/finance/investing/u-s-treasury-plans-6-billion-10-to-20-year-bond-buyback-d12d3647?mod=rss_markets_main",
+   "summary": "The U.S. Treasury raised the size of its planned buyback operation for Treasurys maturing in 10 to 20 years to $6 billion, triple the typical amount.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T01:02:00+09:00",
+   "lang": "en"
+  },
+  {
    "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
    "link": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-09-10T01:00:00+09:00"
+  },
+  {
+   "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+   "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+   "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T01:00:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Gold Futures Steady As Market Digests Higher Rates",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?mod=rss_markets_main",
+   "summary": "Gold futures were steady as bond yields rose after the Treasury said it will buy up to $6 billion of longer-term debt at its Thursday buyback operation.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-10T00:57:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
+   "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+   "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T00:53:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "‘I am the house now’: Bessent warns traders not to bet against yen",
+   "link": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1",
+   "summary": "Comments follow July’s rare joint intervention with Tokyo to support Japanese currency",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-10T00:48:41+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+   "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+   "summary": "“We have witnessed our parents’ gradual decline in cognitive ability.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T00:46:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
+   "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html",
+   "summary": "These are the stocks posting the largest moves midday.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-10T00:43:54+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+   "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+   "summary": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks ",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-10T00:14:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "タンカーにドローン攻撃、イラク領海 湾岸では複数の商船が被弾",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFJkX0R1Z3pTaUw4Rlc1VGJseUphdTI1bGFCeDhXVmpiS1daR3lrUEFyNEh3TVF6UEw5X3RNdzRjVk85Vlg5MUpWSFkxZHZZNUphSmtqdGF4d1hVZ3l6cDAwVDlULWREVFNORklJN09iX2p5SHZSc3EyVmc4T2pHUG5R?oc=5",
+   "summary": "タンカーにドローン攻撃、イラク領海 湾岸では複数の商船が被弾&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T22:57:40+09:00"
   },
   {
    "title": "U.S. Natural Gas Futures Decline as Weather Cools",
@@ -94,60 +291,6 @@
    "lang": "en"
   },
   {
-   "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
-   "link": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
-   "summary": "American drivers just paid the highest Labor Day gasoline prices ever. Dwindling global refinery capacity is threatening to push prices higher.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T22:46:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "ECB, Fed Policy Differentials to Be Key for Euro, Dollar in Coming Months",
-   "link": "https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483?mod=rss_markets_main",
-   "summary": "The dollar weakened and difference between ECB and Fed policy will be a key determinant for the euro and dollar in the coming months, Marex FX said.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T22:43:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Global oil prices rise above $100 a barrel for the first time since July as Middle East conflict escalates",
-   "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-   "summary": "Oil prices advanced on Wednesday after the U.S. said it destroyed five Iranian crude oil vessels.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T22:42:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Crude Extends Gains on Middle East Escalation",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35?mod=rss_markets_main",
-   "summary": "Oil futures extended their rally with Brent at $100 a barrel as the escalating conflict in the Persian Gulf fed concerns about supply out of the Middle East.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T22:32:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Oil hits $100 for first time since July",
-   "link": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
-   "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T22:30:42+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Bessent says, ‘I am the house now.’ What that means for the yen — and U.S. stocks.",
-   "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
-   "summary": "Treasury Secretary Scott Bessent has never been accused of being a wallflower, but speaking in front of Southern Methodist University’s business school on Tuesday night, he made perhaps the most strid",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T22:24:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "中国へAI規制緩めるトランプ政権　「狂気じみている」憂う元当局者",
    "link": "https://www.asahi.com/articles/ASV974S61V97BQBQ0SXM.html?ref=rss",
    "summary": "",
@@ -156,57 +299,12 @@
    "published": "2026-09-09T22:15:00+09:00"
   },
   {
-   "title": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms to help you select a firm that could best con",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T22:11:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Why UBS is telling investors to forget Europe’s ‘tired caricature’ and buy its stocks",
-   "link": "https://www.marketwatch.com/story/why-ubs-is-telling-investors-to-forget-europes-tired-caricature-and-buy-its-stocks-9787b780?mod=mw_rss_topstories",
-   "summary": "Value trap no more, European stocks are of high quality and underowned, say UBS strategists.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T21:55:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern",
-   "link": "https://www.marketwatch.com/story/meta-stock-jumps-as-new-personal-ai-agent-muse-addresses-a-major-investor-concern-5ad0a373?mod=mw_rss_topstories",
-   "summary": "Meta’s Muse could be the beginning of a product cycle that the market has not yet priced into the stock, an analyst says.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T21:43:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "I did everything ‘right’ with my health insurance — and still got a surprise bill. Here’s what I learned.",
-   "link": "https://www.marketwatch.com/story/i-did-everything-right-with-my-health-insurance-and-still-got-a-surprise-bill-heres-what-i-learned-51121f3f?mod=mw_rss_topstories",
-   "summary": "It’s hard even for a healthcare insider to navigate the system, let alone appeal a denial with amorphous reasoning behind it.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T21:17:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "ニデック不正会計 株主28人が提訴",
    "link": "https://news.yahoo.co.jp/pickup/6594785?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-09-09T21:14:29+09:00"
-  },
-  {
-   "title": "U.S. Stock Futures Slip, Treasurys Weaken After Oil Tops $100",
-   "link": "https://www.wsj.com/finance/investing/u-s-stock-futures-steady-treasurys-weaken-after-oil-tops-100-42f4c05a?mod=rss_markets_main",
-   "summary": "U.S. stock futures fell and Treasury yields ticked higher after Brent topped $100 a barrel for the first time since July.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T21:11:00+09:00",
-   "lang": "en"
   },
   {
    "title": "Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more",
@@ -218,31 +316,12 @@
    "lang": "en"
   },
   {
-   "title": "Tech, Media & Telecom Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-1307ac74?mod=rss_markets_main",
-   "summary": "Find insight on China Unicom, Delta Electronics, Nihon Dempa Kogyo and more in the latest Market Talks covering Technology, Media and Telecom.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T20:58:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Energy & Utilities Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-adfcc4f0?mod=rss_markets_main",
-   "summary": "Find insight on Ithaca Energy, Tenaga Nasional, Rubis and more in the latest Market Talks covering Energy and Utilities.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T20:47:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "How to fix the brittleness caused by Treasury basis trades",
-   "link": "https://www.ft.com/content/55a506e8-8cba-4d8e-bf1a-e5d3e6682677",
-   "summary": "The trade fills a void the US government has the authority, the incentive and the ability to close",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T20:35:35+09:00",
-   "lang": "en"
+   "title": "米国とカナダ、応酬がヒートアップ　貿易戦争、再来に現実味",
+   "link": "https://www.jiji.com/jc/article?k=2026090900710&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-09-09T20:38:00+09:00"
   },
   {
    "title": "Kushner and Witkoff’s blind amateurism",
@@ -254,56 +333,12 @@
    "lang": "en"
   },
   {
-   "title": "タンカーにドローン攻撃、イラク領海 湾岸では複数の商船が被弾",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFJkX0R1Z3pTaUw4Rlc1VGJseUphdTI1bGFCeDhXVmpiS1daR3lrUEFyNEh3TVF6UEw5X3RNdzRjVk85Vlg5MUpWSFkxZHZZNUphSmtqdGF4d1hVZ3l6cDAwVDlULWREVFNORklJN09iX2p5SHZSc3EyVmc4T2pHUG5R?oc=5",
-   "summary": "タンカーにドローン攻撃、イラク領海 湾岸では複数の商船が被弾&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-09T20:31:26+09:00"
-  },
-  {
-   "title": "Financial Services Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-20f3a4c1?mod=rss_markets_main",
-   "summary": "Find insight on Bank of Japan, Public Bank and more in the latest Market Talks covering Financial Services.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-09T20:30:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Strategists say S&P 500 could top 8,000 — but risks of a pullback are mounting",
-   "link": "https://www.marketwatch.com/story/strategists-say-s-p-500-could-top-8-000-but-risks-of-a-pullback-are-mounting-e1629564?mod=mw_rss_topstories",
-   "summary": "While RBC Capital Markets, HSBC and Barclays all have price targets for the stock index around 8,000, they outline risks  the market is facing.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T20:24:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "不正会計のニデックを株主28人が提訴　株価下落の損害賠償求め",
    "link": "https://www.asahi.com/articles/ASV993JLMV99PLFA004M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-09T20:06:39+09:00"
-  },
-  {
-   "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-   "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-   "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-09T20:01:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Millennium to open office in Greece after investor charm offensive",
-   "link": "https://www.ft.com/content/bce40838-6b08-4a04-9937-627bdf64a1a9?syn-25a6b1a6=1",
-   "summary": "Greek government launched tax scheme this summer specifically targeted at hedge fund and private equity executives",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T19:58:43+09:00",
-   "lang": "en"
   },
   {
    "title": "輸入小麦、政府売り渡し価格12%引き上げ　円安、輸送費高騰で",
@@ -404,15 +439,6 @@
    "published": "2026-09-09T17:28:11+09:00"
   },
   {
-   "title": "‘I am the house now’: Bessent warns traders not to bet against yen",
-   "link": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1",
-   "summary": "Comments follow July’s rare joint intervention with Tokyo to support Japanese currency",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T17:26:37+09:00",
-   "lang": "en"
-  },
-  {
    "title": "同意なく性的接触 NHK記者を免職",
    "link": "https://news.yahoo.co.jp/pickup/6594761?source=rss",
    "summary": "",
@@ -429,14 +455,6 @@
    "published": "2026-09-09T16:53:26+09:00"
   },
   {
-   "title": "ホルムズ海峡のタンカー航行費急騰、保険料高騰で＝石油会社幹部",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlZoR2U3UWJOMFczQWs1S2N5OTdxTVpDQ0hVSEtDd1dESzdMbm5hcUpHczZyUnVUUFBkVktfNllMSjhpck80VVZGZlRiVHJpQkNmcm9ocFNuVTZzbGJOYkxIMm5hVEdZc0wwNXI5MVo5eHdvdi1BZ0NGYXhRVVkxbQ?oc=5",
-   "summary": "ホルムズ海峡のタンカー航行費急騰、保険料高騰で＝石油会社幹部&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-09T16:45:45+09:00"
-  },
-  {
    "title": "丸亀製麺の運営会社に勧告 公取委",
    "link": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
    "summary": "",
@@ -451,6 +469,14 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-09T16:32:14+09:00"
+  },
+  {
+   "title": "ソフトバンクＧ、オープンＡＩ出資に伴うつなぎ融資を前倒し返済",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CaFJQZFlnaDZNUWNzWnJheHNrMDVYcy1zbHJ2N1ZWWVFnZERvQk9QQl9mWDJwTGM1LWMyeTlITTRoZ25jOVpDRmFuSDM1UFpaRXBqTExIanYzc2ViTnpRVVFRelhiSlBsaEZfNzFrNDAtZFZFWHc?oc=5",
+   "summary": "ソフトバンクＧ、オープンＡＩ出資に伴うつなぎ融資を前倒し返済&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-09T16:09:43+09:00"
   },
   {
    "title": "コメ農家の廃業 過去最多ペース",
@@ -556,15 +582,6 @@
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-09-09T13:12:51+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Warsh might yet be a good Fed chair",
-   "link": "https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1",
-   "summary": "He must stay clear on the objectives of policy and sensible on how the central bank should conduct itself",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-09T13:00:25+09:00",
    "lang": "en"
   },
   {
@@ -905,15 +922,6 @@
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-09-08T21:32:19+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
-   "link": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-   "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-08T20:30:01+09:00",
    "lang": "en"
   },
   {
