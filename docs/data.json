@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T22:19:01.128709+09:00",
+ "generated_at": "2026-09-15T03:44:32.144641+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,57 +61,279 @@
  "errors": [],
  "items": [
   {
+   "title": "30-year mortgage rate jumps to 7.17% — a nearly 2-year high — in the latest blow to the housing market",
+   "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
+   "summary": "The 10-year Treasury yield crossed a key 5% threshold on Monday, nudging the average 30-year mortgage rate upward.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T03:42:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+   "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+   "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-15T03:39:08+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+   "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+   "summary": "Some economists are calling on the central bank to wait before raising interest rates, out of concern the economy may be vulnerable beneath the surface.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T03:37:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Stocks making the biggest moves midday: Zscaler, CrowdStrike, Marvell Technology, Rum Group & more",
+   "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-midday-zs-crwd-mrvl-rum.html",
+   "summary": "These are some of the stocks posting the largest moves midday.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-15T03:32:05+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Calls for an AI slowdown meet vigorous pushback: Trump calls it a ‘sick conspiracy’",
+   "link": "https://www.marketwatch.com/story/calls-for-an-ai-slowdown-meet-vigorous-pushback-trump-calls-it-a-sick-conspiracy-21b3c1ab?mod=mw_rss_topstories",
+   "summary": "Michael Burry, Donald Trump and others are criticizing Anthropic’s CEO, who recently said AI companies need to adopt better safety measures.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T03:32:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "The next Social Security ‘COLA’ could be the biggest in five years. It’s no cause for celebration.",
+   "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
+   "summary": "Benefits will be largely stable in real — that is, inflation-adjusted — terms.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T03:27:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "US tech stocks fall after big AI groups call for slowdown",
+   "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+   "summary": "Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-15T03:22:34+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+   "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+   "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T03:20:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
+   "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+   "summary": "The benchmark 10-year Treasury yield briefly touched the crucial 5% threshold on Monday, but it then pulled back.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T03:14:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Precious Metals Settle Lower With Yields in Focus",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece?mod=rss_markets_main",
+   "summary": "Gold futures ended the session off their intraday lows as oil prices eased from highs and Treasury yields pulled back after the 10-year touched 5% for the first time in three years.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-15T03:11:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Ten-year Treasury yield hits 5% for first time since 2023",
+   "link": "https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1",
+   "summary": "World’s most widely watched financial marker moves towards levels not seen in decades as inflation shock from Iran war lingers",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-15T03:08:18+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "AI companies say they want to slow down. Here’s how Washington might help apply the brakes.",
+   "link": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
+   "summary": "Washington is likely to move slowly, but there are catalysts that could make it act faster than expected",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T03:08:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Inflation is sinking your high-yield savings account’s returns. Here’s one way to fight it.",
+   "link": "https://www.marketwatch.com/story/inflation-is-sinking-your-high-yield-savings-accounts-returns-heres-one-way-to-fight-it-6aa798e9?mod=mw_rss_topstories",
+   "summary": "4% APYs sound good. Too bad inflation is taking a bigger bite out of those yields now.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-15T02:46:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
+   "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
+   "summary": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-15T02:26:21+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Why delaying an AI doomsday would benefit investors too",
+   "link": "https://www.ft.com/content/38ea0870-0100-4f4e-bd71-89074761095c?syn-25a6b1a6=1",
+   "summary": "A slowdown would reduce the enormous amounts of cash being lavished on training new models",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-15T02:24:42+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Trump claims Russia and Ukraine have agreed energy truce",
+   "link": "https://www.ft.com/content/d6f98d2e-9f0c-4414-a339-fe8462810276?syn-25a6b1a6=1",
+   "summary": "Kyiv was caught off guard by the US president’s announcement after previous attempts to halt strikes on power plants and refineries failed",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-15T02:18:42+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Oil hits $109 after Saudi Arabia closes vital export pipeline",
+   "link": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
+   "summary": "Riyadh pulls out of regional talks to de-escalate hostilities over Strait of Hormuz in wake of drone attack last week",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-15T01:31:56+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Stocks Decline, 10-Year Treasury Yield Touches 5% Amid Oil Surge",
+   "link": "https://www.wsj.com/finance/stocks/oil-jumps-nasdaq-futures-slide-as-ai-related-stocks-tumble-worldwide-eaaf198b?mod=rss_markets_main",
+   "summary": "U.S. stock indexes declined, though the Nasdaq pared early losses amid concerns that demand for AI services and inputs like memory chips could come under pressure.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-15T01:21:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "France in ‘astonishing’ push to lift EU sanctions on Russian oligarch",
+   "link": "https://www.ft.com/content/b01682ae-1d49-46bb-b23a-d6212574214d?syn-25a6b1a6=1",
+   "summary": "Paris replicates Viktor Orbán’s tactics in bid to free French nationals from Azerbaijan",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-15T01:19:28+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Prediction market traders think gas prices will hit new highs for the year",
+   "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+   "summary": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-15T00:49:39+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Steve Bannon and Bernie Sanders unite in AI safety call",
+   "link": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1",
+   "summary": "Rightwing activist and leftwing senator join forces to demand stronger regulation of the technology",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-15T00:41:02+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "光通信と投資ファンド、レオパレス２１にＴＯＢ 1株1000円",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIZW5pOW9zMUctVVI4cUxQNGZNbUNPcnFyak9TR0hNVEU4T2hkT0p6OXVzM3hQZUt1X0tmTDdVN0dZQVlNb3ZyVm52VWx3NWpSRExZNnBuUmdvaGkyZ081dWpRUUhMQmZJNVJYVDRtLXVXWERrQmYyZjFR?oc=5",
+   "summary": "光通信と投資ファンド、レオパレス２１にＴＯＢ 1株1000円&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-15T00:26:19+09:00"
+  },
+  {
+   "title": "米長期金利上昇、一時5%超え　インフレ懸念で2023年10月以来",
+   "link": "https://www.asahi.com/articles/ASV9G4WS2V9GUHBI01MM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-15T00:13:25+09:00"
+  },
+  {
+   "title": "Opinion | A Flawed Model That Burdens Small Banks",
+   "link": "https://www.wsj.com/opinion/a-flawed-model-that-burdens-small-banks-199ef821?mod=rss_markets_main",
+   "summary": "The current expected credit losses accounting standard forces banks to predict future economic outcomes and drains resources.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-15T00:10:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Opinion | The Treasury’s Bond Strategy Hurts Taxpayers",
+   "link": "https://www.wsj.com/opinion/the-treasurys-bond-strategy-hurts-taxpayers-6657edd2?mod=rss_markets_main",
+   "summary": "The agency’s justification for doubling its long-term bond purchases is flawed.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-15T00:07:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "米長期金利、５％突破　３年ぶり、インフレ懸念で",
+   "link": "https://www.jiji.com/jc/article?k=2026091401108&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-09-15T00:05:00+09:00"
+  },
+  {
+   "title": "Dollar Strengthens as Treasury Yields Rise Amid Inflation Fears",
+   "link": "https://www.wsj.com/finance/currencies/singapore-dollar-weakens-amid-escalating-middle-east-conflict-a746d8cc?mod=rss_markets_main",
+   "summary": "The dollar strengthened amid heightened expectations for the Federal Reserve to lift rates.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-14T23:55:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "A Guide to Owning Bonds When They Are Selling Off",
+   "link": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
+   "summary": "Advisers say fixed income still has a place in a diversified portfolio, despite a global bond-market rout.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-14T23:47:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Has the Bitcoin Rally Fizzled Out?",
+   "link": "https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a?mod=rss_markets_main",
+   "summary": "The cryptocurrency has struggled to hold above $80,000 since its mid-August surge. Analysts say progress this week on the Clarity Act and a Fed rate hold could provide boosts.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-14T23:12:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. Natural Gas Futures Start Week With Gains",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-gains-fe358fb7?mod=rss_markets_main",
+   "summary": "U.S. natural gas futures gained ground as weekend weather forecasts showed summer heat lasting a little longer.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-14T22:35:00+09:00",
+   "lang": "en"
+  },
+  {
    "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
    "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
    "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-09-14T22:18:23+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
-   "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-   "summary": "“He is also the sole beneficiary of my 403(b) accounts.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T22:15:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Dell’s DFO-Led Consortium Taking Baldwin Group Private for Enterprise Value of $7.7 Billion",
-   "link": "https://www.wsj.com/finance/investing/dells-dfo-led-consortium-taking-baldwin-group-private-for-enterprise-value-of-7-7-billion-8b365dee?mod=rss_markets_main",
-   "summary": "A consortium led by Dell Chief Executive Michael Dell’s DFO Management is taking insurance brokerage Baldwin Group private in a cash deal valued at $7.7 billion.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T22:12:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms to help you select a firm that could best con",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T22:05:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Gold Futures Pressured By Dollar Gains, Rate Expectations",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece?mod=rss_markets_main",
-   "summary": "Gold futures fell as the dollar gained amid heightened expectations for a Fed interest-rate increase this week.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T22:04:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Auto & Transport Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e8375cf3?mod=rss_markets_main",
-   "summary": "Find insight on Kia and more in the latest Market Talks covering Auto and Transport.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T22:01:00+09:00",
    "lang": "en"
   },
   {
@@ -123,24 +345,6 @@
    "published": "2026-09-14T22:00:00+09:00"
   },
   {
-   "title": "Health Care Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-f641a9ab?mod=rss_markets_main",
-   "summary": "Find insight on Innovent Biologics, AstraZeneca, Sumitomo Pharma and more in the latest Market Talks covering Health Care.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T21:58:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Oil hits $109 after Saudi Arabia closes vital export pipeline",
-   "link": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
-   "summary": "Riyadh pulls out of regional talks to de-escalate hostilities over Strait of Hormuz in wake of drone attack last week",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-14T21:56:45+09:00",
-   "lang": "en"
-  },
-  {
    "title": "光通信 レオパレス21にTOB実施",
    "link": "https://news.yahoo.co.jp/pickup/6595298?source=rss",
    "summary": "",
@@ -149,48 +353,12 @@
    "published": "2026-09-14T21:51:42+09:00"
   },
   {
-   "title": "Financial Services Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-bca891c4?mod=rss_markets_main",
-   "summary": "Find insight on Singapore Exchange, Commonwealth Bank, OUTsurance and more in the latest Market Talks covering Financial Services.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T21:48:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Steve Bannon and Bernie Sanders unite in AI safety call",
-   "link": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1",
-   "summary": "Rightwing activist and leftwing senator join forces to demand stronger regulation of the technology",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-14T21:40:33+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Energy & Utilities Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d53eec27?mod=rss_markets_main",
-   "summary": "Find insight on European energy stocks, oil prices and more in the latest Market Talks covering Energy and Utilities.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T21:40:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more",
    "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html",
    "summary": "These are the stocks posting the largest moves premarket.",
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-09-14T21:36:15+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Basic Materials Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8e794b6b?mod=rss_markets_main",
-   "summary": "Find insight on Antofagasta,  Ramelius Resources, and more in the latest Market Talks covering Basic Materials.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-14T21:34:00+09:00",
    "lang": "en"
   },
   {
@@ -212,48 +380,12 @@
    "lang": "en"
   },
   {
-   "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-   "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
-   "summary": "Citigroup warns that if artificial-intelligence model developments slow, earnings revisions could follow, and those have been a crucial factor in stock gains this year.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T21:11:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Oil over $100 has JPMorgan strategists warning stock-market investors against missing out on a sudden turnaround",
-   "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
-   "summary": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T20:59:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "A spreading war threatens Trump and MBS",
-   "link": "https://www.ft.com/content/f2a472e6-352a-4067-b9e5-56596a8ba215?syn-25a6b1a6=1",
-   "summary": "Energy supplies from Saudi Arabia have been hit just as Europe and the US head into winter",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-14T20:48:33+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "光通信や投資ファンド、レオパレス２１にＴＯＢ 1株1000円",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIZW5pOW9zMUctVVI4cUxQNGZNbUNPcnFyak9TR0hNVEU4T2hkT0p6OXVzM3hQZUt1X0tmTDdVN0dZQVlNb3ZyVm52VWx3NWpSRExZNnBuUmdvaGkyZ081dWpRUUhMQmZJNVJYVDRtLXVXWERrQmYyZjFR?oc=5",
-   "summary": "光通信や投資ファンド、レオパレス２１にＴＯＢ 1株1000円&nbsp;&nbsp;Reuters",
+   "title": "テラドローン、防衛用ドローンの「頭脳」開発 飛行制御装置を国産化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zRHg1VG9kaUxId0FodndGeWp5b3lXb284MGhVbTVrMG5kOVpmZGZ3cnA2cl82dWFHeGM3RGFueHVEb0ZmcVpwV3lfZzdOaVYwemhiSzFQOWowUnA3SkFPc2dlWlhHNmoxMk1kQmszVk1pekZDVkpwODJqdl8?oc=5",
+   "summary": "テラドローン、防衛用ドローンの「頭脳」開発 飛行制御装置を国産化&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-14T20:46:53+09:00"
-  },
-  {
-   "title": "The Saudi relief valve is being closed",
-   "link": "https://www.ft.com/content/bdc77254-e491-4d9f-8537-6f04317d037f?syn-25a6b1a6=1",
-   "summary": "The Houthis’ Red Sea blockage is still largely an oil shock rather than a general threat to trade",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-14T20:31:02+09:00",
-   "lang": "en"
+   "published": "2026-09-14T21:11:43+09:00"
   },
   {
    "title": "38社で1万1610人「国保逃れ」確認",
@@ -280,48 +412,12 @@
    "published": "2026-09-14T20:00:00+09:00"
   },
   {
-   "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-   "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-   "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T19:35:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Tech stocks fall after big AI groups call for slowdown",
-   "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-   "summary": "South Korea’s tech-heavy Kospi slides as Wall Street is set to open lower",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-14T19:15:32+09:00",
-   "lang": "en"
-  },
-  {
    "title": "「アーモンド効果」10万本を自主回収　グリコ、細菌混入で風味劣化",
    "link": "https://www.asahi.com/articles/ASV9G36QFV9GPLFA00CM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-14T19:15:06+09:00"
-  },
-  {
-   "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-   "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-   "summary": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T19:15:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Liechtenstein says EU zeal for disclosure has gone ‘too far’",
-   "link": "https://www.ft.com/content/f2b75c8a-1060-4995-9c8d-00355aaffffc?syn-25a6b1a6=1",
-   "summary": "Prince Michael of Liechtenstein accuses EU of ‘bureaucratic zeal’ over anti-money laundering rules",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-14T19:00:10+09:00",
-   "lang": "en"
   },
   {
    "title": "沖縄県知事選の結果を誤読してはならない､県民の民意の｢我慢｣を｢同意｣と錯覚すれば日本の国家統合の基盤が揺らぐ | 政治・経済・投資 | 東洋経済オンライン",
@@ -332,48 +428,12 @@
    "published": "2026-09-14T19:00:00+09:00"
   },
   {
-   "title": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
-   "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-   "summary": "The investor response to the calls by Anthropic CEO Dario Amodei to slow down frontier artificial-intelligence development was greeted negatively, albeit not catastrophically, by investors on Monday.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T18:29:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "プルデンシャル元営業社員、1570人分の顧客情報を持ち出し、紛失",
    "link": "https://www.asahi.com/articles/ASV9G3103V9GULFA01JM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-14T18:16:10+09:00"
-  },
-  {
-   "title": "Here’s the big caveat to the report that Anthropic is profitable for a second straight quarter",
-   "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
-   "summary": "A published report that pioneering artificial-intelligence lab Anthropic was profitable for a second quarter in a row includes a very important caveat.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T18:04:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
-   "link": "https://www.marketwatch.com/story/massive-sinkhole-still-threatens-nicolas-cages-10-5-million-malibu-mansion-ec0c7497?mod=mw_rss_topstories",
-   "summary": "Actor Nicolas Cage’s lavish Malibu mansion is facing a dramatic threat after a massive hole opened up where part of the property’s driveway once stood.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-14T18:03:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Beijing launches drone buyback in crackdown after Citic Tower crash",
-   "link": "https://www.ft.com/content/8ec31da9-9922-44e2-98c2-3225c9eb0e21?syn-25a6b1a6=1",
-   "summary": "Amnesty for banned aerial devices comes months after light aircraft struck Chinese capital’s tallest office tower",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-14T17:52:23+09:00",
-   "lang": "en"
   },
   {
    "title": "日本M＆AセンターHD社長「極めて重大な行為」業界リスト回避事案",
@@ -450,7 +510,7 @@
   {
    "title": "｢子どもの顔が同じで気味が悪い｣｢安っぽく見える｣との声も…しまむら系｢バースデイ｣の生成AI広告に批判が殺到した背景 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/957967?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "ChatGPTが登場して以来､社会に広く普及したAI。既に市民権を得ている一方で､AIで出力した画像･動画を宣伝に使用する企業の炎上が相次いでいる。低価格で子ども向けアパレルを展開するバースデイはな…",
+   "summary": "ChatGPTが登場して以来､社会に広く普及したAI。既に市民権を得ている一方で､AIで出力した画像･動画を宣伝に使用する企業の炎上が相次いでいる。低価格で子ども向けアパレル｢バースデイ｣も､生成A…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-14T15:00:00+09:00"
@@ -486,14 +546,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-09-14T14:27:50+09:00"
-  },
-  {
-   "title": "アジアでＡＩ関連株が大幅安、開発企業ＣＥＯらが「減速」訴え",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmwtODV4ek96c2pWLThhRUQ2NnFJcVFIY2dsQjQyaDJ3cWNGTk5UMGxhSW5VT0VneFhMbFBVR2czVWpaU21LTnR6TE1TQ1JKWlFlUjZZbDNXTjd0bmNrNTVKNFNJQThDR1dqR0RSMlVYVzllZUhXdnkzeGV3TXYwUURYb0Q?oc=5",
-   "summary": "アジアでＡＩ関連株が大幅安、開発企業ＣＥＯらが「減速」訴え&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-14T14:12:00+09:00"
   },
   {
    "title": "原油価格、供給バッファー枯渇でさらに上昇の可能性＝シェブロンＣＥＯ",
@@ -737,6 +789,14 @@
    "published": "2026-09-14T07:44:00+09:00"
   },
   {
+   "title": "トランプ氏、5000ドル配当は財政面で容易と強調 民主党は一斉批判",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UOGdiUXRFcXR2NG5ncFg3Y3ZtSjBtd0JET09lb2tOWUhhWklTZ2NxRUgxM3lrNGVENXJTeTZlVnBkZTJNYUlKeVFiaTh5R1NnbGhtUGxPeXZYTlMtUHZKNzFPVGY4X2hDSG9zMG5uTVRpbDlOZzBmeUpDRU9LZw?oc=5",
+   "summary": "トランプ氏、5000ドル配当は財政面で容易と強調 民主党は一斉批判&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-14T07:36:40+09:00"
+  },
+  {
    "title": "｢原油高｣｢金利高｣｢AI･半導体株調整｣の｢三重苦｣でも､日本株が年末高になると見る確かな理由 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/957927?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "市場は｢原油高｣｢金利上昇｣｢AI･半導体株の調整｣という3つの不安材料に揺れ動いています。しかし､AI関連株の下落は大きな転換点にすぎず､本格的な成長期がこれから到来する兆しも。原油や金利の先行き…",
@@ -809,39 +869,12 @@
    "published": "2026-09-14T06:00:00+09:00"
   },
   {
-   "title": "Goldman picks China healthcare stocks for a post-AI trade",
-   "link": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
-   "summary": "Chinese stocks' earnings tracked by Goldman Sachs grew at their highest quarterly pace in five years.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-13T20:54:40+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "中部電力の社長と会長、辞任の方向　浜岡原発のデータ不正問題で引責",
-   "link": "https://www.asahi.com/articles/ASV9F2H73V9FULFA002M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-13T20:38:00+09:00"
-  },
-  {
    "title": "アングル：フォードの中国企業提携巡る毀誉褒貶、米政権のちぐはぐ対応が鮮明に",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0TlNUM0YtTFNoTE1seXJQZVJuR1NCSW9BSkJjWnJ6c3E2WjZDRDd1WVppaVdXWGRkVUtIR2w5bGxnaEgxMV9XRTFqSXFiZEFqRUUwX3JOc3hKNWNRaEtLdV8zNENjN1NKOERjdjh6LUlxdFZzang2LWRPUFI?oc=5",
    "summary": "アングル：フォードの中国企業提携巡る毀誉褒貶、米政権のちぐはぐ対応が鮮明に&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-13T08:02:09+09:00"
-  },
-  {
-   "title": "インフレが再び賃金の伸びを上回り、アメリカ人の給料を圧迫している",
-   "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-   "summary": "８月の消費者物価は過去１年間で３．４％上昇したが、賃金は３．１％の上昇にとどまった。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-12T21:49:15+09:00",
-   "lang": "en",
-   "title_orig": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks"
   },
   {
    "title": "トランプ氏、中国車の米国生産「構わない」 雇用が重要と指摘",
@@ -866,74 +899,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-09-12T08:00:00+09:00"
-  },
-  {
-   "title": "正午に最も大きな動きを見せた銘柄: デル、スカイワークス ソリューションズ、ゲームストップなど",
-   "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-midday-dell-swks-gme.html",
-   "summary": "これらは正午に最大の値動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-12T06:51:33+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop & more"
-  },
-  {
-   "title": "米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmFkQUVjMFRIbWZ6NnlPZFZ0UVIwTnV6V2VtWERLU2QwUHhYRENETm5aWG1Pd0FnMDgxYmM1QUlGQkVIOGFkaC1qNmQ2WUNRQ0RwRjVuUHg5R3RuMjdqazZVZ1k5OE50RlczX2lhZWdhV3FvT3lFV2ZETmVQWlkzbXdBVG4?oc=5",
-   "summary": "米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-12T05:48:56+09:00"
-  },
-  {
-   "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
-   "link": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-09-12T03:00:00+09:00"
-  },
-  {
-   "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-09-12T02:00:00+09:00"
-  },
-  {
-   "title": "令和８年熊本地震による金融機関等の報告の提出期限等に係る措置について掲載しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20260911/20260911.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-09-12T02:00:00+09:00"
-  },
-  {
-   "title": "OpenAI は、金融サービス向けの新しい ChatGPT を使用して、ウォール街のジュニア バンカーの仕事をターゲットにしています",
-   "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-   "summary": "OpenAI は、これまで下級生が担当していた労働集約的なリサーチ、モデリング、ピッチブックのタスクを対象として、金融サービス向け ChatGPT を立ち上げました。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-12T01:06:31+09:00",
-   "lang": "en",
-   "title_orig": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services"
-  },
-  {
-   "title": "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）について公表しました。",
-   "link": "https://www.fsa.go.jp/soudan/2026soudan04-06/2026_04-06.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-09-12T00:00:00+09:00"
-  },
-  {
-   "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集：FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存：課題およびリスク』に関するディスカッション・ペーパー」について公表しました。",
-   "link": "https://www.fsa.go.jp/inter/ios/20260911/20260911.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-09-12T00:00:00+09:00"
   }
  ]
 }
