@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T15:58:29.424117+09:00",
+ "generated_at": "2026-09-20T20:59:38.182822+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,64 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "ウクライナ、「史上最大」の無人機攻撃でモスクワを攻撃",
+   "link": "https://www.ft.com/content/2b6f1b4b-4010-4e95-8b5c-dfb2e32cd7ae?syn-25a6b1a6=1",
+   "summary": "段階的に管理された議会選挙の投票が終わりに近づく中、ロシアの首都にある大手製油所が放火",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-20T20:32:27+09:00",
+   "lang": "en",
+   "title_orig": "Ukraine hits Moscow with ‘largest ever’ drone attack"
+  },
+  {
+   "title": "日銀の利上げ姿勢に失望感広がる…円相場は｢一段安｣のリスクを抱えながら波乱必至の1週間へ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/958784?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "大型連休で流動性が低下するなか､円相場は一段安リスクを抱えながら波乱必至の一週間を迎えます。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-20T20:00:00+09:00"
+  },
+  {
+   "title": "製油所は今や世界のエネルギー供給の主要な関門となっている",
+   "link": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_markets_main",
+   "summary": "イランとウクライナの戦争は、世界がディーゼルを中東とロシアに依存していることを暴露した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-20T19:28:00+09:00",
+   "lang": "en",
+   "title_orig": "Refineries Are Now the Main Chokepoint for Global Energy Supplies"
+  },
+  {
+   "title": "米国の小売業者、価格が4倍に高騰し供給が枯渇する中、モーターオイルを配給",
+   "link": "https://www.ft.com/content/64f90ab8-5fb0-4594-a900-d03e5ca051e3?syn-25a6b1a6=1",
+   "summary": "イラン戦争により、自動車のエンジンに使用される潤滑油が世界的に不足している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-20T19:00:03+09:00",
+   "lang": "en",
+   "title_orig": "US retailer rations motor oil as prices quadruple and supplies run dry"
+  },
+  {
+   "title": "債券市場が私たちに何を伝えているかを理解するのが難しい理由",
+   "link": "https://www.wsj.com/finance/investing/why-its-so-hard-to-work-out-what-the-bond-market-is-telling-us-aeac2d3a?mod=rss_markets_main",
+   "summary": "債券利回りが上昇したのは経済が好調だからなのか、それともアメリカの信頼がかかっているからなのか？",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-20T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Why It’s So Hard to Work Out What the Bond Market Is Telling Us"
+  },
+  {
+   "title": "大手テック企業は保証を利用して 3,000 億ドルの AI エクスポージャをオフバランスシートに維持",
+   "link": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+   "summary": "ウォール街はハイテク大手の信用力をAI構築のためのより安価な資金に変える新たな方法を発見",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-20T16:00:12+09:00",
+   "lang": "en",
+   "title_orig": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets"
+  },
   {
    "title": "億万長者のタタの御曹司、上場回避を目指して人生最大の戦いに直面",
    "link": "https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1",
@@ -123,16 +181,6 @@
    "title_orig": "Israel’s settler economy braces for European sanctions"
   },
   {
-   "title": "ノボの投資家は取引と新薬を求める",
-   "link": "https://www.ft.com/content/e560fd8c-5cc2-4743-90eb-eab71b899ce6?syn-25a6b1a6=1",
-   "summary": "オゼンピックメーカーは月曜日の株主との対決に向けて多角化のプレッシャーにさらされている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-20T13:00:11+09:00",
-   "lang": "en",
-   "title_orig": "Novo investors call for dealmaking and new drugs"
-  },
-  {
    "title": "消滅した湾岸貨物貿易",
    "link": "https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1",
    "summary": "ホルムズ海峡はヘリウムからトウモロコシに至るまでの物資の輸送拠点でした。企業は代替ルートを見つけるために戦ってきた",
@@ -153,30 +201,12 @@
    "title_orig": "Saudi Arabia quits China-led cross-border currency platform"
   },
   {
-   "title": "ロシアの新たな航空作戦はウクライナ経済の破壊を狙う",
-   "link": "https://www.ft.com/content/0ecc81ad-2119-4763-90fb-ba5d399d913d",
-   "summary": "ドローンとミサイル攻撃が倉庫、製鉄所、港、鉄道を襲い、キエフの税収15億ドル以上を奪う",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-20T13:00:03+09:00",
-   "lang": "en",
-   "title_orig": "Russia’s new air campaign seeks to destroy Ukrainian economy"
-  },
-  {
    "title": "離れて暮らす高齢の親､｢何かあったらどうしよう｣を減らす\"デジタル見守り\"という選択《何から始める？チャート付き》 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/958495?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "離れて暮らす高齢の親の安全や日々の生活をどう守るか､多くの家族が抱える悩みです。手間や負担を軽減する最新デジタルグッズと､親が自然に受け入れる方法とは？｢見守り｣の新しいカタチ､一緒に考えてみません…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-20T12:00:00+09:00"
-  },
-  {
-   "title": "高市首相は「巨額支出に固執」　経済改革、円安定に不可欠―米紙社説",
-   "link": "https://www.jiji.com/jc/article?k=2026092000146&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-09-20T11:20:00+09:00"
   },
   {
    "title": "帰宅後に加熱するだけ！｢アイラップ｣で仕込む冷凍ミールキット《下ごしらえも調理も袋1つ》のラク技 | ライフ | 東洋経済オンライン",
@@ -389,40 +419,12 @@
    "published": "2026-09-20T06:45:00+09:00"
   },
   {
-   "title": "｢核テナント･ジャスコの売り上げが激減→契約満了を待たずに撤退｣…失敗繰り返した｢岩手の廃墟モール｣衰退の背景 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/958448?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "かつてにぎわいを見せた商業施設が､今や静寂の廃墟と化す――なぜ地方のモールは衰退し､人々は遠ざかったのか。その背景には競合店の出現や運営会社の破綻､そしてモータリゼーションなど､複雑な要因が絡み合う…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-20T06:45:00+09:00"
-  },
-  {
    "title": "「月58万円を自由に使う」若年富裕層は何を買う？　世帯年収「3000万円超」のお金の使い方とは",
    "link": "https://www.itmedia.co.jp/business/articles/2609/20/news005.html",
    "summary": "博報堂が運営する「博報堂富裕層マーケティングラボ」は富裕層の価値観、生活行動、消費意識、情報接点を分析した「新富裕層調査2026」を発表した。今回の調査では中でも世帯年収3000万円以上の富裕層世帯を「新富裕層」としてフォーカスして分析した。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-09-20T06:00:00+09:00"
-  },
-  {
-   "title": "製油所は今や世界のエネルギー供給の主要な関門となっている",
-   "link": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_markets_main",
-   "summary": "イランとウクライナの戦争は、世界がディーゼルを中東とロシアに依存していることを暴露した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-20T05:53:00+09:00",
-   "lang": "en",
-   "title_orig": "Refineries Are Now the Main Chokepoint for Global Energy Supplies"
-  },
-  {
-   "title": "テクノロジーの進歩に警戒が高まる中、トランプ大統領が「AIフォース」を発表",
-   "link": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
-   "summary": "米国大統領は規制を求める声には抵抗しているが、「悪い」行為を監視するために「ツァーリ」を任命すると述べた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-20T04:49:31+09:00",
-   "lang": "en",
-   "title_orig": "Trump announces ‘AI Force’ as alarm grows over technology’s advance"
   },
   {
    "title": "最近、コンドミニアムを売るのはほぼ不可能だ：「閉じ込められているように感じる」",
@@ -509,9 +511,9 @@
    "published": "2026-09-19T15:32:00+09:00"
   },
   {
-   "title": "対ロシア制裁法が成立、トランプ氏署名 ロの貿易相手国に関税 - jp.reuters.com",
+   "title": "対ロシア制裁法が成立、トランプ氏署名 ロの貿易相手国に関税 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaG9kSC05YXNIQVZ4QktfY3dLZF81VWNHd3I1ZXQwaF9HYUZTWHNzZnJldHlvYkJXSVR5WFVTdUczSFNyTk5uV0trNnZIdTFKZVpzYmI5ZmZ0ZWI4T3Q3Uks4TTNncDJtTTk2V0JpSkxOVEdySHlXaGFRVGVyVmVIRFNzYmc?oc=5",
-   "summary": "対ロシア制裁法が成立、トランプ氏署名 ロの貿易相手国に関税&nbsp;&nbsp;jp.reuters.com",
+   "summary": "対ロシア制裁法が成立、トランプ氏署名 ロの貿易相手国に関税&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-19T11:49:00+09:00"
@@ -571,16 +573,6 @@
    "title_orig": "Lakers Buyers Lay Out Plans to Reach $30 Billion Valuation in Pitch to Investors"
   },
   {
-   "title": "RFKジュニア、高額寄付者からフィジーとギリシャへの無料航空券を獲得",
-   "link": "https://www.wsj.com/politics/rfk-jr-got-free-flights-to-fiji-and-greece-from-a-top-donor-e4b8d525?mod=rss_markets_main",
-   "summary": "保健長官は、セキュリティ専門家のギャビン・デ・ベッカー氏からの25万ドル以上の贈り物を明らかにした。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-19T08:03:00+09:00",
-   "lang": "en",
-   "title_orig": "RFK Jr. Got Free Flights to Fiji and Greece From a Top Donor"
-  },
-  {
    "title": "20年ぶり世界同時利上げ　ショック常態化「レジーム転換」に備えよ",
    "link": "https://www.asahi.com/articles/ASV9L3Q9XV9LULFA025M.html?ref=rss",
    "summary": "",
@@ -613,9 +605,9 @@
    "published": "2026-09-19T06:00:00+09:00"
   },
   {
-   "title": "ＮＹ外為市場＝ドル対円で上昇、日銀利上げも判断割れで追加観測に影 - jp.reuters.com",
+   "title": "ＮＹ外為市場＝ドル対円で上昇、日銀利上げも判断割れで追加観測に影 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUE10MHphcV9ZYmNSeWJJX1FHZF93NDFTQnBFUGh6MkpkLW1rT0YtUUZrdnVucG1Vcl9hdERvQUZ5UnVSUW1Wb3pKU0lwUUdOdUlGVGFVZHZONXcyamwzcWZWRUlFUDNDQ1ltMzRGZ20xa19FS2o0RjNQTlA?oc=5",
-   "summary": "ＮＹ外為市場＝ドル対円で上昇、日銀利上げも判断割れで追加観測に影&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ＮＹ外為市場＝ドル対円で上昇、日銀利上げも判断割れで追加観測に影&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-19T04:46:09+09:00"
@@ -631,9 +623,9 @@
    "title_orig": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes"
   },
   {
-   "title": "カンザスシティー連銀総裁、利上げ決定支持 指標はインフレ3％超の傾向示唆 - jp.reuters.com",
+   "title": "カンザスシティー連銀総裁、利上げ決定支持 指標はインフレ3％超の傾向示唆 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTJTVGl1WkZObkd6NHYzc2lrdjNzRDdSallmbTdpQXZiR2IydmJPRjJ5WTNCUmF0cTd6dHBKQkRvZDdoeXJ2TzhXUWlEWjFyTUZjbFR6aDd6dkdVYTVBQThSaWZJYTE0YncxOUZHaUZTM0RYZzlYU3dtbFdrYXpueEQ1YVQ?oc=5",
-   "summary": "カンザスシティー連銀総裁、利上げ決定支持 指標はインフレ3％超の傾向示唆&nbsp;&nbsp;jp.reuters.com",
+   "summary": "カンザスシティー連銀総裁、利上げ決定支持 指標はインフレ3％超の傾向示唆&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-19T02:41:32+09:00"
@@ -687,28 +679,12 @@
    "published": "2026-09-19T01:00:00+09:00"
   },
   {
-   "title": "メキシコ大統領、米貿易協議の進展示唆 トランプ氏と一定の合意 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tUDJ1Q0Q5UnFwZVc0X0NiYldCam9iQjBSMHZTQno1OU11UnhtVXdleHZKMmtXeG9ySDNvcjFzd3FBVS1tZ0pNaWZEYXNheGNzWHpfNzVobVhwc0hFUDFLb1BEalJUQmhtYzE3SUxkME41RVFTTWRtTEFTWVg5dw?oc=5",
-   "summary": "メキシコ大統領、米貿易協議の進展示唆 トランプ氏と一定の合意&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-19T00:03:46+09:00"
-  },
-  {
-   "title": "ユーロ圏財務相、利回り上昇を「懸念も不安視せず」＝ユーログループ議長 - jp.reuters.com",
+   "title": "ユーロ圏財務相、利回り上昇を「懸念も不安視せず」＝ユーログループ議長 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fSDNOcUc0MktQMUJITlBYUXg5cWh6X2ZlMk5fdEFPQUMtMzdFWkEybFlCYzk5d3BaV09iUmIzTUxIZGZISXhab1k4NGFtYTlBS0o3LWJsYW1xSG5CejBUbXdxUDdPSUo1dkF2UnUyZXBnaERNdEtaZEt1V3Q?oc=5",
-   "summary": "ユーロ圏財務相、利回り上昇を「懸念も不安視せず」＝ユーログループ議長&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ユーロ圏財務相、利回り上昇を「懸念も不安視せず」＝ユーログループ議長&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T23:37:43+09:00"
-  },
-  {
-   "title": "習氏訪米に異例の大型経済代表団同行へ、ＢＹＤやシャオミなど候補 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3LUwwcW4zODl5MWgzbWVhMVdvU2RDM2NtQlhua1NyNXRkdHhNdHVhMVB0ck8wb2xTOWxBS3hxQVdVdnFKN3lxRUxGa01uVGE2blhpQTNkQmRJWDFMZ1JrUUZfNG54ZlFGOU1HczNZMWljdF84MXBKTHl6QUY?oc=5",
-   "summary": "習氏訪米に異例の大型経済代表団同行へ、ＢＹＤやシャオミなど候補&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-18T23:16:06+09:00"
   },
   {
    "title": "【詳報】日銀が利上げ決定、31年ぶり1.25%　暮らしの影響は",
@@ -771,36 +747,12 @@
    "published": "2026-09-18T20:19:33+09:00"
   },
   {
-   "title": "ユーロ圏消費者のインフレ期待が小幅上昇、燃料価格急騰で - jp.reuters.com",
+   "title": "ユーロ圏消費者のインフレ期待が小幅上昇、燃料価格急騰で - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUlaOXJrVjI2Zk5HSWMzeVg2YlRVNU8zbnZ2Y2NCRS05bGNic29YcFZTWE5BX1lNeTFvd1AxNTlFb3FNenBfbUhyMmFGb3hxRzcxc2V2cVdRbExNcjM2cTNJMXZ4cEhQUUNJd3NKLUx2N21jajJfbVA0RVBrblpXUVBOUl8?oc=5",
-   "summary": "ユーロ圏消費者のインフレ期待が小幅上昇、燃料価格急騰で&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ユーロ圏消費者のインフレ期待が小幅上昇、燃料価格急騰で&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T20:18:09+09:00"
-  },
-  {
-   "title": "12月以降の原油調達「分からない」石油連盟会長　11月分はめど",
-   "link": "https://www.asahi.com/articles/ASV9L3FSXV9LULFA00JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-18T19:41:48+09:00"
-  },
-  {
-   "title": "【解説人語】日銀、金利を1.25%に　住宅ローンへの影響は",
-   "link": "https://www.asahi.com/articles/ASV9L2GJGV9LUEFT001M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-18T19:40:00+09:00"
-  },
-  {
-   "title": "スタバがコーヒーなど定番飲料を値上げへ　10月9日から4～35円",
-   "link": "https://www.asahi.com/articles/ASV9L3CKZV9LULFA022M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-18T19:19:51+09:00"
   },
   {
    "title": "採用,期間業務職員（金融サービス相談員）を募集しています。",
@@ -835,25 +787,17 @@
    "published": "2026-09-18T19:00:00+09:00"
   },
   {
-   "title": "ベネズエラ、金準備40億ドル相当のＮＹ移管で合意に接近＝ＦＴ - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WV2puOVFqR0JoekVBbFBOWExZbEdOM1hZLS1EWTZIS2dteHdnNWF2Um5rVXBzcHhrV1pWT05zOXo0RWtEUFozMFk5SWNpcHpYMzZCaDQtWnFjLWN6cFJmekprTHdHZTNodWp4aVNtUUVLUkpKcXFVcG5EaGxiUQ?oc=5",
-   "summary": "ベネズエラ、金準備40億ドル相当のＮＹ移管で合意に接近＝ＦＴ&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-18T18:57:03+09:00"
-  },
-  {
-   "title": "アラムコ、湾内から9─10月原油6000万バレル輸出＝関係筋 - jp.reuters.com",
+   "title": "アラムコ、湾内から9─10月原油6000万バレル輸出＝関係筋 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2tKTjgtcWcwTWwtSFhZbWRRa3FuX2wwLXdManBRQWFOaXg1NDZNdHU4TXlQaUc0M0hidGdQOE5YZjJPaUVDdUV2cFZtOERSdGtrNXBxeVU4MWdGcnNIR2pldlZodUkweHpOYjJTalNzTzU1bk1IX3pMbFlubkFQWUFR?oc=5",
-   "summary": "アラムコ、湾内から9─10月原油6000万バレル輸出＝関係筋&nbsp;&nbsp;jp.reuters.com",
+   "summary": "アラムコ、湾内から9─10月原油6000万バレル輸出＝関係筋&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T18:29:06+09:00"
   },
   {
-   "title": "英財務相、ＥＵ産業政策で英国排除しないよう要請へ - jp.reuters.com",
+   "title": "英財務相、ＥＵ産業政策で英国排除しないよう要請へ - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVN6dnJ4bVN3d21hbGRVZ2lYdlFLU1JqWm5kYWw1R2t6UHVKMUEwdDZZMGpSOFlTLWlvYU5IWnkzdDFYQXM1ajhpdVNpM2xfTnpXeUt4MXd5cHRoX2ZxcmR1OUtlZjdiY2NJd3VGUlJkUFFxSm1ZeUR6WUxLOXV2dWY4UXE?oc=5",
-   "summary": "英財務相、ＥＵ産業政策で英国排除しないよう要請へ&nbsp;&nbsp;jp.reuters.com",
+   "summary": "英財務相、ＥＵ産業政策で英国排除しないよう要請へ&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T17:46:09+09:00"
@@ -869,25 +813,25 @@
    "title_orig": "A Chinese AI company just connected its model to Wall Street's leading data providers"
   },
   {
-   "title": "上値余地探る、米中会談に関心 利上げ経路の見極め続く＝来週の東京株式市場 - jp.reuters.com",
+   "title": "上値余地探る、米中会談に関心 利上げ経路の見極め続く＝来週の東京株式市場 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaS15WE0ySUYxT19xNVJONVFkQnNkZXFFRkNxSkEtbndBMm11dnllZFN1UF9Nck1PeGdCTlRPWjNzcGxLRExPLXFtNVNPV3hWd2wyS1ZDRWVERUIwV0p1bi1GUjk1dnI4cFk1LXpJTS1naUZQWDBaMUlRSldRQll6WVhLX1M?oc=5",
-   "summary": "上値余地探る、米中会談に関心 利上げ経路の見極め続く＝来週の東京株式市場&nbsp;&nbsp;jp.reuters.com",
+   "summary": "上値余地探る、米中会談に関心 利上げ経路の見極め続く＝来週の東京株式市場&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T17:13:43+09:00"
   },
   {
-   "title": "ドル／円は上値重い、米中首脳会談や米経済指標を注視＝来週の外為市場 - jp.reuters.com",
+   "title": "ドル／円は上値重い、米中首脳会談や米経済指標を注視＝来週の外為市場 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMUtiUHF0cXN0dmU1dFd0SmZRLWdmaUVKclViVFlFaHFjcU9uSWZwN21hN2JPM2ZtbkZodmNHNVA2ZlNaZjF3QTI3bnY1YTlSQ004V1VJMVpmSVpRd0pxQlpNbHpqbDZpR0J2RmpTVmloSWJja0RFdnNvQXI?oc=5",
-   "summary": "ドル／円は上値重い、米中首脳会談や米経済指標を注視＝来週の外為市場&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ドル／円は上値重い、米中首脳会談や米経済指標を注視＝来週の外為市場&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T17:09:55+09:00"
   },
   {
-   "title": "ドル157円半ばに上昇、2週間ぶり高値を更新 - jp.reuters.com",
+   "title": "ドル157円半ばに上昇、2週間ぶり高値を更新 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFJ1QzM0TnpPZDRBbU1kTENUSFQzbmVCVzkyZjgwZDN4d3ZWNnBzRjdnR1J4X29DbFVsX20tSTMwZDhtR1NrZkIxUWhSWkJLMndUWVBhRTdSWGh3RWJIWXdrVk50YWtFUTMtbFBFdHFBVlVHOTRwX0pUX3NlaXFJLWxSQl8?oc=5",
-   "summary": "ドル157円半ばに上昇、2週間ぶり高値を更新&nbsp;&nbsp;jp.reuters.com",
+   "summary": "ドル157円半ばに上昇、2週間ぶり高値を更新&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T17:00:09+09:00"
@@ -901,9 +845,9 @@
    "published": "2026-09-18T16:50:00+09:00"
   },
   {
-   "title": "日銀利上げ、経済界にとって適切＝経済同友会代表幹事 - jp.reuters.com",
+   "title": "日銀利上げ、経済界にとって適切＝経済同友会代表幹事 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTdyTEhtcXQ3NHdya2JFZTNiX2ZuQ0t3dER5VE5xRE5oZlFyaS1qYnFIUTJsQ2pVT2VJS2xMMkRhc0FGaWJIWl9uc3oxSlJjNmRENjQtSXAxRll4TXBQcXhQMGliRWM0NHNjb2E5V28xN0xzZGV0Qm9YMUhkOE1MUXQwa2JLZV9oNENJckVVbw?oc=5",
-   "summary": "日銀利上げ、経済界にとって適切＝経済同友会代表幹事&nbsp;&nbsp;jp.reuters.com",
+   "summary": "日銀利上げ、経済界にとって適切＝経済同友会代表幹事&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-18T16:14:10+09:00"
@@ -933,12 +877,28 @@
    "published": "2026-09-18T15:30:00+09:00"
   },
   {
-   "title": "COMMENTARY: コラム：ＡＩ相場はドットコム・バブルの再来か、強気派に分がある理由 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nRm5EaU15cV8wUVdTN1RydlM1LVJKc25sOGxZRWlKZDhzRW1NUmd3SmxJNG9FZGNqbkJWZk51WWt0WW5WZ0VyUUxCeEpwR3dPbTdTaW5OLXo5Nzhad0NfcDNCVjAtX2t6Q3BUT28zVWQ4cmZxN0JPb1ltVEc?oc=5",
-   "summary": "COMMENTARY: コラム：ＡＩ相場はドットコム・バブルの再来か、強気派に分がある理由&nbsp;&nbsp;jp.reuters.com",
+   "title": "午後3時のドルは157円前半へ上昇、日銀会合「ハト派」との受け止め - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4R0RCQ2REY202RHJpeE9wZVpSTHZjZGFHSnd0QlZ0SkY2MVJqQlA4M3B0OC1RVF9iMGxJS3djR2xOcC1YeExWWkdBRjlwVTRvVUtDUmNrWjFjTC0yNjFnTm4xOGRZZEwxUzFXajdOVkZxQjVaQWdiTTgtVk4?oc=5",
+   "summary": "午後3時のドルは157円前半へ上昇、日銀会合「ハト派」との受け止め&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-18T15:26:00+09:00"
+   "published": "2026-09-18T15:21:00+09:00"
+  },
+  {
+   "title": "中国ＣＸＭＴ、フラッシュメモリー市場への参入を準備＝関係筋 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTzVfc0J6a0gzSjJmUVdoQ1E4N25BaVZJMjNTaDRRT0c4Mjk3ZTVUNWRmMjhzNmM1aVpnaGxkektxamhLSkt2Mm1CZEZfSTVwQTdOUDc5ZTFZc3pKWFBzSUFaUTZpbzlOX0NyeFZhdlN4dm96SklvcEVIZHc?oc=5",
+   "summary": "中国ＣＸＭＴ、フラッシュメモリー市場への参入を準備＝関係筋&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-18T15:14:00+09:00"
+  },
+  {
+   "title": "バークレイズ、英中銀11月利上げを予想 中東紛争で追加引き締めも - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGdpczlPSnYtNmlqOFNEUzFFUl91QUZYRHFKNUt6eWF1Vll6Qmd1NUk4b2tjeHNtV1FhN0w4ZlVfRXpyYUE4ODB6QmdlUEdIbHJpVDZxZlc1ZlRVVktITUFLdmlrM2dlRmVlN18tWjlDQ09YR1dJNWdGOVpUWjZzSkppcmY?oc=5",
+   "summary": "バークレイズ、英中銀11月利上げを予想 中東紛争で追加引き締めも&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-18T15:12:00+09:00"
   },
   {
    "title": "国庫歳入歳出状況（令和8年度　令和8年7月分）",
@@ -955,6 +915,14 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-18T15:00:00+09:00"
+  },
+  {
+   "title": "対米投資交渉は合意に接近、商業的実現可能性が争点＝韓国大統領 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QX1M2aEFDblFNLTdwQkhvc0p0SjNycjNfcDRpSXBsTE9JeE42RzFrV09POUs4bDdhMHJ4djQ3UGhKY3RUSXlGOF9VczBLMmpRdGk3Um5INHFuSGJOZGhFTWZGejU5UUgzWWROR25EQ2VsMEZPbDI5V0J5RmRkQQ?oc=5",
+   "summary": "対米投資交渉は合意に接近、商業的実現可能性が争点＝韓国大統領&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-18T14:29:00+09:00"
   },
   {
    "title": "企業が「活躍してほしいと思う年齢」平均67.9歳に　業界別で最も高かったのは？",
@@ -1167,34 +1135,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-09-18T01:00:00+09:00"
-  },
-  {
-   "title": "市場前に大きな動きをする銘柄: ジェネラック、レナー、ナイキなど",
-   "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
-   "summary": "これらはプレマーケットで最大の動きを見せた銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-17T20:54:18+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more"
-  },
-  {
-   "title": "研究グループのロジウム氏によると、OpenAIとAnthropicは中国のすべてのAIモデルを合わせた収益の10倍以上の収益をあげている",
-   "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-   "summary": "ロジウム・グループによる中国と米国のAI企業に関する最新の分析でも、収益の低さが評価額の低さに必ずしも対応していないことが判明した。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-17T18:00:01+09:00",
-   "lang": "en",
-   "title_orig": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says"
-  },
-  {
-   "title": "実質輸出入の動向",
-   "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-09-17T16:00:00+09:00"
   }
  ]
 }
