@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T15:56:16.075178+09:00",
+ "generated_at": "2026-09-22T21:13:06.507790+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,34 +61,269 @@
  "errors": [],
  "items": [
   {
+   "title": "メタ社の株価は、同社の注目の新しい AI アシスタントのおかげで、13 年間で最高の月を満喫しています",
+   "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+   "summary": "Muse は人気を集めており、Meta の AI への賭けが成果をあげていることを投資家に納得させるのに役立っています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-22T21:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-83121414?mod=rss_markets_main",
+   "summary": "自動車と輸送をカバーする最新のマーケット トークで、ボルボ カー、ウーバー テクノロジーズ、キューネ + ナーゲルなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-22T21:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-2f40e335?mod=rss_markets_main",
+   "summary": "ヘルスケアを対象とした最新のマーケット トークで、ノボ ノルディスク、ロシュ ホールディング、IHH ヘルスケアなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-22T20:56:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "市場をリードするこのファンドが AI 取引に追いつくためにどのように常に変化しているか",
+   "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+   "summary": "四半期ごとにリバランスされる上場投資信託（ETF）は、より広範な指数よりも人工知能取引にうまく対応している",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-22T20:55:00+09:00",
+   "lang": "en",
+   "title_orig": "How this market-beating fund is constantly shifting to keep up with the AI trade"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=rss_markets_main",
+   "summary": "エネルギーと公益事業をカバーする最新のマーケット トークで、Shell、BP などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-22T20:50:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "市場前に大きな動きを見せている銘柄: アリババ、クエスト ダイアグノスティックス、オン ホールディング、ゲームストップなど",
+   "link": "https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-premarket-baba-dgx-onon-gme.html",
+   "summary": "これらは、取引初期に最大の値動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-22T20:49:33+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more"
+  },
+  {
+   "title": "金融情勢は逼迫している。株式投資家が注意を払うべき理由は次のとおりです。",
+   "link": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
+   "summary": "Widening credit spreads worldwide are a sign that how stocks are valued may be changing for the worse.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-22T20:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial conditions are tightening. Here’s why stock investors should pay attention."
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9ea269b4?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Samsung Electronics、Meta、Singtel などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-22T20:45:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "基本資料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8962d0c7?mod=rss_markets_main",
+   "summary": "Find insight on Capstone Copper, Ramelius Resources, Artemis Gold and more in the latest Market Talks covering Basic Materials.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-22T20:38:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-f25d3281?mod=rss_markets_main",
+   "summary": "金融サービスを対象とした最新のマーケット トークで、プルデンシャル PLC、インドネシア銀行、ソシエテ ジェネラルなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-22T20:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "AIスタッフ、社会への脅威への恐怖による精神的負担を訴える",
+   "link": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+   "summary": "Aisi、OpenAI、Anthropic、Google DeepMind のトップ研究者が、強力な AI の開発に対する燃え尽き症候群とストレスを報告",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-22T20:27:38+09:00",
+   "lang": "en",
+   "title_orig": "AI staff complain of mental toll over fears of threat to society"
+  },
+  {
+   "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
+   "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
+   "summary": "If disruptions caused by fighting in the Middle East persist into spring 2027, Brent crude  could spike above $150 a barrel, strategists at the bank said.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-22T20:26:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "サウジアラビアが東西パイプラインの再開を示唆、原油は98ドルを下回る",
+   "link": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+   "summary": "サウジアラビアの原油が紅海に到達する主要ルートはドローン攻撃を受けて2週間閉鎖された",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-22T20:19:01+09:00",
+   "lang": "en",
+   "title_orig": "Oil falls below $98 as Saudi Arabia signals East-West pipeline reopening"
+  },
+  {
+   "title": "オイルエッジが高くなります。中東紛争における外交の兆しに焦点を当てる",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-focus-on-signs-of-diplomacy-in-mideast-conflict-2712f57a?mod=rss_markets_main",
+   "summary": "前月のブレント先物は心理的に重要な１バレル＝１００ドルを超えて推移していた。石油市場の注目は原油価格に集中する可能性が高い",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-22T20:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Edges Higher; Focus on Signs of Diplomacy in Mideast Conflict"
+  },
+  {
+   "title": "私も夫も50代で子供はいません。 IRA と 401(k) で 200 万ドルを保有しています。本当に遺言書が必要なのでしょうか？",
+   "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+   "summary": "「私たちには借金はなく、本拠地、別荘、そして別の州にある母の家も所有しています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-22T20:15:00+09:00",
+   "lang": "en",
+   "title_orig": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?"
+  },
+  {
    "title": "米国とイランの交渉期待でアジア通貨はまちまち",
    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-on-hopes-for-u-s-iran-negotiations-95e21ec2?mod=rss_markets_main",
    "summary": "アジア通貨は対ドルでまちまちだったが、米国とイランの交渉再開への期待が食欲を下支えし強まる可能性がある。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-09-22T15:49:00+09:00",
+   "published": "2026-09-22T20:11:00+09:00",
    "lang": "en",
    "title_orig": "Asian Currencies Mixed on Hopes for U.S.-Iran Negotiations"
   },
   {
-   "title": "米国とイランの協議への期待が薄れる中、原油価格は上昇",
-   "link": "https://www.wsj.com/finance/stocks/oil-prices-gain-as-hopes-fade-for-u-s-iran-talks-42bc5a49?mod=rss_markets_main",
-   "summary": "今週の国連会議での米国とイランの協議に対する楽観的な見方が薄れ、原油価格が上昇する一方、アジア株はじり高となった。",
-   "source": "WSJ マーケット",
+   "title": "「MBSは忘れない」：フーシ派との戦いに消極的なトランプ大統領にサウジアラビアが動揺",
+   "link": "https://www.ft.com/content/99457bcb-d98f-4719-a203-688daefcc3f7?syn-25a6b1a6=1",
+   "summary": "米国の躊躇により、リヤドでは主要な防衛パートナーとしての米国の信頼性に対する疑念が増幅している",
+   "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-22T15:37:00+09:00",
+   "published": "2026-09-22T20:00:02+09:00",
    "lang": "en",
-   "title_orig": "Oil Prices Gain as Hopes Fade for U.S.-Iran Talks"
+   "title_orig": "‘MBS will not forget’: Trump’s reluctance to fight Houthis rattles Saudi Arabia"
   },
   {
-   "title": "米国債利回り上昇、地政学が焦点",
-   "link": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
-   "summary": "東京市場が閉まっており、アジア時間の取引が一時停止した後、欧州取引では米国債利回りが上昇して始まった。",
-   "source": "WSJ マーケット",
+   "title": "ビットコインは8カ月ぶりの高値を記録 - 現在のリスク選好について明確なメッセージを発信",
+   "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+   "summary": "投資家は米国のルールがより明確になるという期待を捨てていないため、仮想通貨の規制枠組みを巡る不透明性がビットコインの高騰を止めていない。",
+   "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-09-22T15:29:00+09:00",
+   "published": "2026-09-22T19:51:00+09:00",
    "lang": "en",
-   "title_orig": "U.S. Treasury Yields Rise, Geopolitics in Focus"
+   "title_orig": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now"
+  },
+  {
+   "title": "トランプ氏は大統領職から退いている",
+   "link": "https://www.ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1",
+   "summary": "イランとの戦争から抜け出す方法がなくなった彼は、ますます自分自身の記念碑に執着するようになる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-22T19:35:30+09:00",
+   "lang": "en",
+   "title_orig": "Trump is checking out of his presidency"
+  },
+  {
+   "title": "「彼女はそれがただのお金だと言っています」：私の友人はすべてを支払います。感謝すべきだけど、もう我慢できない。",
+   "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+   "summary": "「週末ごとに、彼女はおそらく 500 ドルを使っているでしょう。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-22T19:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore."
+  },
+  {
+   "title": "小田急ロマンスカーが走る教室に　不登校だった元運転士2人が企画",
+   "link": "https://www.asahi.com/articles/ASV9Q31QBV9QULFA004M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-22T18:25:55+09:00"
+  },
+  {
+   "title": "精度 65% のこの機械学習モデルが語ることは、次に 10 年物財務省に来るということです。",
+   "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
+   "summary": "HSBCは、世界市場で最も重要な金融商品の方向性を予測する機械学習モデルを設計したと発表した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-22T18:23:00+09:00",
+   "lang": "en",
+   "title_orig": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury"
+  },
+  {
+   "title": "台湾8月輸出受注、初の1000億ドル超え ＡＩ関連需要旺盛 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nenBGbXItLUxyWGVQTkNxMHJIWV9zRDl3MFdnQTBLSHB5bE1SajJkak5MNXpXRGxEcWplOElCRkNtTzNmY05EeGM4azNmaGF4c2dNNjlzUTJQXzNhd0JFQUZSdE16WWlleTBuUlJkT0xrV2I5SGtvLUpUYWZxQQ?oc=5",
+   "summary": "台湾8月輸出受注、初の1000億ドル超え ＡＩ関連需要旺盛&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-22T18:09:24+09:00"
+  },
+  {
+   "title": "東南アジア食品市場 日本の勝機は",
+   "link": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-22T18:07:39+09:00"
+  },
+  {
+   "title": "パラマウント WBD買収へ前進",
+   "link": "https://news.yahoo.co.jp/pickup/6596158?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-22T17:30:29+09:00"
+  },
+  {
+   "title": "鉄道会社が続々「レストラン列車」　なぜ高くても乗る？　実は「低投資・高リターン」",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/22/news038.html",
+   "summary": "沿線人口の減少で国内の鉄道経営が曲がり角を迎えるなか、主要各社が美食と車窓からの絶景を楽しめる「レストラン列車」を相次ぎ投入している。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-22T17:30:00+09:00"
+  },
+  {
+   "title": "中国の海外信託課税、個別株にリスクも＝ＢｏｆＡ証券 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbktEenM2bjZNQWo3MjNSWWhjR3p1b3FwUzBJcXJoRm5TYkE1eEFPSkUyNFYtZm11VmVoOFdRRV9JcU9xWHNBdnFxN3JEUlowN0hMaGdpZUdBa0NzOGVla2lacXRCN25Cb0FVWFRmUmtzYnM2Y3R2M09UdkU1TE9iZGc2U2k?oc=5",
+   "summary": "中国の海外信託課税、個別株にリスクも＝ＢｏｆＡ証券&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-22T16:01:43+09:00"
+  },
+  {
+   "title": "ＥＣＢ、インフレの目標回帰は27年半ばから＝レーン専務理事 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekVlY0VVWVBXa3NOMWV5S1lUSXROckp1TEZ0dDgyRERkUVZ5c3I4aDNwQVl1OGQ3NVM5aEFVd1J0VkpqSmI2SHhtTlV4blpPZndpM3pZZ05iV2FzZGliYWZseHZENXNIUWMwekRxRUlBZmNUWm1XYWpFR3ExWEpkcGZQRFk?oc=5",
+   "summary": "ＥＣＢ、インフレの目標回帰は27年半ばから＝レーン専務理事&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-22T14:44:00+09:00"
   },
   {
    "title": "インフレリスク顕在化の可能性、失業率の上昇必要も＝豪中銀総裁 - jp.reuters.com",
@@ -107,34 +342,24 @@
    "published": "2026-09-22T14:00:00+09:00"
   },
   {
-   "title": "プリンストン大学の全米トップ大学としての15年間の走りが終わった。 MITは現在ナンバー1です。",
-   "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
-   "summary": "米国での方法論の変化 ニュースランキングが生徒の収入が高い学校を後押しする",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T13:02:00+09:00",
-   "lang": "en",
-   "title_orig": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1."
-  },
-  {
-   "title": "習氏がトランプ大統領との首脳会談で何を望んでいるのか",
-   "link": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
-   "summary": "中国指導者の最も緊急の目標は米国との貿易停戦延長だが、台湾、イラン、AIについても話し合うと予想されている",
+   "title": "世界のコンテナ輸出に占める中国のシェアが40％に急上昇",
+   "link": "https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1",
+   "summary": "急速な経済成長は経済の貿易への依存と貿易相手国への脅威を浮き彫りにしているとEU商工会議所が指摘",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-22T13:00:12+09:00",
+   "published": "2026-09-22T13:56:45+09:00",
    "lang": "en",
-   "title_orig": "What Xi wants from his summit with Trump"
+   "title_orig": "China’s share of global container exports soars to 40%"
   },
   {
-   "title": "私たちは努力を嫌う傾向にあるのでしょうか？",
-   "link": "https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1",
-   "summary": "OECD加盟国全体で、簡単に諦めてしまうという学生の数が増加している",
+   "title": "プーチン大統領の「戦争英雄」がロシア議会に新たな政治エリートを形成",
+   "link": "https://www.ft.com/content/db043fc4-c810-4834-bd6b-878d5960c630?syn-25a6b1a6=1",
+   "summary": "男性の多くはキエフが戦争犯罪で告発した部隊に所属していた",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-09-22T13:00:12+09:00",
+   "published": "2026-09-22T13:00:20+09:00",
    "lang": "en",
-   "title_orig": "Are we developing a distaste for effort?"
+   "title_orig": "Putin’s ‘war heroes’ form new political elite in Russian parliament"
   },
   {
    "title": "メルツ氏の苦境でEUの2兆ユーロの予算合意に疑問が投げかけられる",
@@ -157,36 +382,6 @@
    "title_orig": "Germany’s economic recovery is under way if politics doesn’t spoil it"
   },
   {
-   "title": "日本のお金のコストが世界をどう形作るか",
-   "link": "https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1",
-   "summary": "同国の中央銀行が金融政策を引き締めるにつれ、より高い利回りを求めて自国通貨を活用していた投資家が売りに追い込まれる可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-22T13:00:02+09:00",
-   "lang": "en",
-   "title_orig": "How the cost of Japan’s money shapes the world"
-  },
-  {
-   "title": "AIスタッフ、社会への脅威への恐怖による精神的負担を訴える",
-   "link": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
-   "summary": "Aisi、OpenAI、Anthropic、Google DeepMind のトップ研究者が、強力な AI の開発に対する燃え尽き症候群とストレスを報告",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-22T13:00:02+09:00",
-   "lang": "en",
-   "title_orig": "AI staff complain of mental toll over fears of threat to society"
-  },
-  {
-   "title": "ポリマーケット、ヨーロッパに賭けを金融商品として扱うよう圧力",
-   "link": "https://www.ft.com/content/ec52d0ab-3f68-476f-b308-b8e682d9c75b?syn-25a6b1a6=1",
-   "summary": "米国の予測市場プラットフォームは、ギャンブル関連法のパッチワークの下ではなく、金融サービス会社として規制されることを目指している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-22T13:00:02+09:00",
-   "lang": "en",
-   "title_orig": "Polymarket presses Europe to treat its bets as financial products"
-  },
-  {
    "title": "落ち込み､イライラ､不安定な感情…40代を苦しめる｢ミッドライフクライシス｣の要因《海馬の萎縮》を止める運動法 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/957008?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "脳の記憶や感情を司る｢海馬｣は､加齢とともに萎縮しますが､運動によって成長し続けることが可能です。有酸素運動や団体スポーツは脳を活性化し､自己価値やコントロール力も高めてくれます。あなたも今日から始…",
@@ -201,16 +396,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-22T12:29:00+09:00"
-  },
-  {
-   "title": "世界最大のデリバティブ取引所、ついに460億ドルの市場デビューを目指す",
-   "link": "https://www.ft.com/content/23da023b-8be8-433d-9b11-49bc825076c9?syn-25a6b1a6=1",
-   "summary": "オプション取引への監視が高まる中、インド国立証券取引所による上場が長期延期",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-22T12:21:37+09:00",
-   "lang": "en",
-   "title_orig": "World’s biggest derivatives exchange finally set for $46bn market debut"
   },
   {
    "title": "成田空港で一夜 最大4000人足止め",
@@ -297,14 +482,6 @@
    "title_orig": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year"
   },
   {
-   "title": "カプセルトイなぜ大人が熱狂 背景",
-   "link": "https://news.yahoo.co.jp/pickup/6596108?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-22T10:25:00+09:00"
-  },
-  {
    "title": "豪中銀、追加利上げ必要も インフレ定着を懸念＝ハンター総裁補 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWhXdFZBMXJWY3lka25rNnFIYmpXLW1hekRKLVd5SGt0d0I0MmNhWGVfYkJaMkR2cnkxbzdlZzFaMy03ZzNqNUVJNGdib2xPTEpTQzQzVTZmeWVDc0d6M01tV2VhdXYwc1R5YlZGY1hIN3otdWsxTzVobThOVllSSVdRWGs?oc=5",
    "summary": "豪中銀、追加利上げ必要も インフレ定着を懸念＝ハンター総裁補&nbsp;&nbsp;jp.reuters.com",
@@ -329,26 +506,6 @@
    "published": "2026-09-22T09:48:01+09:00"
   },
   {
-   "title": "日経平均株価はショートが積み重なる中、控えめな起爆剤で上昇する可能性がある",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-could-rally-on-modest-catalysts-as-shorts-pile-up-39640022?mod=rss_markets_main",
-   "summary": "シティ・リサーチによると、適度な好材料があれば、特に日経平均とコスピの急騰でショートカバーの急騰が起こる可能性がある。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-22T09:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Could Rally on Modest Catalysts as Shorts Pile Up"
-  },
-  {
-   "title": "オイルエッジが高くなります。中東紛争における外交の兆しに焦点を当てる",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-focus-on-signs-of-diplomacy-in-mideast-conflict-2712f57a?mod=rss_markets_main",
-   "summary": "前月のブレント先物は心理的に重要な１バレル＝１００ドルを超えて推移していた。石油市場の注目は原油価格に集中する可能性が高い",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-22T09:38:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Edges Higher; Focus on Signs of Diplomacy in Mideast Conflict"
-  },
-  {
    "title": "作れば赤字 米価下落で農家窮地",
    "link": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
    "summary": "",
@@ -363,16 +520,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-22T09:27:00+09:00"
-  },
-  {
-   "title": "強力なファンダメンタルズ支持を受けて金が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-strong-fundamentals-support-9f92da11?mod=rss_markets_main",
-   "summary": "金はアジア貿易初期に上昇した。ザナー・メタルズ氏は、価格は長期的なファンダメンタルズによって支えられていると述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-22T09:15:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Rises as Strong Fundamentals Support"
   },
   {
    "title": "「全方位」支える新型エンジン　次世代カローラ、台頭中国勢と対決も",
@@ -447,24 +594,6 @@
    "published": "2026-09-22T08:00:00+09:00"
   },
   {
-   "title": "コロナ自宅待機1年半で自死 労災",
-   "link": "https://news.yahoo.co.jp/pickup/6596090?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-22T07:42:04+09:00"
-  },
-  {
-   "title": "メタ社の株価は、同社の注目の新しい AI アシスタントのおかげで、13 年間で最高の月を満喫しています",
-   "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-   "summary": "Muse は人気を集めており、Meta の AI への賭けが成果をあげていることを投資家に納得させるのに役立っています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T07:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant"
-  },
-  {
    "title": "XやTikTok…AI使い投稿削除、誹謗中傷対策で　判定に懸念も",
    "link": "https://www.asahi.com/articles/ASV9D7GG4V9DULFA001M.html?ref=rss",
    "summary": "",
@@ -479,34 +608,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-22T07:00:00+09:00"
-  },
-  {
-   "title": "トランプ氏支持３２％、過去最低　物価高への評価２割弱―ロイター調査",
-   "link": "https://www.jiji.com/jc/article?k=2026092200147&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-09-22T06:57:00+09:00"
-  },
-  {
-   "title": "アナリストはAT&Tの株が無線分野で最も賢明な賭けのように見えると語る",
-   "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
-   "summary": "BNPのアナリストはAT&T株を肯定的に捉えており、投資家は「モバイル側についてはほとんど文句を言うべきではない」と書いている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T06:57:00+09:00",
-   "lang": "en",
-   "title_orig": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says"
-  },
-  {
-   "title": "ビットコインは8カ月ぶりの高値を記録 - 現在のリスク選好について明確なメッセージを発信",
-   "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
-   "summary": "投資家は米国のルールがより明確になるという期待を捨てていないため、仮想通貨の規制枠組みを巡る不透明性がビットコインの高騰を止めていない。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T06:47:00+09:00",
-   "lang": "en",
-   "title_orig": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now"
   },
   {
    "title": "スキルス性胃がんで｢余命半年｣宣告も⋯4年経った今が一番元気！｢6歳の介助犬｣と送る\"幸せな闘病生活\"の実態 | ライフ | 東洋経済オンライン",
@@ -525,36 +626,6 @@
    "published": "2026-09-22T06:45:00+09:00"
   },
   {
-   "title": "私も夫も50代で子供はいません。 IRA と 401(k) で 200 万ドルを保有しています。本当に遺言書が必要なのでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-   "summary": "「私たちには借金はなく、本拠地、別荘、そして別の州にある母の家も所有しています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T06:30:00+09:00",
-   "lang": "en",
-   "title_orig": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?"
-  },
-  {
-   "title": "WSJドル指数は0.09%上昇して96.19",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-trump-xi-meeting-2caa497e?mod=rss_markets_main",
-   "summary": "WSJドル指数は0.1％上昇し、過去6営業日中5営業日上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-22T06:22:00+09:00",
-   "lang": "en",
-   "title_orig": "WSJ Dollar Index Rises 0.09% to 96.19"
-  },
-  {
-   "title": "S&P 500 が過去最高値に近づく中、水面下で亀裂が生じている",
-   "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
-   "summary": "S&P500種構成銘柄の約60％が過去最高値から20％以上下落している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T06:17:00+09:00",
-   "lang": "en",
-   "title_orig": "As the S&P 500 nears a new record high, there are cracks below the surface"
-  },
-  {
    "title": "衛生管理について深く考えてなかった…123人が食中毒被害｢こめお･蟹ラーメン騒動｣\"現場のリアル\"を管理栄養士が解説 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/958304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "飲食店での食中毒事件が相次ぐ中､冷やしカニラーメンによる集団感染は衛生管理の軽視が招いた深刻な事例です。衛生講習の義務や現場の実態､家庭でできる対策まで､今こそ\"当たり前\"を見直すべき理由を考えます。",
@@ -569,26 +640,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-22T06:07:09+09:00"
-  },
-  {
-   "title": "メタの決起に後押しされ、マグニフィセント・セブンが復活する",
-   "link": "https://www.wsj.com/finance/stocks/meta-magnificent-seven-tech-stock-5a793174?mod=rss_markets_main",
-   "summary": "ハイテク株の急騰でナスダック総合株価指数は過去最高値まで上昇し、AIの安全性への懸念は払拭された。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-22T06:07:00+09:00",
-   "lang": "en",
-   "title_orig": "The Magnificent Seven Is Roaring Back, Fueled by Meta’s Rally"
-  },
-  {
-   "title": "歴史を参考にすれば、これらの低迷した銘柄は1月に回復する可能性がある",
-   "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
-   "summary": "税金損失の売りにより、これら 20 銘柄は第 4 四半期に人為的に低迷する可能性が高く、したがって、第 4 四半期に回復する可能性は十分にあります。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T06:06:00+09:00",
-   "lang": "en",
-   "title_orig": "These beaten-down stocks could bounce back in January, if history is any guide"
   },
   {
    "title": "クラシック音楽家としての役目は｢つないでいくこと｣､常にお客さんとの会話を大事にしたい 牛田智大氏インタビュー④ | ライフ | 東洋経済オンライン",
@@ -621,16 +672,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-22T06:01:00+09:00"
-  },
-  {
-   "title": "「彼女はそれがただのお金だと言っています」：私の友人はすべてを支払います。感謝すべきだけど、もう我慢できない。",
-   "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-   "summary": "「週末ごとに、彼女はおそらく 500 ドルを使っているでしょう。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-22T06:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore."
   },
   {
    "title": "ＮＹ外為市場＝ドル上昇、対円で157円台半ば 引き続き介入警戒 - jp.reuters.com",
@@ -673,14 +714,6 @@
    "published": "2026-09-22T00:48:45+09:00"
   },
   {
-   "title": "パラマウント、ＷＢＤ買収訴訟で加州などと和解 買収完了へ前進＝情報筋 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnBfam10TGExM3dVUERmYkItOUJIT2dhZVVwWVZ1RHE3VEVLSjRDMnJLRFVLSFJVU29JZno3c0N1LVNOX0FBN2F6cWl5QmJUaW1HaGRyd3NBSGJiLVFTNXhSdWNOZjI5R2Z2WXVPcnlBN2ZyTGZGQUJzVmdWaWRTMDlNWHQ?oc=5",
-   "summary": "パラマウント、ＷＢＤ買収訴訟で加州などと和解 買収完了へ前進＝情報筋&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-22T00:15:43+09:00"
-  },
-  {
    "title": "「ひどいことだ」：関税、燃料費高騰、金利上昇がいかにアメリカ企業を圧迫しているか",
    "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
    "summary": "関税、燃料価格、金利が米国企業、特に製造業者、自動車供給業者、小売業者、輸送バスを圧迫している",
@@ -697,30 +730,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-21T23:39:07+09:00"
-  },
-  {
-   "title": "中東の経済協力計画表明へ　高市首相、国連総会向け出発",
-   "link": "https://www.jiji.com/jc/article?k=2026092100283&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-09-21T23:23:00+09:00"
-  },
-  {
-   "title": "ロはディーゼル産業の統制失う、トランプ氏 ウ戦争終結を再要求 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVpoUFg4SFZFWk5CdktxSkl0em5jZjB1VWZDdkxoQl94RklZNk1MNEJoOGVERGdfZzVlamFwT04tRTVvQkotMnlDTEthaU1lNWd6WjZBMXQzQXA4N0oyMWtwcjdjeExPY2FzSWw0RDVyRUNDQk5tdjV3U2VSWDFmODNvbk8?oc=5",
-   "summary": "ロはディーゼル産業の統制失う、トランプ氏 ウ戦争終結を再要求&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-21T23:15:14+09:00"
-  },
-  {
-   "title": "需要要因のインフレなら利上げ加速必要＝シカゴ連銀総裁 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkNyWFdwU1ZJN1N2SlNSSXMtLTlNWWwyQ19BemdCM2VveEpSWkw0QlZVdnBEZTQyd2NNcHVkWTRJc255WDJKQURLVDJnbVB5YzJMcVRJQVRTbjlVeXE4cE9aMHY5VUtMSEU2UXU0V1dxVTJaR3RpYlZ4UjVZWTJRNWZobFA?oc=5",
-   "summary": "需要要因のインフレなら利上げ加速必要＝シカゴ連銀総裁&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-21T23:12:09+09:00"
   },
   {
    "title": "NHK 戸別訪問営業の外部委託再開",
