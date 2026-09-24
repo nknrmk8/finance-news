@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T06:40:41.834450+09:00",
+ "generated_at": "2026-09-25T08:59:13.229982+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,20 +61,247 @@
  "errors": [],
  "items": [
   {
+   "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
+   "link": "http://www.boj.or.jp/statistics/bis/ibs/index.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-09-25T08:50:00+09:00"
+  },
+  {
+   "title": "オラクル、サイトに電力が供給されていない場合でもデータセンター投資家に支払いを求められる",
+   "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6=1",
+   "summary": "ニューメキシコ州プロジェクトに関する不可抗力通告にもかかわらず、技術グループは「プロジェクト・ジュピター」の支払い責任を負う",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-25T08:47:35+09:00",
+   "lang": "en",
+   "title_orig": "Oracle on the hook to pay data centre investors even if site has no electricity"
+  },
+  {
+   "title": "私の友人はペットシッターのビジネスで年間30万ドルの収益を上げています。彼女は自分で5万ドルを支払います。私も同じようにすべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+   "summary": "「彼女には現在約 15 人のシッターがいますが、全員が独立した請負業者です。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-25T08:35:00+09:00",
+   "lang": "en",
+   "title_orig": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?"
+  },
+  {
+   "title": "｢なんで結婚しないの？｣ 周囲からの声に悩んだ過去 押切もえが気づいた｢自分軸｣で人生とキャリアを選ぶ生き方 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/957453?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "自分の限界を他人に決めさせない――モデル･小説家･母と多彩な人生を歩む押切もえさんが､結婚やキャリアに揺れる女性たちに贈るリアルな人生論。本当の幸せや自分らしい選択とは何か､そのヒントがここにありま…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T08:30:00+09:00"
+  },
+  {
+   "title": "賭け金が高まるにつれてマイクロン投資家が注意すべき 3 つのこと",
+   "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+   "summary": "マイクロンが来週決算を発表する際、ローゼンブラットのアナリストは追加の顧客契約、価格上昇、自社株買いについて聞くことになると予想している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-25T08:28:00+09:00",
+   "lang": "en",
+   "title_orig": "3 things Micron investors need to watch as the stakes get higher"
+  },
+  {
+   "title": "S&P 500の最新ハイテク株が最高のパフォーマーとなった",
+   "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+   "summary": "データストレージ会社エバーピュアの株価は木曜日のS&P500種指数の上昇率をリードした。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-25T08:26:00+09:00",
+   "lang": "en",
+   "title_orig": "The S&P 500’s newest tech stock is now its best performer"
+  },
+  {
+   "title": "コストコの利益は関税還付のおかげで予想を上回った",
+   "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+   "summary": "関税の払い戻しにより、コストコの第 4 四半期の利益は大幅に増加しました。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-25T08:23:00+09:00",
+   "lang": "en",
+   "title_orig": "Costco earnings beat expectations, thanks to tariff refunds"
+  },
+  {
+   "title": "私は年老いた母の世話に時間とお金を費やしていますが、それでも母は弟に 10 万ドルをくれました。撤退すべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+   "summary": "「母は歩くのがますます困難になり始めました。最初は膝の置換手術を受け、次に転倒しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-25T08:16:00+09:00",
+   "lang": "en",
+   "title_orig": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?"
+  },
+  {
+   "title": "意図せず資金移動 楽天証券不具合",
+   "link": "https://news.yahoo.co.jp/pickup/6596439?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-25T08:09:30+09:00"
+  },
+  {
+   "title": "100年企業｢ミクニ｣が今あえて《ロータリーエンジン》のパーツを作るワケ｢独立系･中規模｣部品メーカーの生き様 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/958427?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "キャブレターで一時代を築いたミクニが､100周年を機に再び注目を集めている。ロータリーエンジン車用部品の復刻や新たな熱エネルギー制御技術の挑戦など､\"不確実な時代\"を切り拓くミクニの変革を取材した。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T08:00:00+09:00"
+  },
+  {
+   "title": "月30万円かかるAIは「学習しない社員」だった――LayerXが回し始めた仕事の“自己改善ループ”",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/25/news019.html",
+   "summary": "AIがAIを改善する「再帰的自己改善」は、企業の現場へ広がった。人件費の3～4割の費用が発生する“覚えないAI社員”をどう育てるのか。LayerXやマネーフォワードの先進事例から、AI活用の成否を握る「評価」の重要性をひも解く。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T08:00:00+09:00"
+  },
+  {
+   "title": "アニメ制作市場が初の4000億円突破　一方「人手不足」「制作キャパ限界」でピークアウトの可能性も",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/25/news021.html",
+   "summary": "アニメ制作の市場規模が初めて4000億円を突破した。帝国データバンクの調査によると、2025年の市場規模（事業者売上高ベース）は4065億8600万円で、過去最高を更新した。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T08:00:00+09:00"
+  },
+  {
+   "title": "「私たちは最悪の決断をしました」: 年老いた父のお金の管理方法を苦労して学んだ",
+   "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+   "summary": "「父が亡くなったとき、父が信頼したのは聖書でした。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-25T08:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money"
+  },
+  {
+   "title": "ファミマ「バイト改革」なぜ今",
+   "link": "https://news.yahoo.co.jp/pickup/6596440?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-25T07:57:39+09:00"
+  },
+  {
+   "title": "最終回《朝ドラ》｢風､薫る｣73歳で亡くなった大関和､看護婦として挑んだ関東大震災での｢最後の仕事｣ | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/958336?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "9月25日で最終回を迎える､朝ドラ｢風､薫る｣。主人公りんのモデルである大関和が､最後に挑んだ看護婦としての仕事とは。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:45:00+09:00"
+  },
+  {
+   "title": "米住宅ローン金利7%超 30年固定",
+   "link": "https://news.yahoo.co.jp/pickup/6596435?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-25T07:33:21+09:00"
+  },
+  {
+   "title": "｢これほど豪華な歓迎をするために習近平氏をワシントンに招くべきではない｣異例の厚遇には共和党内からも批判の声 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959094?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "米中首脳会談で注目されたのは､AI分野を巡る両国の激しい競争と､その管理を巡る協力の必要性です。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:30:00+09:00"
+  },
+  {
+   "title": "習近平の母校｢清華大｣への留学で炎上した29歳福岡市長候補､｢完璧な物語｣に生じたほころび | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/958930?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "福岡市長選に出馬表明した佐々木彩乃氏の清華大学留学歴が､SNSで憶測と炎上を呼んでいます。これまで誇らしく語られてきた経歴が公式サイトでは不自然に消え､｢なぜ隠したのか｣という疑問が広がる背景には何…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:30:00+09:00"
+  },
+  {
+   "title": "〈米中首脳会談〉トランプ氏｢真に素晴らしい友情関係｣｢米中関係に誇り｣､習氏は台湾問題に言及 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959104?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "米中関係が世界の注目を集める中､トランプ大統領と習近平国家主席による首脳会談がホワイトハウスで実現しました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:10:00+09:00"
+  },
+  {
+   "title": "30年固定金利が急上昇する中、住宅ローン金利8％は「不可能ではない」",
+   "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+   "summary": "10年国債が急騰し、米経済の先行きが不透明なことから、住宅ローン金利が8％に戻ったとの見方もある。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-25T07:03:00+09:00",
+   "lang": "en",
+   "title_orig": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges"
+  },
+  {
+   "title": "WSJ Dollar Index Rises 0.19% to 96.97",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-broadly-weaken-as-treasury-yields-surge-d5c5d1cf?mod=rss_markets_main",
+   "summary": "The WSJ Dollar Index rose 0.2% — up for five consecutive trading days.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-25T07:02:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "｢タイプロは失敗だった｣ timelesz･猪俣周杜の逮捕で菊池風磨らに飛び火…《タレント審査員が背負う責任》という理不尽 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959061?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "人気グループ｢timelesz｣の新メンバー･猪俣周杜の逮捕が波紋を広げています。斬新なオーディションの成功の陰で､選抜したメンバーへのバッシングやSNSでの批判の嵐。オーディション番組が生むリスク…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:00:00+09:00"
+  },
+  {
+   "title": "160社の支援で見えてきた｢大学発スタートアップ｣事業化までの3つの課題と2つの解決策 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/958237?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "日本の成長を牽引するカギとして期待される大学発スタートアップ。しかし､多くの技術がある一方で､経営人材の不足やマーケットリスク､資金調達など､乗り越えるべき壁も存在します。はたして､これらの課題を突…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:00:00+09:00"
+  },
+  {
+   "title": "日高屋と幸楽苑、なぜ好調？　「ちょい飲み」と「ロードサイド」、似た者同士でも道は別",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/25/news007.html",
+   "summary": "日高屋と幸楽苑、低価格帯を武器に中華料理やラーメンを手がける“似たもの同士”の業績がともに好調な理由とはーー。事業モデルや成長戦略を踏まえながら、好調な要因を見ていきたい。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:00:00+09:00"
+  },
+  {
+   "title": "永守氏「全員やめてくれや！」――なぜ優良企業は“ブラック企業”に変わるのか　「4つの型」から見るニデック不正",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/25/news028.html",
+   "summary": "業績至上主義による過度な圧力やハラスメントは、どんな組織でも起き得るリスクだ。なぜ優良企業が自浄作用を失い「ブラック化」するのか。ニデックの第三者委員会報告書を手掛かりに、組織の「4つのタイプ分類」と自浄作用を殺す病理を読み解く。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-09-25T07:00:00+09:00"
+  },
+  {
+   "title": "債券トレーダーは原油価格に過度の注意を払っている",
+   "link": "https://www.wsj.com/finance/investing/bond-traders-are-paying-too-much-attention-to-the-oil-price-faa6a6cb?mod=rss_markets_main",
+   "summary": "債券利回りと原油は同じ調子で踊っているが、ある意味ではそれは理にかなっていない。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-25T07:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Bond Traders Are Paying Too Much Attention to the Oil Price"
+  },
+  {
+   "title": "米ＦＲＢ、追加で３～４回利上げ　１０月会合は据え置き―元財務長官顧問",
+   "link": "https://www.jiji.com/jc/article?k=2026092400651&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-09-25T06:55:00+09:00"
+  },
+  {
    "title": "｢聖なる廃業｣で大行列…《地元民の筆者》から見た､播磨屋本店が｢おかきを残して｣と惜しまれるワケ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/958863?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢聖なる廃業のお知らせ｣で話題を集める播磨屋本店。おひざ元･兵庫県在住の筆者が､地元での存在感や､｢廃業のお知らせ｣が発表された翌日､翌々日の様子をレポートします。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-25T06:30:00+09:00"
-  },
-  {
-   "title": "ＮＹ株３日続落、１６１ドル安　長期金利の上昇嫌気",
-   "link": "https://www.jiji.com/jc/article?k=2026092500174&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-09-25T06:27:00+09:00"
   },
   {
    "title": "ガタガタの債券市場を落ち着かせようとする財務省の新たな試みに投資家が買わない理由",
@@ -95,6 +322,14 @@
    "published": "2026-09-25T06:13:00+09:00",
    "lang": "en",
    "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "米イラン、段階的取引を模索か　海峡開放で経済封鎖解除",
+   "link": "https://www.jiji.com/jc/article?k=2026092500197&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-09-25T06:08:00+09:00"
   },
   {
    "title": "オーストラリア政府へのOpenAI侵害は広範なAIハッキングキャンペーンに関連",
@@ -155,24 +390,6 @@
    "published": "2026-09-25T06:00:00+09:00"
   },
   {
-   "title": "元勉強嫌い→独学で東大合格の過程で導いた｢健全な｣原動力の見つけ方《燃料が｢学歴獲得｣｢他者との比較｣だけはキツい》 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/957775?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "受験勉強のモチベーションは､他者との比較だけに頼っていると脆くなりがちです。では､｢健全な｣原動力の見つけ方とは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T06:00:00+09:00"
-  },
-  {
-   "title": "コストコの利益は関税還付のおかげで予想を上回った",
-   "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-   "summary": "関税の払い戻しにより、コストコの第 4 四半期の利益は大幅に増加しました。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-25T05:54:00+09:00",
-   "lang": "en",
-   "title_orig": "Costco earnings beat expectations, thanks to tariff refunds"
-  },
-  {
    "title": "米国の在庫増加で原油下落",
    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-larger-than-expected-build-in-u-s-inventories-12eb501b?mod=rss_markets_main",
    "summary": "原油価格は下落した。 ＡＮＺによると、ブレント相場は１バレル＝１００ドルを超えて回復したが、米国の原油在庫が予想外に増加したことで上昇幅は限定されたという。",
@@ -183,38 +400,12 @@
    "title_orig": "Oil Falls on Larger-Than-Expected Build in U.S. Inventories"
   },
   {
-   "title": "〈直言〉セールスフォース日本法人代表が明かすAI投資でROIを生む｢4条件｣…単なる技術の追いかけや要件定義は不要 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/958792?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "――米サンフランシスコで開かれたセールスフォースの年次イベント（9月15〜17日開催）では、日本から参加する顧客の幹部らとどのようなやり取りがあったのでしょうか？イベントには私が担当する日本・韓国・…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T05:50:00+09:00"
-  },
-  {
-   "title": "モルガン・スタンレーによると、次の AI の波に向けてポートフォリオを位置付ける方法は次のとおりです",
-   "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
-   "summary": "AIハードウェア株にはまだ上昇の余地があるが、モルガン・スタンレーのアナリストらは、幅広い業界に多角化する時期が来たと述べている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-25T05:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley"
-  },
-  {
-   "title": "1位は驚異の30億円超……！｢1人当たり売上高｣が大きい企業トップ300社ランキング | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959046?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "従業員1人当たりの売上高が高い企業の実力とは？　最新有価証券報告書を基に､従業員100人以上の会社を対象としたランキングを公開します。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T05:45:00+09:00"
-  },
-  {
-   "title": "〈路線変更の裏側〉あの\"しまむら\"が変わった！創業以来初のM&Aに､報道陣向け発表会も…｢攻めの経営｣に転じた真意 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/958560?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "「お客様に『この機能で、この価格なら取り入れてみたい』と思ってもらえることこそが、商品の真の価値だ」。会場に集まった大勢の報道陣を前に、商品企画の担当者は自社商品で目指す方向性をそう強調した。カジュ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T05:40:00+09:00"
+   "title": "原油先物3％高、フーシ派のサウジ攻撃で供給不安が再燃 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84d0hWb090LXRaS0kzQ0kza01rQS1OdVNCLXJmREpBMzNSclk3LTBGOUZKSXg2UElZRV9zUnNqWTVlQUtBLWZ6bXF2NTZ1LUhURDZfYW41aTBQN0Ywb1dKRWNhMjhnamg5Z252X0k0bHUxSkpYTWtkMHZIcm54QQ?oc=5",
+   "summary": "原油先物3％高、フーシ派のサウジ攻撃で供給不安が再燃&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-25T05:52:10+09:00"
   },
   {
    "title": "株価は平価水準に戻る",
@@ -227,20 +418,14 @@
    "title_orig": "Stocks Climb Back To Par"
   },
   {
-   "title": "〈明暗分かれる陸と海〉ヤマハ発動機､稼ぐ力の中核…絶好調のインド2輪と米関税直撃のマリンが描く｢逆襲シナリオ｣ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/958764?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "2026年12月期業績予想の大幅な上方修正を発表し、株式市場の熱い視線を集めるヤマハ発動機。多岐にわたる事業を展開する同社の中で、押しも押されもせぬ「コア事業」と位置づけられているのが、「2輪」と船…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T05:30:00+09:00"
-  },
-  {
-   "title": "返済期間｢35年超｣が4人に1人に…80歳まで終わらない住宅ローンを抱えた44歳が\"雪かきと草刈り\"で生きる理由 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/957588?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "働いたその日に賃金を受け取る｢現金とっぱらい｣。かつて正社員として安定を手にした川口さんは､コロナ禍や降格､長期住宅ローンを背負い､今や複数の現金仕事を掛け持ち家族を支えています。なぜこの働き方を選…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T05:30:00+09:00"
+   "title": "米国の長期借入コストが2004年以来の最高水準に達する",
+   "link": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+   "summary": "米国債市場の激しい下落を受け、利回り上昇が財政を圧迫",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-25T05:32:49+09:00",
+   "lang": "en",
+   "title_orig": "US long-term borrowing costs touch highest level since 2004"
   },
   {
    "title": "地方から首都圏への「本社移転」、過去10年で最多に　最も多かった業種は？",
@@ -251,24 +436,6 @@
    "published": "2026-09-25T05:30:00+09:00"
   },
   {
-   "title": "銀行システム｢停止前夜｣､AIが暴く脆弱性と大量パッチ･･･現場で強まる危機感｢いつ能動的停止になってもおかしくない｣ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/958686?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "サイバー攻撃の脅威が急拡大する中､銀行のサイバー防衛現場では｢異常事態｣が起きています。フロンティアAI｢クロード･ミュトス｣の登場で､脆弱性の公表件数が爆発的に増加しているためです。そうした中､自…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T05:20:00+09:00"
-  },
-  {
-   "title": "市場に勝とうとするのはやめましょう：最も裕福なアメリカ人でも、それを継続的に行うことはできません",
-   "link": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
-   "summary": "アメリカの最も裕福な400人は、純資産をS&P 500インデックスファンドに投資していれば、過去12か月で全体としてより良いパフォーマンスを示していただろう",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-25T05:20:00+09:00",
-   "lang": "en",
-   "title_orig": "Stop trying to beat the market: Even the richest Americans can’t do it consistently"
-  },
-  {
    "title": "中東の激化する紛争と利回り上昇が米国株の重しとなる",
    "link": "https://www.wsj.com/finance/investing/raging-conflict-in-the-middle-east-and-rising-yields-weigh-on-u-s-stocks-88265952?mod=rss_markets_main",
    "summary": "中東和平の見通しが不透明なため、木曜日は債券利回りが上昇し株の重しとなり、投資家は不協和音の報道を重視した",
@@ -277,16 +444,6 @@
    "published": "2026-09-25T05:20:00+09:00",
    "lang": "en",
    "title_orig": "Raging Conflict in the Middle East and Rising Yields Weigh on U.S. Stocks"
-  },
-  {
-   "title": "投資家がデータセンターの挫折を懸念し、オラクルの株価が下落している",
-   "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-   "summary": "最近のレポートでは、注目を集めるデータセンタープロジェクトが遅延した場合にオラクルが一部の費用を支払わないようにしようとしていると指摘されています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-25T05:12:00+09:00",
-   "lang": "en",
-   "title_orig": "Oracle’s stock is falling as investors fear a data-center setback"
   },
   {
    "title": "ディーゼル輸出禁止をめぐる議論が欧州にむち打ちを与えている",
@@ -309,34 +466,6 @@
    "title_orig": "European Gas Prices Rise as Storage Levels Worry Market"
   },
   {
-   "title": "金持ちの｢中国系の一家｣が《日本旅行》に､わざわざ\"中国の両親たちを呼び寄せてまで\"来日したい彼らの事情 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/958019?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "中国からの観光客が減少傾向にある一方で､日本を何度も訪れる中国系富裕層家族も存在します。彼らはなぜ旅行先として日本を選ぶのでしょうか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-25T05:00:00+09:00"
-  },
-  {
-   "title": "企業は値上げを続けています。 FRBは彼らに再考を促しようとしている。",
-   "link": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
-   "summary": "今年、インフレ圧力がこれほど持続しているのは、企業が消費者に高い価格を転嫁できていることが一因だ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-25T04:42:00+09:00",
-   "lang": "en",
-   "title_orig": "Companies keep raising prices. The Fed is trying to get them to reconsider."
-  },
-  {
-   "title": "銀行口座がハッキングされたため、社会保障局が私たちの小切手を止めました。私たちは教会に助けを求めています。何ができるでしょうか？",
-   "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-   "summary": "「私たちは現在の必要を満たしてくれる教会に頼っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-25T04:40:00+09:00",
-   "lang": "en",
-   "title_orig": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?"
-  },
-  {
    "title": "ソフトバンク、OpenAIへの賭け資金として記録的な債券売却で高額の代償を支払う",
    "link": "https://www.ft.com/content/17b09993-8fed-47d1-9c04-e2d29ca75615?syn-25a6b1a6=1",
    "summary": "孫正義氏のグループ、史上最大のジャンクボンド募集で110億ドル以上を調達、最大9.75％の利回りを支払う",
@@ -355,52 +484,12 @@
    "published": "2026-09-25T04:37:44+09:00"
   },
   {
-   "title": "パイオニア創業者、エクソンが600億ドルの買収後に「仕組んだ」と語る",
-   "link": "https://www.ft.com/content/ad6d56fa-6a6e-43bd-8f12-205a3f94ac0e?syn-25a6b1a6=1",
-   "summary": "シェール石油王、超大手が自身の取締役就任を阻止するため「中傷キャンペーン」を開始したと語る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-25T04:27:10+09:00",
-   "lang": "en",
-   "title_orig": "Pioneer founder says Exxon ‘set him up’ after $60bn takeover"
-  },
-  {
-   "title": "政府は詐欺のため彼女の学生ローンを取り消しましたが、72,000ドルが彼女の信用報告書に残っています",
-   "link": "https://www.marketwatch.com/story/the-government-canceled-her-student-loans-due-to-a-scam-but-72-000-is-still-on-her-credit-report-4889733b?mod=mw_rss_topstories",
-   "summary": "政府は、取り消されるべきだった約30万人の借り手による46億ドルの学生ローンを信用調査機関に報告し続けている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-25T04:19:00+09:00",
-   "lang": "en",
-   "title_orig": "The government canceled her student loans due to a scam — but $72,000 is still on her credit report"
-  },
-  {
    "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
    "summary": "",
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-09-25T04:00:00+09:00"
-  },
-  {
-   "title": "世界的な債券下落が続き、株式先物は下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/global-bond-selloff-continues-stock-futures-drop-549047fd?mod=rss_markets_main",
-   "summary": "原油価格上昇と米国の堅調な成長データの影響を受け、木曜日の欧州取引序盤で株価は世界中で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-25T03:27:00+09:00",
-   "lang": "en",
-   "title_orig": "Global Bond Selloff Continues, Stock Futures Drop"
-  },
-  {
-   "title": "米国の利回り上昇に伴い金先物相場は下落に落ち着き",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-muted-as-oil-treasury-yields-resume-climb-10080af9?mod=rss_markets_main",
-   "summary": "金は0.4%安で4年連続の下落となり、銀は1.4%安で2年連続の下落となった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-25T03:24:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Futures Settle Lower With As U.S. Yields Rise"
   },
   {
    "title": "ゴールドマンはヘッジファンドのシチュエーショナル・アウェアネスから2億ドル以上の手数料を獲得",
@@ -457,24 +546,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-09-25T02:00:00+09:00"
-  },
-  {
-   "title": "ホワイトハウス、禁止されていた報道機関へのアクセスを回復したと発表",
-   "link": "https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1",
-   "summary": "CNN、MS Now、Politicoのジャーナリストらは当初断られたと述べている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-25T01:57:43+09:00",
-   "lang": "en",
-   "title_orig": "White House says it has restored access to banned press outlets"
-  },
-  {
-   "title": "米中首脳がＡＩ、貿易協議　習主席、１１年ぶり国賓訪問―トランプ大統領は異例の出迎え",
-   "link": "https://www.jiji.com/jc/article?k=2026092400664&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-09-25T01:14:00+09:00"
   },
   {
    "title": "手頃な価格の圧力が高まる中、米国の住宅ローン金利は7%を突破",
@@ -545,14 +616,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-24T20:25:21+09:00"
-  },
-  {
-   "title": "ＢｏｆＡ、ＥＣＢの12月利上げを予想 エネルギー高でインフレ長期化 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHBkVGRFdHhZZHlLZFhucWxiQ1ZpdXVaeDRFLXZTNklmenFxcDVpWnhLOTF6SVJ5V2hTSWo3NWM1WVdBU0cxMjU1cy1nOTdkX0NuaXdWblNnaTZVX0JTOGJ6ZFRVRjdxOWxmeVlSRnN0N1hudHpySE10emNqNm8wYWhGdm0?oc=5",
-   "summary": "ＢｏｆＡ、ＥＣＢの12月利上げを予想 エネルギー高でインフレ長期化&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-24T19:59:45+09:00"
   },
   {
    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月18日(金曜日))",
@@ -675,14 +738,6 @@
    "published": "2026-09-24T17:16:09+09:00"
   },
   {
-   "title": "中小事業者のレジ改修補助へ 政府",
-   "link": "https://news.yahoo.co.jp/pickup/6596379?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-24T17:04:43+09:00"
-  },
-  {
    "title": "ＥＣＢ、利上げは会合ごとに判断とオーストリア中銀総裁 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZV9mdDJCcENSU0J1dVpUTzFGb3l5cXoycVFMb3Uzekp5VkZvcUcxU0RHblZwekxUMnFacTM1cXRBamlEQ280UkE2eENBenVLTVp5TjZ0Q0hmNnBmZnRibVBTSDhTUVMwc3BTSzgzV0w2ckNSYmpLQ21IaHpRTFJZbEx0UXc?oc=5",
    "summary": "ＥＣＢ、利上げは会合ごとに判断とオーストリア中銀総裁&nbsp;&nbsp;jp.reuters.com",
@@ -779,14 +834,6 @@
    "published": "2026-09-24T13:55:59+09:00",
    "lang": "en",
    "title_orig": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit"
-  },
-  {
-   "title": "イオンが送風機自主回収 発火恐れ",
-   "link": "https://news.yahoo.co.jp/pickup/6596359?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-24T13:36:27+09:00"
   },
   {
    "title": "円安進行 レートチェック効果相殺",
@@ -945,14 +992,6 @@
    "published": "2026-09-24T07:00:00+09:00"
   },
   {
-   "title": "ANA機脱出 重大インシデント認定",
-   "link": "https://news.yahoo.co.jp/pickup/6596318?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-24T06:22:06+09:00"
-  },
-  {
    "title": "正午に最も大きな値動きをした銘柄: マクドナルド、クラッカー バレル、アリババ、ワーシントンなど",
    "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
    "summary": "これらは、正午に最も大きな値動きを記録した銘柄の一部です。",
@@ -979,14 +1018,6 @@
    "published": "2026-09-23T20:29:56+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: IonQ, Maplebear, Worthington & more"
-  },
-  {
-   "title": "「システム入れれば解決」のワナ　中小企業の53％が途中で「失敗」、“後出しコスト”に泣くDXのリアル",
-   "link": "https://www.itmedia.co.jp/business/articles/2609/23/news007.html",
-   "summary": "システムを導入すれば、業務が効率化するとは限らない。中小企業の53.2％が、システム導入や開発プロジェクトで失敗やトラブルを経験している。なぜ、導入後に思わぬ問題が起きるのか。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-09-23T08:00:00+09:00"
   }
  ]
 }
