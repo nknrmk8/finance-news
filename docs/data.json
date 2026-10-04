@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T14:45:18.764915+09:00",
+ "generated_at": "2026-10-04T20:24:47.908336+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,40 +61,126 @@
  "errors": [],
  "items": [
   {
-   "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
+   "title": "OpenAIが多数のハッキングを暴く中、アルトマン氏に法的リスクが山積",
+   "link": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+   "summary": "企業の AI ツールに関連したサイバー セキュリティ インシデントにより、ChatGPT メーカーは相次ぐ訴訟の影響を受けやすくなる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-04T20:00:08+09:00",
+   "lang": "en",
+   "title_orig": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks"
+  },
+  {
+   "title": "大企業を守るために",
+   "link": "https://www.ft.com/content/a984ca27-786a-47be-a8b9-9d48201a9e7c?syn-25a6b1a6=1",
+   "summary": "中小企業の横暴にもかかわらず、繁栄は一握りの大企業にかかっています",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-04T20:00:08+09:00",
+   "lang": "en",
+   "title_orig": "In defence of big business"
+  },
+  {
+   "title": "パラマウントの520億ドルの債務売却は、金利上昇がいかにアメリカ企業を苦しめているかを示す",
+   "link": "https://www.wsj.com/finance/investing/paramounts-52-billion-debt-sale-shows-how-higher-rates-are-biting-corporate-america-aed59897?mod=rss_markets_main",
+   "summary": "このメディア会社は、記録的な債券取引の代金を鼻から支払った。他の企業発行体も同様です。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-04T18:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Paramount’s $52 Billion Debt Sale Shows How Higher Rates Are Biting Corporate America"
+  },
+  {
+   "title": "IPO市場が急成長したり不況になったりする理由",
+   "link": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+   "summary": "浮選は停滞し、新規上場からの収益は低迷している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-04T18:29:09+09:00",
+   "lang": "en",
+   "title_orig": "Why the IPO market is booming and busting"
+  },
+  {
+   "title": "オーストラリア当局、フライドバイ襲撃犯と国との関係を調査",
+   "link": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329",
+   "summary": "先週ドバイ発テルアビブ行きの航空機のハイジャック未遂事件を受けて、各国政府間の非難が激化している。",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-04T18:25:03+09:00",
+   "lang": "en",
+   "title_orig": "Australian authorities probe Flydubai attacker’s links to the country"
+  },
+  {
+   "title": "サザン関口氏会社 申告漏れを謝罪",
+   "link": "https://news.yahoo.co.jp/pickup/6597529?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-04T18:02:05+09:00"
+  },
+  {
+   "title": "ソフトバンクGの孫氏、AI進化で「人間同士が戦うぜいたくはない」",
+   "link": "https://www.asahi.com/articles/ASVB42ST1VB4PLFA002M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-04T17:52:38+09:00"
+  },
+  {
+   "title": "欧米自動車メーカー｢防衛費拡大｣を追い風に新たな収益源を模索､ピックアップトラックやオフロード車を軍用に改修 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960086?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "欧米の自動車メーカーが防衛費拡大を追い風として新たな収益源を模索しています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-04T16:00:00+09:00"
+  },
+  {
+   "title": "企業は「高専卒」に熱視線か 背景",
+   "link": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-04T15:29:46+09:00"
+  },
+  {
+   "title": "ウォール街のIPO熱は低迷する需要と評価懸念で冷める",
    "link": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
-   "summary": "Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets",
+   "summary": "Anthropicの公開デビューの遅れが市場に悪影響を及ぼしているため、ここ数週間でいくつかの上場が一時停止されている",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-10-04T13:01:05+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Wall Street’s IPO fervour cools on tepid demand and valuation worries"
   },
   {
-   "title": "Today’s youth would like to give back modernity, thank you very much",
-   "link": "https://www.ft.com/content/471ee22e-af95-4ada-a272-a6a876bc5234?syn-25a6b1a6=1",
-   "summary": "Has any previous generation been so down on the present?",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-04T13:00:15+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Dear all: how bosses should talk to the troops",
-   "link": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
-   "summary": "And what they should always try to avoid",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-04T13:00:07+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+   "title": "孫正義氏のAIへの野心はソフトバンクのバランスシートを超える",
    "link": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
-   "summary": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover",
+   "summary": "DigitalBridge CEO マーク・ガンツィ氏、40 億ドル買収後は自身のデータセンター投資グループがソフトバンクの「サードパーティインフラ部門」になると語る",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-10-04T13:00:07+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet"
+  },
+  {
+   "title": "オフィスの AI スーパーユーザーから何を学べるでしょうか?",
+   "link": "https://www.ft.com/content/7a556b32-0511-42ae-a596-d0aedbcdb1a3?syn-25a6b1a6=1",
+   "summary": "新しいテクノロジーツールに全力を注ぐリーダーたちが、自分たちの仕事生活をどのように再考しているかを語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-04T13:00:07+09:00",
+   "lang": "en",
+   "title_orig": "What can we learn from the office AI superusers?"
+  },
+  {
+   "title": "親愛なる皆さん: 上司は部隊とどのように話すべきか",
+   "link": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
+   "summary": "そして常に避けるべきこと",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-04T13:00:07+09:00",
+   "lang": "en",
+   "title_orig": "Dear all: how bosses should talk to the troops"
   },
   {
    "title": "職場では感謝されず､子どもは親離れ…｢誰かの役に立っている感覚｣が枯れ果てた40～50代を救う､会社の外の小さな習慣 | ライフ | 東洋経済オンライン",
@@ -137,15 +223,6 @@
    "published": "2026-10-04T11:30:00+09:00"
   },
   {
-   "title": "China closes hundreds of banks to bolster financial system",
-   "link": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
-   "summary": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-04T11:00:04+09:00",
-   "lang": "en"
-  },
-  {
    "title": "オープンAIの安全性担当者が退社､｢主要AI企業は技術のリスク軽減に十分な取り組みをしていない｣と警告 | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/960082?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "AI開発大手の米OpenAIで､安全性を担当していた社員が退社し､主要AI企業は技術のリスク軽減に十分な取り組みをしていないと警告した。AI開発の急速な進展に懸念を示す業界関係者が相次ぐ中､内部から…",
@@ -168,15 +245,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-10-04T11:00:00+09:00"
-  },
-  {
-   "title": "Japanese and Korean shipbuilders deploy robots to take on China",
-   "link": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-   "summary": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-04T10:00:04+09:00",
-   "lang": "en"
   },
   {
    "title": "ノーベル賞有力の日本人候補者 睡眠研究の柳沢正史教授以外にもいた｢ノーベル賞待ったなし｣の研究者を東大院生が紹介 | ライフ | 東洋経済オンライン",
@@ -239,12 +307,12 @@
    "published": "2026-10-04T08:30:00+09:00"
   },
   {
-   "title": "米国の大豆農家、失望　中国の関税下げ見送りで―中間選挙控えトランプ政権に逆風",
-   "link": "https://www.jiji.com/jc/article?k=2026100300263&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
+   "title": "アングル：金価格、米国債利回り上昇でも4000ドル台維持 中銀の準備資産分散が下支え - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFgyWXVXUGRuYjFWdnVhcDZQN2Y3c0lhZXNTeXk3ajFEZXJnUDBsTFJJdjlPN0w1QTU5WFBqNzlGU2ZaNmVQMkZFV2xEck1OME1hcndYVUhRUElVcGg0bnpRWjJfUE1BcTJVMzZBdjRxQ0cyTElOdXk5S3E0WjAwUlo1RHA?oc=5",
+   "summary": "アングル：金価格、米国債利回り上昇でも4000ドル台維持 中銀の準備資産分散が下支え&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-10-04T08:01:00+09:00"
+   "published": "2026-10-04T08:14:23+09:00"
   },
   {
    "title": "「106万円の壁」撤廃で手取りどれほど減？　年金増えるメリットも",
@@ -285,14 +353,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-10-04T07:00:00+09:00"
-  },
-  {
-   "title": "｢出前一丁｣にグリーンカレー味？ 香港に《世界最多》20種以上の現地フレーバー…なぜ日本の麺が\"国民食\"になったのか | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959385?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "香港の街角で目にした｢出前一丁｣の圧倒的な存在感――。日本生まれの即席麺が､なぜ現地で国民食と呼ばれ熱狂的な支持を集めるのか。その陰にあった大胆なローカライズ戦略と現地文化へのリスペクト､そして独自…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-04T06:45:00+09:00"
   },
   {
    "title": "投資の利益「自分だけ逃しているのでは」　若者を焦らす「FOMO」",
@@ -353,16 +413,6 @@
    "title_orig": "A tough job market is pushing more young Americans to make a big bet: on themselves"
   },
   {
-   "title": "副操縦士が斧を使用してフライドバイ便で「テロ行為」を実行",
-   "link": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
-   "summary": "コックピットで攻撃が開始されたとき、1073便はテルアビブに向かっていた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-04T02:21:11+09:00",
-   "lang": "en",
-   "title_orig": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight"
-  },
-  {
    "title": "これらの業界では、より高い給料を得るために転職するのが最も効果的です",
    "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
    "summary": "インフレが賃金の伸びを上回っている現在、新たな仕事を見つけることは昇給を得る一つの方法である。",
@@ -407,16 +457,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-03T19:57:54+09:00"
-  },
-  {
-   "title": "中国、欧州の化学物質輸出に対する反ダンピング調査を開始",
-   "link": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
-   "summary": "EUが先週開始した同様の3件の調査に続く最新の報復措置",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-03T19:16:42+09:00",
-   "lang": "en",
-   "title_orig": "China launches anti-dumping probe into European chemical exports"
   },
   {
    "title": "高級品株がファストファッション価格で販売されている",
@@ -481,22 +521,6 @@
    "published": "2026-10-03T13:07:37+09:00"
   },
   {
-   "title": "マンション販売「ワニの口」とは",
-   "link": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-03T12:46:12+09:00"
-  },
-  {
-   "title": "配膳で「横取り」しゃぶ葉対策へ",
-   "link": "https://news.yahoo.co.jp/pickup/6597349?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-03T09:16:07+09:00"
-  },
-  {
    "title": "AI が株式市場の残りの部分を締め出す",
    "link": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3?mod=rss_markets_main",
    "summary": "ハイテク以外の銘柄は苦戦し、利益の拡大は鈍化し、信用リスクへの懸念が高まると予想される。",
@@ -541,16 +565,6 @@
    "published": "2026-10-03T06:47:00+09:00",
    "lang": "en",
    "title_orig": "Community Banks Swing Back at Trump Regulators Over Crypto Charters"
-  },
-  {
-   "title": "雇用統計が金利見通しを和らげ、米国株が上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-jobs-report-tempers-rate-outlook-fde051d1?mod=rss_markets_main",
-   "summary": "雇用の伸び鈍化により連邦準備制度が月後半に再度利上げするとの期待が弱まり、米国株は上昇して今週を終えた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-03T06:30:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Rise as Jobs Report Tempers Rate Outlook"
   },
   {
    "title": "原油先物反落、Ｇ７が石油備蓄1億バレル協調放出で合意 - jp.reuters.com",
@@ -771,28 +785,12 @@
    "published": "2026-10-02T18:11:29+09:00"
   },
   {
-   "title": "プルデンシャル生命に業務停止命令を検討　金融庁、3カ月を軸に調整",
-   "link": "https://www.asahi.com/articles/ASVB22S9GVB2ULFA029M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-02T17:33:31+09:00"
-  },
-  {
    "title": "底堅い、ＡＩ株主導で7万円トライも＝来週の東京株式市場 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVZGODlaNnBQdlV1TkRKYjdXRThWQnM0SXJLMUVMMlY5b1VyMUFXYkEzbUg0YVY4aUFYbTNDajF1LWk1bUtXR0hqd2M4MHNXOEROR1ZoUEVfeHN0NWFTOEtEMlhQTVVGc3dMMkdYYTM2YmhEQUxBeHhFejVTQWlBc0h3WDQ?oc=5",
    "summary": "底堅い、ＡＩ株主導で7万円トライも＝来週の東京株式市場&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-10-02T17:29:43+09:00"
-  },
-  {
-   "title": "いすゞ、EVバスをリコール　インバーターに不具合、大阪で火災も",
-   "link": "https://www.asahi.com/articles/ASVB22HY8VB2ULFA012M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-02T17:02:47+09:00"
   },
   {
    "title": "日本銀行が保有する国債の銘柄別残高",
@@ -885,36 +883,12 @@
    "published": "2026-10-02T15:00:00+09:00"
   },
   {
-   "title": "めぶきFG統合10年、地域経済維持へ腐心　コンサル業や自治体連携",
-   "link": "https://www.asahi.com/articles/ASVB13CY5VB1UJHB009M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-02T14:00:00+09:00"
-  },
-  {
-   "title": "パラマウントＣＥＯ、ＣＮＮトップに買収後の続投要請＝関係筋 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IUDg5UDFtWE1ILUxfWEpKS2NDOEF2ODVfQXlmZ2xnUTZUcHc0ZHBZUVJHMDZoeExCNlpzS2YteVR6cm5KeUY0blRHM0VyMk0ya29QeDVKTmRxSkNmUF9VVW8zaklUcGY5M2pfaWRwaExLd0liZnFraEJB?oc=5",
-   "summary": "パラマウントＣＥＯ、ＣＮＮトップに買収後の続投要請＝関係筋&nbsp;&nbsp;jp.reuters.com",
+   "title": "米ディーゼル輸出禁止、中南米に最大の影響＝ゴールドマン - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVzF0R1hrenZJUUtQRFd5aE9NN2lQNFBvSDlnM2VxVDFEOTlfWU53cElORHU2Q1NTQ0tnaVE0M0lOczJtalFFQ0ktTmZtTzJYWHkxY2NQSVNXYXYyRG9CNE5oNGxIX1UxNmVqQnBSVnhZaGpPcjRlc2xTNmE?oc=5",
+   "summary": "米ディーゼル輸出禁止、中南米に最大の影響＝ゴールドマン&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-10-02T13:58:00+09:00"
-  },
-  {
-   "title": "アングル：エヌビディア、ＡＩ半導体担保の巨大融資市場構想、資産価値巡りウォール街と溝 - jp.reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFlpLXZqYndTZk9IMTJQVVdBSVdOdG9vRm1waHF4WXZBU08taFJmZk5FdVZNYlZkUTNPMkVMX3ladW16Zng1a0JFT2FBVHVDVXd5ZWlnR2tfTUVZVGQtRWdoNkFrLUR1eDM5YVdITnY0V2tuTGE0cFVOSXZHY3gtSjhfOWk?oc=5",
-   "summary": "アングル：エヌビディア、ＡＩ半導体担保の巨大融資市場構想、資産価値巡りウォール街と溝&nbsp;&nbsp;jp.reuters.com",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-02T13:34:00+09:00"
-  },
-  {
-   "title": "簗農水相、会見でも「コメント控える」繰り返す　予算カット発言報道",
-   "link": "https://www.asahi.com/articles/ASVB21D67VB2ULFA00FM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-02T13:24:14+09:00"
+   "published": "2026-10-02T14:44:00+09:00"
   },
   {
    "title": "令和９年度政策評価調書",
@@ -1061,70 +1035,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-10-02T02:00:00+09:00"
-  },
-  {
-   "title": "その他,「金融サービス利用者相談室」におけるナビダイヤルについて更新しました。",
-   "link": "https://www.fsa.go.jp/news/20/sonota/20090331-3.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-01T19:00:00+09:00"
-  },
-  {
-   "title": "「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する内閣府令の一部を改正する内閣府令（案）」等について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20261001/20261001.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-01T19:00:00+09:00"
-  },
-  {
-   "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ　発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
-   "summary": "JERA、Dell Technologies、RHAELMは、千葉市に日本最大の「AIデータセンター」を建設すると発表した。投資額は2.3兆円以上に上る。3社によるドリームチームは、勝機をどこに見いだしているのか。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-01T18:00:00+09:00"
-  },
-  {
-   "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」の公表について",
-   "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261001a.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-01T17:00:00+09:00"
-  },
-  {
-   "title": "国債の落札順位",
-   "link": "https://www.mof.go.jp/jgbs/issuance_plan/pd/261001.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-01T17:00:00+09:00"
-  },
-  {
-   "title": "気候変動対応を支援するための資金供給オペレーションの実施スケジュールについて",
-   "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261001a.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-01T16:00:00+09:00"
-  },
-  {
-   "title": "令和8年度　8月末租税及び印紙収入、収入額調",
-   "link": "https://www.mof.go.jp/tax_policy/reference/taxes_and_stamp_revenues/202608.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-01T15:30:00+09:00"
-  },
-  {
-   "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（神奈川県）",
-   "link": "http://www.boj.or.jp/about/bcp/fso/fso261001a.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-01T15:00:00+09:00"
   }
  ]
 }
