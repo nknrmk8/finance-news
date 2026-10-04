@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T00:52:17.972769+09:00",
+ "generated_at": "2026-10-05T03:51:23.628299+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,26 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "Polymarket の「どんな犠牲を払ってでも成長する」戦略がいかにして詐欺への扉を開いたのか",
+   "link": "https://www.wsj.com/finance/investing/how-polymarkets-growth-at-all-costs-strategy-opened-the-door-to-fraud-994f7c25?mod=rss_markets_main",
+   "summary": "WSJ のキャサリン・ロングがポリマーケットのコンプライアンス違反のパターンを分析する様子をご覧ください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-05T01:00:00+09:00",
+   "lang": "en",
+   "title_orig": "How Polymarket’s ‘Growth at All Costs’ Strategy Opened the Door to Fraud"
+  },
+  {
+   "title": "ドジャースのオーナー、マーク・ウォルターの慈善活動の内部、資金調達の変更によりCEOが辞任",
+   "link": "https://www.wsj.com/business/inside-dodgers-owner-mark-walters-charity-a-funding-shift-led-the-ceo-to-quit-f7640486?mod=rss_markets_main",
+   "summary": "アカデミー・グループは、ウォルターの保険貸付に関する捜査の一環として調査対象となっている団体から資金提供を受けることになる。慈善団体は、スイッチは常にあったと言っています",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-05T01:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit"
+  },
   {
    "title": "アメリカ企業が将来の利益についてこれほど楽観的になったことはかつてない",
    "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
@@ -375,14 +395,6 @@
    "published": "2026-10-04T08:14:23+09:00"
   },
   {
-   "title": "米国の大豆農家、失望　中国の関税下げ見送りで―中間選挙控えトランプ政権に逆風",
-   "link": "https://www.jiji.com/jc/article?k=2026100300263&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-04T08:01:00+09:00"
-  },
-  {
    "title": "「106万円の壁」撤廃で手取りどれほど減？　年金増えるメリットも",
    "link": "https://www.asahi.com/articles/ASV9Z35P6V9ZUTFL01HM.html?ref=rss",
    "summary": "",
@@ -517,16 +529,6 @@
    "title_orig": "How the French Bond Trade Backfired on Investors"
   },
   {
-   "title": "予測市場を支配する Z 世代のハイローラーを紹介する",
-   "link": "https://www.wsj.com/finance/kalshi-prediction-traders-profiles-2130f3b0?mod=rss_markets_main",
-   "summary": "Kalshi や Polymarket などのプラットフォームには新興商社が大きく現れています。彼らは資金調達を始めている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-03T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Meet the Gen-Z High Rollers Dominating the Prediction Markets"
-  },
-  {
    "title": "食品消費税1%に賛否 減税効果は",
    "link": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
    "summary": "",
@@ -557,16 +559,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-03T13:07:37+09:00"
-  },
-  {
-   "title": "AI が株式市場の残りの部分を締め出す",
-   "link": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3?mod=rss_markets_main",
-   "summary": "ハイテク以外の銘柄は苦戦し、利益の拡大は鈍化し、信用リスクへの懸念が高まると予想される。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-03T08:00:00+09:00",
-   "lang": "en",
-   "title_orig": "AI Is Squeezing Out the Rest of the Stock Market"
   },
   {
    "title": "「歌がうまい」はどう測る?　カラオケ採点を第一興商の開発者に聞く",
@@ -727,14 +719,6 @@
    "published": "2026-10-02T21:03:43+09:00",
    "lang": "en",
    "title_orig": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more"
-  },
-  {
-   "title": "簗農水相「誤解招いた」　続投意向、予算カット発言",
-   "link": "https://www.jiji.com/jc/article?k=2026100200786&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-02T20:26:00+09:00"
   },
   {
    "title": "「ウォール街で最もホットなスキル」: 銀行がエージェントを採用するにつれて、この AI 能力の需要が 1,721% 急増",
@@ -1019,38 +1003,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-10-02T07:00:00+09:00"
-  },
-  {
-   "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について更新しました。",
-   "link": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-02T02:30:00+09:00"
-  },
-  {
-   "title": "国際関係,バーゼル銀行監督委員会による「バーゼルⅢモニタリングレポート」について公表しました。",
-   "link": "https://www.fsa.go.jp/inter/bis/20261001/20261001.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-02T02:00:00+09:00"
-  },
-  {
-   "title": "企業会計審議会監査部会（第57回）の開催について掲載しました。",
-   "link": "https://www.fsa.go.jp/news/r8/singi/20261002_kansa.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-02T02:00:00+09:00"
-  },
-  {
-   "title": "企業会計審議会監査部会（第57回）議事次第について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kansa/20261002/261002.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-02T02:00:00+09:00"
   }
  ]
 }
