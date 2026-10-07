@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T09:05:59.599159+09:00",
+ "generated_at": "2026-10-07T14:50:29.521014+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,450 @@
  "errors": [],
  "items": [
   {
+   "title": "国際関係,グローバル金融連携センターにおける海外当局職員の受入（第29期：保険監督当局職員15名）について公表しました。",
+   "link": "https://www.fsa.go.jp/inter/glopac/20260825/20260825_29th.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-07T20:00:00+09:00"
+  },
+  {
+   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月25日）について掲載しました。",
+   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20260925-1.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-07T20:00:00+09:00"
+  },
+  {
+   "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事録について公表しました。",
+   "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijiroku/20260916.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-07T20:00:00+09:00"
+  },
+  {
+   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月29日）について掲載しました。",
+   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20260929-1.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-07T20:00:00+09:00"
+  },
+  {
+   "title": "トランプ大統領、肺ペストについてプーチン大統領と会談すると表明",
+   "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
+   "summary": "米国政府、ロシア政府に対し、1人が死亡した事件についてさらに情報を共有するよう圧力を強める",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-07T14:33:39+09:00",
+   "lang": "en",
+   "title_orig": "Trump says he will speak with Putin about pneumonic plague"
+  },
+  {
+   "title": "豪ドル円は長期的な天井に達した可能性がある",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
+   "summary": "シティ・リサーチによると、豪ドルと日本円のペアは長期的な天井に達した可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-07T14:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Australian Dollar-Yen May Have Reached Long-Term Ceiling"
+  },
+  {
+   "title": "消費活動指数",
+   "link": "https://www.boj.or.jp/research/research_data/cai/index.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-10-07T14:00:00+09:00"
+  },
+  {
+   "title": "政府、第2次補正予算案を検討　災害対応や公務員給与引き上げなど",
+   "link": "https://www.asahi.com/articles/ASVB71DJJVB7ULFA00HM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-07T13:25:10+09:00"
+  },
+  {
+   "title": "堅調な AI 投資により、投資家は再び米国の豊作な決算シーズンに向けて準備を整える",
+   "link": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
+   "summary": "株式市場の高値と長期借入コストの上昇を背景に、S&P 500種株価指数の利益は27%増加すると予想されている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-07T13:00:22+09:00",
+   "lang": "en",
+   "title_orig": "Robust AI spending sets investors up for another bumper US earnings season"
+  },
+  {
+   "title": "トライボロジーが経済世界をどう動かすか",
+   "link": "https://www.ft.com/content/d4c55464-b05c-468d-b542-620d1093a7af?syn-25a6b1a6=1",
+   "summary": "摩擦と摩耗の科学は、産業をより円滑に運営する上で中心的な役割を果たします",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-07T13:00:22+09:00",
+   "lang": "en",
+   "title_orig": "How tribology makes the economic world go round"
+  },
+  {
+   "title": "ブリュッセルは大企業への課税を通じてビッグテックの獲得を目指す",
+   "link": "https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b?syn-25a6b1a6=1",
+   "summary": "欧州委員会、米国のデジタルサービスグル​​ープの孤立を避けるため、すべての大企業に広範な課税を検討",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-07T13:00:13+09:00",
+   "lang": "en",
+   "title_orig": "Brussels looks to capture Big Tech through tax on large corporations"
+  },
+  {
+   "title": "エネルギーショックの次に何が起こるのでしょうか？",
+   "link": "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1",
+   "summary": "石油供給、原油価格、世界経済への混乱はこれまでのところ驚くほど対処可能である",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-07T13:00:12+09:00",
+   "lang": "en",
+   "title_orig": "What comes next with the energy shock?"
+  },
+  {
+   "title": "思い当たる人には朗報! ｢ため息｣｢ののしり｣｢貧乏ゆすり｣ついやりがちな《悪い癖》が実は体にいい意外なエビデンス | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/958284?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ストレス社会で見落とされがちな健康習慣。実は｢ため息｣や｢ののしる言葉｣｢貧乏ゆすり｣など､一見ネガティブに思われる行為が､心身やパフォーマンスに意外なプラス効果をもたらすことが科学的に示されていま…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T13:00:00+09:00"
+  },
+  {
+   "title": "エネルギー対策特別会計の借入金の入札結果（令和8年10月7日入札）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result261007.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T13:00:00+09:00"
+  },
+  {
+   "title": "「地元の声」受け問い合わせ　簗農水相、内容は「覚えていない」―道路予算カット問題",
+   "link": "https://www.jiji.com/jc/article?k=2026100700482&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-10-07T12:37:00+09:00"
+  },
+  {
+   "title": "国債整理基金による買入消却に係る国債の買入れのための入札結果（令和8年10月7日）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/resul418.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T12:35:00+09:00"
+  },
+  {
+   "title": "リバティ･メディアによる買収でF1のようなムーブメントを作れるか…2輪レース最高峰｢MotoGP｣副CEOが語る成長戦略 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960106?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "モーターサイクルレース最高峰｢MotoGP｣はF1のように興行的成功を収められるのか､その戦略について副CEOエスペレータに聞いた。日本人ライダーとして22年ぶりに最高峰クラス優勝を果たした小椋藍選…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T12:30:00+09:00"
+  },
+  {
+   "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月6日(火曜日))",
+   "link": "https://www.mof.go.jp/public_relations/conference/my20261006.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T12:25:00+09:00"
+  },
+  {
+   "title": "公取委 なぜビール4社に強制調査",
+   "link": "https://news.yahoo.co.jp/pickup/6597856?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-07T12:19:38+09:00"
+  },
+  {
+   "title": "PIECE OF BAKE運営破産申立てへ",
+   "link": "https://news.yahoo.co.jp/pickup/6597853?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-07T12:10:22+09:00"
+  },
+  {
+   "title": "｢時代に負けてる｣｢なんやそれ｣と消費者カリカリ…日本ハム･シャウエッセン｢謎イキリ広告で炎上｣に見る\"値上げの作法\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960399?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "日本ハムの人気商品｢シャウエッセン｣が内容量を減らし価格を据え置く\"実質値上げ\"を発表し､SNSで批判が殺到しています。キャッチコピー｢時代に負けてたまるか。｣と現実の値上げ。消費者の不満と企業の思…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T12:05:00+09:00"
+  },
+  {
+   "title": "中国の外貨準備高、9月は3.400兆ドル 予想以上に減少 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LYkJZOG9rbkhjbmZOeVVBNTRJUjFPRjV3ZDFrNzVtY3lucEJ1MHdPdnFHV0lOb0NVVk0wYk5HMElkQjRLOGR1ZWRrTWEybHRWTERIdmpkZ1pWeDdMTnNhakM5a0lFWEFmdmhHbENvQmFiaUhkNTFxSnFuNWY?oc=5",
+   "summary": "中国の外貨準備高、9月は3.400兆ドル 予想以上に減少&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-07T12:03:00+09:00"
+  },
+  {
+   "title": "T乾でブレイクの《俳優･中島歩》に\"どうしても惹かれてしまう\"納得の理由　遅咲きならではの魅力とは？ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959511?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "話題のドラマ『Tシャツが乾くまで』で注目を集めた俳優･中島歩。彼が演じる園田樹生の繊細な内面と､静かな演技の魅力が多くの視聴者を惹きつけています。今や配信作品でも見かけないことがない中島。そのブレイ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T12:00:00+09:00"
+  },
+  {
+   "title": "製造たばこの小売定価の認可",
+   "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T12:00:00+09:00"
+  },
+  {
+   "title": "ビール大手4社が価格調整の疑い、公取委が家宅捜索　値上げを協議か",
+   "link": "https://www.asahi.com/articles/ASVB64JYCVB6UTIL024M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-07T11:55:19+09:00"
+  },
+  {
+   "title": "簗和生（やな・かずお）農水相は、国交省に道路予算を問い合わせた理由について「地元の方から関心のある声があり、確認しようとした」と述べた",
+   "link": "https://www.jiji.com/jc/article?k=2026100700468&g=flash&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-10-07T11:42:00+09:00"
+  },
+  {
+   "title": "日本取引所グループが過去最高益を見込む\"株高だけではない\"背景 純利益予想を1050億円に上方修正 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960131?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "歴史的な高値を演じる日本株。投資家はもちろん､胴元である証券取引所もまた､その恩恵に与っています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T11:30:00+09:00"
+  },
+  {
+   "title": "なぜ2027年度の陸自｢戦車購入｣が突然ゼロになったのか､10式戦車の火災事故が揺さぶる国産戦車と陸自14万人の存在意義 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960103?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "2026年4月､大分県で発生した陸上自衛隊10式戦車の火災事故は､3名の命を奪い､戦車の存在意義や防衛政策全体に波紋を広げています。戦車砲の設計不良の可能性も指摘され､戦車廃止論や陸自縮小論に発展し…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T11:30:00+09:00"
+  },
+  {
+   "title": "｢企業買収における行動指針｣の生みの親を直撃！なぜ価格だけで買収提案を決めてはいけないのですか？ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959965?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "──そもそも「企業買収における行動指針」を策定しようとしたきっかけは何だったのでしょうか。実は企業買収をめぐる指針は2005年、07年、19年と作られてきたが、いずれも理屈や考え方を重視したものだっ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T11:30:00+09:00"
+  },
+  {
+   "title": "税務官が中国の海外富を狙ってやってくる",
+   "link": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
+   "summary": "この弾圧は、国内の最も裕福な人々と、彼らの資金を管理する香港、シンガポール、東京の企業を動揺させている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-07T11:27:55+09:00",
+   "lang": "en",
+   "title_orig": "The taxman comes for China’s offshore riches"
+  },
+  {
+   "title": "投資する20代、11%→29%に　駆り立てる「取り残される不安」",
+   "link": "https://www.asahi.com/articles/ASVB54W1HVB5ULFA02XM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-07T11:00:00+09:00"
+  },
+  {
+   "title": "消費減税、識者が警鐘「財政負担考えると疑問」「社会保障の転換を」",
+   "link": "https://www.asahi.com/articles/ASVB63D1FVB6ULFA00TM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-07T11:00:00+09:00"
+  },
+  {
+   "title": "エリソンCEOが率いる巨大メディア｢スカイダンス｣誕生､CNNとCBSは独立した編集体制を維持する見通し | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960418?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "パラマウントとワーナー･ブラザース･ディスカバリーが1100億ドル規模で統合し､新生｢スカイダンス｣が誕生しました。トランプ米大統領は､記者団から買収完了について質問され､｢素晴らしい企業になるだろ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T11:00:00+09:00"
+  },
+  {
+   "title": "\"睡眠時間を削る人\"が知らない｢認知症のリスク｣…眠っている間に｢脳が丸洗い｣されているという事実【現役医師が解説】 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/957501?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "私たちが軽視しがちな睡眠には､脳のゴミを洗い流し､全身の傷を修復する｢体内リニューアル｣という重要な役割があります。本記事では､睡眠中の驚くべき修復メカニズムと､質の良い眠りを促す｢イメージ入眠法｣…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T11:00:00+09:00"
+  },
+  {
+   "title": "銀座でビール4社が非公式の価格会議か　公取委が30年越しの追及",
+   "link": "https://www.asahi.com/articles/ASVB64R61VB6UTIL01PM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-07T10:49:22+09:00"
+  },
+  {
+   "title": "ビール大手4社カルテル疑い 調査",
+   "link": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-07T10:45:44+09:00"
+  },
+  {
+   "title": "授業で習っている歴史は｢報告書｣？　｢アテネ｣と｢スパルタ｣ばかり扱う歴史の裏に隠された\"教科書のリアル\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959343?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "世界史の教科書はなぜアテネとスパルタばかりを強調するのでしょうか。背景には史料の偏りや､比較しやすい構造､歴史の｢見え方｣の差が隠れています。私たちが知る歴史は確かなものなのか――答えを探す旅が今､…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T10:30:00+09:00"
+  },
+  {
+   "title": "5年利付国債（10月債）の発行予定額等（令和8年10月7日公表）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261007.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T10:30:00+09:00"
+  },
+  {
+   "title": "中小の「賃上げ倒産」増加 背景は",
+   "link": "https://news.yahoo.co.jp/pickup/6597839?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-07T10:23:46+09:00"
+  },
+  {
+   "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和8年10月7日）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer418.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T10:10:00+09:00"
+  },
+  {
+   "title": "《人生の充実度は週末で決まる》休日を寝だめとSNSで終える人が失っているのは…今より幸せになるための｢オフの使い方｣ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959970?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "忙しいビジネスパーソンにとって､｢時間｣は何よりも貴重な資源。平日は効率的に過ごせても､週末は惰性で流されていませんか。しかし､オフの時間をどう使うかは､人生の充実度に直結します。豊かな人生を送るた…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T10:00:00+09:00"
+  },
+  {
+   "title": "営業毎旬報告（9月30日現在）",
+   "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260930.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-10-07T10:00:00+09:00"
+  },
+  {
+   "title": "入札、落札結果情報（物品・役務）",
+   "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T10:00:00+09:00"
+  },
+  {
+   "title": "世銀、26年アフリカ成長予想を4.3％に上方修正 ＡＩ投資提言 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTNNZW51emRCZ1MzMUZSN2QxMmpOY05oSjIta3ZvYXdXbmctUXZ3N2dHWU1oS2ktVWVEcFYzckhpX3VSZ2RSaFFlcC1GdENyeEhNWnRlTVhnZEdyNUpqRGtmNEcxX1BjMXgwV21UakZhcXJKU0FzY0lJUE5QUUE0aHF0MGo?oc=5",
+   "summary": "世銀、26年アフリカ成長予想を4.3％に上方修正 ＡＩ投資提言&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-07T09:59:00+09:00"
+  },
+  {
+   "title": "実質賃金10年ぶり8カ月連続プラス",
+   "link": "https://news.yahoo.co.jp/pickup/6597835?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-07T09:55:21+09:00"
+  },
+  {
+   "title": "投資家がFRB会議の議事録を待つ中、金は下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
+   "summary": "グローバルデー後半に予定される米連邦準備制度理事会（FRB）の9月会合議事録発表を前に、アジア貿易では金相場が小幅安となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-07T09:40:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Ticks Lower as Investors Await Fed Meeting Minutes"
+  },
+  {
+   "title": "ウーバー、米ケータリング企業を23億ドルで買収 ドアダッシュ追撃 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SRGVMc2J1NGh5ZjhhejFIcjVrVEFWYXRMOFRua25oZ3BCYTVFY1VoUEJYTWxFRGp3MVlQaUlxSTljSEdyU2V0UTVZSjV0aDcxUmY5TEY4RWpQeXNXTVFNOHlNZWJTMGswLVJuaWlJYUp6amd3NG00SGlRLVU?oc=5",
+   "summary": "ウーバー、米ケータリング企業を23億ドルで買収 ドアダッシュ追撃&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-07T09:32:00+09:00"
+  },
+  {
+   "title": "7兆円の機会損失も…日本で進む｢交通空白｣の深刻さ　奪われる\"子どもの未来と保護者のキャリア\"　解決に必要なことは？ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959413?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "共働き家庭や地方在住の親が抱える｢子どもの送迎負担｣。その裏には､労働機会や教育機会の喪失､そして巨額の経済損失が隠れています。移動の不自由さが家族の働き方や子どもの未来に与える影響とは？交通格差の…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T09:30:00+09:00"
+  },
+  {
+   "title": "国債金利情報(令和8年10月6日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-07T09:30:00+09:00"
+  },
+  {
+   "title": "中東の緊張が続く中、原油価格が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
+   "summary": "中東地域での供給混乱に対する懸念が継続する可能性がある中東地域での緊張が続く中、原油価格はアジア貿易序盤に上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-07T09:27:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Rises Amid Ongoing Mideast Tensions"
+  },
+  {
+   "title": "日経フラット、電機・機械株に支えられる",
+   "link": "https://www.wsj.com/opinion/nikkei-flat-supported-by-electronics-machinery-shares-d897b28b?mod=rss_markets_main",
+   "summary": "日本の日経平均株価は、エレクトロニクス株と機械株の上昇が金融株の下落を相殺し、横ばいとなった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-07T09:20:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Flat, Supported by Electronics, Machinery Shares"
+  },
+  {
+   "title": "《新生児手術は年9例》間近に迫る地方小児医療崩壊の足音…｢少子化｣と将来の｢小児外科医不足｣が患者家族に強いる負担 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959073?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "医師が診療科を自由に選べる日本では､外科や産科など負担の大きい分野ほど若手が集まらなくなっています。少子化による患者減､過酷な労働環境､そして教育機会の減少――。いま医療現場で何が起きているのでしょ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T09:15:00+09:00"
+  },
+  {
+   "title": "国債入札で30年ぶりの高利率で想定金利超え　財務省「SFの世界」",
+   "link": "https://www.asahi.com/articles/ASVB64TW1VB6ULFA01QM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-07T09:00:00+09:00"
+  },
+  {
    "title": "40万円超､巨大カメラ付きスマホで過熱する中国勢の望遠競争､ファーウェイが狙う次の一手 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/960185?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "スマートフォンの進化は今やカメラ性能の新たな領域に突入している。中国ではファーウェイの｢Mate 90 Pro Max｣は高価格帯ながら､大型撮像センサーを備えた外付けカメラ｢Ruiying Z10…",
@@ -70,7 +514,7 @@
   },
   {
    "title": "マネタリーベースと日本銀行の取引（9月）",
-   "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2609.pdf",
+   "link": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2609.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -78,7 +522,7 @@
   },
   {
    "title": "日本銀行の対政府取引（9月）",
-   "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
+   "link": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -86,7 +530,7 @@
   },
   {
    "title": "オペレーション（9月）",
-   "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
+   "link": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -125,10 +569,26 @@
    "published": "2026-10-07T08:50:00+09:00"
   },
   {
+   "title": "8月実質賃金は前年比1.5％増、8カ月連続プラス＝毎勤統計 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3FHWlE3RTZVQ2w1emJIOTZteTJYOUE3OTRkd3ZJaDJfUnA4YWtKdDYtckFaaXNxVnh0S1NubGJmeDVpVDlxYzlzSVhoMzdGWUw2bnpIQ014VDN5aEJ0RDgyVl9IckVubENFdFZHZnROWmNiMm4zWlZoSGxXamoySk56WnQ?oc=5",
+   "summary": "8月実質賃金は前年比1.5％増、8カ月連続プラス＝毎勤統計&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-07T08:45:43+09:00"
+  },
+  {
    "title": "｢その場から解放されたくて､ネコのエサを食べました｣追い詰められた警備員の悲劇…法施行で理不尽カスハラは減るか | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/959850?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "騒音で飼いネコが食事をしなくなった。余ったエサ､あなたが食べてくれるのか。女性のクレームに追い詰められた交通誘導警備員が取った行動とは――。10月1日､カスハラ対策を企業に義務付ける法律が施行､警備…",
    "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-07T08:45:00+09:00"
+  },
+  {
+   "title": "「チェーン店は金太郎あめ」の時代は終わった　AOKIHD会長が語る、異業種1398店舗を束ねる「賢い投資」",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/07/news024.html",
+   "summary": "グループ全体で1398店舗を展開するAOKIホールディングス。深刻な人手不足に対し、ファッション事業では店舗で購入した商品を工場で補正・在庫保管し自宅へ直送する「イージーウェブショップ」を導入。店舗オペレーションを劇的に削り、機会損失を防ぐ体制を構築した。さらに「ペガサスクラブ」理論に基づき、異なる事業の数値を同一軸で管理。「金太郎あめ」を脱し、標準化と地域最適化を両立させる同社のチェーンストア経",
+   "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-10-07T08:45:00+09:00"
   },
@@ -157,46 +617,20 @@
    "published": "2026-10-07T08:30:00+09:00"
   },
   {
-   "title": "｢でも俺､新婚旅行前は貯金300万円あったんだよ？｣…婚活アプリ婚の30歳妻を激怒させた夫の｢一発アウト｣な一言 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960046?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "共働き夫婦の間で｢財布も貯金も別｣が増える現代。しかし､お金の話を切り出すとパートナーが不機嫌に……。そんな悩みを抱える山本夫妻のケースをもとに､資産形成に向けた賢い話し合いのコツを解説します。夫婦…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T08:30:00+09:00"
+   "title": "スペースＸ、エヌビディア製半導体購入へ400億ドル調達目指す＝ＦＴ - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlpobnd6ZnJiSWZMTFBDUE02SUc3clJDVWhCUFFNa1pBUW9pYlEzUGc3UnNybUJJRklGV3pIaDNHaUROYVNNZWxYUXJGMUlWaTczeEZMcm9rOHNZT084R0VWbHd3bmNGRzFzVkltVG5VMGpSRWtQTmZxdWhoMklmVk5fRHU?oc=5",
+   "summary": "スペースＸ、エヌビディア製半導体購入へ400億ドル調達目指す＝ＦＴ&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-07T08:10:07+09:00"
   },
   {
-   "title": "トランプ大統領、肺ペストについてプーチン大統領と会談すると表明",
-   "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
-   "summary": "米国政府、ロシア政府に対し、1人が死亡した事件についてさらに情報を共有するよう圧力を強める",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-07T08:18:47+09:00",
-   "lang": "en",
-   "title_orig": "Trump says he will speak with Putin about pneumonic plague"
-  },
-  {
-   "title": "｢やっと乾いた！｣→まさかの\"臭い復活\"…部屋干し迷走で悟った｢雨の日の洗濯｣の\"最適解\"　ドライヤー乾燥も失敗し… | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959843?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T08:15:00+09:00"
-  },
-  {
-   "title": "｢日本人女性とタイ人男性は前例がないから無理｣と役所に拒まれ､父は激高…大反対を押し切った日泰夫婦\"ビビビ国際結婚\" | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959302?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "異文化や家族､役所の壁…多くの困難を乗り越えて結ばれた日本人女性とタイ人男性。周囲の反対と｢前例がない｣現実を前に､二人はどんな選択をし､どんな道を歩んできたのか。30年続く､深い絆の秘密に迫ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T08:01:00+09:00"
-  },
-  {
-   "title": "跡継ぎとして入社した日に義父が急死｢義母に追われた｣タイ人の夫､社長は妻に…それでも義母を案じて近くに店を開いた訳 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959301?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "国際結婚から30余年――文化や言葉､家業の継承という壁を共に乗り越えてきた日本人とタイ人の夫婦､スライ･ジャトロンカモンさんと富士子さん。ときに家族の反対や葛藤に直面しながらも､支え合い､信念をもっ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T08:00:00+09:00"
+   "title": "日銀利上げ「景気殺さぬタイミングで」と佐藤審議委員、段階的な調整に賛成 メディアの取材に - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OcTRwU2R3SVBkR2pocy0yZ0R3RTB0YjlWOXU5ZjJqMkx4SXJTRGRMRElfT2hsMXNpb24yVUkzam1ya2xleElDVzZzbTBwVThab0hDcXdNSUllM3NnZzVvOW1FQnI3YXJzT1A5ajdscDlGNHlKQm5LUmNidEs?oc=5",
+   "summary": "日銀利上げ「景気殺さぬタイミングで」と佐藤審議委員、段階的な調整に賛成 メディアの取材に&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-07T08:06:09+09:00"
   },
   {
    "title": "あえて「経済圏を持たない」Vポイント、Olive連携を武器にどう戦う？　社長が語る",
@@ -215,22 +649,6 @@
    "published": "2026-10-07T07:54:00+09:00",
    "lang": "en",
    "title_orig": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
-  },
-  {
-   "title": "朝ドラ《ブラッサム》宇野千代が生きた時代に起きた\"ミスコン\"巡る大騒動…｢1位になったのに｣裏にあったまさかの事態 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959813?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "新しい朝ドラ｢ブラッサム｣。主人公のモデルの宇野千代が生きた明治時代におきた､ミスコンを巡る｢ある大騒動｣とは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T07:45:00+09:00"
-  },
-  {
-   "title": "\"キレイ\"な提案書を出した会社が落とされ\"フツー\"の提案をしたライバルが勝った深いワケ　｢AI営業の痛恨のしくじり｣ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959149?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "AIが生み出した完璧な提案書。しかし現場を見てこそ伝わる\"本物のコミュニケーション\"が欠けていたせいで､クライアントに一蹴される──。AIと人間､どこまで頼るべきか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T07:30:00+09:00"
   },
   {
    "title": "SpaceX、Apollo主導の資金調達でNvidiaチップ購入のため400億ドルを調達予定",
@@ -253,14 +671,6 @@
    "title_orig": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record"
   },
   {
-   "title": "Netflix『ダウンタイム』が示した《脳の盛りグセ》というカラクリ…人が\"自分の顔\"に満足できなくなるバグの正体 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "美容整形がテーマのNetflixドラマ『ダウンタイム』が話題沸騰中です。なぜ人は｢変わりたい｣と思うのか。私たちが自認する\"自分の顔\"と､他人が見る顔とのギャップ､その心理メカニズムを科学的に解き明…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T07:15:00+09:00"
-  },
-  {
    "title": "マーベル、28年度売上高200億ドル見込む ＡＩ向けカスタム半導体がけん引 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vQkVjNGJNZ2MxN2VkRTdEX0N5Zk53S3VZSkpvQWtMTGVHc0hRT3FfVEZEWEo3X3lxQWd5OEVfUmZpRGppRG5sTGswUnlueEJ1cDc0amYxX1Q1R1YyanMtdU40cGtnb21abE1GbHRJbXBpQ05SZEhFR0RR?oc=5",
    "summary": "マーベル、28年度売上高200億ドル見込む ＡＩ向けカスタム半導体がけん引&nbsp;&nbsp;ロイター",
@@ -269,27 +679,19 @@
    "published": "2026-10-07T07:03:43+09:00"
   },
   {
+   "title": "ＮＹ市場サマリー（6日）Ｓ＆Ｐ５００とナスダックが最高値更新、ユーロ上昇、利回り低下 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kTlRfQzNCNmoyRzRVdkxwX1VfRFRzNjlEQXBKXy1YVDRzekpNcHhwN2tRaWRzMFVNdHI4b09UTXpkVVFSRFNzekUxMkNoQ3N2anJPeVU0NlIwQk5QeTFSeU5XM3R2akJZQmlkQ2J1RmdnV2ZqVS1PNjBlUmw?oc=5",
+   "summary": "ＮＹ市場サマリー（6日）Ｓ＆Ｐ５００とナスダックが最高値更新、ユーロ上昇、利回り低下&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-07T07:01:43+09:00"
+  },
+  {
    "title": "「金融緩和の度合い、急激に変わらぬ利上げを」日銀・佐藤審議委員",
    "link": "https://www.asahi.com/articles/ASVB64GHQVB6ULFA00NM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
-   "published": "2026-10-07T07:00:00+09:00"
-  },
-  {
-   "title": "｢早く逮捕されろって思ってた｣超有名YouTuber･ヴァンビ…\"異常なほどの上昇志向\"の源泉に｢バンドで売れなかった経験｣ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960334?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "人気YouTuberヴァンビこと白井竜樹容疑者が六本木のクラブで現行犯逮捕されました。酒席での危うい振る舞いへの証言も相次いでいます。視聴回数至上主義のYouTube業界が生み出す過激化と自己顕示欲…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T07:00:00+09:00"
-  },
-  {
-   "title": "｢日本の住宅は高性能｣は間違い？　敏腕不動産営業が指摘する\"先進国で最弱の機能\"　漫画｢正直不動産｣（第22集 第175話） | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/958699?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "不動産会社・登坂不動産のエース営業である永瀬財地（ながせ・さいち）、35歳。「売るためだけ」の情報を顧客に伝え、時には嘘も厭わない口八丁ぶりで、圧倒的な売り上げをたたき出してきた。だが、ある地鎮祭で…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
    "published": "2026-10-07T07:00:00+09:00"
   },
   {
@@ -311,14 +713,6 @@
    "title_orig": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue"
   },
   {
-   "title": "空き家を放置し続けると｢行政代執行｣で大出費？ 知っておきたい｢実家じまい｣4つの選択肢《｢負動産｣にしないために》 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/959352?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "高齢化社会の進展により､空き家となった実家を持て余す人が急増しています。放置すれば｢負動産｣となり､多額の費用やトラブルに発展するリスクも。実家じまいをスムーズに進めるための知識や対策､あなたは万全…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T06:45:00+09:00"
-  },
-  {
    "title": "S&P 500 が新記録最高値を更新、テクノロジーの力も大きく貢献",
    "link": "https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705?mod=rss_markets_main",
    "summary": "米国株のほとんどは下落しているが、市場の AI エンジンはすべての気筒で稼働している。",
@@ -329,24 +723,6 @@
    "title_orig": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else"
   },
   {
-   "title": "そりゃユニクロと違うわけだ…イオンの｢1000円フリース｣を買ってわかった\"本当の価値\" | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960022?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "イオンの｢1000円フリース｣が話題を呼んでいます。普段着として本当に\"買い\"なのか､その本音に迫ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T06:30:00+09:00"
-  },
-  {
-   "title": "ジム・クライバーン氏、手頃な価格の売り文句で黒人有権者を魅了するよう民主党に要請",
-   "link": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
-   "summary": "議会議員、トランプ大統領が「ジム・クロウ2.0」を先導しており、共和党は選挙区再編に対する「反響を得る」だろうと語る",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-07T06:29:02+09:00",
-   "lang": "en",
-   "title_orig": "Jim Clyburn urges Democrats to woo Black voters with affordability pitch"
-  },
-  {
    "title": "WSJドル指数は0.16％下落し97.15",
    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-data-af9dfb71?mod=rss_markets_main",
    "summary": "WSJドル指数は0.2％下落し、過去3営業日中2営業日下落した。",
@@ -355,14 +731,6 @@
    "published": "2026-10-07T06:20:00+09:00",
    "lang": "en",
    "title_orig": "WSJ Dollar Index Falls 0.16% to 97.15"
-  },
-  {
-   "title": "日本一夕陽が美しいスタバが誕生!? 東名に｢進化系サービスエリア｣ONE SEANAが《EXPASA浜名湖》がオープン | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960067?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "進化が著しく目が離せない高速道路の休憩施設に､また新たな最新鋭の進化系サービスエリアが誕生した。それが東名高速道路の浜名湖SA（EXPASA浜名湖）である。美しい景色が見られるスタバなど､見どころが…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T06:15:00+09:00"
   },
   {
    "title": "トランプ大統領、連邦ガソリン税の一時停止を検討中と発言",
@@ -395,80 +763,12 @@
    "title_orig": "Basic Materials Roundup: Market Talk"
   },
   {
-   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6799c94c?mod=rss_markets_main",
-   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、原油先物、振幅エネルギー、SKイノベーションなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-07T06:07:00+09:00",
-   "lang": "en",
-   "title_orig": "Energy & Utilities Roundup: Market Talk"
-  },
-  {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-77d30c0b?mod=rss_markets_main",
-   "summary": "自動車と輸送をカバーする最新のマーケットトークで、サウスウエスト航空、メルセデスベンツ、BMW、ダイムラートラックなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-07T06:06:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
-  },
-  {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-ac617391?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、ASML Holding、CrowdStrike、CGI などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-07T06:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d4470f5?mod=rss_markets_main",
-   "summary": "金融サービスを対象とした最新のマーケットトークで、カルシ、サンタンデール銀行、AIA、ユナイテッド・オーバーシーズ銀行などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-07T06:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "「仮想通貨で最も危険な製品」がシンガポールを悩ませる",
-   "link": "https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1",
-   "summary": "リスクとスキャンダルを嫌う都市国家は、国内のハイパーリキッド研究所とその人気の「犯罪者」から距離を置こうとしている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-07T06:00:09+09:00",
-   "lang": "en",
-   "title_orig": "‘Most dangerous product in crypto’ vexes Singapore"
-  },
-  {
    "title": "仲良かった母と息子なぜ法廷対決　後見人、相続より「本人の利益」",
    "link": "https://www.asahi.com/articles/ASVB42F92VB4ULFA011M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-07T06:00:00+09:00"
-  },
-  {
-   "title": "｢強くて安いドル｣を目指し｢弱くて高いドル｣を招いたトランプ政権…中間選挙後には｢弱くて安いドル｣の悪夢も | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960149?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "市場は中間選挙後のドル相場に注目しています。1971年のニクソンショック以降､アメリカは｢強くて安いドル｣を追求してきましたが､トランプ政権は従来にない独善的な政策運営で金融市場に不透明感を増幅させ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-07T06:00:00+09:00"
-  },
-  {
-   "title": "AI株が債券市場の低迷を振り切り、S&P500は過去最高値を更新",
-   "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
-   "summary": "ウォール街の優良株指数は新たな最高値に達するも、一部のハイテク株への依存度は高まる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-07T05:58:07+09:00",
-   "lang": "en",
-   "title_orig": "S&P 500 hits record high as AI stocks shrug off bond market slump"
   },
   {
    "title": "10月9日は株式市場の歴史の中で重要な日となった。投資家が依然として10月のジンクスを受け入れるべきではない理由。",
@@ -527,16 +827,6 @@
    "published": "2026-10-07T05:11:43+09:00"
   },
   {
-   "title": "船長らはホルムズ海峡通過に月10万ドルを支払った",
-   "link": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
-   "summary": "イランの攻撃に直面して水路を危険にさらす危険を冒す船員の給与とボーナスが急上昇",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-07T05:00:08+09:00",
-   "lang": "en",
-   "title_orig": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz"
-  },
-  {
    "title": "両親の車のキーを奪うより悪いことですか?携帯電話を取り上げる。年老いた両親をどう守るか。",
    "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
    "summary": "ペアレンタルコントロールはもはや子供だけのものではありません。",
@@ -545,16 +835,6 @@
    "published": "2026-10-07T04:58:00+09:00",
    "lang": "en",
    "title_orig": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents."
-  },
-  {
-   "title": "ゴールドマン・サックスとマン・グループがEYのデータ侵害で暴露される",
-   "link": "https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee?syn-25a6b1a6=1",
-   "summary": "今年初めのハッキング事件の情報開示により被害者の輪が広がる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-07T04:24:22+09:00",
-   "lang": "en",
-   "title_orig": "Goldman Sachs and Man Group exposed in EY data breach"
   },
   {
    "title": "トランプ大統領、赤く染めたディーゼル規制を放棄、しかし地方税やその他の懸念は残る",
@@ -611,44 +891,12 @@
    "published": "2026-10-07T00:43:38+09:00"
   },
   {
-   "title": "台風で高波 西湘バイパス通行止め",
-   "link": "https://news.yahoo.co.jp/pickup/6597805?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-06T23:43:49+09:00"
-  },
-  {
-   "title": "日販 米AI企業への書籍販売認める",
-   "link": "https://news.yahoo.co.jp/pickup/6597802?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-06T23:18:41+09:00"
-  },
-  {
-   "title": "ワーナー買収を完了　１７兆円規模―米パラマウント",
-   "link": "https://www.jiji.com/jc/article?k=2026100601196&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-06T23:09:00+09:00"
-  },
-  {
    "title": "米国株式市場・序盤＝Ｓ＆Ｐ５００一時最高値、エヌビディアも高値更新 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2N0ZmIxRlFtaEtxNXdJVDNaeUdQMmtDR0JZc3pJMGh5UWcxWkpkNGlhMTBJSGhDLWVKMk16SE5ONGhrVk1uMEFuVmpJNndHM1lHaUozMVZCanNyVGF3blR2LWZrZ3ZPc3pwMmgzcUsyYS1ZVFZULW5OakFfeGpaMC0wUkE?oc=5",
    "summary": "米国株式市場・序盤＝Ｓ＆Ｐ５００一時最高値、エヌビディアも高値更新&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-10-06T22:58:21+09:00"
-  },
-  {
-   "title": "米8月貿易赤字、13.7％増の1056億ドル 内需堅調で輸入急増 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmZUcW5KanZNT3RNWHRKV084Q0FGaHFkUEhGZFk4X3JwajhkY0EzcEtVaUpRZHZkYVdCOHcwcEpxOENPRDI0aUJERUNTQUMzYVZUa19ya0N3VXJnQjRJOGlwejlialNBTy1ZbzJpYnJVTnVvaVRRdkZPQUk5UUdHMFl4YU0?oc=5",
-   "summary": "米8月貿易赤字、13.7％増の1056億ドル 内需堅調で輸入急増&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-06T22:43:43+09:00"
   },
   {
    "title": "市場前に大きな動きを見せている銘柄: Constellation Energy、Option Care Health、Lennar、P&G など",
@@ -669,22 +917,6 @@
    "published": "2026-10-06T20:50:15+09:00"
   },
   {
-   "title": "レタス5割高 9月下旬の価格高騰",
-   "link": "https://news.yahoo.co.jp/pickup/6597786?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-06T20:07:22+09:00"
-  },
-  {
-   "title": "米国民、税金使う選挙広告に不信感＝ロイター／イプソス世論調査 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKNlpSbjFrQ2xSUWJLOEpSZ3o0ck14WFk0Nk01c3h1UThPQkFGMXJSTzdleGlsaXdLQkdHY2xOM0RfdXRlM21qUXhmck1UZkRtT2tqWkZJSEZFSmR1N09kOFdqRnNSU3QyVWg3MjNMWGl5Nm83TEQ0Y2xrTnFkQQ?oc=5",
-   "summary": "米国民、税金使う選挙広告に不信感＝ロイター／イプソス世論調査&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-06T19:09:44+09:00"
-  },
-  {
    "title": "アンソロピックＣＥＯ、25年報酬1800万ドル 業界中位 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LRnRzVEEyMG8xNy0zMklrREFOTVVibFdIYlFmQWxpTDNFdHJBaGo0dzB5NjE5dDNwNDBnWkpETl9KLWM3VHN2Y0tILURQbzBvUW5VdjVTTDJLbW81Sm1KQkZDb2VuZWN0aE1BSnlVTS14TXF2bXRTZjZUdlo?oc=5",
    "summary": "アンソロピックＣＥＯ、25年報酬1800万ドル 業界中位&nbsp;&nbsp;ロイター",
@@ -701,28 +933,12 @@
    "published": "2026-10-06T19:01:53+09:00"
   },
   {
-   "title": "英国経済、高インフレが定着＝中銀のマン委員 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzRiVTlsdDBYR0VDZndnNG1iaVZjVy1kM2dQNlJlSmp6OGhDb3F5WnlJS3hNaGZ3M01FaGt4X3I0YkFaVmtBOVRGeE13X3l1bjlSZHFNMnJxcUJOYzZiMmNGZ0hZR2xBdFMxcC1ZTl9DNXNMQ1czdVdVd1dlbk0yaTlmN1I?oc=5",
-   "summary": "英国経済、高インフレが定着＝中銀のマン委員&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-06T18:49:43+09:00"
-  },
-  {
    "title": "EVの国内販売が2.5倍に拡大　26年度上半期、補助金が後押し",
    "link": "https://www.asahi.com/articles/ASVB62V7WVB6ULFA018M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-06T18:44:04+09:00"
-  },
-  {
-   "title": "簗農水相「予算カット」、野党追及へ　７日から代表質問―国会",
-   "link": "https://www.jiji.com/jc/article?k=2026100600948&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-06T18:44:00+09:00"
   },
   {
    "title": "自民税調、重要課題に税収の偏在是正と非上場株の評価見直し",
@@ -733,28 +949,12 @@
    "published": "2026-10-06T18:33:02+09:00"
   },
   {
-   "title": "「空飛ぶ車」の関西圏での実用化、15社共同検討　業種横断は全国初",
-   "link": "https://www.asahi.com/articles/ASVB632NPVB6PLFA00CM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-06T18:28:20+09:00"
-  },
-  {
    "title": "ベインとＧＩＣ、人事システムＷＨＩの上場・売却を検討 企業価値5000億円超目指す＝関係者 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObHEzZy1SQnEzX0I2OU9BQ3NmQmV4cVFWWk5EbmZUQ3duVjZPVDYtVzRhYXMxXzBqOTlNVmdsLXVBRlJGeXA2M0hMSXNra3B2bFNPZXZ0X0E4ZmR4bEhrVVRWNHZLXzdGZGNzT2JwbXpIUWV6NHc1YzVLUnoyR09WX0xlcV8?oc=5",
    "summary": "ベインとＧＩＣ、人事システムＷＨＩの上場・売却を検討 企業価値5000億円超目指す＝関係者&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-10-06T18:08:49+09:00"
-  },
-  {
-   "title": "日経平均が続伸、終値で3カ月ぶり7万円台回復　AI需要が堅調",
-   "link": "https://www.asahi.com/articles/ASVB62V8TVB6ULFA02JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-06T18:00:34+09:00"
   },
   {
    "title": "ゴールドマン：製油所が需要を満たすのに苦労しているため、ディーゼル価格は2027年まで高止まりする見通し",
@@ -767,24 +967,8 @@
    "title_orig": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand"
   },
   {
-   "title": "衆院選で首長が簗農水相の対立候補を支援した栃木県内２市町向けの今年度の道路関連予算が、最大５４％減額されていたことが分かった",
-   "link": "https://www.jiji.com/jc/article?k=2026100600826&g=flash&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-06T17:13:00+09:00"
-  },
-  {
-   "title": "インフレ二次的効果、現時点でそれほど強くない＝ＥＣＢ専務理事 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUoybXkyNG9URE1xeUhrYUVPNW1rZkxaTnE3eVZUSUFzd091d2dGazhXSnh1SjdZaDFHVHdYUVJLdnZFeGdIQ1NIbDFKbnhhUDJvUTZNYk9VcFM3RVU5Z3hSbmZSeDhfb2R3MmtINjM2bFh0YlV3Ymw1OGs1WjM1cWYyYUk?oc=5",
-   "summary": "インフレ二次的効果、現時点でそれほど強くない＝ＥＣＢ専務理事&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-06T17:03:26+09:00"
-  },
-  {
    "title": "バーゼル銀行監督委員会による議事要旨の公表について",
-   "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261006a.htm",
+   "link": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261006a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -816,19 +1000,11 @@
   },
   {
    "title": "【挨拶】植田総裁（全国証券大会）",
-   "link": "http://www.boj.or.jp/about/press/koen_2026/ko261006a.htm",
+   "link": "https://www.boj.or.jp/about/press/koen_2026/ko261006a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-10-06T15:35:00+09:00"
-  },
-  {
-   "title": "アシックス 失速から売上1兆円へ",
-   "link": "https://news.yahoo.co.jp/pickup/6597754?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-06T15:34:29+09:00"
   },
   {
    "title": "東京外為市場・15時＝ドル158円前半でもみあい、日銀総裁の発言に関心向かう - ロイター",
@@ -839,14 +1015,6 @@
    "published": "2026-10-06T15:28:00+09:00"
   },
   {
-   "title": "フジＨＤ不動産事業売却、ブラックストーンやベインなど最終入札へ＝関係者 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xS1dWR21BdVFpRzJsbWR4bDlFcXkyZVIwaDZlM0M1M0d6SlUzZ0NJbzVicVB6ZlVHenhOaTBtYVVWY1lPbnNOdXNKUU9maTR0S1RvVGFwMlNlckIzbi13S2tFQ3UtYm5yYXhHRklCMklneldCbFJ5R2xXTXI?oc=5",
-   "summary": "フジＨＤ不動産事業売却、ブラックストーンやベインなど最終入札へ＝関係者&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-06T15:19:00+09:00"
-  },
-  {
    "title": "10年利付国債（第384回）の第II非価格競争入札結果（令和8年10月6日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261006a.htm",
    "summary": "",
@@ -855,92 +1023,12 @@
    "published": "2026-10-06T15:15:00+09:00"
   },
   {
-   "title": "金価格、27年に最高値更新へ 投資需要が支援＝調査会社 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TYllrXzFWTG9kOVdiajBhOEo3NXdyU1JJVmZDNFp4Zm9mZ0x4X2E0VUNjMWtPMHRSVjZ5Q21tc3d4SXJPLXJRTnJxNzROaTRfQk1STUlQZi0wcnVxVElZb0pFaThEVTJpMW94TnJrUjd3YXQweWpXQXVVaHM?oc=5",
-   "summary": "金価格、27年に最高値更新へ 投資需要が支援＝調査会社&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-06T14:41:00+09:00"
-  },
-  {
-   "title": "人手不足倒産、4年連続で過去最多　「人件費の高騰」が1.7倍に",
-   "link": "https://www.asahi.com/articles/ASVB61RP3VB6ULFA00VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-06T14:37:24+09:00"
-  },
-  {
-   "title": "日銀、10月会合で基調物価2％到達と判断の可能性＝関係筋 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUUJjb00tQmc2Q0h6MkFzdnEzN000cjhQN2paRkR4VDdfeTZvVGFBbDJvdkNaZ2dROGloVHNrQzR1TkFydU5QcmVaSTY5ajJNSFMwNVZ0cnNpakdkanhvWmJ3blFCSlhwcWJVODYyc2g3Q0hVQlB0Y3dxOWM?oc=5",
-   "summary": "日銀、10月会合で基調物価2％到達と判断の可能性＝関係筋&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-10-06T13:32:00+09:00"
-  },
-  {
-   "title": "GMO系アンケートサイト、最大95万件流出　ポイントの不正交換も",
-   "link": "https://www.asahi.com/articles/ASVB61D6FVB6ULFA00RM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-06T13:23:22+09:00"
-  },
-  {
-   "title": "スズキ、軽EVを11月に発売　装備を絞り業界最安の212万円から",
-   "link": "https://www.asahi.com/articles/ASVB53CPZVB5ULFA008M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-06T12:51:25+09:00"
-  },
-  {
    "title": "10年利付国債（第384回）の入札結果（令和8年10月6日入札）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261006.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-06T12:35:00+09:00"
-  },
-  {
-   "title": "関税・外国為替等審議会　関税分科会（令和８年10月６日開催）配付資料",
-   "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/material/kana20261006.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-06T12:00:00+09:00"
-  },
-  {
-   "title": "簗農水相「予算カット」発言の調査、井林国交相「本日中に内容公表」",
-   "link": "https://www.asahi.com/articles/ASVB60PCLVB6ULFA029M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-06T11:15:44+09:00"
-  },
-  {
-   "title": "「eスカイ」11月発売 軽EVで最安",
-   "link": "https://news.yahoo.co.jp/pickup/6597719?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-06T11:09:01+09:00"
-  },
-  {
-   "title": "10年利付国債（第384回）の入札発行（令和8年10月6日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261006.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-06T10:30:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年10月5日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-06T09:30:00+09:00"
   },
   {
    "title": "“100万ドル超の資産”を持つ日本人「290万人」、激化する「富裕層ビジネス」　SMBC、MUFG、みずほの戦略と課題",
@@ -1021,14 +1109,6 @@
    "published": "2026-10-06T00:00:00+09:00"
   },
   {
-   "title": "日豪財務大臣対話に関する協力覚書への署名及び第1回日豪財務大臣対話の開催について（令和8年10月5日（月））",
-   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925182036.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-05T21:00:00+09:00"
-  },
-  {
    "title": "日経で相次ぐ不正アクセス　1646人分の個人情報漏えい、「なりすましメール」約9000件送信も",
    "link": "https://www.itmedia.co.jp/business/articles/2610/05/news074.html",
    "summary": "日本経済新聞社は10月4日、「Google Workspace」のアカウントが不正ログインされ、1646人分の個人情報が漏えいした可能性があると公表した。日経BPも同日、メールアカウントへの不正アクセスを発表している。",
@@ -1045,48 +1125,16 @@
    "published": "2026-10-05T19:00:00+09:00"
   },
   {
-   "title": "国債市場特別参加者会合（第120回）議事要旨",
-   "link": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/proceedings/260928.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-05T17:00:00+09:00"
-  },
-  {
    "title": "需給ギャップ・潜在成長率および労働需給関連指標",
-   "link": "http://www.boj.or.jp/research/research_data/gap/index.htm",
+   "link": "https://www.boj.or.jp/research/research_data/gap/index.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-10-05T14:00:00+09:00"
   },
   {
-   "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月5日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261005.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-05T13:00:00+09:00"
-  },
-  {
-   "title": "製造たばこの小売定価の認可",
-   "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-05T12:00:00+09:00"
-  },
-  {
-   "title": "日豪共同戦略金融協力覚書への署名及び日豪戦略投資ネットワーキングフォーラム（SINF）の開催について（令和8年10月2日（金））",
-   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925182123.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-05T12:00:00+09:00"
-  },
-  {
    "title": "【挨拶】内田副総裁「AI、ビッグデータと金融政策」（ECONDAT 2026 Fall Meetingにおける開会挨拶の邦訳）",
-   "link": "http://www.boj.or.jp/about/press/koen_2026/ko261005a.htm",
+   "link": "https://www.boj.or.jp/about/press/koen_2026/ko261005a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1094,7 +1142,7 @@
   },
   {
    "title": "日銀当座預金増減要因（10月見込み）",
-   "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
+   "link": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
