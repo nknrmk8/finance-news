@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T08:30:56.263396+09:00",
+ "generated_at": "2026-10-15T10:48:22.864982+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,230 @@
  "errors": [],
  "items": [
   {
+   "title": "豆腐の移動販売で年商20億円 秘訣",
+   "link": "https://news.yahoo.co.jp/pickup/6598825?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-15T10:46:35+09:00"
+  },
+  {
+   "title": "テクニカル修正の可能性で金が上昇",
+   "link": "https://www.wsj.com/opinion/gold-rises-on-possible-technical-correction-28090dcd?mod=rss_markets_main",
+   "summary": "前月の金先物が一晩で下落した後、テクニカル調整の可能性から金はアジア取引序盤で上昇した",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-15T10:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Rises on Possible Technical Correction"
+  },
+  {
+   "title": "日経平均、一時2900円超安　米国のインフレ懸念で利上げ観測再燃",
+   "link": "https://www.asahi.com/articles/ASVBH0F3XVBHULFA002M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-15T10:35:26+09:00"
+  },
+  {
+   "title": "全国の女性｢30歳時の未婚割合｣は55％…都道府県別ランキングでわかった\"厳しすぎる実態\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "国勢調査をもとにした最新の生涯未婚率は男女とも過去最高を記録しました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-15T10:30:00+09:00"
+  },
+  {
+   "title": "【挨拶】小枝審議委員「わが国の経済・物価情勢と金融政策」（熊本）",
+   "link": "http://www.boj.or.jp/about/press/koen_2026/ko261015a.htm",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-10-15T10:30:00+09:00"
+  },
+  {
+   "title": "流動性供給(第463回)入札の発行予定額等",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261015.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-15T10:30:00+09:00"
+  },
+  {
+   "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月15日公表）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261015.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-15T10:30:00+09:00"
+  },
+  {
+   "title": "Anthropic の成長鈍化は AI 業界の最新の危険信号になる可能性がある",
+   "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+   "summary": "Anthropic の収益の伸びは、同社が公開デビューの準備を進めるにつれて鈍化しているように見え、投資家の AI 不安をさらに煽っている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-15T10:07:00+09:00",
+   "lang": "en",
+   "title_orig": "Anthropic’s slowing growth could be the AI trade’s latest red flag"
+  },
+  {
+   "title": "日経平均 一時2500円以上値下がり",
+   "link": "https://news.yahoo.co.jp/pickup/6598824?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-15T10:04:06+09:00"
+  },
+  {
+   "title": "原油先物はポジション調整の可能性で下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-position-adjustments-728cc0b6?mod=rss_markets_main",
+   "summary": "原油先物は一晩で上昇した後、ポジション調整の可能性からアジア取引序盤で下落したが、短期的な損失は継続的な影響により限定される可能性が高い",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-15T10:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Fall on Possible Position Adjustments"
+  },
+  {
+   "title": "｢鏡は占いを信じていない｣と言われた過去…キャリア35年超の鏡リュウジがたどり着いた\"人の心に寄り添う\"占いの本質 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960776?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "デジタル化やAIの台頭が進むなかでも､一対一の｢対面占い｣はなぜ根強い人気を誇るのでしょうか。膨大な情報や市場拡大の裏にある悩みと向き合い､時代が移り変わっても変わらない｢人の心｣の本質に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-15T10:00:00+09:00"
+  },
+  {
+   "title": "「市場調節に関する意見交換会」（2026年10月）の概要",
+   "link": "http://www.boj.or.jp/paym/market/mkt261015a.pdf",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-10-15T10:00:00+09:00"
+  },
+  {
+   "title": "彼はトランプのために仮想通貨法を作り上げた――彼の会社が仮想通貨大手から​​何百万ドルも得ていたから",
+   "link": "https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?mod=rss_markets_main",
+   "summary": "ボー・ハインズ氏がホワイトハウスで画期的なステーブルコイン法案に取り組んでいる間、テザーからの資金がNxumに流れた。法律が可決されると、テザーは彼を次のように雇用しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-15T10:00:00+09:00",
+   "lang": "en",
+   "title_orig": "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant"
+  },
+  {
+   "title": "Anthropic、IPOに先立って四半期収益が50%増の168億ドルになると投資家に告げる",
+   "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+   "summary": "AI新興企業は予想される上場に先立って水曜日、サンフランシスコでプレゼンテーションのために投資家を集めた",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-15T09:59:36+09:00",
+   "lang": "en",
+   "title_orig": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO"
+  },
+  {
+   "title": "エリートが｢新卒プレミアム｣をコンサルに捧げる時代が終わるワケ――銀行でも広告代理店でもない次世代の\"人気業界\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961054?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "コンサル人気が東大･京大生の間で頂点に君臨する一方､かつての魅力が揺らぎ始めています。時代の\"正解\"が見えなくなった今､エリートたちはどんな道を選ぶのでしょうか？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-15T09:30:00+09:00"
+  },
+  {
+   "title": "国債金利情報(令和8年10月14日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-15T09:30:00+09:00"
+  },
+  {
+   "title": "日経平均株価が2.9％下落、ウォール街の損失に追随",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-tracking-wall-streets-losses-c1844121?mod=rss_markets_main",
+   "summary": "米国のインフレ報告で利上げ期待が再燃したことを受け、日経平均株価は一夜にしてウォール街の損失を受けて2.9％下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-15T09:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 2.9%, Tracking Wall Street’s Losses"
+  },
+  {
+   "title": "Anthropic の四半期収益は 45% 増加して 170 億ドル近くになりました",
+   "link": "https://www.wsj.com/tech/ai/anthropics-quarterly-revenue-jumped-45-to-nearly-17-billion-1c7e28b8?mod=rss_markets_main",
+   "summary": "人工知能の巨人は、来月予定されているIPOに先立ち、水曜日に公開市場の投資家と会合を行った。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-15T09:17:00+09:00",
+   "lang": "en",
+   "title_orig": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion"
+  },
+  {
+   "title": "うなぎパイ企業 部門赤字どう解消",
+   "link": "https://news.yahoo.co.jp/pickup/6598819?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-15T09:13:37+09:00"
+  },
+  {
+   "title": "Rocket Labの株価は、同社がNeutronの初打ち上げを延期したことで下落した",
+   "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+   "summary": "スペースX社のファルコン9に匹敵する中型揚力ロケット「ニュートロン」は、今年は打ち上げられない。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-15T09:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch"
+  },
+  {
+   "title": "｢勉強できる子｣に育てるには\"運動\"が欠かせない？…脳科学でわかってきた｢体を動かすこと｣が大切な理由 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢勉強ができる｣には､実は運動が大きく関わっていることをご存じですか？最新の脳科学でわかった運動と学力の意外な関係を解説します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-15T09:00:00+09:00"
+  },
+  {
+   "title": "新型窓口販売方式による5年利付国債（第188回）の発行条件等",
+   "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261015.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-15T08:50:00+09:00"
+  },
+  {
+   "title": "インフレ懸念でハイテク株が騒がしくなり、AI取引が分裂している",
+   "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+   "summary": "投資家は、インフレの急上昇と借入コストの増加がAIの発展を妨げる可能性があるのではないかと懸念している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-15T08:36:00+09:00",
+   "lang": "en",
+   "title_orig": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks"
+  },
+  {
+   "title": "｢ゲームばかりの子のどこを褒めれば？｣年3000件相談受けるプロは｢根拠は探さなくていい｣かわりに\"3日だけ\"試したいこと | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960908?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "子どもを認めたいのに｢褒める根拠｣が見つからず苦しむ親は多いもの。しかし実は､頑張りや成果に頼らず､今この瞬間の子どもを｢最高｣と肯定することが､真の自己肯定感を育む鍵になります。マインドセットの転…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-15T08:30:00+09:00"
+  },
+  {
    "title": "｢外国人宅でホムパ｣で孤独になった私の\"英語を話せない\"よりも致命的なこと…漫画『ダーリンは外国人2 リマスター版』 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/960109?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "同居人が一番身近な異文化でした――。シリーズ300万部の大ヒット作品、『ダーリンは外国人』が24年の時を経て、デジタル改稿＆オールカラーになって帰ってきた！ 「国際結婚はロマンティックでアモーレな世…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-10-15T08:15:00+09:00"
+  },
+  {
+   "title": "トランプ米大統領「歴史的な協定の成果」　日本の対米投資第３弾",
+   "link": "https://www.jiji.com/jc/article?k=2026101500229&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-10-15T08:13:00+09:00"
   },
   {
    "title": "米国、ウクライナ和平交渉再開に向けロシア資産の一部凍結解除を示唆",
@@ -105,16 +323,6 @@
    "title_orig": "WSJ Dollar Index Rises 0.23% to 97.57"
   },
   {
-   "title": "Anthropic、IPOに先立って四半期収益が50%増の168億ドルになると投資家に告げる",
-   "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-   "summary": "AI新興企業は予想される上場に先立って水曜日、サンフランシスコでプレゼンテーションのために投資家を集めた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-15T07:47:45+09:00",
-   "lang": "en",
-   "title_orig": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO"
-  },
-  {
    "title": "私の妹は78歳の母と一緒に引っ越してきましたが、彼女には92万5,000ドルの実家を買う権利があると言っています。彼女は正しいですか？",
    "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
    "summary": "「この家の価値は92万5000ドルで、母親が完全に所有しています。彼女は48万ドルの投資もしています。」",
@@ -131,16 +339,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-15T07:37:50+09:00"
-  },
-  {
-   "title": "Rocket Labの株価は、同社がNeutronの初打ち上げを延期したことで下落した",
-   "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
-   "summary": "スペースX社のファルコン9に匹敵する中型揚力ロケット「ニュートロン」は、今年は打ち上げられない。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-15T07:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch"
   },
   {
    "title": "｢風呂の中で知らない男性と…｣下田の\"千人風呂\"で50代姉妹が遭遇した気まずくて､おかしな体験――伊豆2人旅のリアル | ライフ | 東洋経済オンライン",
@@ -209,16 +407,6 @@
    "published": "2026-10-15T07:15:00+09:00"
   },
   {
-   "title": "CoreWeaveのAI債券が暴落し、市場全体に危険信号が出る",
-   "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-   "summary": "6か月前に発行されたコアウィーブの債券は水曜日の初めに1ドルあたり81セントまで下落し、利回りは15％を超えた",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-15T07:03:00+09:00",
-   "lang": "en",
-   "title_orig": "CoreWeave’s AI bonds tumble, raising red flags for the wider market"
-  },
-  {
    "title": "戦後の国産軽飛行機2機を重要航空遺産に認定　当時の姿で保存、評価",
    "link": "https://www.asahi.com/articles/ASVBG3TW7VBGOXIE002M.html?ref=rss",
    "summary": "",
@@ -259,16 +447,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-15T06:57:40+09:00"
-  },
-  {
-   "title": "史上最高値からわずか 2 か月で 10% 下落: 小型株の崩壊がこれほど急速に進んだ理由",
-   "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
-   "summary": "気を引き締めて：小型株は避けたい市場の節目にちょうどぶつかりました。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-15T06:54:00+09:00",
-   "lang": "en",
-   "title_orig": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast"
   },
   {
    "title": "星野源＆新垣結衣に第1子誕生→性別や誕生日は明かさず…｢私生活を売り物にしない｣距離感で愛されるワケ | ライフ | 東洋経済オンライン",
@@ -315,24 +493,6 @@
    "published": "2026-10-15T06:20:35+09:00"
   },
   {
-   "title": "ＮＹ株続落、ナスダック５１１ポイント安　物価上振れでハイテク銘柄不振",
-   "link": "https://www.jiji.com/jc/article?k=2026101500146&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-15T06:13:00+09:00"
-  },
-  {
-   "title": "AI不安と利上げ懸念が重なり、株価にとっては7月以来最悪の日となる",
-   "link": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f?mod=rss_markets_main",
-   "summary": "熱いインフレ報告を受けて10月利上げ予想がリセットされた。その後、AI貿易に対する揺らぎのある自信が注目を集めた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-15T06:13:00+09:00",
-   "lang": "en",
-   "title_orig": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July"
-  },
-  {
    "title": "大阪・関西万博の万博協会、石毛事務総長が退任へ　後任に副事務総長",
    "link": "https://www.asahi.com/articles/ASVBG2W8RVBGPLFA002M.html?ref=rss",
    "summary": "",
@@ -365,76 +525,6 @@
    "published": "2026-10-15T06:00:00+09:00"
   },
   {
-   "title": "【松本深志高校】時代を刻んだ卒業生ファイル#12《東急グループ創業者の五島慶太､元長野県知事の田中康夫…》 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960287?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "長野県で最も古い歴史を持つ県立高校､松本深志高校。明治以来､名門校として鳴らし､硬軟両面にわたって多くの俊英を世に送り出してきました。そのそうそうたる顔ぶれとは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-15T06:00:00+09:00"
-  },
-  {
-   "title": "基本的な材料のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=rss_markets_main",
-   "summary": "基本材料をカバーする最新のマーケットトークで、金と銀の先物、リオティント、鉱物資源などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-15T06:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e9bd3bcd?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、サムスン エレクトロニクス、SK ハイニックス、ASML ホールディングなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-15T05:58:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-23402b4f?mod=rss_markets_main",
-   "summary": "金融サービスをカバーする最新のマーケットトークで、インターコンチネンタル取引所、モルガン・スタンレー、バンク・オブ・アメリカ、ステート・ストリートなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-15T05:56:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "オリコン･小池会長が語るMBOの真意と成長戦略､AI活用と独自データの高付加価値化で営業利益20億円の壁突破へ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961021?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "――公開買い付け説明書には2024年10月にMBOの検討を始めたとあります。今回の判断に至った経緯を教えてください。ここ数年、当社の業績はフラットというか、成長曲線を描けていない状態で、収益率も若干…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-15T05:50:00+09:00"
-  },
-  {
-   "title": "｢トランプ政権下でも米国の脱炭素は不可逆｣州や都市が主導する気候変動対策｢America Is All In｣事務局長に聞く | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961009?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "──”America Is All In（私たちは一丸となって取り組む、という意味）”のプロフィールや活動についてご説明ください。気候変動問題への対処とクリーンエネルギー導入を進めるアメリカの州や自…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-15T05:50:00+09:00"
-  },
-  {
-   "title": "〈反転はいつ？〉第一三共｢2年で株価6割下落｣の正念場…焦点は次のエンハーツ､トップアナリストが斬る\"復活の条件\" | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960939?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "――第一三共は2030年度までの中期経営計画で、売上高3兆円以上、営業益6000億円以上を目標に掲げています。売上高のうち2.3兆円はがん領域で稼ぐ計画です。この計画の達成可能性について、どうみてい…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-15T05:50:00+09:00"
-  },
-  {
-   "title": "〈泥沼〉東邦HDが東京地裁に買収防衛策を否定されてひねり出した買収提案が幻に､激化するアクティビストとの攻防戦 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961137?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "「焦土作戦で買収防衛を図ろうとしたのかもしれないが、さすがに批判が高まり諦めたのではないか」アジア系投資ファンド幹部は、医薬品卸大手の東邦ホールディングス（HD）が10月9日に発表したプレスリリース…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-15T05:45:00+09:00"
-  },
-  {
    "title": "インフレとAI債務への懸念が投資家を不安にさせ、米国の半導体株が下落",
    "link": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
    "summary": "Nvidia、Oracle、CoreWeave はテクノロジーに対する熱意が冷めるにつれて下落",
@@ -443,16 +533,6 @@
    "published": "2026-10-15T05:36:40+09:00",
    "lang": "en",
    "title_orig": "US chip stocks slide as inflation and AI debt fears unsettle investors"
-  },
-  {
-   "title": "意見 |アメリカにはさらなる資本が必要",
-   "link": "https://www.wsj.com/opinion/america-needs-more-capital-43428ee0?mod=rss_markets_main",
-   "summary": "経済成長は債務問題を解決し、AIの分野で私たちを前進させてくれます。それには新たな投資家が必要となるだろう。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-15T05:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | America Needs More Capital"
   },
   {
    "title": "モルガン・スタンレー、株式トレーディング収益が予想を9億900万ドル上回り予想を上回る",
@@ -589,28 +669,12 @@
    "published": "2026-10-14T19:35:13+09:00"
   },
   {
-   "title": "阪急電鉄 中吊広告を来年4月終了",
-   "link": "https://news.yahoo.co.jp/pickup/6598751?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-14T17:53:13+09:00"
-  },
-  {
    "title": "サイゼリヤ、平均6%値上げへ　社長「不本意だが、せざるを得ない」",
    "link": "https://www.asahi.com/articles/ASVBG26CQVBGULFA005M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-14T17:53:00+09:00"
-  },
-  {
-   "title": "BOOKOFF「本売るなら」から変身",
-   "link": "https://news.yahoo.co.jp/pickup/6598750?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-14T17:33:40+09:00"
   },
   {
    "title": "AIがスマート家電乗っ取り増殖？　アンソロピックが研究成果で警告",
@@ -653,14 +717,6 @@
    "published": "2026-10-14T16:50:50+09:00"
   },
   {
-   "title": "「ゆめタウン」のイズミ、最大40万件の個人情報が流出の可能性",
-   "link": "https://www.asahi.com/articles/ASVBG2F8QVBGPLFA00FM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-14T16:38:18+09:00"
-  },
-  {
    "title": "ワールドとTSI 経営統合で合意",
    "link": "https://news.yahoo.co.jp/pickup/6598738?source=rss",
    "summary": "",
@@ -675,14 +731,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-14T15:15:00+09:00"
-  },
-  {
-   "title": "イオン系スーパー100店閉店 なぜ",
-   "link": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-14T14:26:12+09:00"
   },
   {
    "title": "イオン中間決算、過去最高の売上高5.9兆円　熊本地震の特損41億円計上も純利益3.3倍",
@@ -733,14 +781,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-10-14T10:00:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年10月13日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-14T09:30:00+09:00"
   },
   {
    "title": "マネーストック（9月）",
