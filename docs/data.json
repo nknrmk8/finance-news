@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T08:30:34.602351+09:00",
+ "generated_at": "2026-10-19T10:38:21.246342+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,146 @@
  "errors": [],
  "items": [
   {
+   "title": "採用,職員を募集しています。（金融モニタリング業務（主に新形態銀行、資金移動業者や前払式支払手段発行者等に係るモニタリング等）に従事する職員【弁護士】)",
+   "link": "https://www.fsa.go.jp/common/recruit/r8/shiho-02/shiho-02.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-19T19:00:00+09:00"
+  },
+  {
+   "title": "原油先物は調整の可能性で下落、しかし地政学的緊張により下落は限定される可能性がある",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15?mod=rss_markets_main",
+   "summary": "原油先物は先週金曜日に大幅な上昇を記録した後、テクニカル調整の可能性からアジア取引序盤で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-19T10:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Fall on Possible Correction, But Drop May Be Limited by Geopolitical Tensions"
+  },
+  {
+   "title": "国庫短期証券（第1414回）の入札発行",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261019.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-19T10:20:00+09:00"
+  },
+  {
+   "title": "日経平均株価は1.8％下落、ウォール街の損失に追随",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-8-tracking-wall-streets-losses-413895f0?mod=rss_markets_main",
+   "summary": "日本株は序盤の取引で下落した。コメルツ銀行によると、金曜日からのテーマは米国のテクノロジー株のさらなる下落だという。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-19T10:20:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 1.8%, Tracking Wall Street’s Losses"
+  },
+  {
+   "title": "円は堅調だが、リスクオフムードに支えられる可能性も",
+   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main",
+   "summary": "円は他のG10通貨やアジア通貨に対して堅調となったが、リスクオフムードに支えられた可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-19T10:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Yen Consolidates, But May Be Supported by Risk-Off Mood"
+  },
+  {
+   "title": "AIや3Dプリンティングで医療DXに挑む台湾企業､日本の高齢化や人手不足に応える最新技術 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961111?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "急激な高齢化や人手不足という日本の医療現場が直面する課題を背景に､幕張メッセで開催された｢Medical Japan 2026｣では､AIやスマート機器が集結した。特に台湾の先進技術が注目を集め､日…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-19T10:00:00+09:00"
+  },
+  {
+   "title": "自動車運転手の募集について（大臣官房会計課）",
+   "link": "https://www.mof.go.jp/about_mof/recruit/mof/20261014095627.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-19T10:00:00+09:00"
+  },
+  {
+   "title": "ヘッジファンドの億万長者の 2 つの激しい戦争 ― 妻とビジネスパートナーに対する",
+   "link": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=rss_markets_main",
+   "summary": "ジョン・オーバーデックは、7億2,300万ドルの離婚和解案をめぐる妻との確執が、トゥー・シグマとの戦いに犠牲になるのを避けようとしている",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-19T10:00:00+09:00",
+   "lang": "en",
+   "title_orig": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner"
+  },
+  {
+   "title": "Anthropic の IPO に迫る不透明なプライベートトラストについて知っておくべきこと",
+   "link": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?mod=rss_markets_main",
+   "summary": "AI企業は、取締役会を形成し、大きな動きを阻止する権限を与えられた5人からなる信託の力学について、ほとんど詳細を明らかにしていない。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-19T10:00:00+09:00",
+   "lang": "en",
+   "title_orig": "What to Know About the Obscure Private Trust Looming Over Anthropic’s IPO"
+  },
+  {
+   "title": "日比谷線200m停止線越え 自動運転",
+   "link": "https://news.yahoo.co.jp/pickup/6599326?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-19T09:58:29+09:00"
+  },
+  {
+   "title": "イスラエル発の飛行機、「脅迫」で目的地変更",
+   "link": "https://www.ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5",
+   "summary": "オーストリア航空、テルアビブ発ウィーン行き便がソフィアに緊急停止したと発表",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-19T09:55:37+09:00",
+   "lang": "en",
+   "title_orig": "Flight from Israel diverted after ‘threat’"
+  },
+  {
+   "title": "｢なぜテスラとスペースXを統合したくて仕方がないのかを示す最新の例｣…テスラ新型ロードスターが空中旋回を披露 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961606?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ロケット技術を融合させた新型ロードスターを披露したテスラとイーロン･マスク。スペースXとの共同開発や驚異的な加速性能､空中演技まで実現し､熱狂と驚愕を呼びました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-19T09:30:00+09:00"
+  },
+  {
+   "title": "国債金利情報(令和8年10月16日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-10-19T09:30:00+09:00"
+  },
+  {
+   "title": "郵便局で住民票1通に経費約3万円　さいたま市がサービス終了のわけ",
+   "link": "https://www.asahi.com/articles/ASVBG0GY5VBGULFA006M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-19T09:00:00+09:00"
+  },
+  {
+   "title": "パナソニック コネクト新CEOが成長の起点に据える｢現場の機器｣､AI活用を阻むバラバラなデータ基盤 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960990?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢戦略は方向をつくるが､結果をつくるのは現場の実行だ｣——パナソニック コネクト初の外国籍CEOケン･セイン氏が語る成長の核心とは。多様な現場に根ざした機器のデータ活用やサービス化の本質､そして変革…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-19T09:00:00+09:00"
+  },
+  {
+   "title": "タイアップ広告炎上 厚労省が指針",
+   "link": "https://news.yahoo.co.jp/pickup/6599318?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-19T08:44:37+09:00"
+  },
+  {
    "title": "Anthropic、株式の5%を新たな「公益」基金に出資",
    "link": "https://www.wsj.com/tech/ai/anthropic-to-commit-5-of-its-shares-to-new-public-benefit-fund-3332ef75?mod=rss_markets_main",
    "summary": "この基金は、AIによる労働破壊の影響を受ける人々に直接分配金を送ることができる。",
@@ -113,16 +253,6 @@
    "published": "2026-10-19T07:30:00+09:00"
   },
   {
-   "title": "トランプ大統領、裁判所命令にもかかわらず歴史あるゴルフコースの改造に着手",
-   "link": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1",
-   "summary": "築100年の東ポトマックコースの改修は、ワシントンを自分のイメージに改造する大統領の取り組みの一環",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-19T07:20:17+09:00",
-   "lang": "en",
-   "title_orig": "Trump to begin transforming historic golf course despite court order"
-  },
-  {
    "title": "｢これ以外は作らない｣ジャガーが全車EV化へ､超絶GT｢タイプ01｣でジャガーブランドはどこへいくのか？ | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/960697?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "従来路線を覆し､｢タイプ01｣でもって再起を図るジャガー。さらに高価格帯にシフトし､ユーザーの4分の3を新規顧客にしたいというチャレンジは果たして成功するのか。タイプ01発表の現場からお伝えしよう。",
@@ -137,14 +267,6 @@
    "source": "時事通信",
    "category": "報道機関",
    "published": "2026-10-19T07:04:00+09:00"
-  },
-  {
-   "title": "投資も安保も、きしむ米韓関係　通販大手問題で不信拡大",
-   "link": "https://www.jiji.com/jc/article?k=2026101800230&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-19T07:03:00+09:00"
   },
   {
    "title": "50歳男性はなぜ対向車線に飛び出したのか？バターのように溶けた脳…解剖医が語る｢すぐ病院に行くべきだった｣初期症状 | ライフ | 東洋経済オンライン",
@@ -251,30 +373,6 @@
    "published": "2026-10-19T06:00:00+09:00"
   },
   {
-   "title": "【ハッカー集団はなぜ日本を狙うのか】日本企業の｢個人情報依存｣が招く危機､データの過剰蓄積こそが盲点だった | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961285?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "相次ぐ大規模な個人情報流出事件が日本を揺るがせています。多くの企業が必要以上のデータを蓄積し､その脆弱性が犯罪者の標的に。膨大な情報管理は本当に必要でしょうか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-19T06:00:00+09:00"
-  },
-  {
-   "title": "TOPIX改革で号砲､取引所が仕掛ける｢イス取りゲーム｣の全貌…低流動性にメス､構成銘柄の4割が除外候補に | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961200?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "TOPIX（東証株価指数）がかつてない注目を集めている。日本取引所グループ（JPX）のテコ入れによって、構成する1634銘柄のうち4割以上が除外候補となったからだ。もはや東証プライム上場というだけで…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-19T06:00:00+09:00"
-  },
-  {
-   "title": "〈TOTOとLIXILの2強に挑む〉タカラスタンダードが低シェアの浴室で躍進､縮む国内住宅市場を攻略できた\"2つの変化\" | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961183?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "住宅着工件数が大きく減少する中､タカラスタンダードは売上高･利益ともに過去最高を更新。ホーローキッチンが看板の同社だが､とくに好調なのは浴室事業だ。製品ラインナップの見直しと､地場工務店などへの細や…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-19T06:00:00+09:00"
-  },
-  {
    "title": "AIエージェントはあなたが寝ている間に株を取引しますか?チャールズ・シュワブのCEOは懐疑的",
    "link": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3?mod=rss_markets_main",
    "summary": "シュワブの最高経営責任者（CEO）リック・ワースター氏はある程度の資金を賭けており、投資には人間味が必要だという。",
@@ -313,16 +411,6 @@
    "published": "2026-10-19T04:52:26+09:00",
    "lang": "en",
    "title_orig": "France reels after ‘unprecedented’ violent riots"
-  },
-  {
-   "title": "意見 |投資家と貯蓄者のために、TINA は TARA に道を譲ります",
-   "link": "https://www.wsj.com/opinion/for-investors-and-savers-tina-is-giving-way-to-tara-3cfc0714?mod=rss_markets_main",
-   "summary": "国債利回りの上昇は株式の魅力が薄れ、有利子口座の魅力がさらに高まることを意味する。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-19T04:20:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | For Investors and Savers, TINA Is Giving Way to TARA"
   },
   {
    "title": "アジアにおける米軍司令官、強化された軍事力を誇示するよう呼びかけ",
@@ -393,26 +481,6 @@
    "title_orig": "US threatens Europe over Starlink restrictions"
   },
   {
-   "title": "ガンマンと金密輸業者の帝国を引き継いだプレイボーイ",
-   "link": "https://www.wsj.com/articles/the-playboy-who-inherited-an-empire-of-gunfighters-and-gold-smugglers-c3564b4a?mod=rss_markets_main",
-   "summary": "さらに、投資家らはAIの大きなリスクの1つに耐えていることを示しており、ゼレンスキー氏はリスクをとって公然とトランプ氏と対峙することを決意した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-19T00:48:00+09:00",
-   "lang": "en",
-   "title_orig": "The Playboy Who Inherited an Empire of Gunfighters and Gold Smugglers"
-  },
-  {
-   "title": "意見 |投資家に安心感を与え、改革を可能にする",
-   "link": "https://www.wsj.com/opinion/to-give-investors-certainty-reform-permitting-33c58955?mod=rss_markets_main",
-   "summary": "米国は新たな資金源を必要としているが、プロジェクトを構築するためのより予測可能な道筋も必要としている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-19T00:42:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | To Give Investors Certainty, Reform Permitting"
-  },
-  {
    "title": "私は 64 歳で 2 人の息子がいますが、家業を継いでいるのは 1 人だけです。彼に会社の70%を任せるのは倫理的でしょうか?",
    "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
    "summary": "「次男の結婚生活が長期的に安定するかどうかについては、若干の懸念があります。」",
@@ -473,30 +541,12 @@
    "title_orig": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead"
   },
   {
-   "title": "長雨や日照不足の影響 農家苦悩",
-   "link": "https://news.yahoo.co.jp/pickup/6599279?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-18T20:31:01+09:00"
-  },
-  {
    "title": "SUBARU 20年代後半にSDV投入へ",
    "link": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-18T18:34:26+09:00"
-  },
-  {
-   "title": "AI 株式市場の動揺は思い出させます: 今回も変わりません",
-   "link": "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07?mod=rss_markets_main",
-   "summary": "人工知能の増強によって、鉄道やインターネットなどの過去の大規模資本プロジェクトの問題を回避できるかどうかは示されていない。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-18T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different"
   },
   {
    "title": "ガソリンスタンドで子が給油 危険",
@@ -523,14 +573,6 @@
    "published": "2026-10-18T16:21:06+09:00"
   },
   {
-   "title": "東大も新設「デザイン学部」とは",
-   "link": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-18T11:33:19+09:00"
-  },
-  {
    "title": "スマホ通話で「ピザ持ち」増 なぜ",
    "link": "https://news.yahoo.co.jp/pickup/6599214?source=rss",
    "summary": "",
@@ -545,16 +587,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-18T08:00:00+09:00"
-  },
-  {
-   "title": "退職者向けのファイナンシャルアドバイザー企業トップ5社：検討すべき有名な受託会社",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
-   "summary": "私たちは、退職者の生活を支援するために、いくつかの大手登録投資顧問会社の財産計画から退職後の収入の選択肢に至るまであらゆるものを分析しました。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-18T04:18:00+09:00",
-   "lang": "en",
-   "title_orig": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider"
   },
   {
    "title": "Bending Spoons はソフトウェアのキャストオフを復活させたいと考えています。バークシャーはこの計画を支持している",
@@ -625,14 +657,6 @@
    "published": "2026-10-17T17:30:00+09:00"
   },
   {
-   "title": "2千円の枕も分割払い?　膨らむクレカの債務、ブラジル高金利のわな",
-   "link": "https://www.asahi.com/articles/ASVBH75CLVBHUHBI02JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-17T08:00:00+09:00"
-  },
-  {
    "title": "「日本は世界で最も重要なグルメ旅行先」　Trip.com幹部が語る、インバウンドと“食の旅”の勝算",
    "link": "https://www.itmedia.co.jp/business/articles/2610/17/news003.html",
    "summary": "世界が「グルメを目的に旅する先」として、日本に熱い視線を注いでいる。中国の旅行予約サイト最大手「Trip.com」（トリップドットコム）が提供するグルメガイド「Trip.Gourmet」（トリップグルメ）が9月に発表した最新ランキングでは、世界40の国・地域から選ばれた700軒超のレストランのうち、109軒が日本からの選出となった。Trip.comが競合ひしめくグルメ評価市場に参入した狙いとはーー",
@@ -647,22 +671,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-10-17T08:00:00+09:00"
-  },
-  {
-   "title": "NY原油、1バレル100ドル超える　供給懸念で約1カ月ぶりの高値",
-   "link": "https://www.asahi.com/articles/ASVBJ7791VBJUHBI001M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-17T07:04:14+09:00"
-  },
-  {
-   "title": "預金増えただけで「監督人」の怪　成年後見の保佐人「納得いかない」",
-   "link": "https://www.asahi.com/articles/ASVBF25CNVBFULFA00BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-17T07:00:00+09:00"
   },
   {
    "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）について公表しました。",
@@ -813,70 +821,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-16T11:00:00+09:00"
-  },
-  {
-   "title": "TSMCが純利益68.7％増で最高益更新　魏会長「需要は極めて堅調」",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/16/news052.html",
-   "summary": "【台北＝西見由章】半導体受託生産の世界最大手、台湾積体電路製造（TSMC）が15日発表した2026年7～9月期決算は、売上高が前年同期比50.9％増の1兆4942億台湾元（約7兆2900億円）、純利益は68.7％増の7630億台湾元だった。いずれも四半期として過去最高を更新した。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-16T10:30:00+09:00"
-  },
-  {
-   "title": "国庫短期証券（第1415回）の発行予定額等",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261016.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-16T10:20:00+09:00"
-  },
-  {
-   "title": "国庫短期証券（第1413回）の入札発行",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261016.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-16T10:20:00+09:00"
-  },
-  {
-   "title": "財政投融資分科会（令和8年9月18日開催）議事要旨",
-   "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20260918.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-16T10:00:00+09:00"
-  },
-  {
-   "title": "中華人民共和国産二酸化チタンルチル型をもととした顔料及び調製品に対する不当廉売関税の課税に関する調査を開始します",
-   "link": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261016.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-16T10:00:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年10月15日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-16T09:30:00+09:00"
-  },
-  {
-   "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-16T08:50:00+09:00"
-  },
-  {
-   "title": "オフショア勘定残高",
-   "link": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-16T08:50:00+09:00"
   }
  ]
 }
