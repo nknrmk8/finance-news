@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T05:43:36.626171+09:00",
+ "generated_at": "2026-10-22T08:38:01.508247+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,378 @@
  "errors": [],
  "items": [
   {
+   "title": "自動車販売不振でテスラの利益が減少",
+   "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+   "summary": "イーロン・マスク氏の自動車メーカー、スペースXとの合併を検討中、売上高は横ばいと報告",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T08:30:29+09:00",
+   "lang": "en",
+   "title_orig": "Tesla’s profits slip on weaker vehicle sales"
+  },
+  {
+   "title": "勉強は私のほうができたのに…\"一等地に戸建て､金持ちの息子と結婚した妹\"への対抗心が止まらない　36歳姉の婚活沼 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961428?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "妹への対抗心から年収1000万円にこだわる36歳､お見合いのキャンセル料は相談室ではなく自分が受け取るべきと主張する41歳。仕事も生活もしっかりしているのに､結婚となるととたんに残念な振る舞いをして…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T08:30:00+09:00"
+  },
+  {
+   "title": "イーロン・マスク氏が投資家に更なる期待を残してテスラ株下落",
+   "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+   "summary": "スペースXの合併に関するコメントは、現在テスラの投資家たちの頭の中にある最大の話題であることは間違いないが、マスク氏は水曜日に何も新しいことを提案できなかった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T08:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Tesla’s stock falls as Elon Musk leaves investors wanting more"
+  },
+  {
+   "title": "NSA、AIを使用して検出された「重大な」サイバー脆弱性について警告",
+   "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+   "summary": "研究者たちは OpenAI と Google モデルを使用して、世界中のほとんどの Web サイトで使用されているソフトウェアの重大な欠陥を発見しました",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T08:20:30+09:00",
+   "lang": "en",
+   "title_orig": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI"
+  },
+  {
+   "title": "｢金利のある時代｣に突入した今､果たして《家は買うべきか､借りるべきか》…ひろゆきの出した\"極めて常識的\"なアンサー | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961101?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢家は買うべきか､それとも賃貸が合理的なのか｣。資産価値の下がりにくい都心一等地以外では､人口減や空室率の上昇を背景に､賃貸のほうが柔軟でリスクが低いという現実があります。あなたは未来の不確実性に大…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T08:15:00+09:00"
+  },
+  {
+   "title": "投資家が広告ビジネスを矮小化する可能性のある機会を垣間見る中、メタの株価は上昇する",
+   "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+   "summary": "Metaの中核となる広告事業は好調な四半期を記録したが、投資家はMuseパーソナルアシスタントを中心とした有望な新事業に注目している",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T08:07:00+09:00",
+   "lang": "en",
+   "title_orig": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business"
+  },
+  {
+   "title": "タブを受け取る友達になることの経済的および心理的コスト",
+   "link": "https://www.wsj.com/personal-finance/splitting-bills-reimbursement-young-adults-a8a33405?mod=rss_markets_main",
+   "summary": "私たち若者はお金の問題についてオープンです。では、なぜ割り勘のときに友人に返金してもらうのが難しいのでしょうか?",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T08:04:00+09:00",
+   "lang": "en",
+   "title_orig": "The Financial—and Psychological—Cost of Being the Friend Who Picks Up the Tab"
+  },
+  {
+   "title": "ハマる銀行員、AI支援会社の社長に　北海道の中小企業に広げたい",
+   "link": "https://www.asahi.com/articles/ASVBP3F2SVBPIIPE00GM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-22T08:00:00+09:00"
+  },
+  {
+   "title": "｢解読不能レベルの汚文字？｣東大生のノートはきれいは本当か…彼らが\"読めない字\"を書く納得の理由 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961667?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢東大生のノートはきれい｣というイメージがありますが､実は読めないほど字が汚い東大生も多く､その理由には驚きの秘密があります。字の汚さに隠されたインプット法とは？　学び効率を上げる思考の本質に迫りま…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T08:00:00+09:00"
+  },
+  {
+   "title": "メタ、AIによる資金調達を可能にする新しい無議決権株式クラスを創設",
+   "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+   "summary": "この変更により、ソーシャルメディアグループはマーク・ザッカーバーグの支配力を低下させることなく、AI投資に資金を提供するために株式を売却できるようになるだろう",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T07:58:30+09:00",
+   "lang": "en",
+   "title_orig": "Meta to create new non-voting share class to enable AI fundraising"
+  },
+  {
+   "title": "フーシ派の攻撃を受け、米国が一部職員にサウジアラビアからの退去を命令",
+   "link": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
+   "summary": "サウジアラムコのシャイバ油田を狙った無人機攻撃で2人が死亡したことを受けての決定",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T07:51:07+09:00",
+   "lang": "en",
+   "title_orig": "US orders some personnel to leave Saudi Arabia after Houthi attacks"
+  },
+  {
+   "title": "WSJドル指数は0.04％下落して96.92",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
+   "summary": "WSJドル指数は小幅安となり、２営業日連続で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T07:31:00+09:00",
+   "lang": "en",
+   "title_orig": "WSJ Dollar Index Falls 0.04% to 96.92"
+  },
+  {
+   "title": "｢可哀想な子と思われたくなかった｣支援が毒になるとき　ブレイディみかこ×元ヤングケアラー東大生･清野孝弥対談(後編) | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960182?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ヤングケアラーの当事者である清野孝弥氏と英国在住のブレイディみかこ氏が､｢善意の支援｣が時に毒になる現実や､多様性とサードプレイス喪失の問題を徹底討論。子どもと大人の境界線､その支援の在り方とは？　…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:30:00+09:00"
+  },
+  {
+   "title": "なぜ｢嫌われたくない｣と本当は断りたい頼みまで引き受けてしまうのか？ 他人の目から自由になる｢放っておこう｣という考え方 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961501?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢昔は仲が良かったのに､いつの間にか疎遠になった――｣大人になると友人関係が難しく感じることはありませんか？　それは必ずしもあなたの努力不足ではなく､環境や人生の変化によって自然に起きたものかもしれ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:15:00+09:00"
+  },
+  {
+   "title": "働く男女の常識変えた「最初の声」を映画に　性差別問うた訴訟に着想",
+   "link": "https://www.asahi.com/articles/ASVBM11PGVBMULFA00RM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "中古スマホ市場が活況、携帯大手も「無視できない」　企業にもニーズ",
+   "link": "https://www.asahi.com/articles/ASVBP2J90VBPULFA025M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "｢洗った服を､また床へ…｣ 畳む気力ゼロのズボラが編み出した\"掃除機すら使わない\" ホコリ対策に｢その手があったか…!｣ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961896?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "｢経理担当がインフルに…｣会社のピンチに\"冴えない社員\"を駆り出した顛末　漫画｢路傍のフジイ｣（第7集 第58話) | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960765?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "職場では空気みたいな存在の独身男性。でも、近づいてみるとその生き方は破格の格好良さ。コスパとかマウントとか承認欲求とか、そういうものの為に戦ってる人生が、なんだかどうでもよくなってくる……われわれの…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "｢ここは速い子の親が座る席だから｣…子供に手を振ることすら許されない､習い事に潜む《ママ友カースト》異常な実態 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960656?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "我が子のためと思うほど、息子の笑顔が消えていった。水泳が大好きだった想太。「すべては息子のため」だったはずの母・カナは、次第に勝利へのこだわりがエスカレートしていき……。母の苦悩と葛藤を描く『勝たな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "なぜ上場を捨ててまでAIに賭けたのか？　カオナビが非公開化して進める「脱・勘と経験の人事」",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/22/news032.html",
+   "summary": "人事データを可視化しても「勘と経験と社内政治」で決まる日本の人事。タレントマネジメント大手カオナビはこの課題に終止符を打つべく、株式非公開化という重い決断を下した。四半期決算の呪縛を断ち、5年間をAIと人事データの融合にあてる。同社が掲げる「タレントインテリジェンス」構想の全貌とは。2030年の再上場を見据えた佐藤寛之CEOの背水の変革戦略に迫る。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "なぜルネサスは、TSMCに勝てなかったのか　“電子立国ニッポン”当時を知る日立のキーマンが語る",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/22/news021.html",
+   "summary": "業績が好調な半導体大手のTSMC。かつては日本も半導体が強い時期があった。なぜルネサスは勝てなかったのか。当時を知る日立製作所のキーマンが語った。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "クレーム対応ばかりでオペレーターが辞めていく　「カスハラ義務化」時代にAIはどう現場を守る？",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/22/news033.html",
+   "summary": "簡単な問い合わせをAIに任せた結果、現場に難解なクレームだけが残りオペレーターが疲弊する――。AI導入で起きるコンタクトセンターの皮肉な逆転現象と、カスハラ対策義務化に企業はどう向き合うべきか。世界大手Genesysのアジア太平洋営業責任者に、業務支援AIによる現場防衛術や「65％は人間と話したい」という顧客心理、そしてコスト削減の自動化からCX向上へシフトする運用の要諦を聞いた。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "「日本のデータ活用は“植民地”状態になる」　ウイングアーク１ｓｔが警告、求められる日本企業の「自立」",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/22/news018.html",
+   "summary": "ウイングアーク１ｓｔは新データ基盤「DataTetra」の提供を10月21日から開始している。AIコストの急増やベンダー依存といった課題ん挑む、新たな設計思想とは。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T07:00:00+09:00"
+  },
+  {
+   "title": "すべてが\"適切\"､スズキらしい真っ向勝負…新型軽EV｢e SKY｣､電動化でも伝統｢小･少･軽･短･美｣を貫く哲学 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961236?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "2026年10月6日にスズキが新型軽EV｢e SKY｣を発表。普通すぎるEVとも報道されているが､本当のところは？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T06:45:00+09:00"
+  },
+  {
+   "title": "投資家がテスラとスペースXの合併の可能性に懐疑的であるべき理由",
+   "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+   "summary": "ウォール街はテスラとスペースXの合併の可能性で大騒ぎになっている。しかし、そのような合併は悪い考えである可能性が高い。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T06:44:00+09:00",
+   "lang": "en",
+   "title_orig": "Why investors should be skeptical of a potential Tesla-SpaceX merger"
+  },
+  {
+   "title": "SpaceX、Anthropic、NVIDIA がハイテク株の最近の低迷からの脱却を支援",
+   "link": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_markets_main",
+   "summary": "AI チェーンの 3 つの異なるリンクからの強気シグナルにより、ナスダック総合指数は金曜日の下落の大部分を取り戻すことができました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T06:36:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise"
+  },
+  {
    "title": "トランプ大統領はデータセンターは自前で発電すべきだと主張しているが、専門家はそれを義務付けることができるのは州だけだと主張している",
    "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
    "summary": "大統領の声明は、中間選挙を前に施設に対する有権者の反発が激化する中で発表された。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-10-22T05:37:00+09:00",
+   "published": "2026-10-22T06:31:00+09:00",
    "lang": "en",
    "title_orig": "Trump says data centers should generate their own electricity — but experts say only states can mandate that"
+  },
+  {
+   "title": "｢ソーセージだけ｣｢塩鮭だけ｣ローソンの300円以下\"貧乏弁当\"が話題→｢日本の貧困化｣だけではない激安弁当人気の背景 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961712?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "物価高騰が続く中､スーパーやコンビニで｢激安弁当｣が登場し多くの支持を集めています。｢日本が貧乏になった象徴だ｣という声も上がる中､激安弁当が求められる背景を探ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T06:30:00+09:00"
+  },
+  {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-4025abb1?mod=rss_markets_main",
+   "summary": "ヘルスケアをカバーする最新のマーケットトークで、EssilorLuxottica、医薬品株などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T06:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=rss_markets_main",
+   "summary": "基本材料をカバーする最新のマーケットトークで、金価格、ジャックドーガス田などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T06:16:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "【洛星高校】学者･研究者編 時代を刻んだ卒業生ファイル#13《『京都ぎらい』の井上章一､ニューアカの浅田彰…》 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960353?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "洛星高校は地元･京都大学や東京大学に多くの卒業生を送り出してきた､京都を代表する中高一貫校。卒業生の中には個性が光る学者･研究者が数多くいます。卒業生の活躍から､同校の強みを分析します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T06:15:00+09:00"
+  },
+  {
+   "title": "今ではイラン戦争前と同じようにペルシャ湾から石油が流出している。価格がすぐには下がらない理由。",
+   "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+   "summary": "10月のペルシャ湾からの原油流出量はイラン戦争開始前の水準にほぼ戻ったが、トレーダーらは脆弱な石油について引き続き警戒している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T06:14:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon."
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-f3c3c3ff?mod=rss_markets_main",
+   "summary": "金融サービスをカバーする最新のマーケットトークで、プルデンシャル PLC、CIMB、バンコク銀行などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T06:13:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e0a8366d?mod=rss_markets_main",
+   "summary": "自動車および輸送部門をカバーする最新のマーケットトークで、カナダの自動車販売、ユナイテッド航空、マースクなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T06:13:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "新橋のビジネスパーソンもハマる｢1L400円から｣のデカい1杯…韓国発\"大容量･低価格\"カフェが続々と日本に上陸する背景 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/959485?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "韓国発の\"1リットル級\"大容量コーヒーが､新橋のビジネス街で急速に広がっています。低価格と満足感だけでなく､忙しい日常にフィットする新たなコーヒースタイルが注目の的。その背景にある狙いと､日本文化へ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T06:05:00+09:00"
+  },
+  {
+   "title": "鬼滅もダンダダンも　日本アニメの人気支える元｢海賊版｣が目指す先",
+   "link": "https://www.asahi.com/articles/ASVBG7J7SVBGUHBI012M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-22T06:00:00+09:00"
+  },
+  {
+   "title": "台湾統一地方選挙で予想外の展開に…台北市長選で優勢だった国民党現職が失速し､民進党の挑戦者が急上昇のサプライズ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962004?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "台湾で1カ月後に迫る統一地方選を前に､与野党の攻防はこれまでにない緊迫感を見せています。国民党が本来強い台北市長選では､民進党候補が躍進し､国民党で現職の蒋万安氏を猛追する想定外の事態が起きています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T06:00:00+09:00"
+  },
+  {
+   "title": "中部電力の原発データ不正を生んだ｢独自の正当化理論｣という病､高木仁三郎氏が遺した｢対抗的専門家｣の挑戦 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961907?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "中部電力の原発再稼働をめぐるデータ不正問題は､組織の自己正当化や異論排除が根底にあったことが明らかになりました。市民の立場から異論を検証した高木仁三郎氏のような｢対抗的専門家｣は､なぜいま必要とされ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T06:00:00+09:00"
+  },
+  {
+   "title": "〈薄氷のAI相場〉1点集中するレバレッジが一気に巻き戻すとき､ショックは日本を直撃する…ドル円を見舞う\"想定外\"も | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961870?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "AI関連投資が世界経済の成長を牽引する一方で､不安定なレバレッジ構造や循環取引が金融市場のリスクを急速に高めています。アメリカ発のショックがアジア･日本経済へ波及する可能性や､円高リスクの浮上も想定…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T06:00:00+09:00"
+  },
+  {
+   "title": "「自分を情けないとは思わない」: 私は 64 歳で、残りの人生は賃貸で過ごすつもりです。それはそんなに悪いことですか？",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "summary": "「私は収入の多い素晴らしい男性と結婚しました。彼は健康上の問題で仕事を辞め、53歳で重度の脳卒中を患いました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T06:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
+  },
+  {
+   "title": "今年はガソリン代が安くなる見込みです",
+   "link": "https://www.wsj.com/finance/commodities-futures/one-of-your-fuel-bills-is-poised-to-be-lower-this-year-d127eb15?mod=rss_markets_main",
+   "summary": "記録的な国内生産量と穏やかな天候への期待により、天然ガス価格は低く抑えられている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T06:00:00+09:00",
+   "lang": "en",
+   "title_orig": "One of Your Fuel Bills Is Poised to Be Lower This Year"
+  },
+  {
+   "title": "投資家がこのセクターに資金を投入する中、注目を集めるヘルスケア株 7 銘柄",
+   "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+   "summary": "投資家はヘルスケアセクターを過去最高値に押し上げており、一部の人気銘柄は2028年までに高い収益成長率が予想されている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T05:59:00+09:00",
+   "lang": "en",
+   "title_orig": "7 healthcare stocks that stand out as investors pay up for the sector"
   },
   {
    "title": "17年間付き合ったパートナーが100万ドルの家を私に残してくれました。彼の子供たちは、私が彼にそうするように影響を与えたと言いました。遺産を分け合うべきでしょうか？",
@@ -81,196 +445,22 @@
    "title_orig": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?"
   },
   {
-   "title": "米国の天然ガス先物は穏やかな短期天候見通しを受けて下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
-   "summary": "米国の天然ガス先物相場は、短期的な穏やかな天気予報が需要予想を寄せ付けず、下落幅を４取引まで拡大した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T05:31:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather Outlook"
-  },
-  {
-   "title": "時間無制限《焼きたてピザ食べ放題》にパスタ､サラダ､ドリンクバーで1999円…｢イタリアン激戦県｣のチェーンが凄かった | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960816?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "時間無制限で20種類以上のピザが食べ放題。さらにパスタ､サラダ､ドリンクバーまで付いて1999円という驚きの人気ローカルチェーンをレポートします。",
-   "source": "東洋経済オンライン",
+   "title": "日本の「造船業」は復活できるのか　国交省が「かつてない規模の予算」で挑むフィジカルAI",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/22/news009.html",
+   "summary": "人手不足と国際競争の激化に直面する日本の造船業。政府は2035年に国内の船舶建造量を倍増させる目標を掲げ、AIやロボティクスの活用を支援する。造船現場の生産性を高め、熟練技能者の技術を次世代につなぐ取り組みを追う。",
+   "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-10-22T05:30:00+09:00"
   },
   {
-   "title": "フランス国債利回りは数年ぶりの高水準に達し、米国債利回りはさらに上昇",
-   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-in-asian-trade-0c544484?mod=rss_markets_main",
-   "summary": "ユーロ圏国債の利回りは上昇し、フランスの10年債利回りはインフレ、予算、債務リスクを背景に2002年7月以来の高水準となった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T05:30:00+09:00",
-   "lang": "en",
-   "title_orig": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher"
-  },
-  {
-   "title": "メタ、AIによる資金調達を可能にする新しい無議決権株式クラスを創設",
-   "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-   "summary": "この変更により、ソーシャルメディアグループはマーク・ザッカーバーグの支配力を低下させることなく、AI投資に資金を提供するために株式を売却できるようになるだろう",
+   "title": "共和党は支出面で大きな優位性を持って中間選挙に臨む",
+   "link": "https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c?syn-25a6b1a6=1",
+   "summary": "提出書類によると、党とその関連団体が巨額の軍資金を蓄えているが、世論調査では多くの人種で民主党が支持されている",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-10-22T05:27:39+09:00",
+   "published": "2026-10-22T05:26:09+09:00",
    "lang": "en",
-   "title_orig": "Meta to create new non-voting share class to enable AI fundraising"
-  },
-  {
-   "title": "スペースXがAI救援集会を促進し、米国株が上昇",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7?mod=rss_markets_main",
-   "summary": "イーロン・マスク氏のスペースXからの好収益により人工知能事業の収益性への懸念が和らぎ、米国株は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T05:27:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally"
-  },
-  {
-   "title": "SpaceXとTeslaが合併を検討",
-   "link": "https://www.wsj.com/finance/stocks/spacex-and-tesla-consider-merger-9a38832d?mod=rss_markets_main",
-   "summary": "さらに、売上高の伸び鈍化とフランス国債利回りが5％を超えたことでネットフィックス株は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T05:26:00+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX and Tesla Consider Merger"
-  },
-  {
-   "title": "モデルナはがんワクチンの試験結果を間もなく発表する。多くのことがこのデータに基づいています。",
-   "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-   "summary": "モデルナは、カスタムのがん治療薬を提供しているため、今年最も注目されている銘柄の1つです。フェーズ 3 の完全なデータは今週末に公開される予定です。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T05:18:00+09:00",
-   "lang": "en",
-   "title_orig": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data."
-  },
-  {
-   "title": "初代のデザイン思想を継承しつつ現代的に…フィアット｢グランデ パンダ ハイブリッド｣導入､SUV化でも変わらぬ信念 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961593?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "シンプルなスタイルと高い実用性で愛され続けるフィアットの名車｢パンダ｣が､最新ハイブリッドSUV｢グランデ パンダ｣として日本上陸。その特徴について紹介します。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-22T05:15:00+09:00"
-  },
-  {
-   "title": "私たちは金利 2.75% の 300,000 ドルの住宅ローンを持っています。完済したいです。夫は私がおかしいと言っています。誰が正しいですか？",
-   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-   "summary": "「お金があるのに、6桁もの借金を抱えて引退生活を送りたくないのです。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T05:15:00+09:00",
-   "lang": "en",
-   "title_orig": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
-  },
-  {
-   "title": "SpaceX の大規模な AI ターゲットは現実の限界を試す",
-   "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-   "summary": "イーロン・マスク氏はSpaceXのコンピューティング能力を飛躍的に増大させることを目指しているが、資金、電力供給、そして単に電源の確保といった課題に直面することになるだろう。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T05:15:00+09:00",
-   "lang": "en",
-   "title_orig": "SpaceX’s massive AI targets will test the limits of reality"
-  },
-  {
-   "title": "GMは新世代の自動運転車でライバルを追い越すことを目指す",
-   "link": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
-   "summary": "デトロイトの自動車メーカーの最高製品責任者であるスターリング・アンダーソン氏は、2028年までに完全自動運転の自家用車を道路に導入する計画を立てている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T05:10:13+09:00",
-   "lang": "en",
-   "title_orig": "GM aims to leapfrog rivals with new generation of autonomous cars"
-  },
-  {
-   "title": "自動車販売不振でテスラの利益が減少",
-   "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-   "summary": "イーロン・マスク氏の自動車メーカー、スペースXとの合併を検討中、売上高は横ばいと報告",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T05:09:34+09:00",
-   "lang": "en",
-   "title_orig": "Tesla’s profits slip on weaker vehicle sales"
-  },
-  {
-   "title": "社会保障局は、より多くの赤ちゃんが「トランプアカウント」に登録することを望んでいるが、まだ落とし穴がある。",
-   "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-   "summary": "社会保障はトランプ氏のアカウントへの当初の遅れを逆転させようとしている",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T05:01:00+09:00",
-   "lang": "en",
-   "title_orig": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch."
-  },
-  {
-   "title": "3週間充電いらずで24時間測り続ける､ファーウェイのスマートウォッチが世界首位になった理由 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961583?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "驚異的なバッテリー持続力と先進的な健康管理機能を備えたファーウェイの最新スマートウォッチ｢HUAWEI WATCH GT 7｣と｢WATCH 6｣。日々の体調変化を逃さず見守り､未来の健康管理を支え…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-22T05:00:00+09:00"
-  },
-  {
-   "title": "原油沈降で輸送リスクが混入、原油の流れに関する楽観論が弱まる",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-attacks-on-vessels-in-strait-of-hormuz-5456bfd8?mod=rss_markets_main",
-   "summary": "原油先物相場は、12月WTIが前月デビューで下落し、ブレント原油はほぼ変わらずで取引を終えた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T04:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Settles Mixed as Shipping Risks Temper Optimism About Flows"
-  },
-  {
-   "title": "ニューメキシコ州、ジェフリー・エプスタインの弁護士と会計士を訴訟",
-   "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_markets_main",
-   "summary": "訴訟では、この二人がエプスタインのゾロ牧場での性的人身売買への資金提供と隠蔽に協力したとして告発されている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T04:34:00+09:00",
-   "lang": "en",
-   "title_orig": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant"
-  },
-  {
-   "title": "AI ブームをショートさせたいですか?彼女は「計算」価格に賭ける方法を提供したいと考えています",
-   "link": "https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e?mod=rss_markets_main",
-   "summary": "Silicon Data の創設者である Carmen Li 氏は、コンピューティングのデリバティブを立ち上げるために CME Group と提携します。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T04:32:00+09:00",
-   "lang": "en",
-   "title_orig": "Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices"
-  },
-  {
-   "title": "阪神8000系､震災乗り越えた｢急行用車両｣の新展開　前後で\"顔\"が違う編成も､伝統の｢赤胴車｣姿で終盤へ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961414?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "阪神電気鉄道のベテラン車両｢8000系｣は､阪神･淡路大震災での被害を乗り越え､40年以上にわたって走り続けてきました。実は同じ8000系の車両でも登場時期によって仕様が異なります。車両基地で撮影し…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-22T04:30:00+09:00"
-  },
-  {
-   "title": "「超」エルニーニョにより、間もなくコーヒーが超高価になる可能性があります",
-   "link": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
-   "summary": "世界中の農産物市場はすでに、記録的な高値のディーゼル価格と高額な肥料コストに直面している。 「スーパー」エルニーニョはほぼ確実だ",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T04:24:00+09:00",
-   "lang": "en",
-   "title_orig": "‘Super’ El Niño may soon make your coffee super expensive"
-  },
-  {
-   "title": "原油価格の下落を受けて金先物は小幅上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
-   "summary": "原油価格がマイナス圏に陥ったことで、金先物は小幅高となった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T04:06:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Futures Edge Up as Oil Prices Slip"
+   "title_orig": "Republicans head into midterms with huge spending advantage"
   },
   {
    "title": "ベッセント氏、非公開の投資家会議でAIの「体系的な」リスクを無視",
@@ -283,26 +473,6 @@
    "title_orig": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference"
   },
   {
-   "title": "NSA、AIを使用して検出された「重大な」サイバー脆弱性について警告",
-   "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
-   "summary": "研究者たちは OpenAI と Google モデルを使用して、世界中のほとんどの Web サイトで使用されているソフトウェアの重大な欠陥を発見しました",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T03:46:43+09:00",
-   "lang": "en",
-   "title_orig": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI"
-  },
-  {
-   "title": "イーロン・マスク氏がテスラとスペースXの合併で得ようとしているもの",
-   "link": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
-   "summary": "イーロン・マスク氏の上場企業の合併には一定の論理があるが、他の株主の影響力が現在よりも弱くなる可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T02:25:53+09:00",
-   "lang": "en",
-   "title_orig": "What Elon Musk stands to gain from a Tesla-SpaceX merger"
-  },
-  {
    "title": "オハイオ州知事の選挙運動、攻撃広告をめぐる論争に巻き込まれる",
    "link": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
    "summary": "バイオテクノロジーの億万長者ヴィヴェク・ラマスワミ氏、反対派の別居中の母親をフィーチャーしたビデオで反発に直面",
@@ -311,26 +481,6 @@
    "published": "2026-10-22T02:09:38+09:00",
    "lang": "en",
    "title_orig": "Ohio governor’s campaign engulfed in controversy over attack ad"
-  },
-  {
-   "title": "Medicare is a bargain.アメリカが払えないのは民間の医療保険だ。",
-   "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
-   "summary": "民間保険では、同じ結果、あるいはそれ以上の結果を得るのにはるかに高額の費用がかかります。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T01:34:00+09:00",
-   "lang": "en",
-   "title_orig": "Medicare is a bargain. What America can’t afford is private health insurance."
-  },
-  {
-   "title": "ミシガン州はアメリカ初のイスラム教徒上院議員を選出できるだろうか?",
-   "link": "https://www.ft.com/content/a6972433-c303-4ace-affd-cc3ab54a3cf3?syn-25a6b1a6=1",
-   "summary": "民主党のアブドゥル・エルサイード氏は歴史を作る可能性がある、あるいは中間選挙で上院多数派を掌握する同党の希望を打ち砕く可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T00:52:15+09:00",
-   "lang": "en",
-   "title_orig": "Could Michigan elect America’s first Muslim senator?"
   },
   {
    "title": "ゴールドマン・サックス、JPモルガン、モルガン・スタンレーがAI株ブームを独占している。ここが彼らの優位性です",
@@ -359,36 +509,22 @@
    "published": "2026-10-21T23:30:00+09:00"
   },
   {
+   "title": "ロケット、ロボット、そしてリスク：テスラとスペースXを合併するマスク氏の3兆6000億ドルの賭け",
+   "link": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1",
+   "summary": "世界で最も裕福な男が、これまでで最も大胆な取引を試みる。しかし、株主と世界的な規制当局の説得が必要となるだろう",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-21T22:38:40+09:00",
+   "lang": "en",
+   "title_orig": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX"
+  },
+  {
    "title": "イオングループ13社の42サイトに不正アクセス　情報流出は調査中",
    "link": "https://www.asahi.com/articles/ASVBP457VVBPULFA02GM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-21T21:56:51+09:00"
-  },
-  {
-   "title": "iPhone Duoは買いか？ アップル初の折りたたみスマホを検証､サムスンと比較して見えた品質とアプリ最適化の課題 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961707?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アップル初の折りたたみ型スマートフォン｢iPhone Duo｣がついに登場。高額にもかかわらず予約殺到で納期は2027年へ。独自のマット仕上げディスプレイや快適な操作性､アプリ最適化の課題とは？ 最…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T21:00:00+09:00"
-  },
-  {
-   "title": "【実機レビュー】36万円超｢iPhone Duo｣を1週間使ってみた本音…指紋認証は手間だが､大画面の効果も実感 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961665?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "iPhone Duoを1週間使って感じたのは､映画や読書以上に｢両手で快適に文章を書ける体験｣の心地よさでした。折りたたみiPhoneならではの大画面で､あなたは何をしたいですか？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T21:00:00+09:00"
-  },
-  {
-   "title": "公・民、対決路線に傾斜　消費減税対案、一本化も視野",
-   "link": "https://www.jiji.com/jc/article?k=2026102100647&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-21T20:50:00+09:00"
   },
   {
    "title": "市場前に最も大きな動きをする銘柄: SpaceX、Super Micro Computer、Netflix、Dell など",
@@ -423,14 +559,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-21T19:15:00+09:00"
-  },
-  {
-   "title": "【カルビー・江原社長に直撃】ナフサ危機で「白黒パッケージ」なぜ決断？／国内で「値上げ余地」はまだあるか／「ジャガイモ依存」の経営課題にどう対処？／北米に最大注力「海外事業」の勝ち筋 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962074?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "イラン発の原油価格上昇とナフサ供給不安の状況下、インク節約のために「ポテトチップス」など主力商品のパッケージを“白黒化”したカルビー。その大胆な選択の背景にはどんな事情があったのか。また、人口減で市…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T19:00:00+09:00"
   },
   {
    "title": "金融庁広報誌アクセスＦＳＡ第278号（2026年10月号）を発行しました。",
@@ -473,14 +601,6 @@
    "published": "2026-10-21T18:29:30+09:00"
   },
   {
-   "title": "｢非常識だ｣｢人気芸能人のわがまま｣と批判も…藤田ニコル｢テレビ局に託児所を｣提言に″一考の余地アリ″と言える理由 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962008?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢テレビ局に託児所を作ってほしい｣——藤田ニコルの一言が､ワーキングマザー支援の新たな論点を投げかけました。過去の事例やSNSの賛否から見える､多様な働き方と現場改革の可能性とはーー。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T18:15:00+09:00"
-  },
-  {
    "title": "関西財界トップら、12月の訪中で調整　当初予定の10月から延期",
    "link": "https://www.asahi.com/articles/ASVBP20VGVBPPLFA001M.html?ref=rss",
    "summary": "",
@@ -521,54 +641,6 @@
    "published": "2026-10-21T16:48:42+09:00"
   },
   {
-   "title": "日清製粉ウェルナ、小麦粉製品1～9%値上げへ　来年1月納品分から",
-   "link": "https://www.asahi.com/articles/ASVBP2GY6VBPULFA015M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-21T16:47:19+09:00"
-  },
-  {
-   "title": "高市政権は財政政策の｢プランB｣を示すべきだ…｢高成長達成で財政の持続可能性はOK｣のプランだけでは楽観的すぎる | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961246?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "2027年度予算の概算要求が過去最大の143兆円となり､政府は成長分野への巨額投資で経済再生を狙います。しかし､国債金利上昇や財政規律への懸念も拭えません。期待と現実が交錯する今､持続可能な財政再建…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T16:00:00+09:00"
-  },
-  {
-   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
-   "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-21T15:35:06+09:00"
-  },
-  {
-   "title": "支持率50％キープでも安心できない？ 横浜､千代田… ｢地方選｣で顕在化し始めた高市首相を脅かす\"不穏な変化\"の足音 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962041?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "簗元水相の辞任騒動の後でも､高市内閣の支持率は50％をキープ。しかし､地方選では｢変化｣の兆しも見え始めています。横浜市長選と千代田区の都議補選から見えてきた､3つの政党が絡む微妙な駆け引きを追いま…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T15:30:00+09:00"
-  },
-  {
-   "title": "カーセンサー、不正アクセスでサービス停止　最大370万件漏洩か",
-   "link": "https://www.asahi.com/articles/ASVBP1VFPVBPULFA00NM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-21T15:15:21+09:00"
-  },
-  {
-   "title": "｢ユニーク｣は褒め言葉？　悪口？　人から｢ユニークだね｣と言われたら文化から掘り下げてみると面白い理由 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961400?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "日本語と英語の間には､同じ言葉でありながら微妙に意味やニュアンスが異なる\"ズレ\"が存在します。なぜ｢ユニーク｣や｢ナイーブ｣､｢プライド｣といった言葉は､文化背景によって評価や印象が変わるのでしょう…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T15:00:00+09:00"
-  },
-  {
    "title": "米ネトフリ純利益44%増 7～9月期",
    "link": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
    "summary": "",
@@ -577,52 +649,12 @@
    "published": "2026-10-21T14:50:45+09:00"
   },
   {
-   "title": "正念場は12月10日前後？ 2年目突入の高市政権を揺さぶる｢議員定数削減｣｢10兆円財源｣｢外交的孤立｣という3重苦の先行き | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962027?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "発足2年目に入った高市早苗政権。しかし､内政では与党内の対立､外交では日米･日中関係の不透明感が漂い､厳しい状況に置かれています。政権維持の正念場は12月10日前後――。そう見通す根拠とは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T14:30:00+09:00"
-  },
-  {
    "title": "カフェインレスコーヒー 市場拡大",
    "link": "https://news.yahoo.co.jp/pickup/6599579?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-21T14:08:53+09:00"
-  },
-  {
-   "title": "なぜ大人になると｢友達｣が減っていくのか…｢人間関係に疲れない人｣が実践している\"手放す\"思考法 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961497?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢昔は仲が良かったのに､いつの間にか疎遠になった――｣大人になると友人関係が難しく感じることはありませんか？　それは必ずしもあなたの努力不足ではなく､環境や人生の変化によって自然に起きたものかもしれ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T14:00:00+09:00"
-  },
-  {
-   "title": "岩井コスモへの攻撃　専門家「次元が違う。証券会社になりすました」",
-   "link": "https://www.asahi.com/articles/ASVBP1GDZVBPULFA00GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-21T13:53:07+09:00"
-  },
-  {
-   "title": "厳しい顧問の指導で､懸命に練習し､県大会で優勝…そんな部活の《マネジメントもどき》が社会では通用しない2つの理由 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960962?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "会社が求める｢成果｣は､単なる行動の積み重ねだけでは生まれません。成果の土台には､社員1人ひとりの感情や思考が深く関わっています。AI時代を迎えた今､人と組織の持続的な成長には何が必要なのでしょうか…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T13:00:00+09:00"
-  },
-  {
-   "title": "｢相続人が100人!?｣実家を売ろうとしたら曽祖父名義のままだった…｢故人名義のままだと売れない問題｣を弁護士が解説 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961671?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "実家を売ろうとしたところ､土地の名義が曽祖父のままになっていたことが判明。相続人はなんと100人を超えていた──。実は､同様の悩みは決して珍しくありません。2024年4月1日から義務化された相続登記…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T12:00:00+09:00"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月21日公表）",
@@ -939,14 +971,6 @@
    "published": "2026-10-20T07:00:00+09:00"
   },
   {
-   "title": "「税金で動かす以上……」　政府18万人が使うAI「源内」の「コストに関する工夫」とは",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/20/news012.html",
-   "summary": "デジタル庁は、全府省庁の職員約18万人に生成AI「源内」を提供する。情報の機密性、税金で運用するAIのコスト感など解決しなければならない課題も多い。AI活用にどう取り組むのか。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-20T07:00:00+09:00"
-  },
-  {
    "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事録について公表しました。",
    "link": "https://www.fsa.go.jp/singi/ai_onchain/gijiroku/20260930.html",
    "summary": "",
@@ -963,22 +987,6 @@
    "published": "2026-10-20T01:42:14+09:00",
    "lang": "en",
    "title_orig": "Anthropic is AI trade's last big hope for a major IPO this year"
-  },
-  {
-   "title": "三井住友DS投信直販ネットに不正アクセス　一時ログインできない状態に",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/19/news113.html",
-   "summary": "資産運用会社、三井住友DSアセットマネジメント（東京都港区）は、同社が運営する投資信託直販サービス「三井住友DS投信直販ネット」で不正アクセスがあり、一時的にWebサイトにログインできない状況が発生していたことを発表した。現在は復旧しているという。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-19T22:00:00+09:00"
-  },
-  {
-   "title": "検索流入は4割減　AIの「ゼロクリック」に企業はどう勝つか？",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/19/news112.html",
-   "summary": "AIの席巻によって、インターネットの検索に地殻変動ともいえる変化が生じている。企業のWebサイトやニュースサイトなどは、AIにいかに引用されるかがポイントになってきた。AI検索結果によって、サイトの「ゼロクリック」という事態も発生。AIによる引用にコンテンツを最適化させる対応策である「GEO＝Generative Engine Optimization」へのシフトが急務となりそうだ。（近藤豊和）",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-19T21:45:00+09:00"
   },
   {
    "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による最終報告書「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」について公表しました。",
