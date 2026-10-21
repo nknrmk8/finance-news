@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T02:24:41.280070+09:00",
+ "generated_at": "2026-10-22T05:43:36.626171+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,246 @@
  "errors": [],
  "items": [
   {
+   "title": "トランプ大統領はデータセンターは自前で発電すべきだと主張しているが、専門家はそれを義務付けることができるのは州だけだと主張している",
+   "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+   "summary": "大統領の声明は、中間選挙を前に施設に対する有権者の反発が激化する中で発表された。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T05:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Trump says data centers should generate their own electricity — but experts say only states can mandate that"
+  },
+  {
+   "title": "17年間付き合ったパートナーが100万ドルの家を私に残してくれました。彼の子供たちは、私が彼にそうするように影響を与えたと言いました。遺産を分け合うべきでしょうか？",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "summary": "「新しいキッチンと屋根に約45,000ドルをつぎ込みましたが、家賃は支払ったことがありません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T05:31:00+09:00",
+   "lang": "en",
+   "title_orig": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?"
+  },
+  {
+   "title": "米国の天然ガス先物は穏やかな短期天候見通しを受けて下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物相場は、短期的な穏やかな天気予報が需要予想を寄せ付けず、下落幅を４取引まで拡大した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T05:31:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather Outlook"
+  },
+  {
+   "title": "時間無制限《焼きたてピザ食べ放題》にパスタ､サラダ､ドリンクバーで1999円…｢イタリアン激戦県｣のチェーンが凄かった | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960816?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "時間無制限で20種類以上のピザが食べ放題。さらにパスタ､サラダ､ドリンクバーまで付いて1999円という驚きの人気ローカルチェーンをレポートします。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T05:30:00+09:00"
+  },
+  {
+   "title": "フランス国債利回りは数年ぶりの高水準に達し、米国債利回りはさらに上昇",
+   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-in-asian-trade-0c544484?mod=rss_markets_main",
+   "summary": "ユーロ圏国債の利回りは上昇し、フランスの10年債利回りはインフレ、予算、債務リスクを背景に2002年7月以来の高水準となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T05:30:00+09:00",
+   "lang": "en",
+   "title_orig": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher"
+  },
+  {
+   "title": "メタ、AIによる資金調達を可能にする新しい無議決権株式クラスを創設",
+   "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+   "summary": "この変更により、ソーシャルメディアグループはマーク・ザッカーバーグの支配力を低下させることなく、AI投資に資金を提供するために株式を売却できるようになるだろう",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T05:27:39+09:00",
+   "lang": "en",
+   "title_orig": "Meta to create new non-voting share class to enable AI fundraising"
+  },
+  {
+   "title": "スペースXがAI救援集会を促進し、米国株が上昇",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7?mod=rss_markets_main",
+   "summary": "イーロン・マスク氏のスペースXからの好収益により人工知能事業の収益性への懸念が和らぎ、米国株は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T05:27:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally"
+  },
+  {
+   "title": "SpaceXとTeslaが合併を検討",
+   "link": "https://www.wsj.com/finance/stocks/spacex-and-tesla-consider-merger-9a38832d?mod=rss_markets_main",
+   "summary": "さらに、売上高の伸び鈍化とフランス国債利回りが5％を超えたことでネットフィックス株は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T05:26:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX and Tesla Consider Merger"
+  },
+  {
+   "title": "モデルナはがんワクチンの試験結果を間もなく発表する。多くのことがこのデータに基づいています。",
+   "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+   "summary": "モデルナは、カスタムのがん治療薬を提供しているため、今年最も注目されている銘柄の1つです。フェーズ 3 の完全なデータは今週末に公開される予定です。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T05:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data."
+  },
+  {
+   "title": "初代のデザイン思想を継承しつつ現代的に…フィアット｢グランデ パンダ ハイブリッド｣導入､SUV化でも変わらぬ信念 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961593?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "シンプルなスタイルと高い実用性で愛され続けるフィアットの名車｢パンダ｣が､最新ハイブリッドSUV｢グランデ パンダ｣として日本上陸。その特徴について紹介します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T05:15:00+09:00"
+  },
+  {
+   "title": "私たちは金利 2.75% の 300,000 ドルの住宅ローンを持っています。完済したいです。夫は私がおかしいと言っています。誰が正しいですか？",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "summary": "「お金があるのに、6桁もの借金を抱えて引退生活を送りたくないのです。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T05:15:00+09:00",
+   "lang": "en",
+   "title_orig": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
+  },
+  {
+   "title": "SpaceX の大規模な AI ターゲットは現実の限界を試す",
+   "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
+   "summary": "イーロン・マスク氏はSpaceXのコンピューティング能力を飛躍的に増大させることを目指しているが、資金、電力供給、そして単に電源の確保といった課題に直面することになるだろう。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T05:15:00+09:00",
+   "lang": "en",
+   "title_orig": "SpaceX’s massive AI targets will test the limits of reality"
+  },
+  {
+   "title": "GMは新世代の自動運転車でライバルを追い越すことを目指す",
+   "link": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
+   "summary": "デトロイトの自動車メーカーの最高製品責任者であるスターリング・アンダーソン氏は、2028年までに完全自動運転の自家用車を道路に導入する計画を立てている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T05:10:13+09:00",
+   "lang": "en",
+   "title_orig": "GM aims to leapfrog rivals with new generation of autonomous cars"
+  },
+  {
+   "title": "自動車販売不振でテスラの利益が減少",
+   "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+   "summary": "イーロン・マスク氏の自動車メーカー、スペースXとの合併を検討中、売上高は横ばいと報告",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T05:09:34+09:00",
+   "lang": "en",
+   "title_orig": "Tesla’s profits slip on weaker vehicle sales"
+  },
+  {
+   "title": "社会保障局は、より多くの赤ちゃんが「トランプアカウント」に登録することを望んでいるが、まだ落とし穴がある。",
+   "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+   "summary": "社会保障はトランプ氏のアカウントへの当初の遅れを逆転させようとしている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T05:01:00+09:00",
+   "lang": "en",
+   "title_orig": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch."
+  },
+  {
+   "title": "3週間充電いらずで24時間測り続ける､ファーウェイのスマートウォッチが世界首位になった理由 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961583?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "驚異的なバッテリー持続力と先進的な健康管理機能を備えたファーウェイの最新スマートウォッチ｢HUAWEI WATCH GT 7｣と｢WATCH 6｣。日々の体調変化を逃さず見守り､未来の健康管理を支え…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T05:00:00+09:00"
+  },
+  {
+   "title": "原油沈降で輸送リスクが混入、原油の流れに関する楽観論が弱まる",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-attacks-on-vessels-in-strait-of-hormuz-5456bfd8?mod=rss_markets_main",
+   "summary": "原油先物相場は、12月WTIが前月デビューで下落し、ブレント原油はほぼ変わらずで取引を終えた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T04:59:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Settles Mixed as Shipping Risks Temper Optimism About Flows"
+  },
+  {
+   "title": "ニューメキシコ州、ジェフリー・エプスタインの弁護士と会計士を訴訟",
+   "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_markets_main",
+   "summary": "訴訟では、この二人がエプスタインのゾロ牧場での性的人身売買への資金提供と隠蔽に協力したとして告発されている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T04:34:00+09:00",
+   "lang": "en",
+   "title_orig": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant"
+  },
+  {
+   "title": "AI ブームをショートさせたいですか?彼女は「計算」価格に賭ける方法を提供したいと考えています",
+   "link": "https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e?mod=rss_markets_main",
+   "summary": "Silicon Data の創設者である Carmen Li 氏は、コンピューティングのデリバティブを立ち上げるために CME Group と提携します。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-22T04:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices"
+  },
+  {
+   "title": "阪神8000系､震災乗り越えた｢急行用車両｣の新展開　前後で\"顔\"が違う編成も､伝統の｢赤胴車｣姿で終盤へ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961414?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "阪神電気鉄道のベテラン車両｢8000系｣は､阪神･淡路大震災での被害を乗り越え､40年以上にわたって走り続けてきました。実は同じ8000系の車両でも登場時期によって仕様が異なります。車両基地で撮影し…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-22T04:30:00+09:00"
+  },
+  {
+   "title": "「超」エルニーニョにより、間もなくコーヒーが超高価になる可能性があります",
+   "link": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
+   "summary": "世界中の農産物市場はすでに、記録的な高値のディーゼル価格と高額な肥料コストに直面している。 「スーパー」エルニーニョはほぼ確実だ",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-22T04:24:00+09:00",
+   "lang": "en",
+   "title_orig": "‘Super’ El Niño may soon make your coffee super expensive"
+  },
+  {
    "title": "原油価格の下落を受けて金先物は小幅上昇",
    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
    "summary": "原油価格がマイナス圏に陥ったことで、金先物は小幅高となった。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-10-22T02:14:00+09:00",
+   "published": "2026-10-22T04:06:00+09:00",
    "lang": "en",
    "title_orig": "Gold Futures Edge Up as Oil Prices Slip"
+  },
+  {
+   "title": "ベッセント氏、非公開の投資家会議でAIの「体系的な」リスクを無視",
+   "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
+   "summary": "チケット代7,500ドルのチャリティーイベントで財務長官が投資家らと講演",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T03:46:59+09:00",
+   "lang": "en",
+   "title_orig": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference"
+  },
+  {
+   "title": "NSA、AIを使用して検出された「重大な」サイバー脆弱性について警告",
+   "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+   "summary": "研究者たちは OpenAI と Google モデルを使用して、世界中のほとんどの Web サイトで使用されているソフトウェアの重大な欠陥を発見しました",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T03:46:43+09:00",
+   "lang": "en",
+   "title_orig": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI"
+  },
+  {
+   "title": "イーロン・マスク氏がテスラとスペースXの合併で得ようとしているもの",
+   "link": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
+   "summary": "イーロン・マスク氏の上場企業の合併には一定の論理があるが、他の株主の影響力が現在よりも弱くなる可能性がある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-22T02:25:53+09:00",
+   "lang": "en",
+   "title_orig": "What Elon Musk stands to gain from a Tesla-SpaceX merger"
   },
   {
    "title": "オハイオ州知事の選挙運動、攻撃広告をめぐる論争に巻き込まれる",
@@ -81,26 +313,6 @@
    "title_orig": "Ohio governor’s campaign engulfed in controversy over attack ad"
   },
   {
-   "title": "トランプ大統領の特使訪問でロシア、米国国籍を解放",
-   "link": "https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1",
-   "summary": "スティーブ・ウィトコフ氏、ウクライナ戦争終結に向けた新たな取り組みでロシアのウラジーミル・プーチン大統領と会談",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T01:57:04+09:00",
-   "lang": "en",
-   "title_orig": "Russia releases US citizen as Trump’s envoy visits"
-  },
-  {
-   "title": "スペースXの収益がAI貿易を促進し、米国株が上昇",
-   "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
-   "summary": "スペースX社の利益が人工知能取引に大きな後押しを与えたことから、米国株は上昇し、ナスダックが上昇を主導した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T01:45:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade"
-  },
-  {
    "title": "Medicare is a bargain.アメリカが払えないのは民間の医療保険だ。",
    "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
    "summary": "民間保険では、同じ結果、あるいはそれ以上の結果を得るのにはるかに高額の費用がかかります。",
@@ -109,86 +321,6 @@
    "published": "2026-10-22T01:34:00+09:00",
    "lang": "en",
    "title_orig": "Medicare is a bargain. What America can’t afford is private health insurance."
-  },
-  {
-   "title": "基本的な材料のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=rss_markets_main",
-   "summary": "基本的な材料をカバーする最新のマーケット トークで、BlueScope スチール、金などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T01:34:00+09:00",
-   "lang": "en",
-   "title_orig": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "title": "フランスの借り入れコストが2002年以来初めて5％に達した",
-   "link": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
-   "summary": "財政と政治的安定に対する懸念により、10年債利回りは2月下旬の3.2％から上昇した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T01:33:36+09:00",
-   "lang": "en",
-   "title_orig": "France’s borrowing costs hit 5% for first time since 2002"
-  },
-  {
-   "title": "ヘルスケアのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-4025abb1?mod=rss_markets_main",
-   "summary": "ヘルスケアをカバーする最新のマーケットトークで、EssilorLuxottica、バムルンラード病院、Hansoh Pharmaceutical などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T01:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Health Care Roundup: Market Talk"
-  },
-  {
-   "title": "自動車と交通機関のまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e0a8366d?mod=rss_markets_main",
-   "summary": "",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T01:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Auto & Transport Roundup: Market Talk"
-  },
-  {
-   "title": "金融サービスのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-f3c3c3ff?mod=rss_markets_main",
-   "summary": "金融サービスを対象とした最新のマーケットトークで、プルデンシャル PLC、ナショナル オーストラリア銀行、CIMB などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T01:28:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d29e54ef?mod=rss_markets_main",
-   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、SpaceX、Netflix、AT&T などに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T01:27:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "title": "マクロン大統領、フランス暴動に関するトランプ大統領の「愚かな」発言を非難",
-   "link": "https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1",
-   "summary": "米国やその他の右派指導者が移民の暴力と略奪を非難したことを受け、フランス大統領が怒りを表明",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T01:12:37+09:00",
-   "lang": "en",
-   "title_orig": "Macron hits out at ‘stupid’ Trump remarks about riots in France"
-  },
-  {
-   "title": "ポリマーケットのトレーダーらはAIバブルが元旦までに崩壊する可能性は10％とみている",
-   "link": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
-   "summary": "暴走する人工知能取引がそろそろ行き詰まるのではないかと心配する投資家にとって、予測市場はすでに反発を始めている",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T00:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day"
   },
   {
    "title": "ミシガン州はアメリカ初のイスラム教徒上院議員を選出できるだろうか?",
@@ -201,16 +333,6 @@
    "title_orig": "Could Michigan elect America’s first Muslim senator?"
   },
   {
-   "title": "イーロン・マスクはアメリカのすべての子供たちにSpaceXの株を与えると約束した - 息を止めないで",
-   "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-   "summary": "トリック・オア・トリート?マスク氏には、物事は現実とほとんど関係がないと長年発言してきた経歴がある。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T00:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath"
-  },
-  {
    "title": "ゴールドマン・サックス、JPモルガン、モルガン・スタンレーがAI株ブームを独占している。ここが彼らの優位性です",
    "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
    "summary": "ウォール街のビッグ 3 は今年、株式取引収益 520 億ドルを生み出し、信用貸しの増加で市場の約 80% を獲得しました。",
@@ -219,76 +341,6 @@
    "published": "2026-10-22T00:30:50+09:00",
    "lang": "en",
    "title_orig": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge"
-  },
-  {
-   "title": "AI株はおそらくバブル状態にあるが、保有する価値はあるかもしれない、とシタデルのケン・グリフィン氏は言う",
-   "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
-   "summary": "投資家が「バブル」に直面しているのは確かだが、ケン・グリフィン氏は投資家にそれらの株を投げ捨てるように言っているわけではない。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T00:27:00+09:00",
-   "lang": "en",
-   "title_orig": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin"
-  },
-  {
-   "title": "米国の原油在庫が予想以上に減少",
-   "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-f8fbe807?mod=rss_markets_main",
-   "summary": "商業用原油在庫は先週、３１０万バレル減少した。アナリストらは原油在庫が３０万バレル減少すると予想していた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-22T00:24:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Crude Oil Stockpiles Fall More Than Expected"
-  },
-  {
-   "title": "17年間付き合ったパートナーが100万ドルの家を私に残してくれました。彼の子供たちは、私が彼にそうするように影響を与えたと言いました。遺産を分け合うべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "summary": "「新しいキッチンと屋根に約45,000ドルをつぎ込みましたが、家賃は支払ったことがありません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T00:15:00+09:00",
-   "lang": "en",
-   "title_orig": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?"
-  },
-  {
-   "title": "AI の構築費用は誰が払っているのでしょうか?おそらくあなた",
-   "link": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
-   "summary": "先進国のあらゆる場所で、あらゆる巨大な資本がデータセンターに資金を提供しています。",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-22T00:00:25+09:00",
-   "lang": "en",
-   "title_orig": "Who’s paying for the AI build-out? Probably you"
-  },
-  {
-   "title": "モデルナはがんワクチンの試験結果を間もなく発表する。多くのことがこのデータに基づいています。",
-   "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-   "summary": "モデルナは、カスタムのがん治療薬を提供しているため、今年最も注目されている銘柄の1つです。フェーズ 3 の完全なデータは今週末に公開される予定です。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-22T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data."
-  },
-  {
-   "title": "物価上昇に対処するための節約習慣 — 読者からの声",
-   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-   "summary": "私は人々に、今日の生活をより手頃な価格にするために何をしているかを尋ねました。私は間違いなくこれらのいくつかを試してみます。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-21T23:49:00+09:00",
-   "lang": "en",
-   "title_orig": "Money-saving habits to cope with higher prices — from our readers"
-  },
-  {
-   "title": "大学は大規模なコンピューター サイエンス学部の建設を競い合いました。今、ブームは崩壊に変わりつつあります。",
-   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-   "summary": "「コンピューターサイエンスは、人々が考えていたようなアメリカンドリームへの切符ではありません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-21T23:46:00+09:00",
-   "lang": "en",
-   "title_orig": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust."
   },
   {
    "title": "EVの補助金引き下げ 27年1月から",
@@ -305,16 +357,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-21T23:30:00+09:00"
-  },
-  {
-   "title": "ロケット、ロボット、そしてリスク：テスラとスペースXを合併するマスク氏の3兆6000億ドルの賭け",
-   "link": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1",
-   "summary": "世界で最も裕福な男が、これまでで最も大胆な取引を試みる。しかし、株主と世界的な規制当局の説得が必要となるだろう",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-21T22:38:40+09:00",
-   "lang": "en",
-   "title_orig": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX"
   },
   {
    "title": "イオングループ13社の42サイトに不正アクセス　情報流出は調査中",
@@ -365,16 +407,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-10-21T20:41:00+09:00"
-  },
-  {
-   "title": "「同室の大人」はあなたを救ってはくれない",
-   "link": "https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1",
-   "summary": "賢明な部下がドナルド・トランプのような人物を抑制してくれるという期待は、常に政治に対する誤解だった",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-21T20:32:56+09:00",
-   "lang": "en",
-   "title_orig": "The ‘adults in the room’ won’t save you"
   },
   {
    "title": "「人にはできない攻撃」AIで岩井コスモに侵入か　現実化する懸念",
@@ -591,38 +623,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-10-21T12:00:00+09:00"
-  },
-  {
-   "title": "健康志向｢リカバリーめし｣75品目がサービスエリアに登場！ 《気になるメニュー》のラインナップ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961556?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "近年､健康志向の高まりなどから､着るだけで血行促進や疲労回復が図れるという｢リカバリーウェア｣が注目されている。そんな中､ついに高速道路にも\"食べることで運転の疲労を回復する｢リカバリーめし｣が登場…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T12:00:00+09:00"
-  },
-  {
-   "title": "ハリマ化成がニュージーランド事業撤退へ…特損と特益を同時計上､業績予想を修正しない2つの理由 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961623?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "ロジン製品大手のハリマ化成がニュージーランド事業撤退を発表しました。それでも業績予想を修正しない2つの理由とは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T11:30:00+09:00"
-  },
-  {
-   "title": "アメリカで〈民主社会主義〉の旋風が起きた理由はイデオロギーだけではない…NYマムダニ市長が先駆けた\"草の根選挙\" | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961485?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "2026年米中間選挙を前に､アメリカでは若者の間で社会主義や民主社会主義が注目を集めています。その背景には､生活保障や平等を求める声と､中間組織の衰退による社会の分断があります。市民の声を政治にどう…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T11:30:00+09:00"
-  },
-  {
-   "title": "〈株価は8割減〉王者ナイキ､一段と遠のく復活のシナリオ…｢レトロモデル依存｣の代償と大規模構造改革の行方 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961438?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "王者のカムバックが、一段と遠のいた――。世界最大のスポーツ用品メーカー、ナイキの2027年5月期第1四半期（26年6～8月期）の決算は、売上高が前年同期比4％減の112億1300万ドル（約1兆794…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T11:30:00+09:00"
   },
   {
    "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月21日公表）",
