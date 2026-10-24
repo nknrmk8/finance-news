@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T20:21:05.395978+09:00",
+ "generated_at": "2026-10-24T23:40:41.744546+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,64 @@
  "errors": [],
  "items": [
   {
-   "title": "機械には感情があるのでしょうか？ AI によって、哲学者やテクノロジーのリーダーが意識を再考しています。",
-   "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
-   "summary": "AI モデルがより高度になるにつれて、テクノロジーのリーダーや哲学者は人類とテクノロジーの関係について熟考しています。",
+   "title": "誰もが Roth コンバージョンについて話していますが、実際にそれを行う人がいかに少ないか、そしてそれについて FOMO を持つべきではない理由を説明します。",
+   "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
+   "summary": "退職後の最善の税金戦略を見つけるには計算をする必要がありますが、転換することはあなたには向いていないかもしれません。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-10-24T20:00:00+09:00",
+   "published": "2026-10-24T23:24:00+09:00",
    "lang": "en",
-   "title_orig": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness."
+   "title_orig": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it"
+  },
+  {
+   "title": "アメリカの若者は車の所有を諦めつつある。それは一部の人にとっては経済的自由への道です。",
+   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+   "summary": "車の価格が高騰し、所有することがますます手の届かないものになっているため、一部の若者は車のない生活が息苦しくなっていることに気づき始めています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-24T23:06:00+09:00",
+   "lang": "en",
+   "title_orig": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some."
+  },
+  {
+   "title": "81歳の義父は、娘の5万ドルの借金を支払うために7万5千ドルの家を売りました。どうすれば彼が困窮しないようにできるでしょうか？",
+   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+   "summary": "「彼のニーズのために何も用意されていません。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-24T23:00:00+09:00",
+   "lang": "en",
+   "title_orig": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
+  },
+  {
+   "title": "フランス、最近の抗議活動の警察に7万人の警官を派遣",
+   "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+   "summary": "政府は先週末の暴動を受けて治安を強化するため、街頭に配置する警察官を20％増員",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-24T22:52:48+09:00",
+   "lang": "en",
+   "title_orig": "France deploys 70,000 officers to police latest protests"
+  },
+  {
+   "title": "投資家の最近の資金の動きは、報酬の増大よりもリスクの低減を好むことを示しています",
+   "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+   "summary": "投資家は今年、インベスコS&P500クオリティETFに着実に資金を注ぎ込んでいる。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-24T22:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Investors’ recent money moves show a preference for lowering risks over boosting rewards"
+  },
+  {
+   "title": "私の姪の大学の家賃は 529 プランで賄われています。他に非課税で支払えるものは何ですか?",
+   "link": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
+   "summary": "「私たちは、家賃、光熱費、キャンパス内での食料品や食事などの食費を彼女の分として月1,500ドルの予算を立てました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-24T22:28:00+09:00",
+   "lang": "en",
+   "title_orig": "My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?"
   },
   {
    "title": "ウクライナ軍はスターリンクのサービス制限が解除されたと発表",
@@ -76,9 +126,47 @@
    "summary": "ドローン通信システムの減速により、キエフはロシアの攻撃から身を守る能力が妨げられた",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-10-24T19:20:39+09:00",
+   "published": "2026-10-24T22:16:04+09:00",
    "lang": "en",
    "title_orig": "Ukraine military says Starlink service restrictions have been removed"
+  },
+  {
+   "title": "私の配偶者は、離婚の際に私の 401(k) から 90,000 ドルを受け取りました。それはどのように公平ですか?",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "summary": "「私は2020年に退職し、数年後に離婚しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-24T22:00:00+09:00",
+   "lang": "en",
+   "title_orig": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+  },
+  {
+   "title": "「彼女は夢を生きています」: 私の継母は、私が子供時代を過ごした家を85万ドルで買えると言った。彼女は私を利用しているのでしょうか？",
+   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+   "summary": "「亡き父は1990年代に私たちの家を25万ドルで購入しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-24T21:30:00+09:00",
+   "lang": "en",
+   "title_orig": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+  },
+  {
+   "title": "モデルナのがんワクチンは承認される可能性が「高い」。懐疑論者は、それが最善の選択肢であるかどうか疑問に思っています。",
+   "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+   "summary": "カスタムがんワクチンの最初の第 3 相データは、潜在的な新しい治療法が必要かどうかについて疑問を引き起こしました。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-24T21:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option."
+  },
+  {
+   "title": "大阪IR ディーラー人材確保に課題",
+   "link": "https://news.yahoo.co.jp/pickup/6599969?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-24T20:34:14+09:00"
   },
   {
    "title": "【スマートグラスが普及？】市場は伸びる？／主婦層に人気？／4タイプのAIグラス／Ray-BanとMetaのコラボが人気？／メガネメーカーに勝機あり？／中国で爆伸び？／目への負担は？／プライバシーは？ | ビジネス | 東洋経済オンライン",
@@ -115,16 +203,6 @@
    "published": "2026-10-24T17:07:26+09:00"
   },
   {
-   "title": "「彼女は夢を生きています」: 私の継母は、私が子供時代を過ごした家を85万ドルで買えると言った。彼女は私を利用しているのでしょうか？",
-   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-   "summary": "「亡き父は1990年代に私たちの家を25万ドルで購入しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-24T17:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-  },
-  {
    "title": "ロシア･サハリンでの北海道新聞記者の拘束事件､早期帰国に向けて｢静かな外交｣が必要だ | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/962123?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "ロシア当局による北海道新聞記者の拘束事件は､報道の自由と国家間の信頼を揺るがす重大な問題です。日本政府に求められるのは､記者の安全確保と早期帰国。そのために必要な外交戦略とは何か､事実と政治的意図を…",
@@ -139,16 +217,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-10-24T16:00:00+09:00"
-  },
-  {
-   "title": "私の配偶者は、離婚の際に私の 401(k) から 90,000 ドルを受け取りました。それはどのように公平ですか?",
-   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-   "summary": "「私は2020年に退職し、数年後に離婚しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-24T16:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
   },
   {
    "title": "【AI投資の危機】アメリカ中間選挙で高まる｢急ブレーキ｣のリスク､民主党勝利でデータセンター規制強化の可能性 | 政治・経済・投資 | 東洋経済オンライン",
@@ -173,16 +241,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-10-24T14:00:00+09:00"
-  },
-  {
-   "title": "ガディ・アイゼンコット、イスラエルの元軍司令官はネタニヤフを倒すことができるだろうか？",
-   "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
-   "summary": "中道派ヤシャル党を率いる白髪交じりの66歳は、首相の失脚を目指して激しい競争を繰り広げている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-24T13:00:33+09:00",
-   "lang": "en",
-   "title_orig": "Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?"
   },
   {
    "title": "フランスが反乱を起こしている。しかし、本当の嵐はまだ来ていない",
@@ -213,6 +271,16 @@
    "published": "2026-10-24T13:00:23+09:00",
    "lang": "en",
    "title_orig": "Pegasus spyware founder urges governments to trust his tech and ditch US AI"
+  },
+  {
+   "title": "タッカー・カールソン「自分の力を誇張しすぎて恥ずかしかった」",
+   "link": "https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1",
+   "summary": "トランプ大統領を最も声高に批判する人物は、まだアメリカの動向を把握しているのだろうか？",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-24T13:00:13+09:00",
+   "lang": "en",
+   "title_orig": "Tucker Carlson: ‘I so overstated my power it was embarrassing’"
   },
   {
    "title": "東大も新設｢デザイン学部｣はなぜ就職に強いのか？《AI時代に大手企業が求めている\"デザイン力\"の本質》 | キャリア・教育 | 東洋経済オンライン",
@@ -357,52 +425,12 @@
    "published": "2026-10-24T09:07:48+09:00"
   },
   {
-   "title": "トランプ政権、アラスカ州上院選挙の認証阻止に動く",
-   "link": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
-   "summary": "候補者の名前が似ていると結果が「汚される」可能性があると米司法省が主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-24T08:06:01+09:00",
-   "lang": "en",
-   "title_orig": "Trump administration moves to block certification of Alaska Senate election"
-  },
-  {
    "title": "対カナダ50%関税、一部撤廃　トランプ氏、中間選挙で候補者後押し",
    "link": "https://www.asahi.com/articles/ASVBR7HCGVBRUHBI00BM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-24T08:00:00+09:00"
-  },
-  {
-   "title": "「自分を情けないとは思わない」: 私は 64 歳で、残りの人生は賃貸で過ごすつもりです。それはそんなに悪いことですか？",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "summary": "「私は収入の多い素晴らしい男性と結婚しました。彼は健康上の問題で仕事を辞め、53歳で重度の脳卒中を患いました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-24T07:49:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
-  },
-  {
-   "title": "アンスロピックは11月のIPOを成功させることができるだろうか？重要な書類を提出する時間がなくなりつつあります。",
-   "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
-   "summary": "市場の圧力が高まり続けた場合、アンスロピックは「非公開のままにして、より良い機会を待つほうが良いと合理的に判断する可能性がある」と、あるポートフォリオは述べている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-24T07:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork."
-  },
-  {
-   "title": "投資家は先週、レバレッジをかけた半導体ETFに記録的な額を積み立てた。物事はうまくいきませんでした。",
-   "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-   "summary": "アーティフの増強による投資収益に対する新たな懸念が浮上し、今月は半導体株に強気の賭けをするトレーダーらが苦境に立たされている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-24T06:46:00+09:00",
-   "lang": "en",
-   "title_orig": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out."
   },
   {
    "title": "自動車と交通機関のまとめ: マーケットトーク",
@@ -423,26 +451,6 @@
    "published": "2026-10-24T06:24:00+09:00",
    "lang": "en",
    "title_orig": "WSJ Dollar Index Falls 0.25% This Week to 96.84"
-  },
-  {
-   "title": "AIを燃料とするこの注目株はマンネリ化している。利益予想を36％上回っただけだ。",
-   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-   "summary": "利益が予想を 36% 上回り、売上高が予想を 15% 上回った企業は、通常、業績後に上昇が見られます。しかし、燃料となるブルーム・エナジーには当てはまらない",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-24T06:13:00+09:00",
-   "lang": "en",
-   "title_orig": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%."
-  },
-  {
-   "title": "スペースXのモバイルへの野心は通信株に再び打撃を与えている。最新の開発が何を意味するかは次のとおりです。",
-   "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-   "summary": "スターリンクと携帯電話基地局の所有者との話し合いの報告は、ベライゾン、AT&T、Tモバイルの株主の注目を集めた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-24T06:11:00+09:00",
-   "lang": "en",
-   "title_orig": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean."
   },
   {
    "title": "株価、両方向に下落、不安定な週を終了",
@@ -669,14 +677,6 @@
    "published": "2026-10-23T19:00:20+09:00"
   },
   {
-   "title": "物価上昇2%到達判断の公算大 日銀",
-   "link": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-23T18:37:44+09:00"
-  },
-  {
    "title": "バーゼル銀行監督委員会による「グローバルなシステム上重要な銀行（G-SIB）-ウィンドウ・ドレッシング行動に対処するための評価枠組みの改訂」及び市中協議文書「G-SIB評価手法のレビュー」の公表について",
    "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261023a.htm",
    "summary": "",
@@ -707,6 +707,14 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-10-23T15:00:00+09:00"
+  },
+  {
+   "title": "モンゴル自然保護区で大規模火災　ＫＤＤＩ関連企業の車両が火元か",
+   "link": "https://www.jiji.com/jc/article?k=2026102300643&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-10-23T14:15:00+09:00"
   },
   {
    "title": "国庫短期証券（第1415回）の入札結果",
@@ -957,24 +965,6 @@
    "published": "2026-10-22T00:30:50+09:00",
    "lang": "en",
    "title_orig": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge"
-  },
-  {
-   "title": "市場前に最も大きな動きをする銘柄: SpaceX、Super Micro Computer、Netflix、Dell など",
-   "link": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html",
-   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-10-21T20:49:11+09:00",
-   "lang": "en",
-   "title_orig": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more"
-  },
-  {
-   "title": "【一体何が？】21日夜に「緊急メンテナンス」続々　業務ツール、ソシャゲ、通販、自治体Webサイトなど",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/21/news078.html",
-   "summary": "10月21日夜に「緊急メンテナンス」の実施を発表する企業が相次いでいる。対象サービスは、業種業界を問わない。いったい何が起きているのか。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-21T20:41:00+09:00"
   }
  ]
 }
