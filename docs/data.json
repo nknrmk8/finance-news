@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T20:00:47.612148+09:00",
+ "generated_at": "2026-10-27T02:19:34.727837+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,300 @@
  "errors": [],
  "items": [
   {
+   "title": "冬季供給懸念で欧州ガス、4年ぶり高水準",
+   "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145?mod=rss_markets_main",
+   "summary": "ヨーロッパの天然ガス価格は、寒冷化により需要が高まる恐れがあるため、2022年末以来初めてメガワット時当たり97ユーロを超えた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-27T02:13:00+09:00",
+   "lang": "en",
+   "title_orig": "European Gas at Four-Year High on Winter Supply Fears"
+  },
+  {
+   "title": "Bon Secours関連会社、57億ドルの非公開化契約で手術パートナーを買収へ",
+   "link": "https://www.wsj.com/pro/private-equity/bon-secours-affiliate-to-acquire-surgery-partners-in-5-7-billion-take-private-deal-10321162?mod=rss_markets_main",
+   "summary": "Bain Capital が支援する Surgery Partners は、外来手術センター、外科病院、医師パートナーシップのネットワークを通じて運営されています。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-27T01:40:00+09:00",
+   "lang": "en",
+   "title_orig": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal"
+  },
+  {
+   "title": "「彼女は夢を生きています」: 私の継母は、私が子供時代を過ごした家を85万ドルで買えると言った。彼女は私を利用しているのでしょうか？",
+   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+   "summary": "「亡き父は1990年代に私たちの家を25万ドルで購入しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T01:30:00+09:00",
+   "lang": "en",
+   "title_orig": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+  },
+  {
+   "title": "夫は150万ドルの家を売却して、その収益を投資したいと考えています。しかし、ここは私たちが子供たちを育てた場所であり、離れることに耐えられません。",
+   "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+   "summary": "「私たちが空き巣になったので、彼は60万ドルで何かを購入したいと考えています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T01:30:00+09:00",
+   "lang": "en",
+   "title_orig": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
+  },
+  {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-780b3b87?mod=rss_markets_main",
+   "summary": "ヘルスケアをカバーする最新のマーケットトークで、Genmab、Tasly Pharmaceuticals などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-27T01:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-8a90f511?mod=rss_markets_main",
+   "summary": "金融サービスをカバーする最新のマーケット トークで、ブラジルの金融市場、Plus500 の顧客ベースなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-27T01:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "基本資料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4d509d1c?mod=rss_markets_main",
+   "summary": "基本材料をカバーする最新のマーケットトークで、鉄道貨物、BlueScope Steel、レアアース産業などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-27T01:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "ブラジル資産が下落する中、株式先物と国債は堅調",
+   "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+   "summary": "選挙で左派現職の予想外の勝利を受けてブラジル資産が急落したため、米国株先物と米国債はほぼ安定した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-27T01:20:00+09:00",
+   "lang": "en",
+   "title_orig": "Stock Futures, Treasurys Steady as Brazilian Assets Slide"
+  },
+  {
+   "title": "「『ジャッジ・ジュディ』のエピソードだけを見ればいいよ」: 私は 70 代です。なぜ人々は同じ避けられる経済上の間違いを繰り返してしまうのでしょうか?",
+   "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+   "summary": "「クレジットカードの借金が増えたり、退職後の計画を立てなかったりするなど、よくない決断のよくある例を考えてみましょう。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T01:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?"
+  },
+  {
+   "title": "ルラ氏のサプライズ選挙で投資家が驚愕、ブラジル市場が暴落",
+   "link": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_markets_main",
+   "summary": "ブラジルの主要株価指数は、ルイス・イナシオ・ルーラ・ダ・シルバ大統領が予想外の勝利を収めた後、２カ月ぶりの安値に下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-27T01:11:00+09:00",
+   "lang": "en",
+   "title_orig": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors"
+  },
+  {
+   "title": "このストラテジストは、AI バブルが弾けるかどうかではなく、いつ弾けるかが問題だと述べています。その準備方法は次のとおりです。",
+   "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
+   "summary": "TS ロンバード氏は、AI 投資のテーマははじける運命にあるバブルだと述べています。投資家がすべきではないのは、それがいつ起こるかということです。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T01:05:00+09:00",
+   "lang": "en",
+   "title_orig": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that."
+  },
+  {
+   "title": "トランプ大統領の風力発電に対する新たな反対運動により、許可取引に疑問が生じている",
+   "link": "https://www.ft.com/content/8cdadf5d-5859-422d-982a-fab0e9f2a619?syn-25a6b1a6=1",
+   "summary": "プロジェクトに対する政権の異議申し立てにより、法案への超党派の支持を獲得することを目的とした再生可能エネルギーの緊張緩和に終止符が打たれる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-27T01:01:08+09:00",
+   "lang": "en",
+   "title_orig": "Trump’s fresh campaign against wind power puts permitting deal in doubt"
+  },
+  {
+   "title": "一部の共和党議員は関税に関してトランプ大統領に反対している。メイン州のスーザン・コリンズ氏はつい最近、カナダの課税を撤回させた。",
+   "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+   "summary": "厳しい中間選挙戦に直面する中、5期を務める共和党上院議員は、カナダに対する特定の関税に反対するロビー活動の成功を宣伝している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T01:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies."
+  },
+  {
+   "title": "私たちは隣人の家の無料修理を手伝うのをやめ、私たちの友情は冷めてしまいました。誰のせいですか？",
+   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+   "summary": "「昨年の夏、彼らは屋根を交換する必要があると不平を言いました。数か月後、彼らは新しい SUV を購入しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T01:00:00+09:00",
+   "lang": "en",
+   "title_orig": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
+  },
+  {
+   "title": "私の配偶者は、離婚の際に私の 401(k) から 90,000 ドルを受け取りました。それはどのように公平ですか?",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "summary": "「私は2020年に退職し、数年後に離婚しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T00:31:00+09:00",
+   "lang": "en",
+   "title_orig": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+  },
+  {
+   "title": "Quince から結婚指輪をもらうのは悪い考えですか?地元の宝石店の3分の1の価格です。",
+   "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+   "summary": "人気の衣類やアクセサリーのコピー品を値下げして販売することで知られるオンライン小売業者から「これほど大きなものを購入するのは少し不安です」。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-27T00:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler."
+  },
+  {
+   "title": "米Anthropic IPO申請書類を公開",
+   "link": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-27T00:02:06+09:00"
+  },
+  {
+   "title": "アンソロピックが目論見書を提出　26年上半期は12兆円超の赤字",
+   "link": "https://www.asahi.com/articles/ASVBV4V88VBVUHBI028M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T23:55:00+09:00"
+  },
+  {
+   "title": "ＩＰＯ目論見書を公開　ナスダック上場計画―米アンソロピック",
+   "link": "https://www.jiji.com/jc/article?k=2026102601127&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-10-26T23:54:00+09:00"
+  },
+  {
+   "title": "メール配信の「ユミルリンク」、アドレスなど5162万件流出か",
+   "link": "https://www.asahi.com/articles/ASVBV3H45VBVULFA01FM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T23:46:08+09:00"
+  },
+  {
+   "title": "Anthropic が目論見書提出で IPO へのカウントダウンを開始",
+   "link": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1",
+   "summary": "240,000語の目論見書は、巨額の損失と恐るべきリスク要因とともに爆発的な成長を示している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T23:41:35+09:00",
+   "lang": "en",
+   "title_orig": "Anthropic begins countdown to IPO with prospectus filing"
+  },
+  {
+   "title": "投資家はルーラ政策が財政痛をさらに悪化させると予想し、ブラジル市場が急落",
+   "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+   "summary": "投資家らは右派ボルソナロ氏が勝利に向けて態勢を整えており、財政赤字対策に意欲的とみられていた。",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T23:38:26+09:00",
+   "lang": "en",
+   "title_orig": "Brazil’s markets tumble as investors bet Lula will add to fiscal pain"
+  },
+  {
+   "title": "セルビアを統治することになっている学生は誰ですか?",
+   "link": "https://www.ft.com/content/c3f29989-747e-4734-a29b-568b3c5e488a?syn-25a6b1a6=1",
+   "summary": "非定型学生リスト運動は、アレクサンダー・ブチッチ氏の選挙敗北後、まだ首相候補を指名していない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T23:06:44+09:00",
+   "lang": "en",
+   "title_orig": "Who are the students set to govern Serbia?"
+  },
+  {
+   "title": "「弁当男子」増 力入れる食品業界",
+   "link": "https://news.yahoo.co.jp/pickup/6600237?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-26T22:59:07+09:00"
+  },
+  {
+   "title": "ルーラ氏、ナイフエッジの投票でブラジル大統領に再選",
+   "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+   "summary": "フラビオ・ボルソナロに対する80歳の左派の勝利は、ラテンアメリカにおける米国の影響力拡大を目指すトランプ大統領の計画に打撃となる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T22:52:39+09:00",
+   "lang": "en",
+   "title_orig": "Lula is re-elected Brazil’s president in knife-edge vote"
+  },
+  {
+   "title": "テクニカル調整の可能性で原油下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
+   "summary": "先週、北海ブレント先物が今年4月以来の高値で終了したことを受けて、テクニカル調整の可能性があり、原油価格はアジア取引で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T22:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Declines on Likely Technical Correction"
+  },
+  {
+   "title": "Anthropic の 335 ページの S-1 を分析する",
+   "link": "https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1",
+   "summary": "アンスロピックの計画された上場は史上最大の株式市場デビューとなる可能性がある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T22:08:09+09:00",
+   "lang": "en",
+   "title_orig": "Breaking down Anthropic’s 335-page S-1"
+  },
+  {
+   "title": "豪生保 第一ライフによる買収拒否",
+   "link": "https://news.yahoo.co.jp/pickup/6600234?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-26T22:03:11+09:00"
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T21:35:38+09:00"
+  },
+  {
+   "title": "メタはAI拡張資金調達のために950億ドルの株式発行を計画",
+   "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+   "summary": "チップメーカーのNvidia、AMD、Broadcomが基礎投資家として機能する",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T21:34:22+09:00",
+   "lang": "en",
+   "title_orig": "Meta plans $95bn stock offering to bankroll AI expansion"
+  },
+  {
+   "title": "楽天トラベルに不正アクセス　クレカ情報含む最大354万件流出か",
+   "link": "https://www.asahi.com/articles/ASVBV42GZVBVULFA01JM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T21:27:39+09:00"
+  },
+  {
    "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
    "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
    "summary": "",
@@ -75,6 +369,16 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-10-26T21:00:00+09:00"
+  },
+  {
+   "title": "トランプ、ネタニヤフ、そしてイランに対するエスカレーションの政治",
+   "link": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1",
+   "summary": "イスラエルと米国の指導者が選挙で敗北しても、新たな攻撃計画の妨げにはならないかもしれない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T20:37:21+09:00",
+   "lang": "en",
+   "title_orig": "Trump, Netanyahu and the politics of escalation against Iran"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月９日）について掲載しました。",
@@ -93,34 +397,12 @@
    "published": "2026-10-26T20:00:00+09:00"
   },
   {
-   "title": "これら4つのショックは投資家に予想外の買い窓を与える可能性があるとストラテジストは言う",
-   "link": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
-   "summary": "ヤルデニ・リサーチは、連邦準備制度による予期せぬ金利決定や人工知能貿易における制約の強化により、経済的利益がさらに高まる可能性があると述べた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T19:58:00+09:00",
-   "lang": "en",
-   "title_orig": "These four shocks could hand investors an unexpected buying window, strategists say"
-  },
-  {
-   "title": "コスピ指数は世界のAI取引の先行指標であるが、ゴールドマンはその予測を25%引き下げたばかりだ",
-   "link": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories",
-   "summary": "投資家がAI株に支払う用意のある成長倍率の低下とボラティリティの上昇により、ゴールドマンのストラテジスト、ティム・モー氏は次のような決断を迫られた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T19:43:00+09:00",
-   "lang": "en",
-   "title_orig": "The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%"
-  },
-  {
-   "title": "漫画の猿から学ぶ金融の知恵",
-   "link": "https://www.wsj.com/finance/stocks/financial-wisdom-from-cartoon-apes-051eeb11?mod=rss_markets_main",
-   "summary": "さらに、収益の水門も開きます。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T19:43:00+09:00",
-   "lang": "en",
-   "title_orig": "Financial Wisdom From Cartoon Apes"
+   "title": "ジョーシン、約600万件漏洩の可能性　免許証画像やマイナカードも",
+   "link": "https://www.asahi.com/articles/ASVBV3J92VBVPLFA00VM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T19:59:44+09:00"
   },
   {
    "title": "GMOに79億円要求　サイバー攻撃者の脅迫文を公開、支払いは拒否",
@@ -129,56 +411,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-26T19:39:35+09:00"
-  },
-  {
-   "title": "台湾ドルは最近の低迷から反発の可能性が高い",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-meet-in-focus-c2958e7e?mod=rss_markets_main",
-   "summary": "ゴールドマン・サックスは、新台湾ドルは最近の下落から反発する可能性が高いと述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T19:38:00+09:00",
-   "lang": "en",
-   "title_orig": "New Taiwan Dollar Likely to Rebound After Recent Slump"
-  },
-  {
-   "title": "AI評価の懸念が高まる中、IPOが一時停止",
-   "link": "https://www.wsj.com/finance/investing/an-ipo-paused-as-ai-valuation-fears-mount-fa1688c9?mod=rss_markets_main",
-   "summary": "投資、資産管理ビジネスなどに関する最高の分析と洞察の一部。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T19:25:00+09:00",
-   "lang": "en",
-   "title_orig": "An IPO Paused as AI Valuation Fears Mount"
-  },
-  {
-   "title": "妻には退職後の貯蓄が8万ドルしかありません。私は220万ドルを持っています。ショックを受けるのは間違っているでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-   "summary": "「昨年の春に私が引退することを話したとき、彼女は私がいつでも準備ができていると言ったので、私はそれが私たちが良い状態にあることを意味すると受け取りました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T19:15:00+09:00",
-   "lang": "en",
-   "title_orig": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?"
-  },
-  {
-   "title": "チーズケーキファクトリーは、ただつまらない見出しの話題になっただけだ。実際、それは最も注目されている株の1つです。",
-   "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
-   "summary": "バラク・オバマ大統領は週末、ドナルド・トランプ大統領のホワイトハウス改造を「サダム・フセインがチーズケーキ工場を開設したこと」に喩えた。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T19:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around."
-  },
-  {
-   "title": "国債利回りは若干上昇、フランス国債はアウトパフォーム",
-   "link": "https://www.wsj.com/economy/central-banking/treasury-yields-turn-slightly-higher-french-bonds-outperform-2fd1aaa0?mod=rss_markets_main",
-   "summary": "月曜日には国債利回りが上昇に転じ、ほとんどのユーロ圏諸国の上昇に追随した一方、ムーディーズが信用を失ったことでフランス国債がアウトパフォームした",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T19:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Treasury Yields Turn Slightly Higher, French Bonds Outperform"
   },
   {
    "title": "【野村証券辞めてキャバ嬢に】2年足らずで資産1.2億円／エルメスから「会社四季報」／ワークマンを損切り／野村証券時代の知見を生かした投資術／きこ氏のガチホ銘柄／個別銘柄と投資信託の使い分け | ビジネス | 東洋経済オンライン",
@@ -197,102 +429,12 @@
    "published": "2026-10-26T18:59:16+09:00"
   },
   {
-   "title": "プライベート・エクイティに支援されたCEOの変化する地盤",
-   "link": "https://www.wsj.com/articles/the-shifting-ground-for-private-equity-backed-ceos-cf380bb0?mod=rss_markets_main",
-   "summary": "",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T18:58:00+09:00",
-   "lang": "en",
-   "title_orig": "The Shifting Ground for Private Equity-Backed CEOs"
-  },
-  {
-   "title": "冬季供給懸念で欧州ガス、4年ぶり高水準",
-   "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145?mod=rss_markets_main",
-   "summary": "ヨーロッパの天然ガス価格は、寒冷化により需要が高まる恐れがあるため、2022年末以来初めてメガワット時当たり97ユーロを超えた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T18:47:00+09:00",
-   "lang": "en",
-   "title_orig": "European Gas at Four-Year High on Winter Supply Fears"
-  },
-  {
-   "title": "ブラジル資産が下落する中、株式先物と国債は堅調",
-   "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
-   "summary": "選挙で左派現職の予想外の勝利を受けてブラジル資産が急落したため、米国株先物と米国債はほぼ安定した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T18:37:00+09:00",
-   "lang": "en",
-   "title_orig": "Stock Futures, Treasurys Steady as Brazilian Assets Slide"
-  },
-  {
-   "title": "イラン、新たなエスカレーションを防ぐための協議のために地域の権限を主催",
-   "link": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
-   "summary": "サウジアラビア、パキスタン、トルコの安全保障高官らは月曜、テヘランでイラン側と会談",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T18:33:47+09:00",
-   "lang": "en",
-   "title_orig": "Iran hosts regional powers for talks to prevent renewed escalation"
-  },
-  {
-   "title": "テクニカル調整の可能性で原油下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
-   "summary": "先週、北海ブレント先物が今年4月以来の高値で終了したことを受けて、テクニカル調整の可能性があり、原油価格はアジア取引で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T18:32:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Declines on Likely Technical Correction"
-  },
-  {
    "title": "「AIロボット保険」11月発売　国内初、誤作動リスクなどに備え",
    "link": "https://www.asahi.com/articles/ASVBV2TB5VBVULFA00ZM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-26T18:04:00+09:00"
-  },
-  {
-   "title": "テニスのスター、テイラー・フリッツがマイアミの景色を一望できる自宅コンドミニアムを86万ドルで売却中",
-   "link": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
-   "summary": "テニスのスター、テイラー・フリッツはマイアミのコンドミニアムを86万ドルで売り出しており、買い手には見晴らしの良い角の住居を手に入れるチャンスを提供している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T18:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami"
-  },
-  {
-   "title": "モルガン・スタンレー、半導体株への支持率は現在の水準より最大15％低くなる可能性がある",
-   "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
-   "summary": "モルガン・スタンレーの首席株式市場ストラテジストは、S&P500指数が8,000で年末を迎えるという予想に固執しているが、警戒感は高まっている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T18:02:00+09:00",
-   "lang": "en",
-   "title_orig": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley"
-  },
-  {
-   "title": "タイラー・ペリー、37エーカーのワイオミング州の不動産3,600万ドルを値下げ、プエルトリコの住宅を3,000万ドルで購入",
-   "link": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
-   "summary": "タイラー・ペリーは、プエルトリコで3000万ドルの家を手に入れた数日後、ワイオミング州の邸宅の提示価格から350万ドルを値下げした。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T18:01:00+09:00",
-   "lang": "en",
-   "title_orig": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home"
-  },
-  {
-   "title": "ルーラ氏、ナイフエッジの投票でブラジル大統領に再選",
-   "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
-   "summary": "フラビオ・ボルソナロに対する80歳の左派の勝利は、ラテンアメリカにおける米国の影響力拡大を目指すトランプ大統領の計画に打撃となる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T17:25:20+09:00",
-   "lang": "en",
-   "title_orig": "Lula is re-elected Brazil’s president in knife-edge vote"
   },
   {
    "title": "「12月から毎月5円ずつ」　ガソリン補助金の段階縮小、自民が提言",
@@ -309,16 +451,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-26T16:47:48+09:00"
-  },
-  {
-   "title": "トレーダーらは引き続き中東紛争に注目しているため、原油価格は下落している",
-   "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
-   "summary": "国際指標は先週後半に117ドルまで急騰した後、下落",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T16:28:34+09:00",
-   "lang": "en",
-   "title_orig": "Oil price falls back as traders remain focused on Middle East conflict"
   },
   {
    "title": "まるで｢オリンピック｣､4年置きにデノミ論が浮上するワケ…蔵相なら一度はやってみたい　デノミの幻影② | 政治・経済・投資 | 東洋経済オンライン",
@@ -353,62 +485,12 @@
    "published": "2026-10-26T15:19:43+09:00"
   },
   {
-   "title": "ルラ氏はいかにして 3 週間で選挙の運命を好転させたか",
-   "link": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
-   "summary": "精力的なオンラインでの宣伝とソーシャル特典により、ブラジル大統領は第 1 ラウンドと第 2 ラウンドの間にキャンペーンを再燃させた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T15:14:35+09:00",
-   "lang": "en",
-   "title_orig": "How Lula turned his election fortunes around in three weeks"
-  },
-  {
    "title": "GMO不正アクセス　「能動的サイバー防御」より先にやるべきことは",
    "link": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-10-26T15:00:00+09:00"
-  },
-  {
-   "title": "ドイツ、ミサイル購入でウクライナの技術を利用へ",
-   "link": "https://www.ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1",
-   "summary": "バーストライクシステムはウクライナで開発されドイツ連邦軍が購入する最初の攻撃兵器となる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T14:00:30+09:00",
-   "lang": "en",
-   "title_orig": "Germany to tap Ukrainian tech with missile purchase"
-  },
-  {
-   "title": "オックスフォード・ストリートの歩行者革命がついに実現",
-   "link": "https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1",
-   "summary": "英国有数のショッピングパレードが物議を醸す変革プロジェクトに着手",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T14:00:21+09:00",
-   "lang": "en",
-   "title_orig": "Oxford Street’s pedestrian revolution is finally here"
-  },
-  {
-   "title": "ベンヤミン・ネタニヤフ首相の中心地での一日",
-   "link": "https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173",
-   "summary": "2023年10月7日のハマスの攻撃で被害を受けた都市スデロットの住民の多くは、選挙を前に首相を断固支持し続けている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T14:00:20+09:00",
-   "lang": "en",
-   "title_orig": "A day in Benjamin Netanyahu’s heartland"
-  },
-  {
-   "title": "隠遁生活を送っていた億万長者が明るみに出る",
-   "link": "https://www.ft.com/content/bc6bba42-0b33-4825-a2c5-cff9b8f5c591?syn-25a6b1a6=1",
-   "summary": "ピーター・デ・プトロンは何十年も目立たないまま過ごしてきた。しかし、彼の興味の規模が新たな注目を集めている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T14:00:12+09:00",
-   "lang": "en",
-   "title_orig": "The reclusive quant billionaire coming into the light"
   },
   {
    "title": "ドクターイエロー後継 客乗せ走行",
@@ -555,24 +637,6 @@
    "published": "2026-10-26T11:00:00+09:00"
   },
   {
-   "title": "マスク氏は、スペースXが400億ドルの債務取引を締結したと述べ、一部のAIライバルの破滅を予測している",
-   "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-   "summary": "SpaceXは、先進チップへのアクセスを貸し出すAIビジネスを急速に成長させている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T10:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals"
-  },
-  {
-   "title": "プロ野球観客動員最多 球場で何が",
-   "link": "https://news.yahoo.co.jp/pickup/6600158?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-26T10:48:55+09:00"
-  },
-  {
    "title": "5年クライメート・トランジション利付国債（11月債）の発行予定額等（令和8年10月26日公表）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261026.htm",
    "summary": "",
@@ -603,22 +667,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-26T08:50:31+09:00"
-  },
-  {
-   "title": "民間金融機関に資金供給拡大 方針",
-   "link": "https://news.yahoo.co.jp/pickup/6600143?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-26T08:42:33+09:00"
-  },
-  {
-   "title": "コニカミノルタ「社内副業」狙い",
-   "link": "https://news.yahoo.co.jp/pickup/6600138?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-26T08:02:18+09:00"
   },
   {
    "title": "リサイクルできる靴、回収はわずか60足　アシックスが直面した壁",
@@ -661,12 +709,12 @@
    "published": "2026-10-25T08:00:00+09:00"
   },
   {
-   "title": "化粧品は「まずAIに選ばれる必要がある」　資生堂社長が描く未来は",
-   "link": "https://www.asahi.com/articles/ASVBN1TJ3VBNULFA026M.html?ref=rss",
+   "title": "米ＦＲＢ、金利据え置き見通し　インフレ加速も動向見極め―２７、２８日に金融政策会合",
+   "link": "https://www.jiji.com/jc/article?k=2026102400296&g=int&m=rss",
    "summary": "",
-   "source": "朝日新聞 経済",
+   "source": "時事通信",
    "category": "報道機関",
-   "published": "2026-10-25T07:00:00+09:00"
+   "published": "2026-10-25T07:08:00+09:00"
   },
   {
    "title": "「アジアGXコンソーシアム」ハイレベル会合2026の開催について公表しました。",
@@ -675,62 +723,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-10-24T04:10:00+09:00"
-  },
-  {
-   "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-   "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-   "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-24T02:00:00+09:00"
-  },
-  {
-   "title": "採用,職員を募集しています。（金融モニタリング業務(市場リスク管理及び流動性リスク管理)に従事する職員）",
-   "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-24T02:00:00+09:00"
-  },
-  {
-   "title": "企業会計審議会第57回監査部会議事録について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/singi_kigyou/gijiroku/kansa/20261023.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-24T02:00:00+09:00"
-  },
-  {
-   "title": "国際関係,バーゼル銀行監督委員会による「グローバルなシステム上重要な銀行（G-SIB）－ウィンドウ・ドレッシング行動に対処するための評価枠組みの改訂」及び市中協議文書「G-SIB評価手法のレビュー」について公表しました。",
-   "link": "https://www.fsa.go.jp/inter/bis/20261023/20261023.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-24T02:00:00+09:00"
-  },
-  {
-   "title": "金融審議会「保険制度ワーキング・グループ」（第２回）の開催について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/singi/20261023.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-24T02:00:00+09:00"
-  },
-  {
-   "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
-   "link": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-24T00:30:00+09:00"
-  },
-  {
-   "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）議事録について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/gijiroku/20260904.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-10-23T22:30:00+09:00"
   }
  ]
 }
