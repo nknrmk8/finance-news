@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:02:12.546695+09:00",
+ "generated_at": "2026-10-26T20:00:47.612148+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,354 @@
  "errors": [],
  "items": [
   {
+   "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
+   "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-26T21:00:00+09:00"
+  },
+  {
+   "title": "採用,職員を募集しています。（国内金融に関する制度の企画及び立案等の業務に従事する職員）",
+   "link": "https://www.fsa.go.jp/common/recruit/r8/kikaku-03/kikaku-03.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-26T21:00:00+09:00"
+  },
+  {
+   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月９日）について掲載しました。",
+   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20261009-1.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-26T20:00:00+09:00"
+  },
+  {
+   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月13日）について掲載しました。",
+   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20261013-1.html",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-10-26T20:00:00+09:00"
+  },
+  {
+   "title": "これら4つのショックは投資家に予想外の買い窓を与える可能性があるとストラテジストは言う",
+   "link": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
+   "summary": "ヤルデニ・リサーチは、連邦準備制度による予期せぬ金利決定や人工知能貿易における制約の強化により、経済的利益がさらに高まる可能性があると述べた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-26T19:58:00+09:00",
+   "lang": "en",
+   "title_orig": "These four shocks could hand investors an unexpected buying window, strategists say"
+  },
+  {
+   "title": "コスピ指数は世界のAI取引の先行指標であるが、ゴールドマンはその予測を25%引き下げたばかりだ",
+   "link": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories",
+   "summary": "投資家がAI株に支払う用意のある成長倍率の低下とボラティリティの上昇により、ゴールドマンのストラテジスト、ティム・モー氏は次のような決断を迫られた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-26T19:43:00+09:00",
+   "lang": "en",
+   "title_orig": "The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%"
+  },
+  {
+   "title": "漫画の猿から学ぶ金融の知恵",
+   "link": "https://www.wsj.com/finance/stocks/financial-wisdom-from-cartoon-apes-051eeb11?mod=rss_markets_main",
+   "summary": "さらに、収益の水門も開きます。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T19:43:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Wisdom From Cartoon Apes"
+  },
+  {
+   "title": "GMOに79億円要求　サイバー攻撃者の脅迫文を公開、支払いは拒否",
+   "link": "https://www.asahi.com/articles/ASVBV3FWKVBVULFA01CM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T19:39:35+09:00"
+  },
+  {
+   "title": "台湾ドルは最近の低迷から反発の可能性が高い",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-meet-in-focus-c2958e7e?mod=rss_markets_main",
+   "summary": "ゴールドマン・サックスは、新台湾ドルは最近の下落から反発する可能性が高いと述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T19:38:00+09:00",
+   "lang": "en",
+   "title_orig": "New Taiwan Dollar Likely to Rebound After Recent Slump"
+  },
+  {
+   "title": "AI評価の懸念が高まる中、IPOが一時停止",
+   "link": "https://www.wsj.com/finance/investing/an-ipo-paused-as-ai-valuation-fears-mount-fa1688c9?mod=rss_markets_main",
+   "summary": "投資、資産管理ビジネスなどに関する最高の分析と洞察の一部。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T19:25:00+09:00",
+   "lang": "en",
+   "title_orig": "An IPO Paused as AI Valuation Fears Mount"
+  },
+  {
+   "title": "妻には退職後の貯蓄が8万ドルしかありません。私は220万ドルを持っています。ショックを受けるのは間違っているでしょうか？",
+   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+   "summary": "「昨年の春に私が引退することを話したとき、彼女は私がいつでも準備ができていると言ったので、私はそれが私たちが良い状態にあることを意味すると受け取りました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-26T19:15:00+09:00",
+   "lang": "en",
+   "title_orig": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?"
+  },
+  {
+   "title": "チーズケーキファクトリーは、ただつまらない見出しの話題になっただけだ。実際、それは最も注目されている株の1つです。",
+   "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
+   "summary": "バラク・オバマ大統領は週末、ドナルド・トランプ大統領のホワイトハウス改造を「サダム・フセインがチーズケーキ工場を開設したこと」に喩えた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-26T19:04:00+09:00",
+   "lang": "en",
+   "title_orig": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around."
+  },
+  {
+   "title": "国債利回りは若干上昇、フランス国債はアウトパフォーム",
+   "link": "https://www.wsj.com/economy/central-banking/treasury-yields-turn-slightly-higher-french-bonds-outperform-2fd1aaa0?mod=rss_markets_main",
+   "summary": "月曜日には国債利回りが上昇に転じ、ほとんどのユーロ圏諸国の上昇に追随した一方、ムーディーズが信用を失ったことでフランス国債がアウトパフォームした",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T19:03:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields Turn Slightly Higher, French Bonds Outperform"
+  },
+  {
+   "title": "【野村証券辞めてキャバ嬢に】2年足らずで資産1.2億円／エルメスから「会社四季報」／ワークマンを損切り／野村証券時代の知見を生かした投資術／きこ氏のガチホ銘柄／個別銘柄と投資信託の使い分け | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962584?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "元高校球児でフリーアナウンサーの上重聡がお送りする資産運用をテーマにした動画シリーズ。いつか「億り人」になれる日を目指して、資産運用の先輩からさまざまな極意を学んでいきます。今回のゲストは、野村証券…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-26T19:00:00+09:00"
+  },
+  {
+   "title": "フランス財政への懸念強まる　長期金利は5%超、政治不安との悪循環",
+   "link": "https://www.asahi.com/articles/ASVBV3215VBVUHBI008M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T18:59:16+09:00"
+  },
+  {
+   "title": "プライベート・エクイティに支援されたCEOの変化する地盤",
+   "link": "https://www.wsj.com/articles/the-shifting-ground-for-private-equity-backed-ceos-cf380bb0?mod=rss_markets_main",
+   "summary": "",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T18:58:00+09:00",
+   "lang": "en",
+   "title_orig": "The Shifting Ground for Private Equity-Backed CEOs"
+  },
+  {
+   "title": "冬季供給懸念で欧州ガス、4年ぶり高水準",
+   "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145?mod=rss_markets_main",
+   "summary": "ヨーロッパの天然ガス価格は、寒冷化により需要が高まる恐れがあるため、2022年末以来初めてメガワット時当たり97ユーロを超えた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T18:47:00+09:00",
+   "lang": "en",
+   "title_orig": "European Gas at Four-Year High on Winter Supply Fears"
+  },
+  {
+   "title": "ブラジル資産が下落する中、株式先物と国債は堅調",
+   "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+   "summary": "選挙で左派現職の予想外の勝利を受けてブラジル資産が急落したため、米国株先物と米国債はほぼ安定した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T18:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Stock Futures, Treasurys Steady as Brazilian Assets Slide"
+  },
+  {
+   "title": "イラン、新たなエスカレーションを防ぐための協議のために地域の権限を主催",
+   "link": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
+   "summary": "サウジアラビア、パキスタン、トルコの安全保障高官らは月曜、テヘランでイラン側と会談",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T18:33:47+09:00",
+   "lang": "en",
+   "title_orig": "Iran hosts regional powers for talks to prevent renewed escalation"
+  },
+  {
+   "title": "テクニカル調整の可能性で原油下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
+   "summary": "先週、北海ブレント先物が今年4月以来の高値で終了したことを受けて、テクニカル調整の可能性があり、原油価格はアジア取引で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-26T18:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Declines on Likely Technical Correction"
+  },
+  {
+   "title": "「AIロボット保険」11月発売　国内初、誤作動リスクなどに備え",
+   "link": "https://www.asahi.com/articles/ASVBV2TB5VBVULFA00ZM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T18:04:00+09:00"
+  },
+  {
+   "title": "テニスのスター、テイラー・フリッツがマイアミの景色を一望できる自宅コンドミニアムを86万ドルで売却中",
+   "link": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
+   "summary": "テニスのスター、テイラー・フリッツはマイアミのコンドミニアムを86万ドルで売り出しており、買い手には見晴らしの良い角の住居を手に入れるチャンスを提供している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-26T18:04:00+09:00",
+   "lang": "en",
+   "title_orig": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami"
+  },
+  {
+   "title": "モルガン・スタンレー、半導体株への支持率は現在の水準より最大15％低くなる可能性がある",
+   "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
+   "summary": "モルガン・スタンレーの首席株式市場ストラテジストは、S&P500指数が8,000で年末を迎えるという予想に固執しているが、警戒感は高まっている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-26T18:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley"
+  },
+  {
+   "title": "タイラー・ペリー、37エーカーのワイオミング州の不動産3,600万ドルを値下げ、プエルトリコの住宅を3,000万ドルで購入",
+   "link": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
+   "summary": "タイラー・ペリーは、プエルトリコで3000万ドルの家を手に入れた数日後、ワイオミング州の邸宅の提示価格から350万ドルを値下げした。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-26T18:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home"
+  },
+  {
    "title": "ルーラ氏、ナイフエッジの投票でブラジル大統領に再選",
    "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
    "summary": "フラビオ・ボルソナロに対する80歳の左派の勝利は、ラテンアメリカにおける米国の影響力拡大を目指すトランプ大統領の計画に打撃となる",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-10-26T13:44:49+09:00",
+   "published": "2026-10-26T17:25:20+09:00",
    "lang": "en",
    "title_orig": "Lula is re-elected Brazil’s president in knife-edge vote"
+  },
+  {
+   "title": "「12月から毎月5円ずつ」　ガソリン補助金の段階縮小、自民が提言",
+   "link": "https://www.asahi.com/articles/ASVBV2JZGVBVULFA00WM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T17:10:27+09:00"
+  },
+  {
+   "title": "郵便局「週4日営業」一部で導入へ　11月下旬から、拡大も視野に",
+   "link": "https://www.asahi.com/articles/ASVBV2FSWVBVULFA00GM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T16:47:48+09:00"
+  },
+  {
+   "title": "トレーダーらは引き続き中東紛争に注目しているため、原油価格は下落している",
+   "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+   "summary": "国際指標は先週後半に117ドルまで急騰した後、下落",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T16:28:34+09:00",
+   "lang": "en",
+   "title_orig": "Oil price falls back as traders remain focused on Middle East conflict"
+  },
+  {
+   "title": "まるで｢オリンピック｣､4年置きにデノミ論が浮上するワケ…蔵相なら一度はやってみたい　デノミの幻影② | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962022?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "1950〜70年代､日本でたびたび巻き起こった｢デノミ論争｣。通貨単位変更による経済合理化や円の威信回復をめぐり､政財界は揺れ動きました。なぜデノミは現実にならなかったのか――歴史の転機に関わる驚き…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-26T16:00:00+09:00"
+  },
+  {
+   "title": "｢迷惑になる場合もあるかも｣…《電撃就任》巨人･松井秀喜新監督､横浜高･織田への言葉ににじみ出る\"令和のリーダーシップ\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962446?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "新監督･松井秀喜氏の発言が話題を呼んでいます。アメリカ挑戦を表明する逸材､織田翔希の強行指名。ファンが新たな師弟関係を夢見る一方､松井氏は\"相手の意思を尊重する\"現代的な配慮を見せました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-26T15:50:00+09:00"
+  },
+  {
+   "title": "GMOはどんな会社？　ネットと発展、200人のホワイトハッカーも",
+   "link": "https://www.asahi.com/articles/ASVBV1TNCVBVULFA005M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T15:30:00+09:00"
+  },
+  {
+   "title": "温泉「無断持ち帰り」 若旦那困惑",
+   "link": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-10-26T15:19:43+09:00"
+  },
+  {
+   "title": "ルラ氏はいかにして 3 週間で選挙の運命を好転させたか",
+   "link": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
+   "summary": "精力的なオンラインでの宣伝とソーシャル特典により、ブラジル大統領は第 1 ラウンドと第 2 ラウンドの間にキャンペーンを再燃させた",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T15:14:35+09:00",
+   "lang": "en",
+   "title_orig": "How Lula turned his election fortunes around in three weeks"
+  },
+  {
+   "title": "GMO不正アクセス　「能動的サイバー防御」より先にやるべきことは",
+   "link": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-26T15:00:00+09:00"
+  },
+  {
+   "title": "ドイツ、ミサイル購入でウクライナの技術を利用へ",
+   "link": "https://www.ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1",
+   "summary": "バーストライクシステムはウクライナで開発されドイツ連邦軍が購入する最初の攻撃兵器となる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T14:00:30+09:00",
+   "lang": "en",
+   "title_orig": "Germany to tap Ukrainian tech with missile purchase"
+  },
+  {
+   "title": "オックスフォード・ストリートの歩行者革命がついに実現",
+   "link": "https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1",
+   "summary": "英国有数のショッピングパレードが物議を醸す変革プロジェクトに着手",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T14:00:21+09:00",
+   "lang": "en",
+   "title_orig": "Oxford Street’s pedestrian revolution is finally here"
+  },
+  {
+   "title": "ベンヤミン・ネタニヤフ首相の中心地での一日",
+   "link": "https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173",
+   "summary": "2023年10月7日のハマスの攻撃で被害を受けた都市スデロットの住民の多くは、選挙を前に首相を断固支持し続けている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T14:00:20+09:00",
+   "lang": "en",
+   "title_orig": "A day in Benjamin Netanyahu’s heartland"
+  },
+  {
+   "title": "隠遁生活を送っていた億万長者が明るみに出る",
+   "link": "https://www.ft.com/content/bc6bba42-0b33-4825-a2c5-cff9b8f5c591?syn-25a6b1a6=1",
+   "summary": "ピーター・デ・プトロンは何十年も目立たないまま過ごしてきた。しかし、彼の興味の規模が新たな注目を集めている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-26T14:00:12+09:00",
+   "lang": "en",
+   "title_orig": "The reclusive quant billionaire coming into the light"
   },
   {
    "title": "ドクターイエロー後継 客乗せ走行",
@@ -79,42 +419,12 @@
    "published": "2026-10-26T13:29:04+09:00"
   },
   {
-   "title": "ベネズエラ野党指導者マチャドが亡命から帰国",
-   "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
-   "summary": "ノーベル賞受賞者の到着は、トランプ大統領が支援するこの国の暫定政府に挑戦をもたらす",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T13:23:02+09:00",
-   "lang": "en",
-   "title_orig": "Venezuelan opposition leader Machado returns from exile"
-  },
-  {
    "title": "退職倒産が最多 中小企業どう対応",
    "link": "https://news.yahoo.co.jp/pickup/6600166?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-26T12:49:35+09:00"
-  },
-  {
-   "title": "台湾ドルは最近の低迷から反発の可能性が高い",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-meet-in-focus-c2958e7e?mod=rss_markets_main",
-   "summary": "ゴールドマン・サックスは、新台湾ドルは最近の下落から反発する可能性が高いと述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T12:24:00+09:00",
-   "lang": "en",
-   "title_orig": "New Taiwan Dollar Likely to Rebound After Recent Slump"
-  },
-  {
-   "title": "リスク資産への需要減退でアジア株下落",
-   "link": "https://www.wsj.com/finance/stocks/asian-stocks-decline-as-appetite-for-risky-assets-ebbs-926087d6?mod=rss_markets_main",
-   "summary": "原油価格は数カ月ぶりの高値近辺で推移する一方、市場参加者は今後の連邦準備制度理事会の金利決定に方向性を期待している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T12:11:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Stocks Decline as Appetite for Risky Assets Ebbs"
   },
   {
    "title": "5000円のお見舞金で幕引き？　GMO熊谷社長「そうではない」──不正アクセスの真相と“後手の悔恨”【ブログ全文】",
@@ -139,14 +449,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-26T11:48:09+09:00"
-  },
-  {
-   "title": "チームみらい、「ＡＩ失業」への備え提言",
-   "link": "https://www.jiji.com/jc/article?k=2026102600478&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-10-26T11:40:00+09:00"
   },
   {
    "title": "【PHP騒動】地銀95行中85行が｢一部サービス停止｣…最悪の｢決済麻痺｣を回避した銀行業界に突きつけられた重い課題 | ビジネス | 東洋経済オンライン",
@@ -237,48 +539,6 @@
    "published": "2026-10-26T11:30:00+09:00"
   },
   {
-   "title": "すごいベンチャー【38】TopoLogic／メモリーとセンサーの2本柱 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961752?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］TopoLogic（トポロジック）［設 立］2021年7月［資本金（資本準備金含む）］11億1115万円［社員数］14人／21人［代表者名］佐藤太紀［所在地］東京都文京…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-26T11:30:00+09:00"
-  },
-  {
-   "title": "テクニカル調整の可能性で原油下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
-   "summary": "先週、北海ブレント先物が今年4月以来の高値で終了したことを受けて、テクニカル調整の可能性があり、原油価格はアジア取引で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T11:18:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Declines on Likely Technical Correction"
-  },
-  {
-   "title": "カスハラ対策 企業の3割は未着手",
-   "link": "https://news.yahoo.co.jp/pickup/6600159?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-26T11:07:52+09:00"
-  },
-  {
-   "title": "トランプ氏の支持率が過去最低水準に､それでも白人キリスト教福音派は依然として共和党の堅固な支持基盤を形成 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962499?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "トランプ氏の支持率が過去最低となる中､白人キリスト教福音派は依然として共和党の堅固な支持基盤を形成しています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-26T11:00:00+09:00"
-  },
-  {
-   "title": "【不正アクセス急増の深層】セキュリティ最前線で一体何が起きているのか？企業と個人は今すぐに何をするべきか？ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962452?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "生成AIの進化を背景に､日本企業や個人を狙った不正アクセスがかつてない規模で急増。個人としても徹底的な対策を行うことが求められている。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-26T11:00:00+09:00"
-  },
-  {
    "title": "Public Policy Review Vol.22, No.2 : Understanding Japan’s Labor Market: Dynamics, Trends, and Challengesに4論文を掲載しました",
    "link": "https://www.mof.go.jp/insideLink/20261023163156.html",
    "summary": "",
@@ -313,42 +573,12 @@
    "published": "2026-10-26T10:48:55+09:00"
   },
   {
-   "title": "ゴールドフラット、4,000ドル/オンス以下で推移",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-hovering-below-4-000-oz-fad3282f?mod=rss_markets_main",
-   "summary": "金相場はアジア取引序盤は横ばいで、心理的に重要な1トロイオンス当たり4,000ドルの水準をわずかに下回る水準で取引されていた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T10:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Flat, Hovering Below $4,000/Oz"
-  },
-  {
    "title": "5年クライメート・トランジション利付国債（11月債）の発行予定額等（令和8年10月26日公表）",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261026.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-26T10:30:00+09:00"
-  },
-  {
-   "title": "日経平均はチップ株、エレクトロニクス株に引っ張られ0.5％下落",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-dragged-by-chip-electronics-stocks-eed519a4?mod=rss_markets_main",
-   "summary": "イラン紛争とエネルギーコストの上昇に対する懸念が根強く、日本株は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-26T10:19:00+09:00",
-   "lang": "en",
-   "title_orig": "Nikkei Falls 0.5%, Dragged by Chip, Electronics Stocks"
-  },
-  {
-   "title": "見事な勝利の後、ルーラは深い二日酔いに悩まされることになる",
-   "link": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
-   "summary": "政治的重心の右傾化後、ベテラン指導者は議会との戦いや高水準の債務に直面するだろう",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T10:15:16+09:00",
-   "lang": "en",
-   "title_orig": "After stunning victory, Lula will face a deep hangover"
   },
   {
    "title": "政府調達情報",
@@ -359,32 +589,12 @@
    "published": "2026-10-26T10:00:00+09:00"
   },
   {
-   "title": "セルビアのブチッチ前大統領、議会世論調査でスチューデント・リスト氏の敗北を認める",
-   "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
-   "summary": "選挙の敗北は、記録に近い投票率が草の根政党を活気づける中、有力な国家主義指導者が劇的な権力からの失墜を示す",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T09:38:57+09:00",
-   "lang": "en",
-   "title_orig": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll"
-  },
-  {
    "title": "国債金利情報(令和8年10月23日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-26T09:30:00+09:00"
-  },
-  {
-   "title": "ハンガリーに続いてセルビアが国民の力を示す番となる",
-   "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
-   "summary": "汚職と説明責任のない政府に対する怒りがセルビア人を独裁的指導者アレクサンダー・ブチッチに断固として反対させた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T08:54:05+09:00",
-   "lang": "en",
-   "title_orig": "After Hungary, Serbia takes its turn to show the power of the people"
   },
   {
    "title": "電車が駅で140m過ぎて停車 戻らず",
@@ -401,16 +611,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-26T08:42:33+09:00"
-  },
-  {
-   "title": "法律事務所が人材危機に直面、ワイル次期リーダーがトップ職から退く",
-   "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
-   "summary": "ラモナ・ニー氏は1月に就任する予定だったが、ウォール街の法律事務所からの流出を受けて辞退した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T08:19:41+09:00",
-   "lang": "en",
-   "title_orig": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis"
   },
   {
    "title": "コニカミノルタ「社内副業」狙い",
@@ -451,116 +651,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-10-26T05:30:00+09:00"
-  },
-  {
-   "title": "「彼女は夢を生きています」: 私の継母は、私が子供時代を過ごした家を85万ドルで買えると言った。彼女は私を利用しているのでしょうか？",
-   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-   "summary": "「亡き父は1990年代に私たちの家を25万ドルで購入しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T05:15:00+09:00",
-   "lang": "en",
-   "title_orig": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-  },
-  {
-   "title": "「自分を情けないとは思わない」: 私は 64 歳で、残りの人生は賃貸で過ごすつもりです。それはそんなに悪いことですか？",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "summary": "「私は収入の多い素晴らしい男性と結婚しました。彼は健康上の問題で仕事を辞め、53歳で重度の脳卒中を患いました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T05:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
-  },
-  {
-   "title": "私たちは近所の人たちの無料の家の修理を手伝うのをやめ、私たちの友情は冷めてしまいました。誰のせいですか？",
-   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-   "summary": "「昨年の夏、彼らは屋根を交換する必要があると不平を言いました。数か月後、彼らは新しい SUV を購入しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T04:30:00+09:00",
-   "lang": "en",
-   "title_orig": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
-  },
-  {
-   "title": "81歳の義父は、娘の5万ドルの借金を支払うために7万5千ドルの家を売りました。どうすれば彼が困窮しないようにできるでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-   "summary": "「彼のニーズのために何も用意されていません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T03:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
-  },
-  {
-   "title": "十分なゴルファーが LIV 2.0 にコミットし、新リーグへの希望を繋ぎ続けている",
-   "link": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
-   "summary": "約15人のプレーヤーが興味を示しており、他の数人はサウジ公共投資基金が設定した金曜日の期限までに参加する予定である",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T02:56:50+09:00",
-   "lang": "en",
-   "title_orig": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive"
-  },
-  {
-   "title": "17年間付き合ったパートナーが100万ドルの家を私に残してくれました。彼の子供たちは激怒している。私は彼らとそれを分割する義務がありますか？",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "summary": "「新しいキッチンと屋根に約45,000ドルをつぎ込みましたが、家賃は支払ったことがありません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T02:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?"
-  },
-  {
-   "title": "私たちは金利 2.75% の 300,000 ドルの住宅ローンを持っています。完済したいです。夫は私がおかしいと言っています。誰が正しいですか？",
-   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-   "summary": "「お金があるのに、6桁もの借金を抱えて引退生活を送りたくないのです。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-26T02:00:00+09:00",
-   "lang": "en",
-   "title_orig": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
-  },
-  {
-   "title": "マルコ・ルビオ氏は依然として米国の意図について欧州に答えるべき義務がある",
-   "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
-   "summary": "アテネでの米国務長官の最近の演説は運命共同体を呼び起こしたが、共通の未来のビジョンは示さなかった",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-26T01:00:05+09:00",
-   "lang": "en",
-   "title_orig": "Marco Rubio still owes Europe answers about America’s intentions"
-  },
-  {
-   "title": "私の配偶者は、離婚の際に私の 401(k) から 90,000 ドルを受け取りました。それはどのように公平ですか?",
-   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-   "summary": "「私は2020年に退職し、数年後に離婚しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-25T23:30:00+09:00",
-   "lang": "en",
-   "title_orig": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
-  },
-  {
-   "title": "フランスはいかにして債務危機の象徴となったのか",
-   "link": "https://www.wsj.com/world/europe/how-france-became-the-poster-child-for-debt-woes-08c64b3d?mod=rss_markets_main",
-   "summary": "EU第2位の経済大国が、世界的な利回り急騰の最大の被害者として浮上した。その問題は他のほとんどの国の問題と似ていますが、",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-25T18:30:00+09:00",
-   "lang": "en",
-   "title_orig": "How France Became the Poster Child for Debt Woes"
-  },
-  {
-   "title": "収益ブームはほんの一握りの銘柄に大きく依存している",
-   "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
-   "summary": "Nvidia、Micron、その他の AI 大手を含む 10 社が、企業利益の伸びの約 3 分の 2 を占めています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-25T10:00:00+09:00",
-   "lang": "en",
-   "title_orig": "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks"
   },
   {
    "title": "手取り逆転、収入665万円のガケ　年末調整に見る26年の年収の壁",
@@ -641,46 +731,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-10-23T22:30:00+09:00"
-  },
-  {
-   "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月23日(金曜日))",
-   "link": "https://www.mof.go.jp/public_relations/conference/my20261023.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-23T19:40:00+09:00"
-  },
-  {
-   "title": "バーゼル銀行監督委員会による「グローバルなシステム上重要な銀行（G-SIB）-ウィンドウ・ドレッシング行動に対処するための評価枠組みの改訂」及び市中協議文書「G-SIB評価手法のレビュー」の公表について",
-   "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261023a.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-23T17:00:00+09:00"
-  },
-  {
-   "title": "バーガー買うのに、個人情報は必要か？　“メガ漏えい”で露呈した「データ持ち過ぎ」問題、先進企業の対策は",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/23/news023.html",
-   "summary": "公式アプリに登録した個人情報の漏えいが相次いでいる。そもそも、こんなにデータを保持する必要があるのか。先進企業が取り組む「持たない対策」に迫る。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-23T16:30:00+09:00"
-  },
-  {
-   "title": "日本銀行政策委員会月報（令和8年8・9月号）",
-   "link": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2609.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-23T16:30:00+09:00"
-  },
-  {
-   "title": "金融システムレポート（2026年10月号）",
-   "link": "http://www.boj.or.jp/research/brp/fsr/fsr261023.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-23T15:00:00+09:00"
   }
  ]
 }
