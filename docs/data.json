@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:57:18.086894+09:00",
+ "generated_at": "2026-10-28T09:10:56.090692+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,350 @@
  "errors": [],
  "items": [
   {
+   "title": "子どものSNS制限に動くEU　議論主導の精神科医が明かす真の標的",
+   "link": "https://www.asahi.com/articles/ASVBW45WVVBWUHBI02LM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-28T09:00:00+09:00"
+  },
+  {
+   "title": "｢パソコンから離れて手を動かしたい！｣—北欧暮らしで裁縫教室に通って気づいた｢大人たちの意外な本音｣ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962507?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "週末北欧部 chikaさんがフィンランドの裁縫教室に通い､新たに発見したこととは？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T09:00:00+09:00"
+  },
+  {
+   "title": "イスラエル議会選挙で明確な勝者なし、出口調査が示唆",
+   "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+   "summary": "テレビ調査によると、ベンヤミン・ネタニヤフ氏もガディ・アイゼンコット氏も過半数を確保する見通しは立っていない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-28T08:50:27+09:00",
+   "lang": "en",
+   "title_orig": "No clear winner in Israeli parliamentary election, exit polls suggest"
+  },
+  {
+   "title": "｢どうせ俺なんてなんの強みもない…｣と嘆く管理職に教えたい､簡単に《自分の長所を50個》見つけるための8つの視点 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960975?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "Z世代の部下を上手に導くためには､まずリーダー自身が自分の長所を深く理解することが大切です。努力や経験､趣味､周囲からの評価など8つの視点から自分を見つめ直し､強みを50個見つけることが推奨されてい…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T08:45:00+09:00"
+  },
+  {
+   "title": "ヒーリー氏、英国のエネルギー改革を「害を及ぼさない」予算の中心に据える",
+   "link": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1",
+   "summary": "首相、「困難な時期」に企業、起業家、家計への追加支援を約束",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-28T08:35:42+09:00",
+   "lang": "en",
+   "title_orig": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget"
+  },
+  {
+   "title": "｢偏差値で医学部｣は悪くないが､｢東大理三｣が医師になるのはもったいない？　現役医師が考える\"適性\"と\"面接\"の真実 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962053?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢医学部は本当に医師志望のための場所なのか？｣受験偏差値の高さばかりが注目されがちな医学部ですが､理想の医者像や医師に必要な資質とは何なのか､また面接試験導入の裏にあった意外な事件まで掘り下げます。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T08:30:00+09:00"
+  },
+  {
+   "title": "トランプ大統領、石油とガスのメタン排出規制を緩和へ",
+   "link": "https://www.wsj.com/politics/policy/trump-moves-to-weaken-methane-emissions-rules-for-oil-and-gas-71736afd?mod=rss_markets_main",
+   "summary": "小規模な化石燃料生産者は、強力な温室効果ガスの放出を抑制するための規制に反対している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-28T08:16:00+09:00",
+   "lang": "en",
+   "title_orig": "Trump Moves to Weaken Methane Emissions Rules for Oil and Gas"
+  },
+  {
+   "title": "コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962029?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢ただの風邪｣と油断していませんか？　実は新型コロナ感染が将来的な認知症リスクを約2倍に高めることが最新研究で明らかになりました。ウイルスが脳に及ぼす意外な影響や､今すぐできる予防策について､専門医…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T08:15:00+09:00"
+  },
+  {
+   "title": "牛肉産地で移民摘発、価格高騰の恐れ　選挙にらみ共和党内からも批判",
+   "link": "https://www.asahi.com/articles/ASVBV3RCDVBVUHBI019M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-28T08:00:00+09:00"
+  },
+  {
+   "title": "更年期に｢不調を感じる｣人がやりがちなNG行動…身体心理学者が明かす\"身体を修復する\"オキシトシンが増えない理由 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/960780?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢最近､眠りが浅くて｣。50代の女性同士の会話で驚くほどよく出てくる言葉です。ほてりやイライラなど更年期の不調の陰で､身体を修復してくれるのがオキシトシン。ところがこのホルモン､多くの人がついやって…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T08:00:00+09:00"
+  },
+  {
+   "title": "小売りトレーダーはチップ株の押し目買いをするが、ロビンフッドは仮想通貨市場に焼かれる",
+   "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+   "summary": "ロビンフッドの最高財務責任者（CFO）は、市場のボラティリティはトレーダーらを怖がらせず、「実際にリサーチを行った」半導体株の購入を控えたと述べた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-28T07:51:00+09:00",
+   "lang": "en",
+   "title_orig": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market"
+  },
+  {
+   "title": "朝ドラ《ブラッサム》13歳で結婚して\"わずか10日\"で逃げ帰った､宇野千代の｢最初の結婚生活｣と理不尽すぎる父の態度 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962130?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "朝ドラ｢ブラッサム｣でも描かれた､主人公珠（たま）の最初の結婚。史実ではどうだったのでしょうか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T07:45:00+09:00"
+  },
+  {
+   "title": "ヒーリー、アイザの現金手当削減を撤回へ",
+   "link": "https://www.ft.com/content/619978f5-4400-4bf0-8b1f-4cf62bee9774?syn-25a6b1a6=1",
+   "summary": "首相は水曜日の予算で非課税限度額を年間2万ポンドに維持する予定で、前任のレイチェル・リーブス氏の計画を撤回する。",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-28T07:39:52+09:00",
+   "lang": "en",
+   "title_orig": "Healey to reverse cuts to cash Isa allowance"
+  },
+  {
+   "title": "文字どおり\"地獄の激痛\"をともなう帯状疱疹　｢すぐに病院に行った患者｣と｢グズグズしていた患者｣の､その後の明暗 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962177?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "突然のピリピリ･チクチクした痛みや発疹､それがもし体の片側だけに現れていたら､帯状疱疹のサインかもしれません。放置すれば重い後遺症のリスクも。ためらわず､早めの受診があなたを守ります。あなたは見逃し…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T07:30:00+09:00"
+  },
+  {
+   "title": "「彼女は夢を生きています」: 私の継母は、私が子供時代を過ごした家を85万ドルで買えると言った。彼女は私を利用しているのでしょうか？",
+   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+   "summary": "「亡き父は1990年代に私たちの家を25万ドルで購入しました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-28T07:18:00+09:00",
+   "lang": "en",
+   "title_orig": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+  },
+  {
+   "title": "｢昔なら若手の倍もらえたのに｣ポスト減で50代も年収700万止まり…若手優遇と物価高に耐える\"報われない世代\"の嘆息 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961912?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "2026年春闘で賃上げ率は3年連続5％超を記録していますが､その実感を得られない中高年世代が増えています。物価上昇に追いつかない年収､減少傾向の管理職昇格､家計への影響――見かけの好景気の裏で広がる…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T07:15:00+09:00"
+  },
+  {
+   "title": "防衛力強化、恒久財源見えず　消費減税・積極投資と奪い合い",
+   "link": "https://www.jiji.com/jc/article?k=2026102701065&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-10-28T07:07:00+09:00"
+  },
+  {
+   "title": "「サイバー保険」契約企業、無料リスク診断　12月からサーバーなど",
+   "link": "https://www.asahi.com/articles/ASVBW5170VBWULFA02DM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-28T07:00:00+09:00"
+  },
+  {
+   "title": "ヒエラルキー下位の男子高校生…唯一の居場所だった\"祖父の山\"に現れた怪しげな男の正体　漫画｢山劇｣（第1巻 第1話） | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961892?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "『少年のアビス』の峰浪りょうが描く、或る山に渦巻く愛憎の物語。祖父の山を継ぐと信じて育った高校生・美駒は、幼馴染に初恋の相手を取られ、学校のヒエラルキーからも弾かれていた。 山だけが、唯一の居場所だ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T07:00:00+09:00"
+  },
+  {
+   "title": "太った人は｢感染症が重症化しやすい｣のはなぜか　免疫学者が明かす､肥満が免疫システムを狂わせる\"危うい仕組み\"と対策 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961354?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "コロナ禍で言われていた｢肥満はリスク｣という言葉。実際､32か国･350万人超の解析で､肥満が重症化リスクを高めることが確かめられています。では､余分な脂肪は､免疫システムに何をしているのか。免疫学…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T07:00:00+09:00"
+  },
+  {
+   "title": "【主張】そもそも正社員という呼び名をやめよう――竹中平蔵氏「正社員をなくせ」を受けて",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/28/news044.html",
+   "summary": "「正社員をなくせばいい」。慶應義塾大学名誉教授の竹中平蔵氏がXで発信したことが、賛否両論を巻き起こした。そもそも「正社員」や「非正規社員」という言葉に法律上の定義はない。曖昧さを伴う観念的な議論の中で取り残されている雇用の現状を考えてみたい。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T07:00:00+09:00"
+  },
+  {
+   "title": "｢麻辣湯気になるけど､1人じゃ入れない…｣グルメおじさんたちを若い女子の聖地｢七宝麻辣湯｣に連行→まさかの結果に | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962540?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "本格的なスパイス香る麻辣スープと､好きな具材を選んで楽しむ独自スタイルで女性から熱狂的な支持を集める｢七宝麻辣湯｣。なぜここまで女性の心をつかむのか､食のプロ2人が未体験の魅力を探ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T06:45:00+09:00"
+  },
+  {
+   "title": "WSJドル指数は0.19％上昇して97.30",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-fed-decision-0d81a31b?mod=rss_markets_main",
+   "summary": "ＷＳＪドル指数は０．２％上昇し、３営業日連続で上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-28T06:45:00+09:00",
+   "lang": "en",
+   "title_orig": "WSJ Dollar Index Rises 0.19% to 97.30"
+  },
+  {
+   "title": "フラヴィオ・ボルソナロ氏がブラジルから逃亡したとの報道でパスポートが取り消される",
+   "link": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
+   "summary": "敗北した右派大統領候補が汚職と資金洗浄の疑いで連邦警察の捜査を受ける",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-10-28T06:41:13+09:00",
+   "lang": "en",
+   "title_orig": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil"
+  },
+  {
+   "title": "Anthropic が持続的な支出に対する市場の信頼を回復するにつれ、CoreWeave やその他の AI 株が上昇",
+   "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
+   "summary": "投資家はアンスロピックの IPO 申請にさらに踏み込むことができるようになり、AI 株の上昇に貢献したのと同じ種類のトレンドを目の当たりにしています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-28T06:41:00+09:00",
+   "lang": "en",
+   "title_orig": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending"
+  },
+  {
+   "title": "アップル新製品ラッシュ､24インチの新型｢iMac｣と､14インチ画面を搭載したエントリーモデルの｢MacBook Pro｣を発表 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962737?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "アップルが最新チップ｢M6｣を搭載した新型iMacとMacBook Proを発表。従来モデルと比べAI処理やグラフィックス性能が大幅に向上し､今後も革新的な製品リリースが予告されています。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T06:30:00+09:00"
+  },
+  {
+   "title": "\"業スーの手袋×ウェットティッシュ\"｢床を片付ける気力がない…｣掃除機を諦めた限界人間を救う超ズボラ術 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962623?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T06:30:00+09:00"
+  },
+  {
+   "title": "トランプ大統領がエネルギー会社の富を宣伝する中、米国の消費者はガソリン価格が史上最も高価な年に直面している",
+   "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
+   "summary": "ドナルド・トランプ大統領は、イラン戦争中に米国のエネルギー会社が築いた富を宣伝する一方で、再生可能エネルギーへの支援を国に働きかけることをやめられない。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-28T06:29:00+09:00",
+   "lang": "en",
+   "title_orig": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever"
+  },
+  {
+   "title": "歴史的な復活を遂げた後、残りの市場はビッグテックを置き去りにしている",
+   "link": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
+   "summary": "人工知能取引は9月の米国株式市場を動かした。しかし10月には担架で運ばれることになる。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-28T06:28:00+09:00",
+   "lang": "en",
+   "title_orig": "The rest of the market is leaving Big Tech behind after a historic comeback"
+  },
+  {
+   "title": "Apple、一部の iPhone Duo に重大な問題があることを認識",
+   "link": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_markets_main",
+   "summary": "さらに、ブラジルはフラビオ・ボルソナロ氏のパスポートを取り消し、プライベートエクイティ支援企業には3,000億ドルの「債務の壁」が立ちはだかっている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-28T06:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Apple Knows Some iPhone Duos Have a Major Issue"
+  },
+  {
+   "title": "｢東京の名産品はなぜブルーベリーか？｣が東大入試になった理由を考えてみたら｢地理って面白い｣が止まらない | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961705?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "東京都がブルーベリーの収穫量日本一という事実をご存じですか？高層ビルが立ち並ぶ都市で､なぜフルーツ農業が盛んなのか。東大入試でも出題されたこの疑問の背景には地理の奥深い面白さと､意外な理由が隠れてい…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T06:15:00+09:00"
+  },
+  {
+   "title": "｢1600日超｣連続で通う客も…名古屋発｢立ち呑みやきとんチェーン｣が仕掛ける\"驚きのファン化戦略\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962447?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "名古屋の街角で目にする立ち飲み屋｢大黒｣。常連客が週1以上で通い､高いリピーター率を誇るその裏側には､スタッフが顔を覚える接近戦や｢出勤簿｣式スタンプカードなど独自の仕組みがあります。なぜ多くの人が…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-10-28T06:05:00+09:00"
+  },
+  {
+   "title": "エンゲル係数44年ぶり高水準、かさむ食費　賃金は5年で実質3%減",
+   "link": "https://www.asahi.com/articles/ASVBR3FCNVBRUEFT00FM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-28T06:00:00+09:00"
+  },
+  {
+   "title": "あおぞら銀行員「残念な気持ちも」　会社のパワハラ判決、残した課題",
+   "link": "https://www.asahi.com/articles/ASVBR3H0NVBRULFA01DM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-28T06:00:00+09:00"
+  },
+  {
+   "title": "許可待たずに顧客の口座を保護　岩井コスモ、「見えざる敵」との攻防",
+   "link": "https://www.asahi.com/articles/ASVBW31HKVBWULFA001M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-10-28T06:00:00+09:00"
+  },
+  {
+   "title": "夫は150万ドルの家を売って、サイズを縮小したいと考えています。しかし、ここは私たちが子供たちを育てた場所であり、離れることに耐えられません。",
+   "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+   "summary": "「私たちが空き巣になったので、彼は60万ドルで何かを購入したいと考えています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-10-28T06:00:00+09:00",
+   "lang": "en",
+   "title_orig": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave."
+  },
+  {
+   "title": "基本資料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-839fe107?mod=rss_markets_main",
+   "summary": "基本資料をカバーする最新のマーケット トークで、金、シャーウィン ウィリアムズ、サンドファイア リソースなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-28T06:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-36d62767?mod=rss_markets_main",
+   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、原油先物、代替石油パイプライン、エネルギー価格などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-28T05:58:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c4aa51dc?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Corning、PayPal などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-10-28T05:56:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
    "title": "金融サービスのまとめ: マーケットトーク",
    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-43324d13?mod=rss_markets_main",
    "summary": "金融サービスをカバーする最新の Market Talk で、住宅購入者、保険会社、Paypal などに関する洞察を見つけてください。",
@@ -69,22 +413,6 @@
    "published": "2026-10-28T05:53:00+09:00",
    "lang": "en",
    "title_orig": "Financial Services Roundup: Market Talk"
-  },
-  {
-   "title": "モバイルSuicaに加わったコード決済｢teppay｣ JR東日本はなぜSuicaとは別の決済サービスを導入したのか | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962453?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "モバイルSuicaに新たなコード決済｢teppay｣が登場。Suicaの利用上限2万円やチャージ方式の弱点を補い､高額決済や家族間で残高を送り合える新機能に注目。JR東日本が描くSuica進化の全貌…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:50:00+09:00"
-  },
-  {
-   "title": "フラッグシップミニバンの絶対王者…トヨタ｢アルファード/ヴェルファイア｣比較＋ユーザー別狙い目グレード徹底解説 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961341?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "トヨタの高級ミニバン｢アルファード｣と｢ヴェルファイア｣が2026年に一部改良を実施したが､そもそも両車の違いとは？また､どちらを買えばいいのか､さらにおすすめのグレードはどれなのか､わかりやすく解…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:45:00+09:00"
   },
   {
    "title": "米国株は利益を前に上昇、FRBの声明で",
@@ -117,204 +445,6 @@
    "title_orig": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’"
   },
   {
-   "title": "ジェットブルーは何年も赤字を続けている。それは収益性への道筋を示しただけです。",
-   "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-   "summary": "新たな利益目標が航空会社の存続可能性に対する懸念を和らげるために、ジェットブルーの株価は20％近く上昇した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-28T05:38:00+09:00",
-   "lang": "en",
-   "title_orig": "JetBlue has been losing money for years. It just charted a path to profitability."
-  },
-  {
-   "title": "天然記念物オジロワシは風車を避けられるのか…北海道知事が｢抜本的な見直し｣にまで言及した風力発電計画の中身 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962602?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "北海道厚田で進む大規模風力発電計画が､｢ネイチャー･ポジティブ｣と｢カーボン･ニュートラル｣の両立を掲げる一方､希少猛禽類の衝突死や景観への影響から地元自治体や専門家､市民団体が強い懸念を示していま…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:30:00+09:00"
-  },
-  {
-   "title": "私たちは隣人の家の無料修理を手伝うのをやめ、私たちの友情は冷めてしまいました。誰のせいですか？",
-   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-   "summary": "「昨年の夏、彼らは屋根を交換する必要があると不平を言いました。数か月後、彼らは新しい SUV を購入しました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-28T05:30:00+09:00",
-   "lang": "en",
-   "title_orig": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
-  },
-  {
-   "title": "金とプラチナが株式市場の方向性について教えてくれること",
-   "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
-   "summary": "金とプラチナの比率は、株式市場のその後の 12 か月のリターンを予測する史上最高の記録の 1 つです。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-28T05:30:00+09:00",
-   "lang": "en",
-   "title_orig": "What gold and platinum are telling us about the stock market’s direction"
-  },
-  {
-   "title": "ハイテク株の株価は上昇、原油は冷える",
-   "link": "https://www.wsj.com/finance/stocks/tech-stocks-power-higher-oil-cools-724e6a63?mod=rss_markets_main",
-   "summary": "さらにボーイング株は新たな損失で下落、ワイル・ゴッシャルは破産弁護士を雇う",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-28T05:23:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech Stocks Power Higher, Oil Cools"
-  },
-  {
-   "title": "イスラエル議会選挙で明確な勝者なし、出口調査が示唆",
-   "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-   "summary": "テレビ調査によると、ベンヤミン・ネタニヤフ氏もガディ・アイゼンコット氏も過半数を確保する見通しは立っていない",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-28T05:19:36+09:00",
-   "lang": "en",
-   "title_orig": "No clear winner in Israeli parliamentary election, exit polls suggest"
-  },
-  {
-   "title": "米国の天然ガス先物は上昇して決済",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-mixed-ahead-of-november-expiry-d72f4d97?mod=rss_markets_main",
-   "summary": "米国の天然ガス先物は、水曜日の11月契約満了を前に上昇したが、若干涼しい天気予報にも助けられたものの、2週間の",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-28T05:01:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Futures Settle Higher"
-  },
-  {
-   "title": "アップル｢Siri AI｣日本語対応で本領発揮､｢使えない｣と言われ続けたiPhone音声アシスタントはどこまで進化したか | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962411?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "iOS 27の登場で大幅に強化されたAIアシスタント｢Siri AI｣。これまで英語版のみだったが､ついに日本語対応が始まった。複数アプリ連携や画面認識､画像解析まで進化したSiriは､日常やビジネ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【76】Brass Gear／トランペット消音器を量産 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961791?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］Brass Gear（ブラスギア）［設 立］2024年1月［資本金（資本準備金含む）］800万円［社員数］1人／1人［代表者名］横川央雄［所在地］広島県福山市福山の…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【75】あたらしいインターネット／AI時代の〝新しい道具〞をつくり続ける | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961790?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］あたらしいインターネット［設 立］2024年7月［資本金（資本準備金含む）］3000万円［社員数］2人／2人［代表者名］山内奏人［所在地］東京都港区   連続起業家…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【74】Wunderbar／タレントやキャラを企業とつなぐ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961789?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］Wunderbar（ヴンダーバー）［設 立］2019年3月［資本金*］4999万円［社員数］42人／63人［代表者名］長尾慶人［所在地］東京都渋谷区   連続起業家…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【73】tamateco／日本の｢ガチャ文化｣を世界へ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961788?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］tamateco（タマテコ）［設 立］2025年4月［資本金（資本準備金含む）］4000万円［社員数］2人／5人［代表者名］松井一平［所在地］福岡県福岡市日本のカプ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【72】NOTHING NEW／新鋭の発掘に挑む〝カンヌ出品〞映画会社 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961787?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］NOTHING NEW（ナッシングニュー）［設 立］2022年4月［資本金*］5000万円［社員数］4人／10人［代表者名］林 健太郎［所在地］東京都渋谷区新鋭クリ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【71】AnotherBall／スマホ1台でVTuberデビュー | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961786?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］AnotherBall（アナザーボール）［設 立］2022年5月［資本金（資本準備金含む）］20万米ドル［社員数］30人／40人［代表者名］大湯俊介［所在地］シンガポー…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【70】Cloverse／生成AIで衣服の着用画像を作成 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961785?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］Cloverse（クロバース）［設 立］2023年7月［資本金（資本準備金含む）］300万円［社員数］非公開／15人［代表者名］中谷健太郎［所在地］東京都港区生成A…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【69】CUSTA／法人向けのノベルティを効率生産 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961784?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］CUSTA（カスタ）［設 立］2025年11月［資本金（資本準備金含む）］4億1055万円［社員数］15人／20人［代表者名］高城雄大［所在地］東京都渋谷区法人向け…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "すごいベンチャー【68】InsightX／店舗のような〝接客〞をECで実現 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961783?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "［社 名］InsightX（インサイトエックス）［設 立］2021年7月［資本金（資本準備金含む）］9億0199万円［社員数］20人／38人［代表者名］中沢弘樹・佐竹佑基［所在地…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-28T05:00:00+09:00"
-  },
-  {
-   "title": "その中古EVには価格の価値がありますか？このチェックリストにより、数千ドルを節約できる可能性があります。",
-   "link": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
-   "summary": "ポンプの痛みにより、コストを重視するドライバーは従来のガソリン車から電気自動車に移行するようになっています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-28T05:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Is that used EV worth the price? This checklist could save you thousands of dollars."
-  },
-  {
-   "title": "フラヴィオ・ボルソナロ氏がブラジルから逃亡したとの報道でパスポートが取り消される",
-   "link": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
-   "summary": "敗北した右派大統領候補が汚職と資金洗浄の疑いで連邦警察の捜査を受ける",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-28T04:53:39+09:00",
-   "lang": "en",
-   "title_orig": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil"
-  },
-  {
-   "title": "中東の外交努力が加速する中、原油先物相場は下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-diplomatic-efforts-to-ease-u-s-iran-hostilities-c235ed0a?mod=rss_markets_main",
-   "summary": "市場が最近の中東外交の動きに進展がないかを注視する中、原油先物は下落して落ち着いた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-28T04:49:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up"
-  },
-  {
-   "title": "原油価格チャートに隠された「トリプルトップ」は上昇のガス欠を示唆している",
-   "link": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
-   "summary": "主要なモメンタム指標が価格の高値と一致しないことは、買い手が力を使い果たした可能性があることを示唆しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-28T04:24:00+09:00",
-   "lang": "en",
-   "title_orig": "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas"
-  },
-  {
-   "title": "イスラエル人は歴史的な選挙で投票に行く",
-   "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
-   "summary": "2023年10月7日の襲撃以来初の投票、ベンヤミン・ネタニヤフ首相の極右連合と野党連合がナイフの刃のような争いで争う",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-28T04:13:09+09:00",
-   "lang": "en",
-   "title_orig": "Israelis go to the polls in historic election"
-  },
-  {
    "title": "米政府、ウクライナ和平交渉で米国石油メジャーに対するロシアの取引について議論",
    "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
    "summary": "ホワイトハウス、ウラジーミル・プーチン大統領を交渉のテーブルにつかせるべく、戦後のビジネス関係の再開を提案",
@@ -323,16 +453,6 @@
    "published": "2026-10-28T04:06:02+09:00",
    "lang": "en",
    "title_orig": "Washington discusses Russian deals for US oil majors in Ukraine peace talks"
-  },
-  {
-   "title": "私の妻は、401(k) に 80,000 ドルしか持っていないことを私が知ったときに泣きました。私は220万ドルを持っています。ショックを受けるのは間違っているでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-   "summary": "「昨年の春に私が引退することを話したとき、彼女は私がいつでも準備ができていると言ったので、私はそれが私たちが良い状態にあることを意味すると受け取りました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-10-28T04:00:00+09:00",
-   "lang": "en",
-   "title_orig": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?"
   },
   {
    "title": "プーチン大統領、ノルウェーとフィンランドの指導者らと会談",
@@ -345,26 +465,6 @@
    "title_orig": "Putin speaks with Norwegian and Finnish leaders"
   },
   {
-   "title": "昨日の人類ラリーを受けてハイテク株がさらに上昇",
-   "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
-   "summary": "昨日の人類に触発された上昇は2日目まで延長され、ハイテク株は上昇し、ナスダックを1%以上押し上げた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-28T03:29:00+09:00",
-   "lang": "en",
-   "title_orig": "Tech Stocks Add to Gains After Yesterday’s Anthropic Rally"
-  },
-  {
-   "title": "ヴェイル・ゴッシャル、会社の状況悪化に伴い破産弁護士に依頼",
-   "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
-   "summary": "日曜日のマラソンパートナー会議の後、法律事務所は、潜在的な選択肢についてアドバイスするためにデイビス・ポーク氏を指名した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-28T03:09:00+09:00",
-   "lang": "en",
-   "title_orig": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens"
-  },
-  {
    "title": "法律事務所ヴェイユ、危機深刻化に伴い事業縮小の可能性に備える",
    "link": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
    "summary": "大手法律事務所がデイビス・ポークと協力し、直前の合併や事業体のスリム化などの選択肢も検討中",
@@ -375,16 +475,6 @@
    "title_orig": "Law firm Weil prepares for possible wind-down as crisis deepens"
   },
   {
-   "title": "原油価格下落を受けて金先物は上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-mull-potential-fed-rate-hike-this-year-1c4b50fd?mod=rss_markets_main",
-   "summary": "中東の緊張緩和に向けた外交努力に焦点を当てて市場が原油先物を反落させたため、金は上昇して落ち着いた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-28T03:04:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Futures Gain As Oil Prices Fall"
-  },
-  {
    "title": "Apple、iPhone Duoの画面問題を巡る「クラックゲート」の抗議に見舞われる",
    "link": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1",
    "summary": "ビッグテック企業初の折りたたみ式スマートフォンに欠陥があるとの主張が、新最高経営責任者ジョン・ターナスにとって挫折となる",
@@ -393,16 +483,6 @@
    "published": "2026-10-28T02:55:41+09:00",
    "lang": "en",
    "title_orig": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems"
-  },
-  {
-   "title": "AIブームを回避する限界",
-   "link": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
-   "summary": "テクノロジーへの投資が急増するにつれて、保護を見つけることがより緊急になり、さらに困難になっています",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-10-28T02:07:56+09:00",
-   "lang": "en",
-   "title_orig": "The limits of hedging the AI boom"
   },
   {
    "title": "GMO、個人情報を暴露されたら「見舞金300万円」　攻撃者「毎日公開する」表明を受け",
@@ -445,12 +525,12 @@
    "published": "2026-10-27T23:00:00+09:00"
   },
   {
-   "title": "【毛沢東に関する発言が波紋】フランスサッカー界のエムバペ選手に対して中国で強い反発が起きている理由とは？ | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962719?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "フランスのサッカースター､キリアン･エムバペ選手が中国の建国指導者･毛沢東に言及した発言をきっかけに､中国国内で大きな反発が広がっています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-27T22:40:00+09:00"
+   "title": "中国企業がエムバペの契約解消　毛沢東に関する発言謝罪―サッカー",
+   "link": "https://www.jiji.com/jc/article?k=2026102701109&g=spo&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-10-27T22:32:00+09:00"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月23日）について掲載しました。",
@@ -549,28 +629,12 @@
    "published": "2026-10-27T19:47:00+09:00"
   },
   {
-   "title": "ニデック、永守氏ら旧経営陣に対する提訴を決定　損害賠償を請求へ",
-   "link": "https://www.asahi.com/articles/ASVBW35ZGVBWPLFA00GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-27T19:24:20+09:00"
-  },
-  {
    "title": "たまごの平均価格 最高値を更新",
    "link": "https://news.yahoo.co.jp/pickup/6600331?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-27T19:20:28+09:00"
-  },
-  {
-   "title": "｢夜職を美化してる｣｢いや職業差別だ｣と真逆の批判が…ミセス『シンデレラ』MVが360度から猛バッシングを受ける事情 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962697?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "人気バンド｢Mrs. GREEN APPLE｣の新曲｢シンデレラ｣MVが､キャバクラ嬢を主人公に描いたことで賛否を巻き起こしています。夜職のポップカルチャー化や国民的バンドの責任､職業観の多様化——…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-10-27T19:20:00+09:00"
   },
   {
    "title": "多重債務問題対策推進懇談会の議事次第等について公表しました。",
@@ -581,44 +645,12 @@
    "published": "2026-10-27T19:00:00+09:00"
   },
   {
-   "title": "ソニーのネットサービスで259万件流出　不正アクセスで口座情報も",
-   "link": "https://www.asahi.com/articles/ASVBW332QVBWULFA01TM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-27T18:34:16+09:00"
-  },
-  {
-   "title": "クールジャパン機構の検討会、中間整理「対象分野の戦略像が不明確」",
-   "link": "https://www.asahi.com/articles/ASVBW32WWVBWULFA00PM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-27T18:30:38+09:00"
-  },
-  {
-   "title": "アンモニア燃料船4隻を2030年導入　海運、造船、発電7社が連携",
-   "link": "https://www.asahi.com/articles/ASVBW2T4GVBWULFA01FM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-27T18:21:11+09:00"
-  },
-  {
    "title": "ミセス×ガスト企画で持ち去り被害",
    "link": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-10-27T18:06:52+09:00"
-  },
-  {
-   "title": "ウミオス、北米の冷凍水産加工大手を890億円で買収　流通網を強化",
-   "link": "https://www.asahi.com/articles/ASVBW226VVBWULFA00CM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-27T17:54:17+09:00"
   },
   {
    "title": "ニデック 創業者ら9人を提訴へ",
@@ -635,14 +667,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-27T17:00:00+09:00"
-  },
-  {
-   "title": "消費減税「極めてコスパ悪い政策」　渡辺・東大名誉教授が国会で意見",
-   "link": "https://www.asahi.com/articles/ASVBW26F2VBWULFA010M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-27T16:13:17+09:00"
   },
   {
    "title": "シニア社員向け「孫休暇」広がる",
@@ -813,14 +837,6 @@
    "published": "2026-10-26T20:00:00+09:00"
   },
   {
-   "title": "5000円のお見舞金で幕引き？　GMO熊谷社長「そうではない」──不正アクセスの真相と“後手の悔恨”【ブログ全文】",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/26/news049.html",
-   "summary": "外国為替証拠金取引（FX）のためのサービスに不正アクセスを受けたことを巡り、GMOインターネットグループの熊谷正寿社長が10月25日、事前に社内の技術者から安全性に関して「改善すべき課題」が指摘されていたとブログに投稿した。一律5000円の見舞金を支払うと発表したことについて、「ご不便とご心配」をかけた顧客への「初動の誠意」だと説明し、幕引きを否定。インターネットが「壊れかけている」として「官民連",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-26T12:02:00+09:00"
-  },
-  {
    "title": "Public Policy Review Vol.22, No.2 : Understanding Japan’s Labor Market: Dynamics, Trends, and Challengesに4論文を掲載しました",
    "link": "https://www.mof.go.jp/insideLink/20261023163156.html",
    "summary": "",
@@ -851,14 +867,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-26T10:00:00+09:00"
-  },
-  {
-   "title": "なぜ、元・大企業の部長が「自席で地蔵」になるのか？　中小企業が陥りがちな“シニア採用”の落とし穴",
-   "link": "https://www.itmedia.co.jp/business/articles/2610/26/news003.html",
-   "summary": "シニアの採用は活発化しているにもかかわらず、活躍できずに試用期間で終了してしまう事例が後を絶たない。どうすれば防げるのか？",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-10-26T07:00:00+09:00"
   }
  ]
 }
