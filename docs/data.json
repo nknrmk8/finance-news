@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T08:02:57.159214+09:00",
+ "generated_at": "2026-11-02T11:25:59.865702+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,210 @@
  "errors": [],
  "items": [
   {
+   "title": "その他,IFIAR関係の寄稿記事等を更新しました。",
+   "link": "https://www.fsa.go.jp/ifiar/20161207-1.html#Contributions_and_Lectures",
+   "summary": "",
+   "source": "金融庁",
+   "category": "公的機関",
+   "published": "2026-11-02T20:00:00+09:00"
+  },
+  {
+   "title": "GMOが15時半から会見、5つのポイント　不正アクセスの全容は…",
+   "link": "https://www.asahi.com/articles/ASVC2033SVC2ULFA00MM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-02T11:00:00+09:00"
+  },
+  {
+   "title": "トランプ氏、中間選挙選挙で反抗的な有権者に最後の売り込み",
+   "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
+   "summary": "共和党は大統領への反発の兆しに対し議会支配を防衛している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-02T10:47:26+09:00",
+   "lang": "en",
+   "title_orig": "Trump makes final pitch to restive voters in midterms campaign"
+  },
+  {
+   "title": "湾岸諸国は米国・イスラエル同盟とイラン間の戦争激化に備えている",
+   "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
+   "summary": "外交官らは、新たな紛争はこれまでの戦闘よりもさらに大きな被害をもたらすだろうと警告",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-02T10:36:43+09:00",
+   "lang": "en",
+   "title_orig": "Gulf braced for escalation of war between US-Israel alliance and Iran"
+  },
+  {
+   "title": "エネルギー対策特別会計の借入金の入札予定（令和8年11月2日公表）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer261102.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-11-02T10:30:00+09:00"
+  },
+  {
+   "title": "5年クライメート・トランジション利付国債（第6回）の入札発行（令和8年11月2日入札）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261102.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-11-02T10:30:00+09:00"
+  },
+  {
+   "title": "30年利付国債（11月債）の発行予定額等（令和8年11月2日公表）",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261102.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-11-02T10:30:00+09:00"
+  },
+  {
+   "title": "国庫短期証券（第1418回）の発行予定額等",
+   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261102.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-11-02T10:20:00+09:00"
+  },
+  {
+   "title": "中東和平交渉再開に向けた外交努力の中で原油下落",
+   "link": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
+   "summary": "米国とイランとの和平交渉を復活させようとする最近の外交努力のさなか、原油価格は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-02T10:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks"
+  },
+  {
+   "title": "投資家が米国の経済指標を待つ中、アジア通貨はまちまち",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
+   "summary": "早朝の取引ではアジア通貨はまちまち。投資家は今週発表される米経済指標に注目している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-02T10:08:00+09:00",
+   "lang": "en",
+   "title_orig": "Asian Currencies Mixed as Investors Await U.S. Economic Data"
+  },
+  {
+   "title": "残業代4割減､売上高は2倍増に…従業員11人のヘッドスパが導入した出退勤管理ツールの発する《ナッジな問いかけ》 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961928?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "従業員に自律的な行動変容を促し､組織改革を実現したフェリコ株式会社。その成功の秘訣は｢健康経営｣と｢ナッジ理論｣を組み合わせた出退勤ツールの導入にありました。なぜ強制せずに社員が主体的に変わることが…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-02T10:00:00+09:00"
+  },
+  {
+   "title": "政府調達情報",
+   "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-11-02T10:00:00+09:00"
+  },
+  {
+   "title": "入札、落札結果情報（工事等）",
+   "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-11-02T10:00:00+09:00"
+  },
+  {
+   "title": "金は上昇、しかし米国の金融政策引き締めへの期待が重し",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860?mod=rss_markets_main",
+   "summary": "金はアジア取引序盤で上昇したが、依然として重要な4,000ドルの水準を下回っている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-02T09:51:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Rises, But Expectations of Tighter U.S. Monetary Policy Weigh"
+  },
+  {
+   "title": "国債金利情報(令和8年10月30日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-11-02T09:30:00+09:00"
+  },
+  {
+   "title": "日経平均株価0.9％下落、銀行株とハイテク株にけん引される",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
+   "summary": "金曜日に人工知能関連の米国テクノロジー株が下落したことを受け、日本株は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-02T09:30:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 0.9%, Dragged by Bank, Tech Stocks"
+  },
+  {
+   "title": "これは AI を活用した強気市場にとって最大の脅威です",
+   "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+   "summary": "大ヒット作の利益成長により、2026 年には株式市場が上昇しました。2027 年には、そのエンジンが失速する可能性があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-02T09:22:00+09:00",
+   "lang": "en",
+   "title_orig": "This is the biggest threat to the AI-powered bull market"
+  },
+  {
+   "title": "内定者2年間入社しなくてOK 狙い",
+   "link": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-02T09:21:39+09:00"
+  },
+  {
+   "title": "Apple の新たな収益時代はビッグテックにとって重要な時期に始まる",
+   "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+   "summary": "Appleの珍しい月曜日の決算報告は、投資家に新CEOのジョン・ターナス氏が高騰したメモリ価格とより厳しい経営環境をどのように管理しているかを垣間見ることができるだろう",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-02T09:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Apple’s new earnings era begins at a critical time for Big Tech"
+  },
+  {
+   "title": "｢LINEは窮屈､Google マップは一望｣毎日使うアプリは折りたたみiPhoneでどう変わるのか | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962801?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "アップル初の折りたたみ型iPhone｢iPhone Duo｣が登場し､アプリの使い勝手は従来機種からどう変わったのか。主要アプリの対応状況や利便性を徹底レビュー。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-02T09:00:00+09:00"
+  },
+  {
+   "title": "この高級住宅街マイアミ地区がディストレスト・オポチュニティ・ゾーンに指定されている理由",
+   "link": "https://www.wsj.com/politics/policy/miami-opportunity-zone-tax-breaks-59c3ea51?mod=rss_markets_main",
+   "summary": "批評家たちは、高級地区の建物に対する減税は、この指定が救済を目的としている貧しいコミュニティにとってはあまり役に立たないと主張している",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-02T09:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Why This Upscale Miami District Is Designated a Distressed Opportunity Zone"
+  },
+  {
+   "title": "フロリダでビジネスジェット機墜落、9人死亡",
+   "link": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
+   "summary": "航空当局、ドナルド・トランプ大統領のリゾート地マール・ア・ラーゴから約8マイルの道路にリアジェット機が突っ込み捜査へ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-02T08:25:46+09:00",
+   "lang": "en",
+   "title_orig": "Nine killed as business jet crashes in Florida"
+  },
+  {
+   "title": "｢不安を消そう｣とするほど本番で実力を出せない…英国の臨床心理士が教える\"プレッシャーを力に変える方法\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962793?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "プレッシャーに強い人は特別な才能を持つわけではなく､後天的なスキルでその力を身につけています。大切なのは､不安や緊張を否定せず､むしろそのエネルギーを活用すること。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-02T08:00:00+09:00"
+  },
+  {
    "title": "金型の無償保管 公取委勧告が急増",
    "link": "https://news.yahoo.co.jp/pickup/6601015?source=rss",
    "summary": "",
@@ -75,16 +279,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-02T07:30:00+09:00"
-  },
-  {
-   "title": "トランプ氏、中間選挙選挙で反抗的な有権者に最後の売り込み",
-   "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
-   "summary": "共和党は大統領への反発の兆しに対し議会支配を防衛している",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-02T07:01:19+09:00",
-   "lang": "en",
-   "title_orig": "Trump makes final pitch to restive voters in midterms campaign"
   },
   {
    "title": "「薩長同盟」から10年　カラオケ徴収でJASRACに挑む次の手は",
@@ -117,16 +311,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-02T06:45:00+09:00"
-  },
-  {
-   "title": "ミシガン州の確執が重要な上院選挙で民主党の結束を脅かす",
-   "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-   "summary": "アブドゥル・エルサイード氏、イスラエルを巡る舌戦のさなか、元予備選ライバルのヘイリー・スティーブンス氏の選挙イベントへの招待を取り消した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-02T06:44:06+09:00",
-   "lang": "en",
-   "title_orig": "Michigan feud threatens Democratic unity in key Senate race"
   },
   {
    "title": "｢ハードからソフトへ｣バルミューダが朝のAIラジオに挑む理由…家電メーカーが見据えるモノづくりの次のステップ | ビジネス | 東洋経済オンライン",
@@ -295,26 +479,6 @@
    "title_orig": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack"
   },
   {
-   "title": "湾岸諸国は米国・イスラエル同盟とイラン間の戦争激化に備えている",
-   "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
-   "summary": "外交官らは、新たな紛争はこれまでの戦闘よりもさらに大きな被害をもたらすだろうと警告",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-02T03:02:52+09:00",
-   "lang": "en",
-   "title_orig": "Gulf braced for escalation of war between US-Israel alliance and Iran"
-  },
-  {
-   "title": "ブルーラグーンのオーナーはアイスランドの観光ブームを受けて浮上する計画",
-   "link": "https://www.ft.com/content/6a3c6f12-cada-4368-8aad-4deb4db13fcb?syn-25a6b1a6=1",
-   "summary": "有名な地熱温泉の所有者は、山荘を含む成長計画のために資金を集めたいと考えている",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-02T03:00:03+09:00",
-   "lang": "en",
-   "title_orig": "Blue Lagoon owner plans to float as Icelandic tourism booms"
-  },
-  {
    "title": "私の父はアルツハイマー病を患っており、彼の介護者は彼のデビットカードをドアダッシュに使用しています。私が介入しますか？",
    "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
    "summary": "「住み込みの介護者は親の寛大さの恩恵を受けているのではないかと思います。」",
@@ -385,16 +549,6 @@
    "title_orig": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History"
   },
   {
-   "title": "Apple の新たな収益時代はビッグテックにとって重要な時期に始まる",
-   "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-   "summary": "Appleの珍しい月曜日の決算報告は、投資家に新CEOのジョン・ターナス氏が高騰したメモリ価格とより厳しい経営環境をどのように管理しているかを垣間見ることができるだろう",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-02T00:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Apple’s new earnings era begins at a critical time for Big Tech"
-  },
-  {
    "title": "ジャンク・デットの破綻でクレジット投資家に「流血」の事態が巻き起こる",
    "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
    "summary": "債権者の手の届かないところに資産を移すという積極的な戦術が売却に拍車をかけている",
@@ -403,16 +557,6 @@
    "published": "2026-11-01T23:54:55+09:00",
    "lang": "en",
    "title_orig": "Junk debt rout sparks ‘bloodbath’ for credit investors"
-  },
-  {
-   "title": "これは AI を活用した強気市場にとって最大の脅威です",
-   "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-   "summary": "大ヒット作の利益成長により、2026 年には株式市場が上昇しました。2027 年には、そのエンジンが失速する可能性があります。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-01T23:00:00+09:00",
-   "lang": "en",
-   "title_orig": "This is the biggest threat to the AI-powered bull market"
   },
   {
    "title": "アメリカはあなたが思っているよりもうまくやっています。あなたのアルゴリズムはそれを隠しているだけです。",
@@ -451,52 +595,6 @@
    "title_orig": "Weil Gotshal: what happens now at the troubled Wall St law firm?"
   },
   {
-   "title": "投資家はAIブームのリスクをヘッジしている",
-   "link": "https://www.wsj.com/articles/investors-are-hedging-against-the-risks-of-the-ai-boom-603203d5?mod=rss_markets_main",
-   "summary": "さらに、ダーリン・グラハムが上院で消極的に出馬していた最後の日、二人のオーナーが同じ伝説のポルシェを所有していると主張した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-01T21:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Investors Are Hedging Against the Risks of the AI Boom"
-  },
-  {
-   "title": "モデルの顔を別人の顔に差し替え､追加報酬なしにデジタルクローンを作成…AIが揺さぶるファッションモデルの権利 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963195?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "人工知能（AI）によるファッションモデルの生成が､劇的なコスト削減とリアルな画像提供を実現する一方で､モデル業界には深刻なリスクが迫っています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-01T20:00:00+09:00"
-  },
-  {
-   "title": "投資家はブルーウェーブが病院を助けることに賭けている。当てにしないでください。",
-   "link": "https://www.wsj.com/health/healthcare/investors-are-betting-a-blue-wave-will-help-hospitals-dont-count-on-it-411ab127?mod=rss_markets_main",
-   "summary": "市場はトランプ大統領のメディケイド削減の反転を期待している。それは言うは易く行うは難しかもしれません。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-01T19:30:00+09:00",
-   "lang": "en",
-   "title_orig": "Investors Are Betting a Blue Wave Will Help Hospitals. Don’t Count on It."
-  },
-  {
-   "title": "AI 賭けの複雑な網がハイテク株を恐れる理由",
-   "link": "https://www.wsj.com/tech/the-tangled-web-of-ai-bets-is-reason-to-fear-tech-stocks-905bde86?mod=rss_markets_main",
-   "summary": "ベンダーによる資金調達が新しい形で戻ってきており、AI 取引が上昇と下降を繰り返しながら拡大しています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-01T19:30:00+09:00",
-   "lang": "en",
-   "title_orig": "The Tangled Web of AI Bets Is Reason to Fear Tech Stocks"
-  },
-  {
-   "title": "【エミン流！四季報の読み方】エミン・ユルマズ氏が四季報を使った優良株の選び方を解説！／「材料記事は絶対に読んだほうがいい！」／四季報はココを見ろ！ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963202?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "▼第1部の動画はこちら▼https://youtu.be/XWk0kjiOplA『会社四季報』創刊90周年記念イベント「四季報カフェ」第3回（全2部）。第2部では15年間『会社四季報』を全ページ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-01T19:00:00+09:00"
-  },
-  {
    "title": "渋滞最大で3時間 いろは坂で実験",
    "link": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
    "summary": "",
@@ -505,20 +603,22 @@
    "published": "2026-11-01T18:10:42+09:00"
   },
   {
-   "title": "ポルシェで移動しキャビアやシャンパンも…エアライン各社が｢超富裕層向けサービス｣を強化する背景事情 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963192?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "燃料高騰や世界的な格差拡大を背景に､航空会社は超富裕層向けサービスの強化へ大きく舵を切っています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-01T17:00:00+09:00"
-  },
-  {
    "title": "社債購入者の個人情報、流出か　NTTデータ委託先に不正アクセス",
    "link": "https://www.asahi.com/articles/ASVC124XRVC1ULFA00BM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-11-01T15:55:51+09:00"
+  },
+  {
+   "title": "債券投資家、ここ数年で「最も重大な」米中間選挙を欠席",
+   "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
+   "summary": "投票と経済指標の発表が迫る中、大手ファンドマネジャーらは「一時停止」を迫られている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-01T14:00:17+09:00",
+   "lang": "en",
+   "title_orig": "Bond investors sit out ‘most consequential’ US midterm elections in years"
   },
   {
    "title": "GMO傘下認証会社で4.5万人分漏洩　設定ミスで9年間取得可能に",
@@ -585,14 +685,6 @@
    "published": "2026-11-01T06:00:00+09:00"
   },
   {
-   "title": "GMOが11/2に記者会見 社長出席",
-   "link": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-10-31T23:53:29+09:00"
-  },
-  {
    "title": "GMO、不正アクセスで11月2日に会見　熊谷代表らが経緯説明へ",
    "link": "https://www.asahi.com/articles/ASVB04PTDVB0ULFA00CM.html?ref=rss",
    "summary": "",
@@ -601,40 +693,12 @@
    "published": "2026-10-31T23:11:10+09:00"
   },
   {
-   "title": "予測市場は選挙に関して空振りを続けている。彼らは中間選挙に参加できないでしょうか？",
-   "link": "https://www.wsj.com/politics/elections/prediction-markets-keep-whiffing-on-elections-will-they-miss-on-the-midterms-9809c8c9?mod=rss_markets_main",
-   "summary": "最近のブラジル、セルビア、ウィスコンシンの選挙市場が予想外の予想に動揺したことを受けて、世論調査データは依然として問題となっている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-31T23:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Prediction Markets Keep Whiffing on Elections. Will They Miss on the Midterms?"
-  },
-  {
-   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
-   "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-10-31T22:31:49+09:00"
-  },
-  {
-   "title": "中国ファーウェイ幹部逮捕、貿易戦争「休戦」は風前の灯か（字幕・6日）",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oRUxHVGdhUzU4VmxPT3NGVTNNY0kzOVgyX2NsTWJFcTE5Zk9LTW9pNTJrSGVPZy1GS3ZoeWlMcEtOR3RMRkRreGVwYjlacHV1dDVZUTNvbVFOM2c?oc=5",
-   "summary": "中国ファーウェイ幹部逮捕、貿易戦争「休戦」は風前の灯か（字幕・6日）&nbsp;&nbsp;Reuters",
+   "title": "Lagarde sees ECB in crisis mode until next year",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HLU1HX0p4eGNSU2c1aXhxTVhHelRKdDBTb0c2UlVKeEh1RHA3VmtSQjBFSFZsbnJUVHF1U2lTLVJpZ3FteGVvV1VJenh0ZHhuUzdnWUsxOUFsNHM?oc=5",
+   "summary": "Lagarde sees ECB in crisis mode until next year&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-10-31T16:00:00+09:00"
-  },
-  {
-   "title": "アメリカのAI構築における新たなボトルネック：安価な資金の不足",
-   "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
-   "summary": "AI の構築が新たな段階に入るにつれて、貸し手や投資家は賭けの選択をますます厳しくし、より厳しい条件を要求しています。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-10-31T12:00:00+09:00",
-   "lang": "en",
-   "title_orig": "The New Bottleneck in America’s AI Build-Out: A Shortage of Cheap Money"
   },
   {
    "title": "「うちは大丈夫」が餌食に　中小企業の情報漏えい前年2倍、増えた「手口」は？",
@@ -651,6 +715,14 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-10-31T08:00:00+09:00"
+  },
+  {
+   "title": "Saudi Aramco prices world's biggest IPO",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3cHJ0RGl2MWFiaUE0U1ZTMHNVdHprUTlZdl93NDBkeWx6cVBQbWRtZkpRX0g4VmhTb1dqSFVMUHVRakR4MDk0R0xpMG5aTThWQzNYVGhRT1pNZUU?oc=5",
+   "summary": "Saudi Aramco prices world's biggest IPO&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-10-31T07:50:40+09:00"
   },
   {
    "title": "その他,個人情報流出の被害に遭われた方・ご心配のある方向けの相談窓口について掲載しました。",
@@ -851,78 +923,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-10-30T11:30:00+09:00"
-  },
-  {
-   "title": "決済動向（9月）",
-   "link": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2609.pdf",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-30T11:00:00+09:00"
-  },
-  {
-   "title": "瀧　俊雄様に「家計簿データを活用した家計行動の分析可能性－消費動向の把握と政策分析への活用－」について、ご講演いただきました",
-   "link": "https://www.mof.go.jp/insideLink/20261027170709.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-30T11:00:00+09:00"
-  },
-  {
-   "title": "片山大臣とバングラデシュ人民共和国のコスル財務・計画大臣との面会（令和8年10月30日（金））",
-   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261029145546.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-30T10:30:00+09:00"
-  },
-  {
-   "title": "国庫短期証券（第1417回）の発行予定額等",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261030.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-30T10:20:00+09:00"
-  },
-  {
-   "title": "国債の償還予定額（令和8年11月分）",
-   "link": "https://www.mof.go.jp/insideLink/20261029093950.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-30T10:00:00+09:00"
-  },
-  {
-   "title": "入札、落札結果情報（物品・役務）",
-   "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-30T10:00:00+09:00"
-  },
-  {
-   "title": "国債金利情報(令和8年10月29日)",
-   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-30T09:30:00+09:00"
-  },
-  {
-   "title": "新型窓口販売方式による2年利付国債（第490回）の発行条件等",
-   "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261030.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-10-30T09:14:00+09:00"
-  },
-  {
-   "title": "日本銀行の役員に就いている退職公務員等の状況等の公表について",
-   "link": "http://www.boj.or.jp/about/release_2026/rel261030a.htm",
-   "summary": "",
-   "source": "日本銀行",
-   "category": "公的機関",
-   "published": "2026-10-30T08:50:00+09:00"
   }
  ]
 }
