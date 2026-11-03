@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:43:18.131293+09:00",
+ "generated_at": "2026-11-04T01:33:59.610268+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,24 +61,314 @@
  "errors": [],
  "items": [
   {
-   "title": "米国中間選挙に向けてアジア通貨は安定",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main",
-   "summary": "アジア通貨は対ドルで堅調となったが、慎重な地合いが重しとなる可能性がある。",
-   "source": "WSJ マーケット",
+   "title": "「年をとるのは良いことだ」: 私は、年金の売り込みに変わる無料の食事に十数回招待されました。行くのやめたほうがいいでしょうか？",
+   "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+   "summary": "「営業担当者は通常、年金、メディケアプラン、不動産計画サービスを勧めます。」",
+   "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-11-03T17:38:00+09:00",
+   "published": "2026-11-04T01:30:00+09:00",
    "lang": "en",
-   "title_orig": "Asian Currencies Consolidate Ahead of U.S. Midterm Elections"
+   "title_orig": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?"
   },
   {
-   "title": "米国、ロシア、中国がトランプ、プーチン、習氏の三者会談を協議",
-   "link": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
-   "summary": "米国大統領がAPEC首脳会議に出席するため2週間後に深センを訪問",
+   "title": "成人した子供や孫を助けたいですか?生きているうちにお金をあげてください。",
+   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+   "summary": "自分自身の老後を危険にさらさずに「生きながら与える」ことを管理する方法。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-04T01:25:00+09:00",
+   "lang": "en",
+   "title_orig": "Want to help your adult kids and grandkids? Give them money while you’re still alive."
+  },
+  {
+   "title": "「大げさな」四半期にもかかわらず、パランティアの株価が下落している理由はここにある",
+   "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+   "summary": "米国の商業契約の伸びの減速により、パランティアの利益が上回ったにもかかわらず、一部のウォール街アナリストは立ち止まった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-04T01:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter"
+  },
+  {
+   "title": "爆破予告を受け、欧州で7機の航空機が着陸停止",
+   "link": "https://www.ft.com/content/f1122a7d-f27b-437f-84ba-59ea87e2ba17?syn-25a6b1a6=1",
+   "summary": "数時間以内に一連の警報を受けて航空機を捜索",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-11-03T17:10:41+09:00",
+   "published": "2026-11-04T01:06:47+09:00",
    "lang": "en",
-   "title_orig": "US, Russia and China discuss trilateral meeting between Trump, Putin and Xi"
+   "title_orig": "Seven aircraft grounded in Europe after bomb threats"
+  },
+  {
+   "title": "ロシア、ウクライナのエネルギーインフラに大規模な攻撃を開始",
+   "link": "https://www.ft.com/content/52c2f86b-46a8-4710-9c05-f186baf3827f",
+   "summary": "ウクライナ空軍がミサイルや無人機の迎撃に苦戦するなか、9地域で発電所や変電所が被災",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-04T01:00:05+09:00",
+   "lang": "en",
+   "title_orig": "Russia unleashes massive attack on Ukraine’s energy infrastructure"
+  },
+  {
+   "title": "投資家心理の改善を受けて金が上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
+   "summary": "投資家心理の改善を受けて、アジア貿易序盤では金が小幅上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-04T01:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Edges Higher Amid Better Investor Sentiment"
+  },
+  {
+   "title": "テキサス州知事選は不安定なAI取引の勝敗を左右するかもしれない",
+   "link": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
+   "summary": "火曜日の米国中間選挙では民主党が下院と上院の両方を獲得することが有利だが、人工知能が争う別の競争もある",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-04T00:44:00+09:00",
+   "lang": "en",
+   "title_orig": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade"
+  },
+  {
+   "title": "10月のAI敗走でヘッジファンドが苦しむ中、マーシャル・ウェイスとミレニアムがヒット",
+   "link": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
+   "summary": "ウォール街のテクノロジー調整と債券市場の混乱がセクターの損失を引き起こす",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-04T00:21:33+09:00",
+   "lang": "en",
+   "title_orig": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout"
+  },
+  {
+   "title": "中間選挙後の株式市場: S&P 500 の歴史が示すもの",
+   "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+   "summary": "歴史的に中間選挙は S&P 500 指数が好調な年の前に行われます。民主党が議会を取り戻した場合に知っておくべきこと",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-04T00:19:38+09:00",
+   "lang": "en",
+   "title_orig": "Stock market after midterm elections: What S&P 500 history shows"
+  },
+  {
+   "title": "Microsoft が 60,000 人の従業員に対して行ったように、上司があなたに買収を提案する場合に尋ねるべき 5 つの質問",
+   "link": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
+   "summary": "マイクロソフトが従業員の4分の1以上に買収に応じるか尋ねた2日後、同社は1四半期で452億ドルの設備投資があったと報告した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-04T00:04:00+09:00",
+   "lang": "en",
+   "title_orig": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees"
+  },
+  {
+   "title": "アップル決算が期待外れとなり株価はまちまち",
+   "link": "https://www.wsj.com/finance/investing/dow-futures-fall-treasurys-yields-rise-heading-into-midterms-d3a6a938?mod=rss_markets_main",
+   "summary": "ダウ工業株30種が下落する一方、ナスダック指数は少しずつ上昇し、厳しいハイテク株の下落が当面底を見つける可能性があるという暫定的な兆候を示した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-04T00:01:00+09:00",
+   "lang": "en",
+   "title_orig": "Stocks Are Mixed After Apple Earnings Disappoint"
+  },
+  {
+   "title": "全国の出国税はどのくらい一般的ですか?",
+   "link": "https://www.ft.com/content/dd479ac5-9b65-4d7d-9c06-2cec36c68434",
+   "summary": "出国、税務署員に追われる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-03T23:48:45+09:00",
+   "lang": "en",
+   "title_orig": "How common are national exit taxes?"
+  },
+  {
+   "title": "「ラブ・イズ・ブラインド」のマネードラマから学ぶ",
+   "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+   "summary": "聞いてください。リアリティ番組に登場するカップルが、水曜日のフィナーレに向けて、愛とお金について非常に重要な会話をしています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-03T23:46:00+09:00",
+   "lang": "en",
+   "title_orig": "Learning from ‘Love Is Blind’ money drama"
+  },
+  {
+   "title": "タイ 輸入EVの物品税引き上げへ",
+   "link": "https://news.yahoo.co.jp/pickup/6601233?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-03T23:40:16+09:00"
+  },
+  {
+   "title": "有権者が一か八かの投票に向かう中、ウォール街は気を引き締める",
+   "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+   "summary": "投票はAIから公共支出まであらゆるものへの軌道を定める",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-03T23:33:22+09:00",
+   "lang": "en",
+   "title_orig": "Wall Street braces as voters head to high-stakes polls"
+  },
+  {
+   "title": "カール・アイカーン氏のCVRエネルギー、マラソン製油所向けに40億ドル以上の契約に近づく",
+   "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=rss_markets_main",
+   "summary": "この取引は、世界的な紛争により米国の精製業者の売上が増加している中で行われた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-03T23:33:00+09:00",
+   "lang": "en",
+   "title_orig": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries"
+  },
+  {
+   "title": "米国の天然ガス先物は序盤の取引で上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=rss_markets_main",
+   "summary": "短期的な天候見通しがやや冷え込む中、米国の天然ガス先物は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-03T23:24:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Pick Up in Early Trading"
+  },
+  {
+   "title": "市場が中東の動向に追随する中、原油下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-market-tracks-mideast-developments-b95ca17a?mod=rss_markets_main",
+   "summary": "市場が中東の動向に追随する中、アジア貿易初期の原油価格は下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-03T23:14:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Falls as Market Tracks Mideast Developments"
+  },
+  {
+   "title": "ベストファイナンシャルアドバイザー会社11社：検討すべき有名な受託投資会社",
+   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-03T23:14:00+09:00",
+   "lang": "en",
+   "title_orig": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
+  },
+  {
+   "title": "この指標は 2000 年以降、わずか 5 回しか発動されておらず、株価の罠を警告しています",
+   "link": "https://www.marketwatch.com/story/this-indicator-has-triggered-just-5-times-since-2000-and-it-warns-of-a-trap-for-stocks-a1cbd579?mod=mw_rss_topstories",
+   "summary": "以前の市場ドローダウンと比較すると、インフレ上昇により中央銀行の金融緩和能力が制限されているため、現在の市場設定は脆弱です。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-03T23:06:00+09:00",
+   "lang": "en",
+   "title_orig": "This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks"
+  },
+  {
+   "title": "FT による選挙の夜のガイド",
+   "link": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1",
+   "summary": "主要なレースから賞金や懸案事項まで、今夜の結果を前に知っておくべきすべてがここにあります",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-03T23:00:03+09:00",
+   "lang": "en",
+   "title_orig": "The FT’s guide to election night"
+  },
+  {
+   "title": "「インフレひどい」「トランプ氏不支持」　有権者が一票―米中間選挙",
+   "link": "https://www.jiji.com/jc/article?k=2026110300794&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-11-03T22:57:00+09:00"
+  },
+  {
+   "title": "テキサス州知事選、予測市場では接戦だが、依然としてアボット氏が有利",
+   "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+   "summary": "予測市場では依然として共和党現職が４期目を獲得するのが有利であると示されているが、その確率はここ数週間で縮小している。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-03T22:33:11+09:00",
+   "lang": "en",
+   "title_orig": "Texas governor race tightens in prediction markets, but Abbott remains favored"
+  },
+  {
+   "title": "いよいよ選挙日です - 予測市場は「民主党へのおやすみに対する過大な自信」を示すかもしれません",
+   "link": "https://www.marketwatch.com/story/its-finally-election-day-and-prediction-markets-may-show-too-much-confidence-in-a-good-night-for-democrats-3c6742df?mod=mw_rss_topstories",
+   "summary": "あるアナリストは、予測市場は「民主党におやすみなさいという過信を示唆する」リスクを抱えている可能性があると言う。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-03T22:26:00+09:00",
+   "lang": "en",
+   "title_orig": "It’s finally Election Day — and prediction markets may show ‘too much confidence in a good night for Democrats’"
+  },
+  {
+   "title": "AI懸念が株式市場に影響、北京がIPOラッシュを抑制",
+   "link": "https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b?mod=rss_markets_main",
+   "summary": "中国の市場規制当局は銀行に対し、進行中のIPOプロセスは継続するが、現時点では新規上場は行わないと述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-03T22:02:00+09:00",
+   "lang": "en",
+   "title_orig": "Beijing Reins In IPO Rush After AI Concerns Hit Stock Market"
+  },
+  {
+   "title": "市場前に大きな動きをする銘柄: ファイザー、アップル、パランティア、ゼブラ テクノロジーズなど",
+   "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+   "summary": "これらは市場前に最大の値動きを記録した銘柄です。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-03T21:47:45+09:00",
+   "lang": "en",
+   "title_orig": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more"
+  },
+  {
+   "title": "ペルミラ、オクタスセールで撤退活動の波を企業バイヤーにも拡大",
+   "link": "https://www.wsj.com/pro/private-equity/europes-permira-extends-its-wave-of-exit-activity-to-corporate-buyers-with-octus-sale-67e6133c?mod=rss_markets_main",
+   "summary": "同社によるロンドン証券取引所グループへのクレジット・スペシャリストの35億4000万ドルの売却は、戦略的買い手への今年6回目の売却となる。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-03T21:11:00+09:00",
+   "lang": "en",
+   "title_orig": "Permira Extends Its Wave of Exit Activity to Corporate Buyers With Octus Sale"
+  },
+  {
+   "title": "戦いに次ぐ戦い: トランプ大統領の激動の 21 か月間",
+   "link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
+   "summary": "「解放の日」と債券市場の混乱から、マドゥロ大統領の逮捕、ゼレンスキー大統領の煽動、イラン戦争に至るまで、米国では目まぐるしい時期が続いた",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-03T20:40:58+09:00",
+   "lang": "en",
+   "title_orig": "One battle after another: Trump’s turbulent 21 months"
+  },
+  {
+   "title": "アメリカ中間選挙の投票始まる　トランプ氏は最後まで激しい個人攻撃",
+   "link": "https://www.asahi.com/articles/ASVC32576VC3UHBI01RM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-03T20:29:08+09:00"
+  },
+  {
+   "title": "アメリカ人は議会の主導権を決める選挙に投票し始める",
+   "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+   "summary": "共和党、ドナルド・トランプ大統領の就任を問う国民投票と見られる票の過半数維持を目指して奮闘",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-03T19:52:57+09:00",
+   "lang": "en",
+   "title_orig": "Americans begin voting in elections to decide control of Congress"
+  },
+  {
+   "title": "豪が追加利上げ 18年ぶり高水準",
+   "link": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-03T19:23:11+09:00"
+  },
+  {
+   "title": "【「保護主義」加速で資本市場にも影響？】激化する仏デモの余波／“高福祉”でもフランスが北欧諸国と異なる点／独仏で「極右政権」誕生の現実味／国債不安はどこまで深刻化？／「ホームバイアス」時代の資産運用 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963404?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "9月に学校現場から始まり、瞬く間に参加者層と規模を拡大していったフランスの抗議デモ。激化の背景にはどんな事情があるのか。また、2027年春に迫るフランス大統領選挙への影響、フランスや欧州の経済・金融…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-03T19:00:00+09:00"
   },
   {
    "title": "暗号資産取引所大手バイナンスが北朝鮮サイバー犯罪グループの標的に…｢1兆円強奪｣の裏で広がる2つの信用不安 | ビジネス | 東洋経済オンライン",
@@ -89,32 +379,12 @@
    "published": "2026-11-03T17:00:00+09:00"
   },
   {
-   "title": "市場が中間選挙の結果を待つ中、米国債利回りが上昇",
-   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
-   "summary": "米国の有権者が火曜日の中間選挙の投票に向かう中、欧州貿易序盤で米国債利回りが上昇する一方、原油価格は前年比からわずかに反発した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-03T16:44:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Treasury Yields Rise as Markets Await Midterm Election Results"
-  },
-  {
    "title": "【組織の重大欠陥】侵入口も原因も不明､2カ月半放置された理由も調査中…GMOは明らかに優先順位を間違えている | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/963399?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "GMOインターネットグループの熊谷正寿代表が､不正アクセス事件を巡り初めて公の場で謝罪。しかし3時間半に及ぶ会見では､被害の核心や再発防止策よりも自身の人生観やAI時代の難しさに焦点が当てられました。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-03T16:37:00+09:00"
-  },
-  {
-   "title": "原油価格は急落後も106ドルで安定",
-   "link": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
-   "summary": "トレーダーらが中東情勢の展開を待つ中、原油価格は火曜日に安定",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-03T16:32:45+09:00",
-   "lang": "en",
-   "title_orig": "Oil prices steady at $106 after sharp declines"
   },
   {
    "title": "【詳細解説】最初の侵入口も原因も不明…GMOグループ3時間半謝罪会見で判明した｢優先順位の倒錯｣と｢組織の重大欠陥｣ | ビジネス | 東洋経済オンライン",
@@ -143,108 +413,12 @@
    "title_orig": "Blackstone president calls for more equity to fund AI buildout as debt risks mount"
   },
   {
-   "title": "夫より高学歴・高収入 妻の悩み",
-   "link": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-03T15:46:01+09:00"
-  },
-  {
-   "title": "米国、選挙前夜にイランのケシュム島を攻撃",
-   "link": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
-   "summary": "米政府が攻撃はイランによる地対空ミサイル使用の可能性に対する防衛手段だと主張する中、原油価格は安定",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-03T15:44:35+09:00",
-   "lang": "en",
-   "title_orig": "US strikes Iran’s Qeshm Island on eve of election"
-  },
-  {
-   "title": "豪中銀、政策金利４．８５％に　１８年ぶり高水準",
-   "link": "https://www.jiji.com/jc/article?k=2026110300432&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-11-03T15:12:00+09:00"
-  },
-  {
-   "title": "イラン戦争により世界のLNG供給量は記録的な年間減少の恐れがあるとIEAが発表",
-   "link": "https://www.wsj.com/business/energy-oil/iran-war-threatens-record-annual-drop-in-global-lng-supply-iea-says-68149f2f?mod=rss_markets_main",
-   "summary": "イラン戦争により供給が滞り、各国間の競争が激化する中、液化天然ガスの生産量は年間で過去最大の減少となる見通しとなった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-03T15:07:00+09:00",
-   "lang": "en",
-   "title_orig": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says"
-  },
-  {
    "title": "《GMO謝罪会見》熊谷社長に際立つ｢ズレてる｣印象の正体　3時間半の\"熱弁\"も空回り…強烈な違和感の理由をプロが解説 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/963387?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "前代未聞の金銭被害を受け､GMOインターネットの熊谷社長が初めて公の場で語った謝罪の言葉。しかし､そこには3つの\"深いズレ\"がありました。3時間半に及んだ謝罪会見から浮き彫りになったものとはーー。",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-03T14:30:00+09:00"
-  },
-  {
-   "title": "私たちが恐れていたAIの問題は、私たちが得たAIの問題ではありません",
-   "link": "https://www.ft.com/content/cf6fd711-cfa5-49f9-9958-3aec32369286?syn-25a6b1a6=1",
-   "summary": "一時解雇は歴史的な基準からすると低いものの、若者は依然として労働市場への足がかりを見つけるのに助けを必要としている可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-03T14:00:13+09:00",
-   "lang": "en",
-   "title_orig": "The AI problem we feared is not the AI problem we got"
-  },
-  {
-   "title": "Nvidia、データセンター顧客に中国へのエクスポージャーを減らすよう命令",
-   "link": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
-   "summary": "世界最大のチップメーカーがクラウドコンピューティングプロバイダーに対し、顧客の大多数は中国人以外でなければならないと伝える",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-03T14:00:13+09:00",
-   "lang": "en",
-   "title_orig": "Nvidia orders data centre clients to reduce China exposure"
-  },
-  {
-   "title": "イタリアの「出国税」計画、裕福な外国人居住者を恐怖に陥れる",
-   "link": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
-   "summary": "ジョルジア・メローニ政権は、2027年の予算の一部として出国者に対する特別課税を提案した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-03T14:00:13+09:00",
-   "lang": "en",
-   "title_orig": "Italy’s ‘exit tax’ plan spooks rich expats"
-  },
-  {
-   "title": "戦いに次ぐ戦い: トランプ大統領の激動の 21 か月間",
-   "link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
-   "summary": "「解放の日」と債券市場の混乱から、マドゥロ大統領の逮捕、ゼレンスキー大統領の煽動、イラン戦争に至るまで、米国では目まぐるしい時期が続いた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-03T14:00:05+09:00",
-   "lang": "en",
-   "title_orig": "One battle after another: Trump’s turbulent 21 months"
-  },
-  {
-   "title": "カール・アイカーン氏のCVRエネルギー、マラソン製油所向けに40億ドル以上の契約に近づく",
-   "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=rss_markets_main",
-   "summary": "この取引は、世界的な紛争により米国の精製業者の売上が増加している中で行われた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-03T13:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries"
-  },
-  {
-   "title": "オーストラリアの銀行、AIからの脱却でアウトパフォーム",
-   "link": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main",
-   "summary": "ここ数週間、オーストラリアの株式市場では銀行が主導権を握っており、UBSは何がこのアウトパフォームを牽引しているのかに注目している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-03T13:40:00+09:00",
-   "lang": "en",
-   "title_orig": "Australian Banks Outperforming on Rotation Away From AI"
   },
   {
    "title": "｢SNSでバズれば成功｣は半分ウソ？　急なバズリで起こりうる誹謗中傷で体力が削られる中小企業のPR防護策 | ビジネス | 東洋経済オンライン",
@@ -303,16 +477,6 @@
    "published": "2026-11-03T11:30:00+09:00"
   },
   {
-   "title": "Apple、「前例のない」メモリチップのコストが利益に打撃を与えると警告",
-   "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
-   "summary": "ハードウェア大手、ホリデーシーズンの堅調な売上を予想するもサービス見通しは期待外れ",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-03T10:17:37+09:00",
-   "lang": "en",
-   "title_orig": "Apple warns ‘unprecedented’ memory chip costs will hit margins"
-  },
-  {
    "title": "安いもやし限界 5年で13社消える",
    "link": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
    "summary": "",
@@ -329,62 +493,12 @@
    "published": "2026-11-03T10:00:00+09:00"
   },
   {
-   "title": "「大げさな」四半期にもかかわらず、パランティアの株価が下落している理由はここにある",
-   "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
-   "summary": "米国の商業契約の伸びの減速により、パランティアの利益が上回ったにもかかわらず、一部のウォール街アナリストは立ち止まった。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T09:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter"
-  },
-  {
-   "title": "アップルのiPhone事業は好調だ。とにかく株価が下がっている理由はここにあります。",
-   "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
-   "summary": "iPhoneの需要は依然として強いものの、Appleはメモリ不足の悪化とサービス事業の減速に直面している。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T09:52:00+09:00",
-   "lang": "en",
-   "title_orig": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway."
-  },
-  {
    "title": "子どものセルフレジ操作 SNS賛否",
    "link": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-03T09:47:57+09:00"
-  },
-  {
-   "title": "投資家心理の改善を受けて金が上昇",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
-   "summary": "投資家心理の改善を受けて、アジア貿易序盤では金が小幅上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-03T09:20:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Edges Higher Amid Better Investor Sentiment"
-  },
-  {
-   "title": "AIへの懸念が高まる中、ナスダック100は今年3度目の調整に陥る",
-   "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-   "summary": "10月からの「技術大惨事」は続いている。次は弱気相場か？",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T09:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Nasdaq-100 tumbles into its third correction this year as AI worries mount"
-  },
-  {
-   "title": "市場が中東の動向に追随する中、原油下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-market-tracks-mideast-developments-b95ca17a?mod=rss_markets_main",
-   "summary": "市場が中東の動向に追随する中、アジア貿易初期の原油価格は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-03T09:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Falls as Market Tracks Mideast Developments"
   },
   {
    "title": "ANAが17年赤字で去った静岡　「利益なき繁忙」が招く航空再編",
@@ -403,26 +517,6 @@
    "published": "2026-11-03T09:00:00+09:00"
   },
   {
-   "title": "ヘッジファンドのエリオット氏、FOGOに警告：市場で消滅する恐れ",
-   "link": "https://www.wsj.com/finance/investing/hedge-fund-elliott-warns-of-fogo-fear-of-getting-obliterated-in-the-market-a2cc7027?mod=rss_markets_main",
-   "summary": "800億ドルのヘッジファンド会社は第3四半期に横ばいの利益を記録し、今年9月までの伸びは2％未満だった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-03T08:54:00+09:00",
-   "lang": "en",
-   "title_orig": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market"
-  },
-  {
-   "title": "マーベルとルメンタムの株主が一致団結して合併交渉を計画：「それはゴミの提案だ」",
-   "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-   "summary": "マーベルがルメンタム買収で全株式合意に達したと発表したことを受け、月曜日、両社の株価は下落した。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T08:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’"
-  },
-  {
    "title": "｢活字離れ｣でも｢スマホのせい｣でも｢時間がない｣でもない､読書が進まない日本人の\"意外な理由\" | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/962478?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "教え子の5人に1人を東大合格へ導いた国語教師が指摘する｢本を読みたいのに続かない人｣が無意識に抱えている\"意外な思い込み\"とは？",
@@ -437,24 +531,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-03T08:20:00+09:00"
-  },
-  {
-   "title": "中間選挙後の株式市場: S&P 500 の歴史が示すもの",
-   "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-   "summary": "歴史的に中間選挙は S&P 500 指数が好調な年の前に行われます。民主党が議会を取り戻した場合に知っておくべきこと",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-03T08:13:34+09:00",
-   "lang": "en",
-   "title_orig": "Stock market after midterm elections: What S&P 500 history shows"
-  },
-  {
-   "title": "アップル新CEO就任後初の決算7－9月期は売上高の伸びが鈍化､中国事業も市場予想に届かず | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963382?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "米アップルの7－9月期決算は売上高こそ増加したものの､成長鈍化や中国市場の苦戦が明らかに。新CEO就任後初の発表となり､iPhoneや新製品投入の遅れも影響しています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-03T08:00:00+09:00"
   },
   {
    "title": "物価高で消費者の「買い方」はどう変わった？　カギは“お得さ”とAIか",
@@ -489,14 +565,12 @@
    "published": "2026-11-03T08:00:00+09:00"
   },
   {
-   "title": "ナスダック100に強気の賭けをしようとレバレッジETFに殺到したトレーダーたちは大やけどを負った",
-   "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
-   "summary": "一部の投資家は先月のハイテク株の押し目買いに少し熱心になりすぎたようだ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T07:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned"
+   "title": "ＮＹ株２１３ドル高　原油安で３日ぶり反発",
+   "link": "https://www.jiji.com/jc/article?k=2026110300175&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-11-03T07:20:00+09:00"
   },
   {
    "title": "全焼した酒蔵「越後鶴亀」が間借りで再起へ　ファンや同業者も後押し",
@@ -513,46 +587,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-03T07:00:00+09:00"
-  },
-  {
-   "title": "ウォール街で最も嫌われている銘柄が、人気株よりもはるかに良い成績を収めている",
-   "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-   "summary": "過去数か月にわたってウォール街の人工知能の寵児たちが巻き起こした暴動は、米国株式市場に異常な状況を引き起こした",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T06:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Wall Street’s most hated stocks are faring far better than its favorites"
-  },
-  {
-   "title": "成人した子供や孫を助けたいですか?生きているうちにお金をあげてください。",
-   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-   "summary": "自分自身の老後を危険にさらさずに「生きながら与える」ことを管理する方法。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T06:35:00+09:00",
-   "lang": "en",
-   "title_orig": "Want to help your adult kids and grandkids? Give them money while you’re still alive."
-  },
-  {
-   "title": "「彼女はタイプ A の性格です」: 継母は私に亡き父の 4 万ドルの結婚祝いを返してほしいと思っています。義務を負うべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "summary": "「彼の葬儀から約2か月後、継母から電話があり、お金を返してほしいと言われました。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-03T06:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?"
-  },
-  {
-   "title": "テキサス州知事選、予測市場では接戦だが、依然としてアボット氏が有利",
-   "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-   "summary": "予測市場では依然として共和党現職が４期目を獲得するのが有利であると示されているが、その確率はここ数週間で縮小している。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-03T06:13:43+09:00",
-   "lang": "en",
-   "title_orig": "Texas governor race tightens in prediction markets, but Abbott remains favored"
   },
   {
    "title": "正午に最も大きな動きを見せた銘柄: Oracle、SpaceX、Tempus AI、Rivian など",
@@ -752,7 +786,7 @@
   },
   {
    "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
-   "link": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
+   "link": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -776,7 +810,7 @@
   },
   {
    "title": "気候変動対応を支援するための資金供給オペレーションの対象先公募について",
-   "link": "https://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
+   "link": "http://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -807,14 +841,6 @@
    "published": "2026-11-02T15:00:00+09:00"
   },
   {
-   "title": "2027年の年賀はがき、販売開始　12月27日まで投函で元日着に",
-   "link": "https://www.asahi.com/articles/ASVC21RG8VC2ULFA006M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-02T14:41:11+09:00"
-  },
-  {
    "title": "China sets modest target for annual GDP growth",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxcXJpN3FOXzNqajdQaVpzQXFYeEhPV3BKV2xoMkJLdTJ5ZmU0T1AtQ3pkc3VsZW9Ra0M3OWVReDB0SElaQWVpdDVPUlI5R2ltelAzNGY4SVkyRnM?oc=5",
    "summary": "China sets modest target for annual GDP growth&nbsp;&nbsp;Reuters",
@@ -824,7 +850,7 @@
   },
   {
    "title": "【記者会見】植田総裁（10月30日分）",
-   "link": "https://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
+   "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -832,7 +858,7 @@
   },
   {
    "title": "経済・物価情勢の展望（10月、全文）",
-   "link": "https://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+   "link": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -840,19 +866,11 @@
   },
   {
    "title": "日銀当座預金増減要因と金融調節（10月実績）",
-   "link": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
+   "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-11-02T13:00:00+09:00"
-  },
-  {
-   "title": "フラット35 金利3.81%で過去2番目",
-   "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-02T12:39:43+09:00"
   },
   {
    "title": "5年クライメート・トランジション利付国債（第6回）の入札結果（令和8年11月2日入札）",
@@ -933,16 +951,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-02T05:30:00+09:00"
-  },
-  {
-   "title": "バイナンスの63億ドルのハッキングで仮想通貨ウォレットの安全性に疑問が浮上",
-   "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-   "summary": "今週、史上最大の仮想通貨盗難を含む2件の注目を集めたセキュリティ事件が発生し、身柄拘束と安全性への懸念が高まった。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-10-31T21:47:08+09:00",
-   "lang": "en",
-   "title_orig": "Binance’s $6.3 billion hack raises questions about crypto wallet safety"
   }
  ]
 }
