@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T01:16:10.482594+09:00",
+ "generated_at": "2026-11-05T06:59:30.499684+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,14 +61,150 @@
  "errors": [],
  "items": [
   {
-   "title": "米国の原油在庫、週5連続で減少",
-   "link": "https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d?mod=rss_markets_main",
-   "summary": "EIAによると、商用原油在庫は86万5000バレル減少し、留出油在庫は20年以上ぶりの低水準に落ち込んだ。",
+   "title": "選挙結果がデータセンターの楽観論の根幹を揺るがす中、マイクロンやその他の半導体株が下落",
+   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+   "summary": "テキサス州やその他の州での民主党の勝利は、AIの増強に関する長期的な疑問を引き起こしているが、「すでに資金提供されているプロジェクトが巻き戻される」わけではない。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-05T06:55:00+09:00",
+   "lang": "en",
+   "title_orig": "Micron and other chip stocks slip as election results strike at the core of data-center optimism"
+  },
+  {
+   "title": "民主党がトランプ氏を破った後、これらの株は今日最も急騰した",
+   "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+   "summary": "化学会社モザイクの株価はS&P 500の中で最も好調なパフォーマンスを見せている一方、いくつかのハイテク企業や関連電力会社は大幅な下落を見せている",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-05T06:55:00+09:00",
+   "lang": "en",
+   "title_orig": "These stocks soared the most today after the Democrats trounced Trump"
+  },
+  {
+   "title": "AIのぐらつきが続く中、政府の分断を受けて米国株が上昇",
+   "link": "https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe?mod=rss_markets_main",
+   "summary": "原油価格が下落し、トレーダーらは人工知能に対する継続的な不安を相殺するために分裂した政府がビジネスに有利になると賭け、株価は急騰した。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-11-05T01:11:00+09:00",
+   "published": "2026-11-05T06:55:00+09:00",
    "lang": "en",
-   "title_orig": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop"
+   "title_orig": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue"
+  },
+  {
+   "title": "米国天然ガス先物、2回目の取引で上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-for-second-session-1bce85ae?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物相場は連続上昇し、2.2%上昇して2.959ドル/mmBtuとなった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-05T06:50:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Rise for Second Session"
+  },
+  {
+   "title": "AIの勢いが高値でやってくるのではないかと投資家が懸念し、Figmaの株価が下落",
+   "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+   "summary": "Figma の AI モデルとエージェントへの投資により利用が促進されていますが、これらの機能の提供コストは高額であることが判明しています",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-05T06:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Figma’s stock falls as investors worry that AI momentum is coming at a high price"
+  },
+  {
+   "title": "NYダウ1500ドル超上昇　中間選挙通過、原油安で買い広がる",
+   "link": "https://www.asahi.com/articles/ASVC44WNGVC4UHBI007M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-05T06:37:34+09:00"
+  },
+  {
+   "title": "民主党が議会を圧勝、上院最終選挙は大接戦",
+   "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
+   "summary": "ブルーウェーブをめぐる非難合戦が始まるも、アラスカ州とミシシッピ州の上院選挙はまだ招集されていない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-05T06:34:58+09:00",
+   "lang": "en",
+   "title_orig": "Final Senate races go down to the wire as Democrats sweep Congress"
+  },
+  {
+   "title": "民主党圧勝で株価急騰",
+   "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+   "summary": "ウォール街は反AIの反発の懸念を無視、アナリストは分断された政府が政策決定のリスクを軽減すると主張",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-05T06:33:37+09:00",
+   "lang": "en",
+   "title_orig": "Stocks surge after Democrats’ sweep"
+  },
+  {
+   "title": "Microsoft と Amazon の時価総額は合わせて 4,240 億ドル増加しました - これらの要因がその理由を示しています",
+   "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+   "summary": "マイクロソフトとアマゾンの株価は水曜日に急騰し、あるポートフォリオマネジャーは、クラウドの供給不足が両社の株価上昇につながる可能性があると指摘した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-05T06:33:00+09:00",
+   "lang": "en",
+   "title_orig": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why"
+  },
+  {
+   "title": "ビッグテックが S&P 500 の歴史的な分裂を引き起こしている。投資家が注意を払う必要がある理由。",
+   "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
+   "summary": "歴史的な乖離が米国株式市場を二分した:ベンチマークのS&P500指数は、株価の半分近くに達したにもかかわらず、大幅に売られすぎの領域に陥った。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-05T06:33:00+09:00",
+   "lang": "en",
+   "title_orig": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice."
+  },
+  {
+   "title": "民主党勝利で株価急騰、原油急落",
+   "link": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main",
+   "summary": "さらに、CVS は解散することを決定しました。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-05T06:32:00+09:00",
+   "lang": "en",
+   "title_orig": "Stocks Surge, Oil Plummets on Democrat Victory"
+  },
+  {
+   "title": "乗用車がダメなら商用車から——日本の物流を変革する｢水素大動脈構想｣とは何なのか？ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963197?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "10月13～16日に開催された｢Japan Mobility Show Bizweek｣における自工会ブースにて｢水素大動脈構想｣が説明されていた。聞いてみれば､日本の物流を大きく変える可能性のある…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:30:00+09:00"
+  },
+  {
+   "title": "「年をとるのは良いことだ」: 私は、年金の売り込みに変わった無料の食事に十数回招待されました。行くのやめたほうがいいでしょうか？",
+   "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+   "summary": "「営業担当者は通常、年金、メディケアプラン、不動産計画サービスを勧めます。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-05T06:30:00+09:00",
+   "lang": "en",
+   "title_orig": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?"
+  },
+  {
+   "title": "民主党が議会で政権を獲得した後の広範な安堵の集会で、ダウは18カ月で最高の日を記録した",
+   "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+   "summary": "水曜日、民主党が賛成票を獲得したことでイラン戦争の早期終結に関する楽観的な見方から株価は急騰し、原油価格は急落し、債券利回りは低下した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-05T06:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress"
+  },
+  {
+   "title": "選挙地震によるウォール街の勝者と敗者",
+   "link": "https://www.wsj.com/politics/elections/the-winners-and-losers-on-wall-street-from-the-election-earthquake-55ff9cd4?mod=rss_markets_main",
+   "summary": "法律の行き詰まりにより企業業績が今後も注目されるとの期待から、米国の株価指数は上昇して始まった。しかし、データセンター計画が AI 構築の鍵となる",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-05T06:21:00+09:00",
+   "lang": "en",
+   "title_orig": "The Winners and Losers on Wall Street From the Election Earthquake"
   },
   {
    "title": "選挙株の下落で投資家が安全を求めて債券に群がり、国債利回りが低下",
@@ -76,59 +212,255 @@
    "summary": "米国の民主党の大勝利をきっかけに投資家が株式先物急落から逃れようとしたため、火曜夜には米国債利回りが低下した。",
    "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-11-05T01:07:16+09:00",
+   "published": "2026-11-05T06:18:44+09:00",
    "lang": "en",
    "title_orig": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off"
   },
   {
-   "title": "米国経済は順調に進んでいますが、大きな問題が 1 つあります",
-   "link": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
-   "summary": "米国経済の大部分は年末商戦を前に急速に成長したが、ビジネスリーダーらはお祭り気分ではなかった。",
+   "title": "Apple、株価が1年以上で最高の日となり、ハイテク業界最大の有力企業としての地位を固める",
+   "link": "https://www.marketwatch.com/story/apple-cements-its-status-as-techs-biggest-heavyweight-with-the-stocks-best-day-in-over-a-year-c7fd9e6f?mod=mw_rss_topstories",
+   "summary": "AIインフラの名前が中間選挙結果で圧力を受ける中、投資家は安全な避難先としてAppleに群がっている",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-11-05T01:05:00+09:00",
+   "published": "2026-11-05T06:17:00+09:00",
    "lang": "en",
-   "title_orig": "The U.S. economy is barreling ahead — but there’s one big problem"
+   "title_orig": "Apple cements its status as tech’s biggest heavyweight with the stock’s best day in over a year"
   },
   {
-   "title": "民主党はトランプ大統領の捜査と手頃な価格の政策を準備",
-   "link": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1",
-   "summary": "たとえ上院と下院の両方を支配したとしても、民主党の法案は依然として大統領の拒否権によって妨害される可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-05T00:43:36+09:00",
-   "lang": "en",
-   "title_orig": "Democrats ready Trump probes and affordability measures"
+   "title": "【岩国高校】時代を刻んだ卒業生ファイル#15《朝ドラ『ブラッサム』モデルの作家･宇野千代､サッカーの岩政大樹…》 | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/961918?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "山口県岩国市にある県立岩国高校は､146年の伝統と数多くの著名人輩出歴を誇ります。宇野千代や大庭みな子をはじめとした作家から､五輪金メダリスト､経済界･学術界の第一線で活躍する卒業生まで､多彩な人材…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:05:00+09:00"
   },
   {
-   "title": "退職者向けのファイナンシャルアドバイザー企業トップ5社：検討すべき有名な受託会社",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
-   "summary": "私たちは、退職者の生活を支援するために、いくつかの大手登録投資顧問会社の財産計画から退職後の収入の選択肢に至るまであらゆるものを分析しました。",
+   "title": "北米HV好調、中国は苦戦…トヨタ中間決算きょう発表　今後の展望は",
+   "link": "https://www.asahi.com/articles/ASVC32GTZVC3ULFA01TM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "情報流出にあったら…金銭で補償してもらえる？　額はどう決まるのか",
+   "link": "https://www.asahi.com/articles/ASVC32V2KVC3ULFA02HM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "ハリボテだった「強い米国」　極まる富と力の集中、修復の兆しどこに",
+   "link": "https://www.asahi.com/articles/ASVC43DN2VC4ULFA01YM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "民主党圧勝で高まる〈AI規制への警戒〉は過剰反応なのか？日経平均3000円超一時急落…巨額投資を支える｢循環資金｣の穴 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963576?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "2026年米中間選挙で民主党が歴史的圧勝を遂げる中､AI投資規制への懸念から日経平均が急落しました。株価はトランプ氏の敗北宣言で一時持ち直しましたが､AIを取り巻く不安定な金融環境や規制の行方は予断…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "｢投機の円買いで円高｣論に死角あり…混乱のフランスと日本､どちらがより脆弱か？目をそらしていないか｢実需の円売り｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963476?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "アメリカ中間選挙を背景に揺れるドル円相場。投機筋の円買いが進む中､市場では円高への反転か円安再開かで意見が割れています。歴史的な円ロング積み上げとフランス混乱の影響､日本経済の脆弱性にどう向き合うべ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "〈きょう求刑〉洋上風力汚職裁判で浮かぶ政策決定の舞台裏…三菱商事3海域独占への怨嗟と官民協議会をめぐる黒い霧 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963428?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "洋上風力をめぐって贈賄の見返りに国会質問を行わせたとする洋上風力汚職事件の裁判で、きょう11月5日、検察から論告求刑が行われる。受託収賄罪で秋本真利元衆議院議員が、贈賄罪で日本風力開発の塚脇正幸元社…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "〈6年連続シェア1位〉日焼け止め｢ビオレUV｣の伸ばし方､脱･季節商品と価格バランスに込めた花王の矜持 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963269?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "花王が日用品の中で成長領域に位置づけるのが､日焼け止めです。日焼け止めはレジャー時だけでなく､通勤や通学といった日常生活にも欠かせない存在となっています。｢ビオレUV｣シリーズが成長できている背景に…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "｢黒衣から脱却したい｣…三菱HCキャピタル･久井大樹社長が見据える｢リースの次｣と新たな成長戦略 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963246?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "――リース会社の業容は、以前とは様変わりしています。リース業界は世の中から「過小評価」されている。実際、業務は「縁の下の力持ち」のような役割が多いために認知度が低い。IR（投資家向け広報）でも、事業…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "\"永遠の化学物質\"PFAS､アメリカでは100億ドル超の和解事例も日本では有害性評価一致せず膠着状態 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962794?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "「現時点ではPFOAによる健康被害が生じているとは認識していません」。今年6月に開催された定時株主総会で、ダイキン工業の竹中直文社長はそう強調した。ダイキンの淀川製作所（大阪府摂津市）の周辺の地下水…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "福岡の｢81歳の宇宙人｣が焼く《行列が絶えない絶品ハンバーガー》､国内や海外にも\"弟子\"が増える背景 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962649?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "福岡市の西公園。そこには行列の絶えないハンバーガー屋さんがあります。｢今屋のハンバーガー｣の店主､81歳の今崎さんに話を聞きました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T06:00:00+09:00"
+  },
+  {
+   "title": "米国の中間決算発表で原油価格が下落",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
+   "summary": "市場が米国の選挙結果を注視し続ける中、原油相場はアジア序盤の取引で下落した。",
    "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-11-05T00:43:00+09:00",
+   "published": "2026-11-05T05:59:00+09:00",
    "lang": "en",
-   "title_orig": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider"
+   "title_orig": "Oil Prices Fall as U.S. Midterm Results Unfold"
   },
   {
-   "title": "憂鬱ですが本当です: 仕事で出世したいなら、美徳のシグナルを受け入れましょう",
-   "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-   "summary": "オフィスで適切なシンボルを戦略的に採用することで、キャリアを確実に向上させることができます。",
-   "source": "MarketWatch",
+   "title": "「ルパートは敗者と一緒にいたくない」：マードックのメディア帝国はトランプに冷淡",
+   "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
+   "summary": "フォックスニュースの司会者はイランの戦争戦略に疑問を呈し、ニューヨーク・ポストは共和党の敗北を受けて「青い津波」を一面で報じた",
+   "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-11-05T00:33:00+09:00",
+   "published": "2026-11-05T05:58:24+09:00",
    "lang": "en",
-   "title_orig": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling"
+   "title_orig": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump"
   },
   {
-   "title": "選挙結果がデータセンターの楽観論の根幹を揺るがす中、マイクロンやその他の半導体株が下落",
-   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-   "summary": "テキサス州やその他の州での民主党の勝利は、AIの増強に関する長期的な疑問を引き起こしているが、「すでに資金提供されているプロジェクトが巻き戻される」わけではない。",
-   "source": "MarketWatch",
+   "title": "アストラゼネカ、リズム製薬に100億ドルのオファーを提示",
+   "link": "https://www.wsj.com/health/pharma/astrazeneca-made-10-billion-offer-for-rhythm-pharmaceuticals-6f261471?mod=rss_markets_main",
+   "summary": "リズムは代謝疾患と重度の肥満の治療を専門としています。",
+   "source": "WSJ マーケット",
    "category": "海外金融",
-   "published": "2026-11-05T00:17:00+09:00",
+   "published": "2026-11-05T05:57:00+09:00",
    "lang": "en",
-   "title_orig": "Micron and other chip stocks slip as election results strike at the core of data-center optimism"
+   "title_orig": "AstraZeneca Made $10 Billion Offer for Rhythm Pharmaceuticals"
+  },
+  {
+   "title": "絶好調の経済は台湾統一地方選挙にどう影響するのか…与野党にバラマキ合戦気配ある中で頼政権が進める新たな統治戦略 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963499?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "11月末に統一地方選挙が近づく台湾では､経済成長率が10％超と絶好調を維持しています。暮らしが重要なテーマである地方選で､経済状況や政策はどう影響するか専門家が解説します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T05:45:00+09:00"
+  },
+  {
+   "title": "田中裕輔社長のロコンド運営会社がM&A連発！年間100億規模の買収に勝算は？株主との対話､炎上リスク…田中氏を直撃 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963219?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "――コロナ禍以降、M&Aを中心とした成長戦略に舵を切った印象です。買収先選びでは、どんな点を重視していますか。最も重要な点はシナジーだ。われわれにはECのプラットフォームで培ったITと物流がある。こ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T05:45:00+09:00"
+  },
+  {
+   "title": "相次ぐ大規模情報流出､サイバー攻撃にAIが加わると何が変わるのか？ 攻撃の実態と企業が見直すべき対策とは | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963098?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "日本の企業や行政機関が､かつてない規模のサイバー攻撃にさらされている。AIが加わったことで攻撃の効率や対象範囲が急速に広がり､もはや企業の規模や知名度に関係なく危険が迫っている。今､本当に備えるべき…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T05:45:00+09:00"
+  },
+  {
+   "title": "【朝日新聞が1万字回答（第1回）】朝刊部数は20年前の4割まで激減､デジタルも伸び悩み…新聞経営の厳しい現実 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963191?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "――新聞事業の部数や収入・利益は、20年前・10年前と比べてどう変化し、現状をどう評価していますか。朝日新聞の朝刊本紙の2026年7月度の部数は約305万部で20年前の4割、10年前の5割の水準だ。…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T05:30:00+09:00"
+  },
+  {
+   "title": "【平将明･自民サイバー本部長に聞く(上)】｢誰もがハッカーになれる｣サイバーパンデミック前夜…インフラを守れ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963168?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "――平さんは2025年10月まで、初代のサイバー安全保障担当相（デジタル相兼務）でした。退任から約1年、企業を狙ったサイバー攻撃が相次いでいます。私が大臣を退任した後の25年11月、アメリカのAI企…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T05:30:00+09:00"
+  },
+  {
+   "title": "テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販できるのか | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963089?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "発売延期が続いていたテスラの新型｢ロードスター｣が､ついに\"空飛ぶクルマ\"として登場。SpaceXの技術を応用した前例のない挑戦だが､飛行機能を含めた実現性や法的課題､既存の予約者への影響など､期待…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-05T05:30:00+09:00"
+  },
+  {
+   "title": "選挙後の平和への期待で原油価格が100ドルを下回る",
+   "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+   "summary": "J.D.バンス米副大統領、共和党の中期敗北はイラン戦争への怒りのせいだと非難",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-05T05:18:53+09:00",
+   "lang": "en",
+   "title_orig": "Oil tumbles below $100 on post-election peace hopes"
+  },
+  {
+   "title": "民主党中間選挙勝利を受けて財務省が利下げ",
+   "link": "https://www.wsj.com/finance/investing/two-year-treasury-yield-falls-to-two-month-low-as-democrats-sweep-midterm-elections-79fb1f8e?mod=rss_markets_main",
+   "summary": "米国中間選挙で民主党が圧勝したことを受け、国債利回りは低下した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-05T05:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Treasury Yields Down Following Democrats Midterm Win"
+  },
+  {
+   "title": "原油価格の下落で金が4,000ドルの水準を回復",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main",
+   "summary": "中間選挙で民主党が米議会の多数派を掌握したことを受けて、原油価格の下落に支えられて金先物は上昇し、景気回復への期待が高まった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-05T04:47:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Recovers $4,000 Level as Oil Prices Fall"
+  },
+  {
+   "title": "地図とグラフで民主党がどのようにしてブルーウェーブを成功させたのか",
+   "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
+   "summary": "政党は下院選挙で75年以上で最大の有利な方向に向かう",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-05T04:12:33+09:00",
+   "lang": "en",
+   "title_orig": "How Democrats pulled off the blue wave in maps and charts"
+  },
+  {
+   "title": "米国中間選挙でトランプ大統領が処罰された後、カナダで「側転」",
+   "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
+   "summary": "有権者による共和党の政策の拒否は、大統領の貿易戦争の標的となった隣国にとっての「勝利」とみなされている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-05T03:34:21+09:00",
+   "lang": "en",
+   "title_orig": "‘Cartwheels’ in Canada after Trump punished in US midterm elections"
+  },
+  {
+   "title": "有権者は米国のデータセンターブームに有益な冷やしを与えた",
+   "link": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
+   "summary": "中間決算は計画された事業拡大の45％に影響を与える可能性があるが、投資家にとっては明るい兆しもある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-05T03:33:54+09:00",
+   "lang": "en",
+   "title_orig": "Voters have put a helpful chill on the US data centre boom"
+  },
+  {
+   "title": "悲惨な中間選挙の後、共和党は互いに敵対する",
+   "link": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1",
+   "summary": "共和党幹部らがイラン戦争、生活費、汚職疑惑をめぐりドナルド・トランプ氏とその候補者、スタッフを激しく非難",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-05T03:29:39+09:00",
+   "lang": "en",
+   "title_orig": "Republicans turn on each other after disastrous midterms"
   },
   {
    "title": "ＮＹ株、一時１２００ドル超高　米中間選挙の民主大勝好感",
@@ -139,94 +471,6 @@
    "published": "2026-11-05T00:16:00+09:00"
   },
   {
-   "title": "Datadogの株価は収益を受けて急落を拡大",
-   "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-   "summary": "Datadog の収益予測は予想を上回れませんでした。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-05T00:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Datadog’s stock extends steep declines in the wake of earnings"
-  },
-  {
-   "title": "選挙地震によるウォール街の勝者と敗者",
-   "link": "https://www.wsj.com/politics/elections/the-winners-and-losers-on-wall-street-from-the-election-earthquake-55ff9cd4?mod=rss_markets_main",
-   "summary": "法律の行き詰まりにより企業業績が今後も注目されるとの期待から、米国の株価指数は上昇して始まった。しかし、データセンター計画が AI 構築の鍵となる",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-05T00:16:00+09:00",
-   "lang": "en",
-   "title_orig": "The Winners and Losers on Wall Street From the Election Earthquake"
-  },
-  {
-   "title": "米国の中間決算発表で原油価格が下落",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
-   "summary": "市場が米国の選挙結果を注視し続ける中、原油相場はアジア序盤の取引で下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-05T00:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Prices Fall as U.S. Midterm Results Unfold"
-  },
-  {
-   "title": "クアルコムは半導体の上昇相場から撤退した。 SpaceX とのパートナーシップでそれを変えることができるでしょうか?",
-   "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
-   "summary": "同社は、Starlink Mobile を活用することで、携帯電話市場の外への拡​​大をさらに進めています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-05T00:13:00+09:00",
-   "lang": "en",
-   "title_orig": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?"
-  },
-  {
-   "title": "民主党圧勝で株価急騰",
-   "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-   "summary": "ウォール街は反AIの反発の懸念を無視、アナリストは分断された政府が政策決定のリスクを軽減すると主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-05T00:09:28+09:00",
-   "lang": "en",
-   "title_orig": "Stocks surge after Democrats’ sweep"
-  },
-  {
-   "title": "米国の中間選挙に注目する中、アジア通貨はまちまち",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main",
-   "summary": "米国の中間選挙に注目が集まる中、アジア通貨は対ドルでまちまちとなった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-05T00:07:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Currencies Mixed Amid Focus on U.S. Midterms"
-  },
-  {
-   "title": "NYダウ1200ドル超上昇　中間選挙受け、約2カ月ぶりの水準に",
-   "link": "https://www.asahi.com/articles/ASVC44WNGVC4UHBI007M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-05T00:06:39+09:00"
-  },
-  {
-   "title": "2027 年のオバマケアで何が変わるのかを説明する 3 つのこと",
-   "link": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
-   "summary": "医療費負担適正化法の保険料は再び値上がりしており、これらのプランには新しい規則が適用されています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-05T00:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Three things that explain what’s changing with Obamacare in 2027"
-  },
-  {
-   "title": "中間選挙は「ブルーウェーブ」をもたらし、株式市場はグリーンとみなしている。",
-   "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
-   "summary": "ウォール街は民主党の圧勝を応援する理由を見つけた。さらに、Microsoft の AI 時代の買収と、退職者の「フリーランチ」への欲求。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-04T23:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Midterm elections deliver a ‘blue wave.’ The stock market sees green."
-  },
-  {
    "title": "リニア工事費 再び増額へ検討",
    "link": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
    "summary": "",
@@ -235,62 +479,12 @@
    "published": "2026-11-04T23:54:37+09:00"
   },
   {
-   "title": "民主党が議会を制圧したことでダウが急騰",
-   "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?mod=rss_markets_main",
-   "summary": "民主党が上下両院を制するブルーウェーブに投資家が反応し、米国株が急騰している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-04T23:51:00+09:00",
-   "lang": "en",
-   "title_orig": "Dow Jumps After Democrats Sweep Congress"
-  },
-  {
-   "title": "アンダーソンズ、ハーベストンの低炭素パートナーを9億1,500万ドルで買収へ",
-   "link": "https://www.wsj.com/pro/private-equity/andersons-to-buy-harvestone-low-carbon-partners-for-915-million-4dc82e7b?mod=rss_markets_main",
-   "summary": "アンダーソンズは、農業の多様化を拡大する契約で、低炭素エタノール生産者のハーベストン・ロー・カーボン・パートナーズを9億1,500万ドルで買収することに同意した",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-04T23:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Andersons to Buy Harvestone Low Carbon Partners for $915 Million"
-  },
-  {
-   "title": "ビッグテックの5,000億ドルの散財で株主に残るものは大幅に減少",
-   "link": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
-   "summary": "AIは大手テクノロジー企業とその株主との間の取引を変えつつあり、",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-04T23:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders"
-  },
-  {
-   "title": "ＮＹダウが取引開始直後に１０００ドル超上昇した",
-   "link": "https://www.jiji.com/jc/article?k=2026110401297&g=flash&m=rss",
+   "title": "米貿易赤字、０．７％減　輸入最高も輸出伸びが上回る―９月",
+   "link": "https://www.jiji.com/jc/article?k=2026110401272&g=int&m=rss",
    "summary": "",
    "source": "時事通信",
    "category": "報道機関",
-   "published": "2026-11-04T23:33:00+09:00"
-  },
-  {
-   "title": "米財務省、クーポン入札規模を据え置く",
-   "link": "https://www.wsj.com/finance/investing/u-s-treasury-keeps-coupon-auction-sizes-unchanged-e6f71d43?mod=rss_markets_main",
-   "summary": "米財務省は水曜日、今後数カ月は長期借入水準を据え置く計画であると発表した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-04T23:29:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Treasury Keeps Coupon Auction Sizes Unchanged"
-  },
-  {
-   "title": "ブルーウェーブが市場を正常な状態へと押し戻す",
-   "link": "https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2?syn-25a6b1a6=1",
-   "summary": "米国の中間決算はトランプ政権に対するさらなる抑制を示す可能性がある",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-04T23:03:10+09:00",
-   "lang": "en",
-   "title_orig": "Blue wave sweeps markets back towards normality"
+   "published": "2026-11-04T23:15:00+09:00"
   },
   {
    "title": "キャベツ小売価格 平年の約7割高",
@@ -299,16 +493,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-04T22:44:08+09:00"
-  },
-  {
-   "title": "民主党が議会を圧勝、上院最終選挙は大接戦",
-   "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
-   "summary": "ブルーウェーブをめぐる非難合戦が始まるも、アラスカ州とミシシッピ州の上院選挙はまだ招集されていない",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-04T22:36:15+09:00",
-   "lang": "en",
-   "title_orig": "Final Senate races go down to the wire as Democrats sweep Congress"
   },
   {
    "title": "市場前に最も大きな動きをする銘柄: トランプ・メディア、テスラ、コアウィーブ、ノボ ノルディスクなど",
@@ -329,16 +513,6 @@
    "published": "2026-11-04T22:23:46+09:00"
   },
   {
-   "title": "中間選挙ではすでにマスク氏に600億ドル以上の費用がかかっており、さらにその額は増え続けている",
-   "link": "https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836",
-   "summary": "🎻",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-04T22:23:30+09:00",
-   "lang": "en",
-   "title_orig": "The midterms have already cost Musk more than $60bn — and counting"
-  },
-  {
    "title": "「社長が犯人と同じ舞台に」　有識者が指摘するGMO「統治不全の深層」",
    "link": "https://www.itmedia.co.jp/business/articles/2611/04/news082.html",
    "summary": "GMOインターネットグループに対する不正アクセスでは、発覚後のGMOの対応に厳しい目が向けられている。有識者は熊谷正寿社長の情報発信について「混乱を生じさせた」と指摘。グループ全体の業績悪化やコーポレートガバナンス（企業統治）への懸念も強まり、関連子会社も含めた株価は下落している。",
@@ -353,26 +527,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-04T21:40:19+09:00"
-  },
-  {
-   "title": "トランプ時代はいかに崩壊したか",
-   "link": "https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1",
-   "summary": "米国大統領は経済的なポピュリズムを忘れた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-04T21:22:14+09:00",
-   "lang": "en",
-   "title_orig": "How the Trump era crashed"
-  },
-  {
-   "title": "中間結果から得た 4 つのポイント",
-   "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
-   "summary": "民主党はほぼすべての人口層から幅広い支持を記録",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-04T21:15:44+09:00",
-   "lang": "en",
-   "title_orig": "Four takeaways from the midterm results"
   },
   {
    "title": "金融庁 ソニーFGに立ち入り検査",
@@ -463,16 +617,6 @@
    "published": "2026-11-04T20:08:35+09:00"
   },
   {
-   "title": "悲惨な中間選挙の後、共和党は互いに敵対する",
-   "link": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1",
-   "summary": "共和党幹部らがイラン戦争、生活費、汚職疑惑をめぐりドナルド・トランプ氏とその候補者、スタッフを激しく非難",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-04T20:00:10+09:00",
-   "lang": "en",
-   "title_orig": "Republicans turn on each other after disastrous midterms"
-  },
-  {
    "title": "【詳報】民主党、圧勝で上下両院奪還　トランプ氏「結果受け入れる」",
    "link": "https://www.asahi.com/articles/ASVC32576VC3UHBI01RM.html?ref=rss",
    "summary": "",
@@ -497,14 +641,6 @@
    "published": "2026-11-04T19:10:49+09:00"
   },
   {
-   "title": "【便秘は‟大病の芽”】「大腸がん」増加の背景と早期発見の“カギ”／腸内環境の悪化で‟思い切り”太る／若年層に急増中の“リーキーガット症候群”／旅行先で便秘になる理由／ヨーグルトは転校生 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963568?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "書籍『腸大復活：100歳まで人生を楽しむ「強いおなか」の作り方』はこちらhttps://link.amazon/B08zktyjl 今回の「Health SHIFT」のテーマは「腸」です。近年、「…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T19:00:00+09:00"
-  },
-  {
    "title": "令和８年秋の叙勲・褒章受章者について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
    "summary": "",
@@ -513,44 +649,12 @@
    "published": "2026-11-04T19:00:00+09:00"
   },
   {
-   "title": "巨人選手が\"帽子を脱がない\"だけで大炎上…松井秀喜新監督の｢挨拶動画｣が浮き彫りにした球団公式SNSの危うさ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963489?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "読売ジャイアンツ公式SNSが公開した松井新監督の動画が､思わぬ炎上を招きました。選手の\"素顔\"を伝える発信はファンに新鮮さを届けつつも､思わぬ批判や誹謗中傷につながるリスクも孕んでいます。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T18:35:00+09:00"
-  },
-  {
    "title": "グーグル、学校アカウントでAI利用を禁止可能に　ただし検索も制限",
    "link": "https://www.asahi.com/articles/ASVC42S8CVC4UHBI037M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-11-04T18:30:13+09:00"
-  },
-  {
-   "title": "GMO熊谷代表の涙ながらの謝罪会見　3時間の説明でも残る多くの謎",
-   "link": "https://www.asahi.com/articles/ASVC42H1MVC4UTIL00GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-04T18:30:00+09:00"
-  },
-  {
-   "title": "自治体システム「乗り換え」に壁　高額な移行費、公取委が実態調査",
-   "link": "https://www.asahi.com/articles/ASVC42W3DVC4ULFA00MM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-04T18:01:57+09:00"
-  },
-  {
-   "title": "GMO傘下企業の不正アクセス「企業責任果たして」　埼玉・大野知事",
-   "link": "https://www.asahi.com/articles/ASVC42JDSVC4UTNB00DM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-04T17:45:00+09:00"
   },
   {
    "title": "日本銀行が保有する国債の銘柄別残高",
@@ -577,30 +681,6 @@
    "published": "2026-11-04T17:00:00+09:00"
   },
   {
-   "title": "共和党敗北でトランプの｢報復劇｣はエスカレートするのか。刑事訴訟､罰金､禁錮刑､退職…標的にされた人物が語る実態 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963437?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アメリカ中間選挙で過半数を失い､苦境に立たされたトランプ大統領。政権の求心力低下にともなう報復の矛先は､政敵や政府関係者だけでなく報道の現場にも及ぶ。暴走する権力に社会はどう抗うのか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T16:30:00+09:00"
-  },
-  {
-   "title": "自身の戦略ミスで敗北､それでも｢大統領権限｣でまだ暴れまくるトランプ…議会調査はハイテク企業などへ波及 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963518?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アメリカ中間選挙は､民主党による歴史的な上下両院の多数派奪還という展開となりました。物価高をはじめ国民の怒りが政権への逆風となり､｢ねじれ議会｣が誕生。権力闘争が激化する中､政策･経済･企業への影響…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T16:20:00+09:00"
-  },
-  {
-   "title": "米中間選挙は民主党が上下両院で多数派奪還､有権者がトランプ大統領に厳しい審判を下した形に | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963529?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "トランプ大統領への厳しい審判―2024年米中間選挙で民主党が上下両院の過半数を奪還し､共和党地盤すら切り崩す歴史的勝利を収めました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T16:00:00+09:00"
-  },
-  {
    "title": "財政制度分科会（令和8年11月4日開催）資料一覧",
    "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261104zaiseia.html",
    "summary": "",
@@ -625,44 +705,12 @@
    "published": "2026-11-04T15:00:00+09:00"
   },
   {
-   "title": "GMO熊谷社長はなぜ｢自己陶酔的な振る舞い｣をするのか？会見で号泣､笑顔で自撮り…共通する\"想像力の不足\" | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963425?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "GMOインターネットグループ熊谷社長の記者会見が波紋を呼んでいます。深刻な情報流出事件を受けて謝罪したものの､涙ながらの発言や質問に対する抽象的な回答に批判が殺到しました。なぜ誠意が伝わらなかったの…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T13:25:00+09:00"
-  },
-  {
-   "title": "自らの考えや習慣を変えにくくし､柔軟な意思決定を困難にさせる意外な要因　ストレスの知られざる影響とは？ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954636?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "なぜ人は二極化し､過激な思考に囚われてしまうのでしょうか。ストレスが脳や思考の硬直性を招き､柔軟な発想や新しい選択を阻むことが分かってきました。理性的選択を奪うこのメカニズムの背景を､あなたは知って…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T13:00:00+09:00"
-  },
-  {
    "title": "訓練目的の共通担保資金供給オペの実施について",
    "link": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-11-04T13:00:00+09:00"
-  },
-  {
-   "title": "永田町でささやかれ始めた｢来年4月衆院選｣説の深層､自民党総裁選と大阪｢3度目の住民投票｣に隠された\"大いなる思惑\" | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963426?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢高市首相はさっそく次の衆院解散をもくろんでいるのではないか｣――。そんな噂が今､永田町でささやかれ始めています。直近の総選挙は今年2月。なぜそんな噂が広がりを見せているのでしょうか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T12:30:00+09:00"
-  },
-  {
-   "title": "GMO熊谷代表《伝説の謝罪会見》で\"惜しかった\"3つのポイント　誠意が｢伝わらない謝罪｣と伝わる謝罪には決定的な差が | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963411?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "GMOインターネットグループの謝罪会見は､涙ながらに｢インターネット｣への思いなどを熱弁する熊谷正寿代表の姿が印象的でした。しかし細部には､見逃せない\"惜しい点\"も……。印象設計のプロが､その中身を…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T12:25:00+09:00"
   },
   {
    "title": "UFJ新銀行 キャッシュカードなし",
@@ -673,44 +721,12 @@
    "published": "2026-11-04T12:00:46+09:00"
   },
   {
-   "title": "｢GMOは三菱グループを目指す｣と豪語も…謝罪会見で露呈したカリスマ熊谷正寿代表の《自分ファーストと箱庭支配》の歪み | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963421?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "GMOインターネットグループにおける大規模な個人情報流出事件。その対応にあたったのは､カリスマ創業者･熊谷正寿氏自らが率いる｢謝罪会見｣でしたが､被害者への寄り添いより\"自分ファースト\"な姿勢が物議…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T12:00:00+09:00"
-  },
-  {
-   "title": "30秒間､自分を抱きしめるだけで変わる…身体心理学者が教える､心に\"安全基地\"を作り幸せホルモンを増やす6つの行動 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960781?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "疲れたとき､落ち込んだとき､私たちはつい｢もっと頑張らなければ｣と自分を追い込みがちです。しかし幸せホルモン｢オキシトシン｣は頑張ることでは増えません。身体心理学者が教える自分の手で心に\"安全基地\"…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T12:00:00+09:00"
-  },
-  {
    "title": "GMO謝罪会見、なぜここまで炎上？【危機管理のプロが徹底解説】",
    "link": "https://www.itmedia.co.jp/business/articles/2611/04/news039.html",
    "summary": "不正アクセス問題で開かれたGMOインターネットグループの緊急記者会見。3時間超に及ぶ長丁場のなか、熊谷正寿代表の「命の砂時計」発言や社員への叱責など会見運営での対応が批判を浴びた。だが、外野から失点を採点しても意味はない。なぜ被害者感情とズレた会見が許されたのか、なぜ誰もトップを止められなかったのか。強いリーダーを擁する企業が直面する「危機管理広報と組織防衛の死角」を、専門家の視点から解き明かす。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-04T11:45:00+09:00"
-  },
-  {
-   "title": "放電精密加工研究所が2027年2月期業績を上方修正した理由 期末配当も7円増に拡大へ | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962686?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "放電による金属加工で国内最大規模の放電精密加工研究所が業績を上方修正しました。その背景とは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T11:30:00+09:00"
-  },
-  {
-   "title": "ネガティブな｢つながり｣を断ち切る でも孤独に陥らない…現代人が今すぐやるべき｢人間関係の自炊｣とは？ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/960598?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢誰かと一緒にいたいけど､1人にもなりたい｣ーーそんな矛盾した感情を抱える私たち。私たちはどのようにつながりを選び､自主性を守って生きていけばよいのでしょう。テクノロジーの進歩が可能にする新たな人間…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T10:00:00+09:00"
   },
   {
    "title": "営業毎旬報告（10月31日現在）",
@@ -729,14 +745,6 @@
    "published": "2026-11-04T09:30:00+09:00"
   },
   {
-   "title": "生成AIで仕事は速くなったのに売り上げは増えない―IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962168?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "全社員に生成AIを配って業務時間は大きく減ったのに､売り上げも利益も伸びない。日本企業がAI導入で陥るこの逆説の根には､IT人材の偏在と､浮いた時間を顧客価値へ振り向けられない組織の問題がある。山口…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T09:00:00+09:00"
-  },
-  {
    "title": "マネタリーベース（10月）",
    "link": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
    "summary": "",
@@ -745,28 +753,12 @@
    "published": "2026-11-04T08:50:00+09:00"
   },
   {
-   "title": "【専門医が解説】帯状疱疹を発症したが､すぐには病院に行けそうにない…そんな緊急事態に｢やるべきこと･ダメなこと｣ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962186?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "帯状疱疹の痛みや不快な症状に悩みながら､すぐに病院へ行けない――。そんなとき､どう対応するのが正しいのでしょうか。市販薬や自宅でできる応急処置､そして避けるべき行為まで､知っておきたい対策を徹底解説…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-04T08:30:00+09:00"
-  },
-  {
    "title": "三井住友FGはなぜ、まだ「何が当たるか分からない」状況で「AI投資1000億円」に踏み切ったのか",
    "link": "https://www.itmedia.co.jp/business/articles/2611/04/news012.html",
    "summary": "生成AIに1000億円を投じる三井住友FG。効率化を超えたビジネスモデル変革を見据え、CEOの中島達氏が語る失敗を恐れぬ組織づくりと、AI時代に残る人間の役割とは。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-04T08:00:00+09:00"
-  },
-  {
-   "title": "ＮＹ株反落、１９７ドル安　中間選挙の結果待ち",
-   "link": "https://www.jiji.com/jc/article?k=2026110400154&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-11-04T07:22:00+09:00"
   },
   {
    "title": "なぜ、100年続く問屋がいま“急成長”？　4年で売上5割増、welzo社長に聞く「多少の無駄」を許す組織改革",
