@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:19:48.738351+09:00",
+ "generated_at": "2026-11-06T07:43:21.783986+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,24 +61,420 @@
  "errors": [],
  "items": [
   {
+   "title": "プルデンシャル報告書に低評価",
+   "link": "https://news.yahoo.co.jp/pickup/6601484?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-06T07:41:47+09:00"
+  },
+  {
+   "title": "2027 年の税額は終了しました。標準控除と SALT 減税がどのようになるかを確認してください。",
+   "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+   "summary": "アメリカ人の所得税の中心となる税額は、2027年には今年と比べてより急な水準で調整され、インフレが浮き彫りになるだろう",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-06T07:40:00+09:00",
+   "lang": "en",
+   "title_orig": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be."
+  },
+  {
+   "title": "意見 |政治が市場を揺るがす",
+   "link": "https://www.wsj.com/opinion/tech-selloff-economy-politics-2e789982?mod=rss_markets_main",
+   "summary": "テクノロジーの調整により、ワシントン政府は経済に注力せざるを得なくなる可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T07:40:00+09:00",
+   "lang": "en",
+   "title_orig": "Opinion | Politics Shakes Up the Markets"
+  },
+  {
+   "title": "ナスダックは調整領域に落ちます - 次に起こるのは一般的に次のとおりです",
+   "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+   "summary": "ナスダックの調整領域への下落は、その回復の歴史に焦点を当てている。歴史が示していることは次のとおりです。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-06T07:31:24+09:00",
+   "lang": "en",
+   "title_orig": "Nasdaq drops into correction territory — here’s what typically happens next"
+  },
+  {
+   "title": "NHK《会社員》ハラスメント隠蔽に､データ改ざん｢他人事じゃない…｣SNSで話題になるリアルさと､ぞっとする\"恐ろしさ\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963632?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "NHKのドラマ｢会社員｣が､ビジネスパーソンを中心に話題になっています。主人公たちへの共感と恐怖が入り混じる本作の見どころを紹介します。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T07:30:00+09:00"
+  },
+  {
+   "title": "アジア通貨はまちまちだが、穏やかなリスク選好に支えられる可能性がある",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-but-may-be-supported-by-mild-risk-appetite-8643f952?mod=rss_markets_main",
+   "summary": "アジア通貨は序盤の取引では対ドルでまちまちだったが、リスク資産への緩やかな意欲に支えられている可能性がある。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T07:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Asian Currencies Mixed, But May Be Supported by Mild Risk Appetite"
+  },
+  {
+   "title": "新しい税区分により、2027 年に Roth 換算でどのくらいの利益を得ることができますか?",
+   "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+   "summary": "計算は実際には「どれくらい」ではなく「もし」から始める必要があります。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-06T07:24:00+09:00",
+   "lang": "en",
+   "title_orig": "How much in Roth conversions can you do in 2027 with the new tax brackets?"
+  },
+  {
+   "title": "パラグアイ大統領が辞任　銀行破綻で窮地",
+   "link": "https://www.jiji.com/jc/article?k=2026110600135&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-11-06T07:21:00+09:00"
+  },
+  {
+   "title": "残忍な下落の後、アイレンの株価を押し上げている理由は次のとおりです",
+   "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+   "summary": "Irenは新たなクラウドコンピューティング取引を発表し、その受注残の多くが「投資適格の取引相手」に関係していると指摘した。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-06T07:21:00+09:00",
+   "lang": "en",
+   "title_orig": "Here’s what’s driving Iren’s stock higher after a brutal selloff"
+  },
+  {
+   "title": "飲めば飲むほど老いていく! 野菜ジュース､経口補水液…一見｢体によさげ｣に思えても実は\"要警戒な飲み物\"の見分け方 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962493?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "清涼飲料やスポーツドリンク､果汁ジュースなど､日々何気なく口にする｢液体の糖質｣が､血糖値の急上昇と老化を招く｢糖化｣の大きな原因だと知っていましたか？　健康を意識した飲み物選びの\"落とし穴\"と､そ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T07:15:00+09:00"
+  },
+  {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d66d00d9?mod=rss_markets_main",
+   "summary": "ヘルスケアを対象とした最新のマーケット トークで、シーメンス ヘルスニアーズ、ヒクマ ファーマシューティカルズ、ノボ ノルディスクなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T07:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "自動車と交通機関のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=rss_markets_main",
+   "summary": "自動車と輸送をカバーする最新のマーケット トークで、ラインメタル、レンク、エール フランス KLM オランダ航空などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T07:13:00+09:00",
+   "lang": "en",
+   "title_orig": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "title": "基本的な材料のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-791ec72d?mod=rss_markets_main",
+   "summary": "基本資料をカバーする最新のマーケットトークで、金先物、パーム油、ロンドンの鉱山労働者などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T07:10:00+09:00",
+   "lang": "en",
+   "title_orig": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "title": "エネルギーと公共事業のまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1d720229?mod=rss_markets_main",
+   "summary": "エネルギーと公益事業をカバーする最新のマーケットトークで、石油先物、オルステッド、ナショナルグリッドなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T07:10:00+09:00",
+   "lang": "en",
+   "title_orig": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "title": "テクノロジー、メディア、通信まとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=rss_markets_main",
+   "summary": "テクノロジー、メディア、通信をカバーする最新のマーケット トークで、Ziply、Cisco、Expedia などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T07:08:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "title": "JASRAC嫌われてもいい？　理事長が語った演奏禁止の理由と変化",
+   "link": "https://www.asahi.com/articles/ASVC40VPKVC4PTIL00ZM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-06T07:00:00+09:00"
+  },
+  {
+   "title": "｢危険な薬剤｣を使った美容クリニック…患者のカルテに抱いた\"違和感\"　｢リーガルドック 医療弁護士アラタの証明｣（第2話 ①） | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963125?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "手術ミスやカルテの改ざんが疑われても、医療の専門知識を持たない患者が、その事実を明らかにするのは容易ではない。そんな医療過誤訴訟に挑むのが、医師免許と弁護士資格を併せ持つ新多千智だ。医学と法律、2つ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T07:00:00+09:00"
+  },
+  {
+   "title": "患者に訴えられた美容整形クリニック院長の悲惨な末路　｢リーガルドック 医療弁護士アラタの証明｣（第2話 ②） | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962941?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "手術ミスやカルテの改ざんが疑われても、医療の専門知識を持たない患者が、その事実を明らかにするのは容易ではない。そんな医療過誤訴訟に挑むのが、医師免許と弁護士資格を併せ持つ新多千智だ。医学と法律、2つ…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T07:00:00+09:00"
+  },
+  {
+   "title": "AI貿易に大虐殺が訪れる中、ハイテク株は2020年以来最悪の日を記録",
+   "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+   "summary": "S&P500種は推定2兆9000億ドルの時価総額を失い、1日の市場価値の損失としては史上最大となった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-06T07:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Tech stocks log worst day since 2020 as carnage comes to the AI trade"
+  },
+  {
+   "title": "なぜ世論調査機関は民主党の米国中期「ブルーウェーブ」の規模を過小評価したのか",
+   "link": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1",
+   "summary": "予測不可能な有権者は大統領選挙後に過剰修正につながる可能性がある",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-06T06:57:51+09:00",
+   "lang": "en",
+   "title_orig": "Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-30f0ffc4?mod=rss_markets_main",
+   "summary": "金融サービスを対象とした最新のマーケット トークで、カナダの銀行規制当局、フェア アイザック コーポレーション、サン ライフ ファイナンシャルなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-06T06:55:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "｢安けりゃいいわけじゃない｣｢舌バカ向け弁当｣との声まで…バズ連発｢ローソンの弁当｣3日間食べまくった\"意外な結論\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963407?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "｢一点突破すぎ｣弁当シリーズが話題となったローソン。その他の弁当､食品を徹底検証しました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:45:00+09:00"
+  },
+  {
+   "title": "｢消費者をバカにしてる｣｢日本は貧しくなった｣の声も…≪ローソンの激安弁当≫あえて自作＆対抗した35歳独身男性の顛末 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963406?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ローソンが登場させた\"クレイジーな弁当\"は､具材を一品に絞った｢一点突破すぎ｣シリーズ。安さを追求した斬新さはSNSで論争を呼びつつ､発売早々に完売するほどの反響を集めました。そんな一点突破弁当を自…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:45:00+09:00"
+  },
+  {
+   "title": "ディップを買うか、それとも待つか？小売株の売れ行きが新型コロナウイルスの暴落以来最高水準に達する中、若い投資家が反応している。",
+   "link": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+   "summary": "別の買いの機会をみている人もいる。最悪の事態は終わっていないのではないかと懸念する人もいる。市場の暴落は素早い回復で育った世代の本能を試している",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-06T06:44:00+09:00",
+   "lang": "en",
+   "title_orig": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash."
+  },
+  {
+   "title": "テスラとスペースXの合併で2日間で4,560億ドルが消滅、「マスク下落」が深刻化",
+   "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+   "summary": "投資家らは、ワシントンの分裂が「イーロン社」を狂わせるのではないかと懸念している。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-06T06:43:00+09:00",
+   "lang": "en",
+   "title_orig": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout"
+  },
+  {
+   "title": "ハイテク株の暴落後、10月の雇用統計は安心感をもたらすか、それともさらなる痛みをもたらす可能性がある",
+   "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+   "summary": "ハイテク主導の株式市場の暴落を受けて、金曜朝の10月雇用統計は投資家に心強いニュースをもたらすか、投資家への期待をさらに高める可能性がある。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-06T06:39:00+09:00",
+   "lang": "en",
+   "title_orig": "After tech-stock rout, October jobs report could bring relief — or more pain"
+  },
+  {
    "title": "これは株式市場にとって「大きなこと」なのでしょうか？テクノロジーの急落にウォール街は不穏な音を立てている。",
    "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
    "summary": "民主化後に株価が大きく上昇した翌日の木曜日、ハイテク業界の痛ましい下落が株式市場を大幅に下落させた。",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-11-06T02:11:00+09:00",
+   "published": "2026-11-06T06:37:00+09:00",
    "lang": "en",
    "title_orig": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges."
   },
   {
-   "title": "この経済状況で3万ドル以下で新車を買う方法",
-   "link": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
-   "summary": "高額なガソリン代、保険代、メンテナンス代を負担している消費者が、こうした低価格車への需要を高めている。",
-   "source": "MarketWatch",
+   "title": "日本製のEV排除に危機感　EU優遇策に修正要求　高市首相も直談判",
+   "link": "https://www.asahi.com/articles/ASVC54J5TVC5UHBI024M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-06T06:30:00+09:00"
+  },
+  {
+   "title": "どうせ夜元気になるなら｢夜更かしを昼にやればいい｣ 生活リズムが乱れまくった休日に試したい超現実的リセット術 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963441?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:30:00+09:00"
+  },
+  {
+   "title": "NYダウ急落 一時1800ドル超安",
+   "link": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-06T06:25:57+09:00"
+  },
+  {
+   "title": "ＮＹダウは１８００ドル超安で取引を終えた",
+   "link": "https://www.jiji.com/jc/article?k=2026110600159&g=flash&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-11-06T06:16:00+09:00"
+  },
+  {
+   "title": "ロサンゼルス、民主社会主義者のニティア・ラマン氏を市長に選出",
+   "link": "https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1",
+   "summary": "ニューヨークでのゾーラン・マムダニの台頭と、ワシントンとプロビデンスでの他の進歩派による大勝利に続く勝利だ",
+   "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-11-06T02:04:00+09:00",
+   "published": "2026-11-06T06:15:09+09:00",
    "lang": "en",
-   "title_orig": "How to buy a new car for under $30,000 in this economy"
+   "title_orig": "Los Angeles elects democratic socialist Nithya Raman as mayor"
+  },
+  {
+   "title": "プライム会員には追加料金なしの生成AI｢Alexa+｣日本上陸､アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963200?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "自宅のスピーカーが､ついに次世代AIと繋がる時代が到来しました。アマゾンが日本で提供開始した｢Alexa+｣は､従来の単なる音声アシスタントを超え､日常会話の中で家電操作や買い物､スケジュール管理ま…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:15:00+09:00"
+  },
+  {
+   "title": "民主党の中間選挙が残酷なAIの敗走を引き起こし、ウォール街は3.2兆ドルを削減",
+   "link": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
+   "summary": "ハイテク株の多いナスダック100指数は混乱した取引で6.4％下落",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-06T06:07:55+09:00",
+   "lang": "en",
+   "title_orig": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout"
+  },
+  {
+   "title": "首相が｢大至急｣と警告\"PHP騒動\"は序章だった…人間が10年見落とした欠陥をAIが数分で暴く《ネット社会崩壊》の恐怖 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963522?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "10月21日夜､高市首相がXで異例の呼びかけをした｢PHP｣の重大な欠陥。同じ時期､世界中のシステムを支える定番ソフトでも､欠陥が次々と見つかっていました。最新のAIシステムでさえ例外ではない､その…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:05:00+09:00"
+  },
+  {
+   "title": "高島屋、好調の背景　円安で海外控え国内消費、富裕層はタイからが増",
+   "link": "https://www.asahi.com/articles/ASVC456DJVC4ULFA00HM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-06T06:00:00+09:00"
+  },
+  {
+   "title": "中間選挙で大敗したトランプは米朝首脳会談で金正恩に接近するのか？北朝鮮｢対話拒否｣談話の裏側､蚊帳の外の日本 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963700?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "2026年アメリカ中間選挙で民主党が大勝し､トランプ政権は内政から外交へと軸足を大きく移しつつあります。米朝首脳会談再開や東アジア情勢が激動するなか､日本は｢蚊帳の外｣をいかにして回避し､自国外交を…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:00:00+09:00"
+  },
+  {
+   "title": "待望の利上げが｢大誤算｣､信金･信組の約半数が減益決算に…国債含み損､逆ザヤ､預金流出の三重苦､再編効果も期待薄 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963649?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "全国に397ある信用金庫と信用組合のうち、2026年3月期の自己資本比率が最も高かった稚内信用金庫。64.43％という突出した数字を誇り、全国屈指の健全性で知られていた。ところが9月30日、そんな評…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:00:00+09:00"
+  },
+  {
+   "title": "減税財源より問うべき｢財政の全体像｣､高市政権の予算編成で消費税減税10兆円規模の財源はなぜ示されないのか | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963449?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "臨時国会の裏側で､来年度の予算編成が進んでいます。各省の要求に上限を設けるシーリングが廃止され､財務省の査定が厳しくなります。ただ､消費税減税と給付で約10兆円の財源は示されないまま。問われているの…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:00:00+09:00"
+  },
+  {
+   "title": "〈歯磨き市場は拡大続く〉国内首位のライオンが仕掛ける\"次の一手\"､歯科医院と連携した啓蒙活動を海外に横展開 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963390?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "国内オーラルケア市場が成長する中､高機能商品を軸に新規参入が増えています。首位のライオンが仕掛けるのが､新たなケア習慣の浸透。歯磨き粉以外のケア用品や専門家のアドバイスが生活者の日常にどう根付くのか…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:00:00+09:00"
+  },
+  {
+   "title": "｢世界経済は強いは本当か｣AIが支える成長と〈二極化〉…IMF･世銀総会で見えた脆弱さの正体 | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963386?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "10月16日､バンコクで開かれたIMF･世界銀行総会の会場では､成長を続ける世界経済と､その恩恵が行き届かない現実が交錯していました。AI投資ブームや原油高､分断が進む国際情勢。はたして世界経済の｢…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:00:00+09:00"
+  },
+  {
+   "title": "マイクロソフトが｢6万人の希望退職｣を募る事情　全従業員の4分の1に当たる大規模リストラだが… | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963296?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "マイクロソフトは10月26日、全従業員の約4分の1に希望退職の優遇措置を提示した。AIに巨額の資金を投じる中でコストを抑える新たな取り組みだ。同社によると、6万人の対象者のうち退職を受け入れるのはご…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-06T06:00:00+09:00"
+  },
+  {
+   "title": "民主党はAIブームを停滞させるだろうか？",
+   "link": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
+   "summary": "新しく選出された議員らはデータセンター建設を抑制すると約束し、米国の株式市場を動かしている取引に混乱をもたらした",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-06T05:28:44+09:00",
+   "lang": "en",
+   "title_orig": "Will Democrats stall the AI boom?"
+  },
+  {
+   "title": "民主党幹部、中間選挙総選挙後にAI増強の抑制を求める：「国家データセンターは今は一時停止」",
+   "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+   "summary": "民主党の勝者や進歩派議員は、2026年の中間選挙後にAIとデータセンターに対する制限を強化するよう求めている。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-06T05:17:16+09:00",
+   "lang": "en",
+   "title_orig": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'"
+  },
+  {
+   "title": "ウォール街の巨額献金者が民主党圧勝に押収される",
+   "link": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1",
+   "summary": "トップクラスのヘッジファンドマネジャーやプライベートエクイティ幹部らが共和党の選挙活動に3億ドル以上を費やしたが、ほとんど効果がなかった",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-06T04:48:28+09:00",
+   "lang": "en",
+   "title_orig": "Wall Street mega-donors clobbered by Democratic sweep"
+  },
+  {
+   "title": "テクノロジー業界のリーダーは政治戦略を早急に再考する必要がある",
+   "link": "https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1",
+   "summary": "米国のデータセンターへの反発は、AIに対する不安と業界の力と富に対する懐疑を象徴している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-06T04:04:55+09:00",
+   "lang": "en",
+   "title_orig": "Tech leaders need an urgent rethink of their political strategy"
   },
   {
    "title": "民主党の「ブルーウェーブ」がAIへの懸念を呼び起こす中、ナスダックは混乱した取引で下落",
@@ -91,36 +487,6 @@
    "title_orig": "Nasdaq tumbles in chaotic trading as Democratic ‘blue wave’ sparks AI fears"
   },
   {
-   "title": "マイクロン、サンディスク、その他の AI 株が大幅に下落している：「投資家は不確実性を好まない」。",
-   "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-   "summary": "ウォール街は、中間選挙の結果を受けてAIの構築が遅れるという見通しを消化しつつある。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-06T01:44:00+09:00",
-   "lang": "en",
-   "title_orig": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’"
-  },
-  {
-   "title": "中期連動反発後のゴールド横ばい",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
-   "summary": "金相場は序盤のアジア取引では横ばいとなったが、米国の中間選挙を受けて原油価格が低迷しドルが軟化したことで反発した後は一服した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-06T01:39:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Flat After Midterm-Linked Rebound"
-  },
-  {
-   "title": "市場が中間決算を消化する中、米国債利回りは8週間ぶりの低水準に低下",
-   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-to-eight-week-lows-as-markets-digest-midterm-results-7effce3e?mod=rss_markets_main",
-   "summary": "米中間選挙で民主党が圧勝したことを受けて投資家が債券市場に安堵感を感じたため、長期国債利回りは８週間ぶりの低水準に低下した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-06T01:37:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Treasury Yields Fall to Eight-Week Lows as Markets Digest Midterm Results"
-  },
-  {
    "title": "バーキン氏は今後利上げが行われるが、そのペースは緩やかになると予想している",
    "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
    "summary": "同政策担当者はＣＮＢＣのインタビューでインフレに対する懸念を表明し、金融政策は調整する必要があると述べた。",
@@ -131,66 +497,6 @@
    "title_orig": "Barkin sees interest rate hikes ahead, but at a gradual pace"
   },
   {
-   "title": "米国の天然ガス在庫が770億立方フィート増加",
-   "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-slides-mirroring-oil-in-aftermath-of-democratic-sweep-70661a9a?mod=rss_markets_main",
-   "summary": "先週、米国の在庫が通常よりも増加したことがデータで示されたことを受け、天然ガス先物は引き続き下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-06T01:33:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Natural Gas Inventories Rise By 77 Billion Cubic Feet"
-  },
-  {
-   "title": "今年最も成功を収めた株式市場取引の状況が明らかになりつつある - おそらく永久に",
-   "link": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
-   "summary": "激しいローテーションが米国株式市場を揺るがす中、2026年のウォール街のトップトレードは崩れ去ろうとしている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-06T01:23:00+09:00",
-   "lang": "en",
-   "title_orig": "The year’s most successful stock-market trades are unraveling — perhaps for good"
-  },
-  {
-   "title": "記録的な数の初めての住宅購入者が現在、現金で支払いを行っています。ここが彼らがお金を得る場所です。",
-   "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-   "summary": "住宅市場が手頃な価格の問題に苦しんでいるにもかかわらず、全額現金購入者がより一般的になってきています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-06T01:15:00+09:00",
-   "lang": "en",
-   "title_orig": "A record number of first-time home buyers now pay in cash. Here’s where they get the money."
-  },
-  {
-   "title": "この膵臓がん治療薬は「史上最高の新薬のひとつ」に向けて順調に進んでいる",
-   "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-   "summary": "レボリューション・メディシンズの新しい治療法は、市場に出てから最初の数週間で予想をはるかに上回る売上をもたらしました。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-06T01:12:00+09:00",
-   "lang": "en",
-   "title_orig": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’"
-  },
-  {
-   "title": "AI取引がこれほど混乱しているときに、人間的なIPOが行われるでしょうか？グッドスピード！",
-   "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
-   "summary": "歴史的な中間決算を受けて、ウォール街はAIコストをより厳しく検討している。さらに、Apple が人工知能への支出をしていないという利点もあります。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-06T01:00:00+09:00",
-   "lang": "en",
-   "title_orig": "An Anthropic IPO when the AI trade is this turbulent? Goodspeed!"
-  },
-  {
-   "title": "民主党圧勝を受けて欧州株がウォール街を追い抜く",
-   "link": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
-   "summary": "米国株急落とホワイトハウスの政策決定が抑制されると投資家が賭ける中、今年のStoxx 600指数はS&P 500を上回った",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-06T00:42:12+09:00",
-   "lang": "en",
-   "title_orig": "European stocks overtake Wall Street following Democratic sweep"
-  },
-  {
    "title": "AIの反発で数兆ドル規模のデータセンターブームが脅かされるとテクノロジーリーダーが語る",
    "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1",
    "summary": "FTのFuture of AIサミットの幹部らは、テクノロジー業界が自社の拡大に対する敵意を煽っていることを認めた",
@@ -199,46 +505,6 @@
    "published": "2026-11-06T00:35:47+09:00",
    "lang": "en",
    "title_orig": "AI backlash threatens trillion-dollar data centre boom, say tech leaders"
-  },
-  {
-   "title": "「私の人生は短くなってしまうかもしれません」: 私は 55 歳で、結婚しており、430 万ドルを持っていますが、脳腫瘍を患っています。 21万ドルのカスタムポルシェを買うべきでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-   "summary": "「私はまた、二人の息子に意味のある遺産を残す機会を残したいと思っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-06T00:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?"
-  },
-  {
-   "title": "中間選挙後、原油価格は米国とイランの外交期待を2カ月ぶり安値に維持",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
-   "summary": "原油価格は、米国選挙で民主党が圧勝する可能性があるとの期待から、前取引で8％以上下落した後、2カ月ぶりの安値付近を維持した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-06T00:03:00+09:00",
-   "lang": "en",
-   "title_orig": "Oil Holds Near Two-Month Low on U.S.-Iran Diplomatic Hopes After Midterms"
-  },
-  {
-   "title": "意見 |危機に瀕するヴァージン諸島",
-   "link": "https://www.wsj.com/opinion/the-virgin-islands-in-crisis-37d111c9?mod=rss_markets_main",
-   "summary": "休止状態にある製油所を再稼働しても、領土の財政難を解決できるわけではない。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-05T23:34:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | The Virgin Islands in Crisis"
-  },
-  {
-   "title": "ベストファイナンシャルアドバイザー会社11社：検討すべき有名な受託投資会社",
-   "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "summary": "私たちは、大手で有名な登録投資顧問会社のアドバイザーの資格情報から手数料、ポートフォリオのオプションに至るまであらゆるものを分析しました。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-05T23:12:00+09:00",
-   "lang": "en",
-   "title_orig": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider"
   },
   {
    "title": "日本製紙、熊本地震で被災した八代工場の生産再開断念　工場は存続へ",
@@ -291,16 +557,6 @@
    "title_orig": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more"
   },
   {
-   "title": "アジア通貨はまちまちだが、穏やかなリスク選好に支えられる可能性がある",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-but-may-be-supported-by-mild-risk-appetite-8643f952?mod=rss_markets_main",
-   "summary": "アジア通貨は序盤の取引では対ドルでまちまちだったが、リスク資産への緩やかな意欲に支えられている可能性がある。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-05T21:59:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Currencies Mixed, But May Be Supported by Mild Risk Appetite"
-  },
-  {
    "title": "民主党の中間選挙で米中関係が大きく変わること",
    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
    "summary": "アナリストらは、脆弱な貿易停戦を維持するドナルド・トランプ米大統領の能力をめぐるリスクが増大していると指摘している。",
@@ -327,30 +583,12 @@
    "published": "2026-11-05T21:27:47+09:00"
   },
   {
-   "title": "ヘルスケアのまとめ: マーケットトーク",
-   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d66d00d9?mod=rss_markets_main",
-   "summary": "ヘルスケアを対象とした最新のマーケット トークで、シーメンス ヘルスニアーズ、ヒクマ ファーマシューティカルズ、ノボ ノルディスクなどに関する洞察を見つけてください。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-05T21:20:00+09:00",
-   "lang": "en",
-   "title_orig": "Health Care Roundup: Market Talk"
-  },
-  {
    "title": "予算1億円→「137億円」へ急拡大　厚労省が医療サイバー防衛を異例の強化",
    "link": "https://www.itmedia.co.jp/business/articles/2611/05/news086.html",
    "summary": "厚生労働省は来年度、医療機関のサイバーセキュリティーの大幅な強化を進める方針だ。不正アクセスや身代金要求型コンピューターウイルス「ランサムウエア」攻撃の脅威は、GMOインターネットグループなどの民間企業だけでなく医療機関にも及んでおり、安定的な医療の提供体制を維持する上で、対策強化が不可欠と判断した。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-05T21:00:00+09:00"
-  },
-  {
-   "title": "ロシア大統領は日本たばこ産業（ＪＴ）のロシア国内資産をロシア企業の一時管理下に移すことを命じた",
-   "link": "https://www.jiji.com/jc/article?k=2026110501146&g=flash&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-11-05T20:46:00+09:00"
   },
   {
    "title": "カードローンの借入額、32万人分漏洩　三井住友系の消費者金融大手",
@@ -393,22 +631,6 @@
    "published": "2026-11-05T19:30:52+09:00"
   },
   {
-   "title": "与党、６日衆院通過の構え　消費減税、野党の取り込み進まず",
-   "link": "https://www.jiji.com/jc/article?k=2026110501043&g=pol&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-11-05T19:05:00+09:00"
-  },
-  {
-   "title": "【石破茂×寺島実郎】日米関係「従順なる同盟国」脱却への道筋／​アジアで孤立した日本は「トランプと共に去りぬ」？ ／“経済の時代”の政治家が抱える課題／有権者にも言うべきことを言わねば政治は機能しない | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963782?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "国の進路を誤らせないために、総理は何ができるのか。その考えを、実際の政治にどう反映させるのか――。歴史と世界の構造変化を整理しながら、日米関係、政治改革などの重要テーマについて前総理・石破茂と（一財…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T19:00:00+09:00"
-  },
-  {
    "title": "任天堂、Switch2の売れ行き鈍化で減収　値上げなどで増益確保",
    "link": "https://www.asahi.com/articles/ASVC5331RVC5PLFA00KM.html?ref=rss",
    "summary": "",
@@ -449,22 +671,6 @@
    "published": "2026-11-05T18:30:00+09:00"
   },
   {
-   "title": "ソニー、前年比29%増の最高益に　通期を修正　ゲーム、映画が好調",
-   "link": "https://www.asahi.com/articles/ASVC52T4BVC5ULFA025M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-05T18:20:00+09:00"
-  },
-  {
-   "title": "ニデック、メガバンクとの融資枠契約を更新　2行で総額6千億円",
-   "link": "https://www.asahi.com/articles/ASVC52W6KVC5PLFA002M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-05T18:19:15+09:00"
-  },
-  {
    "title": "サントリー 酒類364品目値上げへ",
    "link": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
    "summary": "",
@@ -473,36 +679,12 @@
    "published": "2026-11-05T18:03:06+09:00"
   },
   {
-   "title": "トヨタ、逆風下でも営業増益へ　事業構造を転換「新たな領域に進出」",
-   "link": "https://www.asahi.com/articles/ASVC52TKQVC5ULFA020M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-05T17:55:33+09:00"
-  },
-  {
-   "title": "民主党圧勝でトランプ政権とシリコンバレーの蜜月に転機､ アメリカ｢テクノロジー覇権｣が直面する甚大リスク | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963631?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "民主党の議会掌握により､AIをめぐる競争は技術だけでなく政治の領域に入った。問われるのは､誰がその進路を決め､誰が利益を得て､誰が費用を負担するのか､である。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T17:40:00+09:00"
-  },
-  {
    "title": "シヤチハタ 化粧品事業に参入へ",
    "link": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-05T17:29:19+09:00"
-  },
-  {
-   "title": "プロ野球取材で球を集め売却 謝罪",
-   "link": "https://news.yahoo.co.jp/pickup/6601440?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-05T17:12:18+09:00"
   },
   {
    "title": "財政制度分科会（令和8年11月5日開催）資料一覧",
@@ -529,70 +711,6 @@
    "published": "2026-11-05T15:15:00+09:00"
   },
   {
-   "title": "ハリポタ英旗艦店 初日に抗議活動",
-   "link": "https://news.yahoo.co.jp/pickup/6601419?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-05T15:11:32+09:00"
-  },
-  {
-   "title": "民主党は歴史的な中間選挙の勝利を受けてアメリカの再編を目指す",
-   "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
-   "summary": "党は「ブルーウェーブ」をきっかけに劇的な変化を約束",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-05T14:00:25+09:00",
-   "lang": "en",
-   "title_orig": "Democrats look to reshape America after historic midterm victories"
-  },
-  {
-   "title": "アメリカの朝、市場の夕暮れ",
-   "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
-   "summary": "中間選挙の驚くべき結果は、ビジネスと金融サイクルの転換を無効にするものではない",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-05T14:00:16+09:00",
-   "lang": "en",
-   "title_orig": "Morning in America, twilight in the markets"
-  },
-  {
-   "title": "次期アメリカ大統領選挙が始まった",
-   "link": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
-   "summary": "共和党と民主党は2028年の大統領執務室での出馬に向けて態勢を整える",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-05T14:00:07+09:00",
-   "lang": "en",
-   "title_orig": "The next US presidential race has begun"
-  },
-  {
-   "title": "共和党はトランプ大統領の失敗した政策の代償を支払った - 考え直さなければならない",
-   "link": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
-   "summary": "大統領は製造業の雇用を増やし、アメリカ生まれの人々の雇用率を高めると約束したが、実現はしなかった",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-05T14:00:07+09:00",
-   "lang": "en",
-   "title_orig": "Republicans paid the price for Trump’s failed policies — they must rethink"
-  },
-  {
-   "title": "アメリカ国民はトランプ外交に｢ノー｣を突きつけた…民主党大勝のねじれ議会が追及を始める親ロシア政策の裏側 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963647?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "アメリカ中間選挙で民主党が歴史的勝利を収めた裏には､トランプ外交への痛烈な批判が横たわっています。物価高騰や親ロシア政策など､外交の失策が国内経済と世論を大きく動かしました。ねじれ議会の誕生で､アメ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T14:00:00+09:00"
-  },
-  {
-   "title": "戦争を終わらせないのは｢白黒をつけたい｣世論と専門家だ――昭和日本とウクライナに共通する｢失敗の本質｣ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963271?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "ウクライナ戦争をめぐる日本の専門家やメディアは､なぜ現実的な和平論を描けなかったのか。歴史を振り返れば､曖昧さを排除し｢完全な勝利｣を求めた世論が和平の好機を逸し､戦争終結を困難にしてきました。曖昧…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T13:00:00+09:00"
-  },
-  {
    "title": "全国財務局管内経済情勢報告概要（令和8年10月）",
    "link": "https://www.mof.go.jp/about_mof/zaimu/kannai/202603/index.html",
    "summary": "",
@@ -615,64 +733,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-11-05T12:35:00+09:00"
-  },
-  {
-   "title": "再現度もキャスティングも\"狂気的\"…マクドナルド｢ルナチー｣CMがヴィジュアル系ファンに感動まで生んだワケ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963530?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "マクドナルドの新CM｢みんなでルナチー｣篇が､ヴィジュアル系バンドファンの間で大きな話題に。LUNA SEA公認のコピーバンド｢LUNA CHEE｣が総勢100人規模にスケールアップし､世代を超えた…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T12:30:00+09:00"
-  },
-  {
-   "title": "いつも自信満々な人は､むしろ気持ち悪い…｢頑張ってもうまくいかない人｣に必要なのは自信より\"開き直り\"だった | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/961630?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢本物の自信をつけよう｣。そんな言葉を信じ込むと､かえって｢自信がない｣状態が固まってしまうといいます。自分を信じられなくなりやすいのは､ズボラな人ではなく真面目で一生懸命な人。胸を張れない自分から…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T12:00:00+09:00"
-  },
-  {
-   "title": "疑惑噴出のGMO熊谷代表､｢命の砂時計｣会見に透けた《ワンマン経営》の危うさと\"ネットに捧げた31年\"の誤算 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963553?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢命の砂時計｣発言や涙が注目されたGMOインターネットグループ 熊谷正寿氏の会見。なぜ被害の説明より\"自分の思い\"が前に出たのか。背景にあったのは､ネットに捧げた31年と｢手帳で夢をかなえる｣持論で…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T11:40:00+09:00"
-  },
-  {
-   "title": "李在明大統領｢多文化家庭への一律優遇は公平性の検証が必要｣――｢不当な優遇は極右による攻撃の口実にも｣ | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963254?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "韓国･李在明大統領が｢多文化家庭｣（国際結婚による家庭やその子どもがいる家庭）への優遇措置見直しを示唆し､社会に公平性の波紋が広がっています。少数者への支援が社会全体の支持を得られるのか。大統領の発…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T11:30:00+09:00"
-  },
-  {
-   "title": "〈インサイダー取引〉勤め先の事業廃止を知り株売却､あるメーカー元社員の誤算 非定型の事案にも監視委の目 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962932?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "勤め先の上場会社が一部事業を廃止するとの情報をつかみ、自身が持っている株の損失を回避するため、正式公表前に売り抜けた――。証券取引等監視委員会は10月23日、金融商品取引法に抵触するこうした事実が認…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T11:30:00+09:00"
-  },
-  {
-   "title": "日本人の大好きな｢桜｣が盆栽界では敬遠される!?　四季の移ろいを楽しむ｢雑木盆栽｣鑑賞がさらに楽しめる基礎教養 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963072?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "日本人に愛される桜が､実は盆栽の世界では意外と敬遠されていることをご存じですか？　モミジの見どころ､サツキがもつ独自の世界など､四季折々の変化が魅力の｢雑木盆栽｣の奥深さに迫ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T11:00:00+09:00"
-  },
-  {
-   "title": "米国の中間決算は中東政策の激変を予告",
-   "link": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
-   "summary": "JDバンス副大統領を含むアメリカの有権者は、トランプ大統領のイラン戦争とワシントンのイスラエル接近を終わらせることを望んでいる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-05T10:33:29+09:00",
-   "lang": "en",
-   "title_orig": "US midterm results herald upheaval in Middle East policy"
   },
   {
    "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和8年11月5日公表）",
@@ -699,28 +759,12 @@
    "published": "2026-11-05T10:30:00+09:00"
   },
   {
-   "title": "｢大企業みたいなキャッチフレーズをつくろう！｣はNG？　PRのプロが本気で教えたい中小企業におすすめのネーミング術 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962590?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢名前｣や｢キャッチフレーズ｣が企業や場所にどんな変化をもたらすのか､ご存じですか？書籍『大きな会社じゃないのに｢知られている｣会社がやっていること』の著者･殿村美樹氏が､京都｢哲学の道｣の事例を紐…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T10:00:00+09:00"
-  },
-  {
    "title": "国債金利情報(令和8年11月4日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-11-05T09:30:00+09:00"
-  },
-  {
-   "title": "元自衛官が《軍の対空戦闘》になぞらえる\"人との距離感\"の正解　人間関係の悩みの9割は｢あいさつ｣で解決できる！ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "人間関係の悩みの多くは､実は相手との実際のトラブルではなく､｢妄想｣や根拠のない不安から生まれています。しかし､そんな不安を一瞬で払拭する最強の武器が｢あいさつ｣。敵か味方かわからない関係を､自らの…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T09:00:00+09:00"
   },
   {
    "title": "日銀当座預金増減要因（11月見込み）",
@@ -737,30 +781,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-11-05T08:50:00+09:00"
-  },
-  {
-   "title": "｢知られたら離れていく｣47歳婚活男性が明かした過去に､相手女性が出した結論　\"どこまで話すか\"問われる婚活現場 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962949?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "恋愛経験がないまま婚活を始め､ようやく真剣交際に進んだ47歳の男性。ところが成婚目前､彼女は｢結婚は取りやめにしたい｣と言い出します。彼女が結婚できない理由､そのとき彼が明かした過去とは――。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T08:00:00+09:00"
-  },
-  {
-   "title": "｢体内に時限爆弾を埋め込むような施術｣悪徳な美容整形クリニックに患者は裁判で勝てるのか　｢リーガルドック 医療弁護士アラタの証明｣（第1話 ②） | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962938?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "手術ミスやカルテの改ざんが疑われても、医療の専門知識を持たない患者が、その事実を明らかにするのは容易ではない。そんな医療過誤訴訟に挑むのが、医師免許と弁護士資格を併せ持つ新多千智だ。医学と法律、2つ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T07:30:00+09:00"
-  },
-  {
-   "title": "15万円の《シワ取り美容整形》で顔に傷を負った35歳女性に医師が放った\"驚きの言葉\"　｢リーガルドック 医療弁護士アラタの証明｣（第1話 ①） | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962935?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "手術ミスやカルテの改ざんが疑われても、医療の専門知識を持たない患者が、その事実を明らかにするのは容易ではない。そんな医療過誤訴訟に挑むのが、医師免許と弁護士資格を併せ持つ新多千智だ。医学と法律、2つ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-05T07:30:00+09:00"
   },
   {
    "title": "時間外に大きく値動きする銘柄: Coherent、AppLovin、Expedia、Qualcomm など",
@@ -945,56 +965,12 @@
    "published": "2026-11-04T05:30:00+09:00"
   },
   {
-   "title": "中間選挙後の株式市場: S&P 500 の歴史が示すもの",
-   "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-   "summary": "歴史的に中間選挙は S&P 500 指数が好調な年の前に行われます。民主党が議会を取り戻した場合に知っておくべきこと",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-04T03:21:05+09:00",
-   "lang": "en",
-   "title_orig": "Stock market after midterm elections: What S&P 500 history shows"
-  },
-  {
    "title": "財政健全化へ社保改革継続、岡本財務次官「着実な経済成長も必要」（26日）",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsMm91WVVWVDh0cExhTi1zVkpjc2ZkS0JZSXdiYmoxRkRjTEYzd0oxLW00el9jbmpXWXFtcUlsS0l1cWhjSkVQUE5aTmRFM1BmZ1JwWUNsLUhfczQ?oc=5",
    "summary": "財政健全化へ社保改革継続、岡本財務次官「着実な経済成長も必要」（26日）&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-11-04T01:31:43+09:00"
-  },
-  {
-   "title": "テキサス州知事選、予測市場では接戦だが、依然としてアボット氏が有利",
-   "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-   "summary": "予測市場では依然として共和党現職が４期目を獲得するのが有利であると示されているが、その確率はここ数週間で縮小している。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-03T22:33:11+09:00",
-   "lang": "en",
-   "title_orig": "Texas governor race tightens in prediction markets, but Abbott remains favored"
-  },
-  {
-   "title": "物価高で消費者の「買い方」はどう変わった？　カギは“お得さ”とAIか",
-   "link": "https://www.itmedia.co.jp/business/articles/2611/03/news003.html",
-   "summary": "物価高で消費者の「買い物」はどのように変わったか。電通デジタルの調査では、節約志向とともにオンラインでの比較検討や、AIを活用した購買行動の広がりが明らかになった。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-11-03T08:00:00+09:00"
-  },
-  {
-   "title": "東海4県の企業、SaaSの利用数「分からない」50％超　サイバー攻撃受けた割合は？",
-   "link": "https://www.itmedia.co.jp/business/articles/2611/03/news008.html",
-   "summary": "東海4県にある企業の9％がサイバー攻撃の被害に遭っていることが分かった。攻撃を受けたかどうか「分からない」という回答が3割を超え、情報システム部門が自社IT環境の状況を把握し切れていない可能性がある。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-11-03T08:00:00+09:00"
-  },
-  {
-   "title": "三菱電機「純正SDカード」生産中止へ　産業用メモリの“調達難”、どう乗り越える？",
-   "link": "https://www.itmedia.co.jp/business/articles/2611/03/news010.html",
-   "summary": "三菱電機がFA機器用SDカードメモリの生産を中止する。産業用メモリの不足が深刻化する中、代替品の受注を始めた商社もある。企業の打ち手は。",
-   "source": "ITmedia ビジネス",
-   "category": "経済専門メディア",
-   "published": "2026-11-03T08:00:00+09:00"
   }
  ]
 }
