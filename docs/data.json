@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T04:06:41.724809+09:00",
+ "generated_at": "2026-11-09T07:50:03.507092+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,104 +61,328 @@
  "errors": [],
  "items": [
   {
-   "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
+   "title": "舎人ライナー 資金不足陥る可能性",
+   "link": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-09T07:46:35+09:00"
+  },
+  {
+   "title": "NvidiaのHuang氏、中国スパイとの関係疑惑を受け不倫を認める",
+   "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+   "summary": "シリコンバレーの半導体メーカー、従業員へのメッセージで不倫関係を認めた最高経営責任者への捜査を開始",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-09T07:31:02+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy"
+  },
+  {
+   "title": "市場は｢アメリカ共和党大敗｣で何を恐れたのか？｢今回の株価急落はバブル崩壊ではない｣と言える｢6つのポイント｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/964032?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "アメリカ中間選挙後､市場は共和党の大敗で大きく揺れましたが､投資家が本当に恐れているのは政策変更よりも｢政治的不確実性｣です。筆者があげる｢6つのポイント｣とは？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T07:30:00+09:00"
+  },
+  {
+   "title": "｢銀行です｣の電話から始まる巨額詐欺､AIで社長や弁護士の声まで偽造される時代に企業が備えるべきこと | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963721?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "国際的な犯罪グループによる｢ボイスフィッシング｣が拡大し､AI技術を駆使した巧妙な詐欺が企業を脅かしている。声の信用が揺らぐ今､銀行や上司を名乗る電話が本物かどうか､どのように見抜けばいいのか？",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T07:30:00+09:00"
+  },
+  {
+   "title": "日本では過去最高視聴も､Netflix本社で｢1000人削減｣｢株価3割安｣…相次ぐ異変の背景と《強すぎる敵》の正体 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963872?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "Netflix日本発の人気作品が相次ぐ一方､本社アメリカでは人員削減や幹部交代､株価下落など波乱が続いています。絶好調の日本と揺れる本国──このギャップの背景には何があるのか､本社の動きは日本にも影…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T07:15:00+09:00"
+  },
+  {
+   "title": "自動運転AI「日産以外にも」　英ウェイブ、日本勢の採用拡大に意欲",
+   "link": "https://www.asahi.com/articles/ASVC52V82VC5ULFA009M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-09T07:00:00+09:00"
+  },
+  {
+   "title": "\"毒親育ち\"や\"セックスレス\"もありのまま描く——｢想定外の人生｣が開いた漫画家への道 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963863?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "毒親のもとで育ち､結婚･離婚･再婚と波瀾の人生を歩んできたポメさん。想定外の苦難を経験しながらも､実体験をありのままに漫画として発信し､多くの共感を集めています。家庭､葛藤､そして再生のストーリーを…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T07:00:00+09:00"
+  },
+  {
+   "title": "夫の不倫､殴り合いの修羅場も\"ネタ\"に——漫画家になった40代女性の｢想定外すぎる人生｣ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963857?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "波瀾万丈な人生を歩んできた40代漫画家･ポメさん。母の虐待､20代の結婚と離婚､そして浮気･暴力を伴う壮絶な修羅場――何度も｢想定外｣に見舞われながらも､やがてその経験が憧れの漫画家への道を切り開き…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T07:00:00+09:00"
+  },
+  {
+   "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
+   "summary": "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T07:00:00+09:00"
+  },
+  {
+   "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
+   "summary": "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T07:00:00+09:00"
+  },
+  {
+   "title": "死刑囚の｢終の棲家｣はなぜ公園とライブラリになったのか…120年続いた《八王子医療刑務所》の跡地を歩いてわかったこと | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963798?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "かつて重い負の歴史を背負った八王子医療刑務所の跡地が､新たな｢桑都の杜｣として生まれ変わりました。暗い過去をどう未来につなぐのか―再開発と記憶継承の現場に迫ります。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T06:45:00+09:00"
+  },
+  {
+   "title": "｢靴下濡れるし､地獄のロープレ｣誰もが憂鬱すぎる雨の朝に､やたら元気な先輩の足元に隠された\"奇天烈な秘密\" | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "銀行で働く新入社員の樋口さんが、業務を円滑に進めるコツを指導員の先輩に聞こうとするがいつも元気になるだけのライフハックを教わってしまう。仕事中に使える？かもしれない、常識をちょっと外した気持ちが軽く…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T06:30:00+09:00"
+  },
+  {
+   "title": "Nvidiaの取締役会は、CEOのジェンセン・フアン氏とスパイ容疑者との関係を調査する予定だ。知っておくべきことは次のとおりです。",
+   "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+   "summary": "「今日のニュースが Nvidia の勢いを弱めることはありません」と広報担当者は述べています。黄氏は職務に留まり、捜査に協力する。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-09T06:29:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia’s board will probe CEO Jensen Huang’s relationship with an alleged spy. Here’s what to know."
+  },
+  {
+   "title": "コンビニが変えた「コーヒー習慣」　セブンは100億杯、手軽さ強み",
+   "link": "https://www.asahi.com/articles/ASVC51CHBVC5ULFA02YM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-09T06:00:00+09:00"
+  },
+  {
+   "title": "EV充電補助金、都が不正申請認定　105億円交付の国はOK？なぜ",
+   "link": "https://www.asahi.com/articles/ASVC47QZJVC4ULFA01HM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-09T06:00:00+09:00"
+  },
+  {
+   "title": "ANAがエア･ドゥ､ソラシドエアを完全子会社化･･･各社が訴える｢国内線の実質赤字｣､30年に及んだ航空自由化は終焉へ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963834?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "じり貧が進む国内線航空ビジネスで、地殻変動が始まろうとしている。ANAホールディングス（HD）が10月29日、エア・ドゥ（AIRDO）、ソラシドエアを傘下に収めるリージョナルプラスウイングス（RPW…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T06:00:00+09:00"
+  },
+  {
+   "title": "27年でたった8店舗…自前の和食が育たなかったモスバーガーが112億円で｢おぼんdeごはん｣を買った切実な事情 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963542?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ハンバーガーチェーンのモスフードサービスが､和食定食チェーン｢おぼんdeごはん｣を112億円で買収。好調なモスバーガーに加え､なぜ今\"定食\"事業に挑戦するのか。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T06:00:00+09:00"
+  },
+  {
+   "title": "ドコモ《1カ月足らずで\"トラブル連発\"》の大失態…社長が設備投資増額を意気込んだ矢先の｢14時間続いた通信障害｣ | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963979?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "11月5日に起きたNTTドコモの通信障害は復旧まで約14時間かかり､約158.7万人に影響しました。同日には不正アクセスによる顧客情報の流出も公表し､10月には緊急地震速報の不達や顧客情報流出も起き…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:45:00+09:00"
+  },
+  {
+   "title": "全国397機関の信金･信組｢サバイバル力｣ランキング…含み損拡大､預金流出など課題山積の中､生き残れるのはどこか | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963716?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "日本銀行による利上げが続く中、2026年9月には政策金利が1.25%に到達した。1995年4月以来、約31年ぶりの水準となっている。貸出金利息の拡大などを背景にメガバンクや地方銀行の業績が好調に推移…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:45:00+09:00"
+  },
+  {
+   "title": "〈変貌する採用戦略〉バイト募集CMにレディー･ガガ､ヒジャブも着用OK…現場危機にファミマが本気出した｢変革｣の内幕 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963651?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "モノクロの画面に映し出されるファミリーマートの店内。ユニフォームをモードに着こなした女性がレジを打ち、商品を陳列してモップで床を磨く。女性の正体は、世界的ポップスターのレディー・ガガ。ガガは日本語で…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:45:00+09:00"
+  },
+  {
+   "title": "【PFAS汚染】基地内の調査要求に\"ゼロ回答\"､自治体記録が語る自衛隊の不誠実､問題長期化で追及姿勢に鈍りも | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963242?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "国内各地の自衛隊基地周辺で高濃度PFAS汚染が相次いで発覚し､自治体と防衛省の神経戦が続いています。汚染源特定は難航し､原因調査や対応策も進展が見られません。｢名より実｣を取る自治体の苦悩と､住民の…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:45:00+09:00"
+  },
+  {
+   "title": "｢数字で説明できない投資｣こそ勝機　AI時代に｢人文知｣投資を『COTEN』深井氏がを呼びかける理由 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963204?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "企業の投資判断が短期的な数値に偏る現代､AI時代の変化にどう備えるべきか。COTENは歴史や哲学などの人文知を経営に生かし､数字では捉えきれない価値を未来の意思決定に組み込む重要性を訴える。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:31:00+09:00"
+  },
+  {
+   "title": "【絶好調】ソニー決算｢スパイダーマン｣とゲームで2度目の上方修正･･･エンタメ投資\"実りの秋\"､最高益のカギは｢GTA6｣ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/963877?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "ソニーのエンタメ投資に“実りの秋”が訪れた――。11月5日、ソニーグループは2027年3月期第2四半期（4～9月）決算を発表。売上高6兆2672億円（前年同期比9.4%増）、営業利益1兆988億円（…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:30:00+09:00"
+  },
+  {
+   "title": "ファミマ、AIで新作スイーツを開発　「最初は使えない案も多かったが……」データと指示をどう改善？",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news013.html",
+   "summary": "ファミリーマートが、AIを活用した商品開発に取り組んでいる。過去の販売実績や消費トレンドを読み込ませ、スイーツ「おいものカヌレ～キャラメルソースがけ～」を開発した。どんな情報を与え、どのような指示を出したのか。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:30:00+09:00"
+  },
+  {
+   "title": "「あの人、今日は機嫌が悪いから」　職場をむしばむフキハラ、企業が取るべき対策は？",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news008.html",
+   "summary": "ため息や威圧的な態度で周囲に気を遣わせる「フキハラ」。その裏では周囲の集中力と時間が奪われ、組織の生産性に損失が生じているかもしれない。周囲に感情の後始末を強いる社員に対して、職場はどう対応すべきなのか。",
+   "source": "ITmedia ビジネス",
+   "category": "経済専門メディア",
+   "published": "2026-11-09T05:30:00+09:00"
+  },
+  {
+   "title": "クリプトランド発の人気の新しい賭けがウォール街の縄張り争いを引き起こす",
+   "link": "https://www.wsj.com/finance/regulation/a-popular-new-bet-hailing-from-cryptoland-sets-off-a-wall-street-turf-war-70e37095?mod=rss_markets_main",
+   "summary": "シタデル・セキュリティーズとCBOEが支援するグループが、単一株PERPの承認を巡って訴訟を起こしている。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-09T05:00:00+09:00",
+   "lang": "en",
+   "title_orig": "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War"
+  },
+  {
+   "title": "民主党はトランプ当局者を弾劾し、共和党献金者を調査すると誓う",
    "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
-   "summary": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
+   "summary": "ピート・ヘグセス、イーロン・マスク、ベネズエラ石油取引が次期議員らによる議会調査の初期の標的に",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-11-09T03:10:24+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Democrats vow to impeach Trump officials and investigate Republican donors"
   },
   {
-   "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+   "title": "「奇妙に思えます」：私たちは80代で、従来のIRAで95万ドルを持っています。なぜ私たちのアドバイザーはロス社への転換を推し進めているのでしょうか?",
    "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-   "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+   "summary": "「私たちの基本的な生活費は年間11万ドルの年金と社会保障で賄われています。」",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-11-09T03:00:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?"
   },
   {
-   "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+   "title": "父の葬儀から 2 か月後、継母は私に 4 万ドルの結婚祝いを返してほしいと言いました。彼女の言う通りにすべきでしょうか？",
    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+   "summary": "「彼の葬儀から約2か月後、継母から電話があり、お金を返してほしいと言われました。」",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-11-09T02:30:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?"
   },
   {
-   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+   "title": "伝統的な埋葬業が廃れる中、葬儀社は結婚式やゴルフツアーを主催する新たな活路を見出している",
    "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-   "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+   "summary": "「これは私の葬儀ではなく、あなたの葬儀なのですから、あなたの望むようにしてください」と、ある葬儀社運営者は言う。",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-11-09T02:23:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out"
   },
   {
-   "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+   "title": "「静かに別の人生を築いているような気がします」: 夫は 50 万ドルを相続しましたが、それを我が家に使うことを拒否しています。",
    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-   "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+   "summary": "「うちのキッチンは 1999 年に建てられたもので、オーブンは特定の方法でドアを叩いた場合にのみ作動します。」",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-11-09T01:00:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
   },
   {
-   "title": "A new economic agenda for America",
+   "title": "アメリカの新たな経済課題",
    "link": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
-   "summary": "Pro-growth policies on their own won’t address the concerns of voters worried about the cost of living",
+   "summary": "成長促進政策だけでは、生活費を心配する有権者の懸念に対処できない",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-11-09T01:00:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "A new economic agenda for America"
   },
   {
-   "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+   "title": "「私には経済的なセーフティネットがありません」: 私は 66 歳で、社会保障に依存しており、貯蓄はわずか 500 ドルです。私にはどんな希望があるでしょうか？",
    "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-   "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+   "summary": "「時々、裕福なアメリカ人が私のような人間と立場を交換すべきだろうかと思うことがあります。」",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-11-09T00:30:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?"
   },
   {
-   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+   "title": "93歳の父は11時間目に遺言書を変更し、50万ドルの財産すべてを弟に残しました。挑戦してもいいですか？",
    "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-   "summary": "“My brother had no job and needed a place to live.”",
+   "summary": "「兄には仕事がなく、住む場所が必要でした。」",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-11-09T00:16:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?"
   },
   {
-   "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+   "title": "アメリカ企業の利益はウォール街の予想をかろうじて上回っている",
    "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-   "summary": "S&P 500 companies’ earnings are mostly topping analysts’ estimates — but by the narrowest margin in roughly four years.",
+   "summary": "S&P 500 企業の利益はほとんどがアナリストの予想を上回っていますが、その差は約 4 年間で最も狭いものとなっています。",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-11-09T00:00:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations"
   },
   {
-   "title": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
+   "title": "ハイテク株の暴落後、株式ファンドは2026年に9.9%の上昇を維持",
    "link": "https://www.wsj.com/finance/investing/after-tech-rout-stock-funds-hold-9-9-gain-2026-9d6d9773?mod=rss_markets_main",
-   "summary": "Fund investors in October felt the downdraft in artificial-intelligence shares. Plus: A Financial Flashback to 40 years ago, the Boesky insider-trading bombshell.",
+   "summary": "ファンドの投資家は10月、人工知能株の下降気流を感じた。さらに: 40 年前の金融フラッシュバック、ボエスキーのインサイダー取引",
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-11-09T00:00:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026"
   },
   {
-   "title": "「カッテージチーズに負けている」：プロテインマックスの流行がクリームチーズの売上に打撃を与えている",
-   "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-   "summary": "米国のカッテージチーズの売上高は、2021年の水準から2倍以上に増加した。",
-   "source": "MarketWatch",
+   "title": "セコイアの新しい首長がボタ時代の最後の残存者を一掃する",
+   "link": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+   "summary": "ロンドン事務所と恒久資本基金の閉鎖は、シリコンバレーのベンチャーキャピタル会社の合理化に向けた最新の取り組みを示すものである",
+   "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-11-08T23:13:00+09:00",
+   "published": "2026-11-08T23:00:00+09:00",
    "lang": "en",
-   "title_orig": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales"
+   "title_orig": "Sequoia’s new chiefs sweep away last remnants of Botha era"
   },
   {
    "title": "商品に個体差「不揃い」バズる訳",
@@ -189,16 +413,6 @@
    "title_orig": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities"
   },
   {
-   "title": "Anthropic、データセンター向けのガス火力発電で34億ドルの契約を締結",
-   "link": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-   "summary": "エネルギー需要が急増する中、AI ラボは従来のサプライヤーを迂回して希少な機器を確保",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-08T20:00:09+09:00",
-   "lang": "en",
-   "title_orig": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres"
-  },
-  {
    "title": "中間選挙に対する市場の反応を信用してはいけない",
    "link": "https://www.wsj.com/finance/stocks/dont-trust-the-markets-knee-jerk-reaction-to-the-midterms-8702b17c?mod=rss_markets_main",
    "summary": "政治主導の取引には通常、正当な理由があります。しかし、選挙後の誇大宣伝がひとたび落ち着くと、それらは破滅的であることが判明することがよくあります。",
@@ -219,14 +433,6 @@
    "title_orig": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon"
   },
   {
-   "title": "〈下院3勝33敗､上院は全敗か〉世界一の富豪イーロン･マスク氏の共和党への大盤振る舞いは完全な空振りに　 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/964035?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "スペースXやテスラなど複数事業を率いる世界的富豪は､政治の荒波とどのように向き合うのでしょうか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T19:10:00+09:00"
-  },
-  {
    "title": "緑茶飲料に逆風 麦茶など存在感",
    "link": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
    "summary": "",
@@ -241,22 +447,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-08T17:32:51+09:00"
-  },
-  {
-   "title": "単価2倍値上げと社長の暴走で崩壊状態の人材派遣会社…社長自身も地獄の業火の壮絶な現実 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963627?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "人材派遣会社での急激な単価2倍値上げと社長の暴走が引き起こした崩壊の現場。元役員A氏の証言から､社員が次々と辞め､社長自身も地獄の業火に苦しむ壮絶な現実が明かされます。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T16:00:00+09:00"
-  },
-  {
-   "title": "｢銃殺刑ライブ配信｣をトランプ大統領が中止…ヘグセス米国防長官が進めようとした異例の計画と､その危うさ | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963611?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "銃殺刑のライブ配信計画を発表し､物議を醸したヘグセス国防長官。その背後にある宗教観や強硬な軍人観､米軍組織を揺るがす数々の言動から見える危険な思想。今､民主主義国家アメリカで何が起きているのかを探り…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T16:00:00+09:00"
   },
   {
    "title": "倉庫には古米の山 赤字覚悟で販売",
@@ -291,16 +481,6 @@
    "published": "2026-11-08T14:34:34+09:00"
   },
   {
-   "title": "仮想通貨業界、トランプ氏との関係を警戒する",
-   "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
-   "summary": "民主党は中間選挙で圧勝した後、大統領家族への捜査を開始すると明言した",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-08T14:00:19+09:00",
-   "lang": "en",
-   "title_orig": "Crypto industry braces for reckoning over Trump ties"
-  },
-  {
    "title": "「急進左派」が見出しを飾るも中道派が新しい米国議会を支配",
    "link": "https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1",
    "summary": "中間選挙のブルーウェーブで政権を獲得した民主党員のほとんどは穏健派だ",
@@ -321,13 +501,14 @@
    "title_orig": "America is craving a return to community"
   },
   {
-   "title": "Apple saves $2.7bn in taxes by booking profits in Singapore",
-   "link": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
-   "summary": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures",
+   "title": "仮想通貨業界、トランプ氏との関係を警戒する",
+   "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+   "summary": "民主党は中間選挙で圧勝した後、大統領家族への捜査を開始すると明言した",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-11-08T14:00:11+09:00",
-   "lang": "en"
+   "published": "2026-11-08T14:00:19+09:00",
+   "lang": "en",
+   "title_orig": "Crypto industry braces for reckoning over Trump ties"
   },
   {
    "title": "攻撃者なき漏洩？ サイト閲覧時の個人情報や行動、知らぬ間に外部へ",
@@ -338,60 +519,12 @@
    "published": "2026-11-08T13:00:00+09:00"
   },
   {
-   "title": "藤堂高虎だけではない！秀長を支え続けて\"家臣団トップの給与\"が与えられた､超有能な｢最強の側近｣ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963264?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第47回は秀長を支えた個性豊かなシゴデキ家臣たちについて真山知幸氏が解説します。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T12:00:00+09:00"
-  },
-  {
    "title": "米半導体大手トップと「恋愛関係」　女性スパイ、中国当局が雇用―英紙",
    "link": "https://www.jiji.com/jc/article?k=2026110800226&g=int&m=rss",
    "summary": "",
    "source": "時事通信",
    "category": "報道機関",
    "published": "2026-11-08T11:32:00+09:00"
-  },
-  {
-   "title": "｢マンジャロ｣のイーライリリー､大幅上方修正の裏側 \"肥満薬は富裕層だけ\"ではなかった | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963240?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "肥満薬はもはや一部の富裕層だけのものではありません。イーライリリーの業績急伸の背景には､中間層や高齢者層にも広がる需要がありました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T11:30:00+09:00"
-  },
-  {
-   "title": "｢100人乗っても大丈夫｣ 物置の稲葉製作所が連続減益の公算大､オフィス家具の売れ行きは堅調だが… | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962944?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢100人乗っても大丈夫｣というCMで有名な稲葉製作所ですが､鋼製物置で不振が続いています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T11:30:00+09:00"
-  },
-  {
-   "title": "相手が感情的で自分は論理的､糾弾し合う保守とリベラル 『社会が壊れるその前に』磯野真穂氏に聞く | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963629?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『社会が壊れるその前に メアリ･ダグラスの人類学』の著者､文化人類学者の磯野真穂氏に話を聞きました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T11:00:00+09:00"
-  },
-  {
-   "title": "JR内房線 1カ月半ぶりに全線再開",
-   "link": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-08T10:37:50+09:00"
-  },
-  {
-   "title": "｢新しい商品を作らなきゃ｣と焦る企業に伝えたい→1000年以上前から存在する古刹に学ぶ\"知られ続ける\"極意 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962591?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "歴史ある寺院が時代が変化するにもかかわらず人々を惹きつけ続ける秘訣とは何か――。伝統を守りつつ新たな表現で価値を伝える実例をもとに､殿村美樹氏が｢知られ続ける｣極意を深掘り。『大きな会社じゃないのに…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T10:00:00+09:00"
   },
   {
    "title": "人材争奪戦がいかにして伝統的な法律事務所に破滅をもたらしたのか",
@@ -410,38 +543,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-08T09:20:26+09:00"
-  },
-  {
-   "title": "顔が変形するほど殴られたのに｢やっぱり顔が好き｣…傷害罪で逮捕された13歳下の元格闘家夫を許した､44歳妻の胸の内 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963702?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "美男美女夫婦と周囲に称された奈央さんと13歳下の夫。しかし､幸せな新婚生活は一変､元格闘家の夫から受けた暴力で激しく揺れ動きます。なぜ奈央さんは被害届を取り下げ､彼と向き合い続けるのでしょうか。複雑…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T09:00:00+09:00"
-  },
-  {
-   "title": "《山本彩》｢きっと死ぬ間際に思い出す光景｣…ソロ10年､武道館で掴んだ自信と｢私に足りない｣ヒット曲への渇望 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963577?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "NMB48のエースとして一世を風靡し､卒業後はシンガーソングライターとして10年間歩んできた山本彩さん。輝かしいキャリアの裏側には､絶え間ない葛藤や､ヒット曲への\"渇望\"がありました。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T08:30:00+09:00"
-  },
-  {
-   "title": "｢文字の危機｣を乗り越えるためには｢手書き｣の復権が必要､手書きの身体性が思考を深める | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963460?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "｢手書き｣の価値が見失われつつある現代､書家･石川九楊氏は\"筆蝕の芸術\"としての書の本質を問い直します。手で書く行為が持つ身体性や歴史との結び付き､そして縦書き文化の意義とは――。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T08:00:00+09:00"
-  },
-  {
-   "title": "｢元気に生きてれば100点！｣子供への期待値を\"究極まで\"下げて､親がご機嫌でいる重要性…後悔しても日々は戻らない | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/962636?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "子どもの｢スマホばかり｣｢勉強しない｣に悩む親御さん必見。期待値を究極まで下げ､子どもの存在そのものに感謝する視点に変わると､驚くほど親子関係は改善します。まずは親がご機嫌でいることが大切な理由と､…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T08:00:00+09:00"
   },
   {
    "title": "蛍光灯の製造禁止、27年末に迫る　LED化率6割超も、更新に課題",
@@ -476,14 +577,6 @@
    "published": "2026-11-08T07:30:00+09:00"
   },
   {
-   "title": "中学受験の\"熱望校\"はどこまで深追いする？――複数回入試で後悔しない｢併願戦略｣《第1志望以外はすべて｢第2志望｣》 | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963383?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "志望校選びにおいては偏差値を正しく活用することで､合格の可能性が広がります。柔軟な併願戦略のコツとは？",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T07:30:00+09:00"
-  },
-  {
    "title": "与党、少数参院で多数派工作　消費減税法案、１１日審議入り",
    "link": "https://www.jiji.com/jc/article?k=2026110700339&g=pol&m=rss",
    "summary": "",
@@ -506,22 +599,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-11-08T07:00:00+09:00"
-  },
-  {
-   "title": "｢湯沢のリゾマン｣温泉･プール付きで300万円台も！かつての｢負動産｣に移住者が集まり\"富動産\"に化けた理由 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963812?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "新潟県湯沢町で｢負動産｣と揶揄されてきたリゾートマンションが､今や移住者から熱い視線を集めています。都心へのアクセスや温泉･自然といった恵まれた環境､充実の共用施設が家族や若者の新たな価値観にマッチ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T07:00:00+09:00"
-  },
-  {
-   "title": "二子玉川と三軒茶屋に挟まれた\"地味な駅\"の正体…｢サザエさん通り｣の桜新町がタワマンも巨大商業施設も生まない理由 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963669?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "東京･桜新町は､渋谷から10分の立地にもかかわらず､タワーマンションや大規模再開発とは無縁の街です。サザエさんの街として親しまれ､昭和の記憶が随所に残る桜新町。その歴史と独特な街並みの秘密を紐解きま…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-08T06:45:00+09:00"
   },
   {
    "title": "国宝天守を望む人気の城下町、悩みは「空き家」　始まった新たな対策",
@@ -596,42 +673,8 @@
    "published": "2026-11-07T18:00:00+09:00"
   },
   {
-   "title": "中国の外貨準備高、10月に若干増加",
-   "link": "https://www.wsj.com/economy/central-banking/china-forex-reserves-edged-up-in-october-89c34113?mod=rss_markets_main",
-   "summary": "",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-07T13:31:00+09:00",
-   "lang": "en",
-   "title_orig": "China Forex Reserves Edged Up in October"
-  },
-  {
    "title": "「産業界が大変なことに」高市首相の台湾有事発言、1年後も頭痛の種",
    "link": "https://www.asahi.com/articles/ASVC52DM8VC5UTFK01VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-07T09:00:00+09:00"
-  },
-  {
-   "title": "JAL幹部が語る国内線の価値「非航空事業へのタッチポイント」",
-   "link": "https://www.asahi.com/articles/ASVC5571JVC5UTIL03BM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-07T09:00:00+09:00"
-  },
-  {
-   "title": "大東建託、日本語教育事業に参入　人材確保へインドネシアで来春開校",
-   "link": "https://www.asahi.com/articles/ASVC634V5VC6ULFA01MM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-07T09:00:00+09:00"
-  },
-  {
-   "title": "鉄道の費用対効果マニュアルを国交省が改訂、一体評価の運用を具体化",
-   "link": "https://www.asahi.com/articles/ASVC63TB6VC6ULFA02NM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
@@ -900,16 +943,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-11-06T08:50:00+09:00"
-  },
-  {
-   "title": "民主党幹部、中間選挙総選挙後にAI増強の抑制を求める：「国家データセンターは今は一時停止」",
-   "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-   "summary": "民主党の勝者や進歩派議員は、2026年の中間選挙後にAIとデータセンターに対する制限を強化するよう求めている。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-06T05:17:16+09:00",
-   "lang": "en",
-   "title_orig": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'"
   }
  ]
 }
