@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T00:01:17.055528+09:00",
+ "generated_at": "2026-11-15T04:53:38.848839+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,24 +61,84 @@
  "errors": [],
  "items": [
   {
-   "title": "FAA、全国的に稀な航空便の地上停止を解除。空の旅は回復までに数日かかる可能性がある",
-   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "summary": "マリン国土安全保障長官は、燃料費の高騰で航空便が減り予約変更が妨げられる可能性があるため、サイバー攻撃の「証拠はゼロ」だと述べた。",
+   "title": "「飛行機に乗るのはうんざりだ」: 優先搭乗の料金を払ったのに、頭上の荷物入れがいっぱいでした。私はだまされましたか？",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "summary": "「次回は別のアプローチを試すかもしれません。気が向いたときにいつでも搭乗して、最初に見つけた空いているスロットにスーツケースを置きます。」",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-11-14T23:27:00+09:00",
+   "published": "2026-11-15T04:30:00+09:00",
    "lang": "en",
-   "title_orig": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
+   "title_orig": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
   },
   {
-   "title": "慈善団体に寄付する最も税金効率の高い方法は何ですか?",
-   "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
-   "summary": "あなたと受取人の両方にとって有益な寄付を行う方法",
+   "title": "未亡人は亡くなったパートナーの家を継子たちに任せるべきでしょうか、それとも継子たちとの連絡を絶つべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+   "summary": "「今家を売って収益を分割するよりも、それほど抜本的な措置ではないでしょう。」",
    "source": "MarketWatch",
    "category": "海外金融",
-   "published": "2026-11-14T23:00:00+09:00",
+   "published": "2026-11-15T03:30:00+09:00",
    "lang": "en",
-   "title_orig": "What’s the most tax-efficient way to donate to charity?"
+   "title_orig": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
+  },
+  {
+   "title": "「彼は私の計画を幻想だと言います。」私の夫は、私たちには年間20万ドルの退職金を支払う余裕はないと言います。彼は安っぽいのでしょうか？",
+   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+   "summary": "「退職金口座には200万ドルの貯蓄があり、130万ドル相当の家もあります。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-15T03:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
+  },
+  {
+   "title": "バーニー・サンダースは社会保障を「何世代にもわたって」維持したいと考えている",
+   "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+   "summary": "バーモント州上院議員は課税上限を撤廃し、富裕層に多くの税金を支払わせることを目指している",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-15T02:50:00+09:00",
+   "lang": "en",
+   "title_orig": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
+  },
+  {
+   "title": "アメリカ企業が退職に関して犯している1兆ドル規模の間違い",
+   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+   "summary": "市場は50歳以上のアメリカ人の経済的影響を大幅に割り引いている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-15T02:50:00+09:00",
+   "lang": "en",
+   "title_orig": "The trillion-dollar mistake corporate America is making about retirement"
+  },
+  {
+   "title": "退職者は中間選挙の大きな受益者となるべきだ：「民主党は高齢化と公共政策にとって重要なあらゆる小槌を握るだろう」",
+   "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+   "summary": "社会保障、メディケア、長期介護に何が起こるかは次のとおりです。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-15T02:50:00+09:00",
+   "lang": "en",
+   "title_orig": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’"
+  },
+  {
+   "title": "介護という孤独な労働: 「愛する人の世話をするのに金持ちである必要はない」",
+   "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
+   "summary": "「Take Me Home」では、ある家族が介護の問題にどのように直面し、解決策を見つけていくのかを描いています。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-15T02:50:00+09:00",
+   "lang": "en",
+   "title_orig": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’"
+  },
+  {
+   "title": "50歳でメディケア？アメリカの労働者にとって「メディケアのさらなる充実」は何を意味するのか。",
+   "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+   "summary": "「すべての人のためのメディケア」ではありませんが、新しい法案はメディケアの年齢を50歳に引き下げ、成人6,000万人の適用範囲を拡大します。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-15T02:50:00+09:00",
+   "lang": "en",
+   "title_orig": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers."
   },
   {
    "title": "米国の航空交通管制障害で乗客が広範囲にわたる混乱に直面",
@@ -86,19 +146,19 @@
    "summary": "週末に数千のフライトが遅延またはキャンセルされる予定",
    "source": "Financial Times",
    "category": "海外金融",
-   "published": "2026-11-14T22:52:46+09:00",
+   "published": "2026-11-15T02:36:00+09:00",
    "lang": "en",
    "title_orig": "Passengers face widespread disruption after US air traffic control outage"
   },
   {
-   "title": "ワシントンはトランプ大統領の関税を拒否することで手頃な価格の実現を開始できる",
-   "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
-   "summary": "アメリカ人はコストを押し上げる政策に反対票を投じた。政策立案者はそれらを無視するだろうか？",
-   "source": "MarketWatch",
+   "title": "ETFの専門家が語る、NVIDIAの混乱と民主党議会はAI取引をどう再構築するのか",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+   "summary": "ETFの専門家らは、エヌビディアの指導部の混乱と民主党の議会支配により、AI需要が他のビッグテック株やライバル会社の利益にシフトする可能性があると述べている。",
+   "source": "CNBC",
    "category": "海外金融",
-   "published": "2026-11-14T22:30:00+09:00",
+   "published": "2026-11-15T00:50:43+09:00",
    "lang": "en",
-   "title_orig": "Washington can start delivering on affordability by rejecting Trump’s tariffs"
+   "title_orig": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts"
   },
   {
    "title": "トランプメディアグループ、ビットコインへの賭けが薄れる中、10億ドルの債務危機を見つめる",
@@ -109,16 +169,6 @@
    "published": "2026-11-14T22:00:09+09:00",
    "lang": "en",
    "title_orig": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades"
-  },
-  {
-   "title": "これら6つのボロボロのAI株は大きく回復する可能性があるとアナリストは言う",
-   "link": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
-   "summary": "バーンステ氏によると、データセンターをめぐる選挙後のパニックは広範なハイテク株の下落につながったが、一部の銘柄は見かけよりも孤立しているという",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-14T22:00:00+09:00",
-   "lang": "en",
-   "title_orig": "These 6 battered AI stocks could bounce back big, an analyst says"
   },
   {
    "title": "縦型ショートドラマ トラブル急増",
@@ -139,16 +189,6 @@
    "title_orig": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home"
   },
   {
-   "title": "最近中国で最も注目されている銘柄には共通点がある。それは羊のような名前だということだ。",
-   "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-   "summary": "未羊年を前に、水産加工業者、照明メーカー、家電メーカーの株価が急騰した。投資家の意欲はほとんどない",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-14T21:00:00+09:00",
-   "lang": "en",
-   "title_orig": "China’s hottest stocks these days have one thing in common: names that sound like sheep"
-  },
-  {
    "title": "ゼレンスキー氏、米国はドンバス離脱合意に向けてNATO加盟を示唆",
    "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
    "summary": "ワシントンが戦争終結の条件を模索する中、大統領はウクライナ国民への提案を受け入れると発言",
@@ -157,14 +197,6 @@
    "published": "2026-11-14T20:41:15+09:00",
    "lang": "en",
    "title_orig": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says"
-  },
-  {
-   "title": "上海拠点に禁輸半導体か　前ＣＥＯと不倫疑惑女性の企業、各国が調査―エヌビディア",
-   "link": "https://www.jiji.com/jc/article?k=2026111400314&g=int&m=rss",
-   "summary": "",
-   "source": "時事通信",
-   "category": "報道機関",
-   "published": "2026-11-14T20:31:00+09:00"
   },
   {
    "title": "Nvidia、ジェンスン・ファン氏の失脚後に訴訟の可能性にさらされる",
@@ -335,16 +367,6 @@
    "published": "2026-11-14T11:00:00+09:00"
   },
   {
-   "title": "長期成長を目指す高配当株14銘柄を厳選",
-   "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-   "summary": "Value87 Investのジョン・バッキンガム氏によると、これらの銘柄は魅力的な配当金を特徴としており、企業の本質的価値に比べて低い水準で取引されているという。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-14T10:58:00+09:00",
-   "lang": "en",
-   "title_orig": "14 dividend stocks selected for long-term growth"
-  },
-  {
    "title": "ニデック、半期報告書の提出延期を検討　会計処理の作業に遅れ",
    "link": "https://www.asahi.com/articles/ASVCG0F4FVCGPLFA001M.html?ref=rss",
    "summary": "",
@@ -455,32 +477,12 @@
    "published": "2026-11-14T08:30:00+09:00"
   },
   {
-   "title": "「100歳まで生きると思うと恐ろしい」：社会保障は巨大なネズミ講なのか？",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "summary": "社会保障に対する人口動態はすでに「逃げ」ている。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-14T08:12:00+09:00",
-   "lang": "en",
-   "title_orig": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-  },
-  {
    "title": "視聴率50％超えも今は昔…若者離れが進む｢紅白歌合戦｣が再び\"国民行事\"として返り咲くために欠かせない《3つの生》 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/964305?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "生歌･生放送･生演奏――｢3生｣が薄れつつある現代の紅白歌合戦。しかし､それこそが本来の紅白の魅力であり､音楽の本質を伝える大切な要素です。便利なだけでは響かない､\"生\"の迫力に､今こそ回帰するべき…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-14T08:00:00+09:00"
-  },
-  {
-   "title": "メディケアにサインアップするための専門家による 4 つのヒント",
-   "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-   "summary": "A day in the life of a Medicare counselor",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-14T07:45:00+09:00",
-   "lang": "en",
-   "title_orig": "4 expert tips for signing up for Medicare"
   },
   {
    "title": "WSJドル指数は今週0.84％上昇し98.34となった。",
@@ -945,32 +947,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-12T08:00:00+09:00"
-  },
-  {
-   "title": "臨床試験や医薬品の承認に関連した予測市場が議員らの怒りを買う",
-   "link": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
-   "summary": "アンジェラ・アルズブルックス上院議員とロン・ワイデン上院議員は、市場からのリスクを軽減するために保健社会福祉省がどのような措置を講じてきたかを尋ねている。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-12T04:16:23+09:00",
-   "lang": "en",
-   "title_orig": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire"
-  },
-  {
-   "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）の開催について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/singi/20261118.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-12T02:00:00+09:00"
-  },
-  {
-   "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（令和８事務年度第１回）議事要旨について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/digital_2026/gizi/261020.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-12T02:00:00+09:00"
   }
  ]
 }
