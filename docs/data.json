@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:06:24.769622+09:00",
+ "generated_at": "2026-11-17T03:26:06.412766+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,97 @@
  "errors": [],
  "items": [
   {
+   "title": "Nvidia’s stock extends declines following harsh words from the U.S. government",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+   "summary": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T03:11:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+   "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+   "summary": "Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-17T03:02:42+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "What’s the most tax-efficient way to donate to charity?",
+   "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+   "summary": "How to make your donations beneficial for both you and the recipient",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T02:55:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Major U.S. Stock Indexes Slide as Nvidia Fallout Continues to Ripple Through Markets",
+   "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
+   "summary": "Tech stocks led markets lower as the fallout from a spying scandal at Nvidia continued to unfold.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-17T02:55:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
+   "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+   "summary": "The Federal Reserve staff is in the early days of developing various scenarios of how artificial intelligence’s growing role in business and daily life will impact the economy, Fed Chairman Kevin Wars",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T02:53:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+   "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+   "summary": "",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-17T02:29:04+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "US tech stocks slide amid Nvidia fallout",
+   "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+   "summary": "Tech-heavy Nasdaq 100 fell more than 2 per cent in afternoon trading",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-17T02:22:21+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "エリック・トランプ支援のロボット兵士スタートアップ、創業者が自宅購入のために会社から460万ドルを借りて従業員に給料を支払えない",
+   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+   "summary": "エリック・トランプ氏が支援するロボット新興企業ファウンデーション・フューチャー・インダストリーズは資金が不足しており、最高経営責任者（CEO）のサンカエット・パタック氏が4.6ドルの報酬を巡って厳しい追及に直面しているため、給与が支払われていない。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-17T02:14:13+09:00",
+   "lang": "en",
+   "title_orig": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home"
+  },
+  {
+   "title": "Russia’s richest woman hit by EU sanctions",
+   "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
+   "summary": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-17T02:11:52+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
+   "link": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=rss_markets_main",
+   "summary": "Land & Buildings says the company should sell homes and buy back shares after a ban on large investors buying single-family homes threatens to limit its growth.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-17T02:10:00+09:00",
+   "lang": "en"
+  },
+  {
    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
    "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
    "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
@@ -75,6 +166,233 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-11-17T02:00:00+09:00"
+  },
+  {
+   "title": "「彼は私の計画を幻想だと言います。」私の夫は、私たちには年間20万ドルの退職金を支払う余裕はないと言います。彼は安っぽいのでしょうか？",
+   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+   "summary": "「退職金口座には200万ドルの貯蓄があり、130万ドル相当の家もあります。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T02:00:00+09:00",
+   "lang": "en",
+   "title_orig": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
+  },
+  {
+   "title": "Oil, Gas Extend Losses Despite Mideast Risks",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
+   "summary": "Oil prices extended losses as analysts and experts say the global market faces a growing surplus next year, despite persistent risks in the Middle East.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-17T01:55:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "金は上昇するも価格は低迷",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
+   "summary": "金は先週4.5％下落した後、若干上昇し、やや持ち直したが、1年ぶりの安値付近で推移している。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-17T01:47:00+09:00",
+   "lang": "en",
+   "title_orig": "Gold Ticks Up But Prices Stay Weak"
+  },
+  {
+   "title": "Nvidia は、ここ数年でウォール街で最も期待されている決算発表に向けて準備を進めている",
+   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+   "summary": "ジェンセン・フアン氏の突然の辞任により、火曜日の決算会見は「同社の歴史の中で最も重要な」ものとなった。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T01:37:00+09:00",
+   "lang": "en",
+   "title_orig": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
+  },
+  {
+   "title": "Former Buyout Execs Launch Secondaries Firm to Target Hidden-Gem Assets in Asia",
+   "link": "https://www.wsj.com/pro/private-equity/former-buyout-execs-launch-secondaries-firm-to-target-hidden-gem-assets-in-asia-546861fd?mod=rss_markets_main",
+   "summary": "Two former buyout executives have launched an Asia-focused secondaries investment firm to target the region’s backlog of long-held private-equity investments.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-17T01:25:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "I am turning 18 next month and want to start investing. What do I do first?",
+   "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
+   "summary": "“I have not tried investing before.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T01:20:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
+   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+   "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-17T01:17:39+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
+   "link": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
+   "summary": "SpaceX had a mostly successful Starship launch, while an Amazon partner hit a setback.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T00:59:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "These 13 S&P 500 stocks can rise up to 70% over the next year, according to analysts",
+   "link": "https://www.marketwatch.com/story/these-13-s-p-500-stocks-can-rise-up-to-70-over-the-next-year-according-to-analysts-21119af9?mod=mw_rss_topstories",
+   "summary": "Consensus earnings estimates have continued to increase, especially for semiconductor manufacturers whose share have declined significantly since the end of September, which underscores several calls ",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-17T00:47:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "米国10年国債は押し目買いとして魅力的",
+   "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
+   "summary": "１０年米国債利回りは低下し、ＴＤセキュリティーズは、１０年債利回りは弱含みの局面では買う価値があると述べた。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-17T00:32:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. 10-Year Treasurys Seen Attractive to Buy on Dips"
+  },
+  {
+   "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
+   "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
+   "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-17T00:10:54+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Jefferies fund eased lending checks on iron ore traders accused of fraud",
+   "link": "https://www.ft.com/content/b7655aab-8a43-4046-ab61-d56ec4843006?syn-25a6b1a6=1",
+   "summary": "Point Bonita dropped requirement for Glencore to verify invoices bought from Radiant World and Sapphire",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-17T00:02:35+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. Natural Gas Futures Start Week Lower",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
+   "summary": "U.S. natural gas futures turned lower as production picks up to meet the first significant cold spell of the heating season.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-17T00:02:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Six-year-olds: Novo’s new frontier for weight-loss drugs",
+   "link": "https://www.ft.com/content/d08ee4e3-210d-45d2-92be-2b98a8b150b6?syn-25a6b1a6=1",
+   "summary": "Wegovy helped almost 8 in 10 children as young as 6 lose more than 10% of their BMI in trial",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-17T00:00:04+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "FRBの引き締め見通しがドルを支援",
+   "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
+   "summary": "米連邦準備理事会（ＦＲＢ）による追加利上げの見通しに支えられ、ドルは１９カ月ぶりの高値に上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-16T23:57:00+09:00",
+   "lang": "en",
+   "title_orig": "Fed Tightening Prospect Supports Dollar"
+  },
+  {
+   "title": "独コメルツ銀買収を承認　伊金融大手が推進―欧州委",
+   "link": "https://www.jiji.com/jc/article?k=2026111601016&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-11-16T22:37:00+09:00"
+  },
+  {
+   "title": "Why Putin, Trump and Xi cannot be the new ‘big three’",
+   "link": "https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1",
+   "summary": "The leaders of the US, China and Russia cannot carve up the world between them, even if they wanted to",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-16T21:22:48+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "ラトニック氏は、NVIDIAのスパイスキャンダルをめぐって疑問に直面している。彼の息子の会社は半導体メーカーと深いつながりがある",
+   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+   "summary": "Nvidia CEOとしてのジェンスン・フアン氏の辞任により、ハワード・ラトニック商務長官とそのチップに対する彼の家族の経済的つながりに新たな厳しい目が向けられることになった",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-16T21:14:46+09:00",
+   "lang": "en",
+   "title_orig": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker"
+  },
+  {
+   "title": "ETFの専門家が語る、NVIDIAの混乱と民主党議会はAI取引をどう再構築するのか",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+   "summary": "ETFの専門家らは、エヌビディアの指導部の混乱と民主党の議会支配により、AI需要が他のビッグテック株やライバル会社の利益にシフトする可能性があると述べている。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-16T21:13:23+09:00",
+   "lang": "en",
+   "title_orig": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts"
+  },
+  {
+   "title": "AI熱狂の陰りで今年最大規模のIPOが投資家の資金を失う",
+   "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
+   "summary": "10大浮遊選鉱は4年間上昇した後、2026年には平均20％以上下落",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-16T20:47:31+09:00",
+   "lang": "en",
+   "title_orig": "Biggest IPOs this year lose investors money as AI frenzy fades"
+  },
+  {
+   "title": "7～9月期GDP、1年ぶりマイナス成長　個人消費に弱さ",
+   "link": "https://www.asahi.com/articles/ASVCJ048GVCJULFA01MM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T20:46:34+09:00"
+  },
+  {
+   "title": "マンション「1年以内の投機取引」税率10％上乗せ検討　価格高騰で",
+   "link": "https://www.asahi.com/articles/ASVCJ3DYSVCJULFA015M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T19:32:54+09:00"
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T19:23:34+09:00"
+  },
+  {
+   "title": "スカイライナー顧客情報337万件が流出か　京成電鉄、座席予約停止",
+   "link": "https://www.asahi.com/articles/ASVCJ32J9VCJUDCB00HM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T19:00:00+09:00"
+  },
+  {
+   "title": "【資産2億円の個人投資家】億り人が教える投資の学び方／個別銘柄の選び方は？／投資レベル別のおすすめ投資本【達人に密着！本の選び方】 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/965015?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "資産2億円の投資の達人・東山一悟氏は本をどのように選んでいるのか。投資本を150〜200冊ほど読み、投資を学んできた東山さんの本選びに密着しました。本は、ビジネスパーソンにとって最強ともいえる“知識…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-16T19:00:00+09:00"
   },
   {
    "title": "その他,大手金融機関グループ等の取組状況（運用力向上・ガバナンス強化等）について更新しました。",
@@ -99,6 +417,102 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-11-16T19:00:00+09:00"
+  },
+  {
+   "title": "いきステに復活の兆し 改革の成果",
+   "link": "https://news.yahoo.co.jp/pickup/6602820?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-16T18:51:28+09:00"
+  },
+  {
+   "title": "マンション短期売買 課税強化検討",
+   "link": "https://news.yahoo.co.jp/pickup/6602817?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-16T18:40:24+09:00"
+  },
+  {
+   "title": "トランプ氏のアジア訪問､中間選挙大敗とスパイ疑惑によって｢重要性の低い首脳会談｣が｢注目の会談｣に格上げ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/965009?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "米中間の緊張が高まる中､トランプ大統領は中国の習近平国家主席と､極めて重要な会談に臨みます。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-16T18:30:00+09:00"
+  },
+  {
+   "title": "ジェンスン･フアン氏､米大手法律事務所ポール･ワイスと契約か…不祥事の危機に直面した企業や経営幹部が長年頼りに | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/965008?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "米半導体大手エヌビディアCEOを辞任したジェンスン･フアン氏が大物法律事務所を起用するようです。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-16T18:20:00+09:00"
+  },
+  {
+   "title": "タイムズカーの会員数 1.4万人減",
+   "link": "https://news.yahoo.co.jp/pickup/6602816?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-16T18:17:39+09:00"
+  },
+  {
+   "title": "ニデック、半期報告書の提出を1カ月延期　会計不正に伴う訂正作業で",
+   "link": "https://www.asahi.com/articles/ASVCJ2SXXVCJPLFA001M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T18:09:13+09:00"
+  },
+  {
+   "title": "ドコモでまた通信障害、今月3度目　こだわりの「真の5G」拡大に影",
+   "link": "https://www.asahi.com/articles/ASVCJ2R82VCJULFA006M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T18:00:00+09:00"
+  },
+  {
+   "title": "高田・日銀審議委員「利上げペース速める新局面」物価上昇リスク強調",
+   "link": "https://www.asahi.com/articles/ASVCJ2JT8VCJULFA008M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T17:29:49+09:00"
+  },
+  {
+   "title": "立民、職員に退職勧奨　財政難、希望退職集まらず",
+   "link": "https://www.jiji.com/jc/article?k=2026111600748&g=pol&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-11-16T17:28:00+09:00"
+  },
+  {
+   "title": "前澤友作がメタ社相手の｢詐欺広告｣訴訟で負けた…勝者の主張する《掲載から2日以内で削除》で被害は本当に防げるのか | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/964968?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "実業家･前澤友作氏が\"ニセ投資広告\"問題でメタ社を訴えた裁判。肖像権侵害は認められたものの､差し止めや損害賠償請求は棄却され､SNS上には判決に対する｢違和感｣が広がっています。AI時代における広告…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-16T17:15:00+09:00"
+  },
+  {
+   "title": "ドコモ、5Gサービスで通信障害、今月3度目　音声通話などに支障",
+   "link": "https://www.asahi.com/articles/ASVCJ0P5PVCJULFA003M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T17:07:21+09:00"
+  },
+  {
+   "title": "関西電力、米国での蓄電所事業に進出　東部最大級の蓄電所に出資",
+   "link": "https://www.asahi.com/articles/ASVCJ2JSSVCJPLFA002M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-16T17:06:40+09:00"
   },
   {
    "title": "ジェンスン･フアンのスキャンダルで揺らぐ\"AIの中央銀行\"　エヌビディア新経営陣に潜む大きなリスク | 政治・経済・投資 | 東洋経済オンライン",
@@ -133,34 +547,6 @@
    "published": "2026-11-16T17:00:00+09:00"
   },
   {
-   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
-   "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-16T16:53:44+09:00"
-  },
-  {
-   "title": "FRBの引き締め見通しがドルを支援",
-   "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
-   "summary": "米連邦準備理事会（ＦＲＢ）による追加利上げの見通しに支えられ、ドルは１９カ月ぶりの高値に上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T16:45:00+09:00",
-   "lang": "en",
-   "title_orig": "Fed Tightening Prospect Supports Dollar"
-  },
-  {
-   "title": "米国債利回りは低下するもFRBの利上げ見通しが焦点",
-   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-decline-but-fed-rate-hike-prospects-in-focus-1257629b?mod=rss_markets_main",
-   "summary": "月曜日のアジア市場で米国債利回りは低下したが、これは先週の大幅な上昇に続き、暫定的に安定する兆しだ。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T16:29:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus"
-  },
-  {
    "title": "日経平均は反落 AI株が下げ主導",
    "link": "https://news.yahoo.co.jp/pickup/6602802?source=rss",
    "summary": "",
@@ -185,24 +571,6 @@
    "published": "2026-11-16T16:00:00+09:00"
   },
   {
-   "title": "PS5の世界出荷1億台超 なぜ成功",
-   "link": "https://news.yahoo.co.jp/pickup/6602798?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-16T15:35:14+09:00"
-  },
-  {
-   "title": "完璧な売り出し",
-   "link": "https://www.ft.com/content/a61f1fe9-55d9-498e-9ecc-c3a66980d63a?syn-25a6b1a6=1",
-   "summary": "さらに、Anthropic の IPO は急速に進んでいます",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T15:30:01+09:00",
-   "lang": "en",
-   "title_orig": "The perfect sell-off"
-  },
-  {
    "title": "GDP、世界に占める日本の割合3%に縮小　1人あたりは韓国と差",
    "link": "https://www.asahi.com/articles/ASVCJ1TXWVCJULFA02NM.html?ref=rss",
    "summary": "",
@@ -219,122 +587,12 @@
    "published": "2026-11-16T15:30:00+09:00"
   },
   {
-   "title": "米国のチップ下落が波及し、アジア株が下落",
-   "link": "https://www.wsj.com/finance/stocks/asian-equities-fall-as-u-s-chip-maker-share-selloff-spills-over-f6edc8d5?mod=rss_markets_main",
-   "summary": "金曜日の米国のチップの下落はアジアにも広がり、台湾のチップおよびハードウェアメーカーの急落を受けて台湾のタイエックスが地域市場をリードし、下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T15:16:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Equities Drop as U.S. Chip Selloff Spills Over"
-  },
-  {
-   "title": "米国10年国債は押し目買いとして魅力的",
-   "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
-   "summary": "１０年米国債利回りは低下し、ＴＤセキュリティーズは、１０年債利回りは弱含みの局面では買う価値があると述べた。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T15:14:00+09:00",
-   "lang": "en",
-   "title_orig": "U.S. 10-Year Treasurys Seen Attractive to Buy on Dips"
-  },
-  {
-   "title": "仮想通貨は下落後、今週は下落スタートへ",
-   "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-   "summary": "今週の仮想通貨相場は低迷で始まり、リスク選好度は依然として抑制されているため、ビットコインとイーサリアムは再び主要な水準を下回って取引されている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T14:37:00+09:00",
-   "lang": "en",
-   "title_orig": "Crypto off to Downbeat Start This Week After Selloff"
-  },
-  {
-   "title": "ブリュッセル、EU予算に対して450億ユーロのウクライナ融資を提案へ",
-   "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1",
-   "summary": "来年のキエフの資金不足を埋めるための計画は水曜日に加盟国に提示される予定である",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T14:00:22+09:00",
-   "lang": "en",
-   "title_orig": "Brussels to propose €45bn Ukraine loan borrowed against EU budget"
-  },
-  {
-   "title": "世界全体は長いアメリカ",
-   "link": "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1",
-   "summary": "そして近いうちにその執着の代償を支払わなければならないかもしれない",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T14:00:11+09:00",
-   "lang": "en",
-   "title_orig": "The whole world is long America"
-  },
-  {
-   "title": "AI熱狂の陰りで今年最大規模のIPOが投資家の資金を失う",
-   "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
-   "summary": "10大浮遊選鉱は4年間上昇した後、2026年には平均20％以上下落",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T14:00:11+09:00",
-   "lang": "en",
-   "title_orig": "Biggest IPOs this year lose investors money as AI frenzy fades"
-  },
-  {
-   "title": "移民が来なくなったらどうなるのでしょうか？",
-   "link": "https://www.ft.com/content/12f76b96-6ef9-40fb-924f-60c348935a21?syn-25a6b1a6=1",
-   "summary": "富裕国に到着する移民の数が激減し、急速な高齢化による財政難がさらに深刻化",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T14:00:03+09:00",
-   "lang": "en",
-   "title_orig": "What happens when the migrants stop coming?"
-  },
-  {
-   "title": "日本経済は1年ぶりに縮小",
-   "link": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
-   "summary": "Weak consumer spending and record-breaking rains damp GDP growth and complicate interest rate plans",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T13:59:28+09:00",
-   "lang": "en",
-   "title_orig": "Japan’s economy contracts for the first time in a year"
-  },
-  {
-   "title": "10月の中国の経済活動は予想以上に減速",
-   "link": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
-   "summary": "Beijing has pushed to speed up budget spending to overcome weaker growth",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T13:38:02+09:00",
-   "lang": "en",
-   "title_orig": "China’s economic activity slows more than expected in October"
-  },
-  {
-   "title": "会計学生のAI不正行為で韓国の試験騒動が巻き起こる",
-   "link": "https://www.ft.com/content/5cf11f3d-0d22-4eb5-8279-7533e161e4d0?syn-25a6b1a6=1",
-   "summary": "ソウル市、毎年恒例の大学入学試験の数日前に弾圧を約束",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-16T13:36:17+09:00",
-   "lang": "en",
-   "title_orig": "Accounting student’s AI cheating sparks South Korean exam furore"
-  },
-  {
-   "title": "分譲マンション賃料過去最高 東京",
-   "link": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-16T13:30:28+09:00"
-  },
-  {
-   "title": "子供のいない兄は、唯一の妹を自分の意志で切り捨てました。 I’ll get everything. Do I tell her?",
-   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-   "summary": "「兄の希望を尊重するか、妹に対して公平であるかで迷っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T13:15:00+09:00",
-   "lang": "en",
-   "title_orig": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
+   "title": "【東洋経済「マーケット解説」生配信】2027年どうなる日本株／マネックス証券･広木隆氏が解説／AI･半導体株の注目点／トランプ大敗後のアメリカが向かう先／2027年に伸びるセクターは？ | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/965010?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "【出演者】広木隆（ひろき・たかし）マネックス証券　チーフ・ストラテジスト上智大学外国語学部卒。神戸大学大学院・経済学研究科博士後期課程修了。博士（経済学）。社会構想大学院大学・特任教授。国内銀…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-11-16T14:58:00+09:00"
   },
   {
    "title": "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）",
@@ -363,32 +621,12 @@
    "published": "2026-11-16T12:35:00+09:00"
   },
   {
-   "title": "金は上昇するも価格は低迷",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
-   "summary": "金は先週4.5％下落した後、若干上昇し、やや持ち直したが、1年ぶりの安値付近で推移している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T12:33:00+09:00",
-   "lang": "en",
-   "title_orig": "Gold Ticks Up But Prices Stay Weak"
-  },
-  {
    "title": "若者に広がる投資熱 その実態は",
    "link": "https://news.yahoo.co.jp/pickup/6602779?source=rss",
    "summary": "",
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-16T12:11:43+09:00"
-  },
-  {
-   "title": "あなたの 401(k) の大部分は Nvidia に投資される可能性があります",
-   "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-   "summary": "コンピューターチップ大手のスキャンダルはまさにS&P 500の不祥事だ。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T12:11:00+09:00",
-   "lang": "en",
-   "title_orig": "A big chunk of your 401(k) is likely invested in Nvidia"
   },
   {
    "title": "フアン氏復帰求める署名 16万人超",
@@ -447,40 +685,12 @@
    "published": "2026-11-16T11:30:00+09:00"
   },
   {
-   "title": "AI 経済のオープンな小切手帳としての Nvidia の時代も終わり",
-   "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388?mod=rss_markets_main",
-   "summary": "暫定最高経営責任者（CEO）のコレット・クレス氏は、エヌビディアがコンピューティング取引や新興企業への投資に積極的に資金提供したことを受けて、取引を抑制するとみられている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T11:21:00+09:00",
-   "lang": "en",
-   "title_orig": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered"
-  },
-  {
-   "title": "ドコモ、5Gサービスで通信障害、今月3度目　音声通話などに支障",
-   "link": "https://www.asahi.com/articles/ASVCJ0P5PVCJULFA003M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-16T11:07:18+09:00"
-  },
-  {
    "title": "レストランの星の数はどうやって決まる？　口コミか専門家の評価か",
    "link": "https://www.asahi.com/articles/ASVCB038QVCBOXIE003M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-11-16T11:00:00+09:00"
-  },
-  {
-   "title": "AI貿易とウォール街の再配線を揺るがした月",
-   "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
-   "summary": "選挙夜のUターンとスパイスキャンダルは、「簡単な」投資時代を止めた熱狂的な取引の陰謀だった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-16T11:00:00+09:00",
-   "lang": "en",
-   "title_orig": "The Month That Rocked the AI Trade and Rewired Wall Street"
   },
   {
    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月13日(金曜日))",
@@ -507,14 +717,6 @@
    "published": "2026-11-16T10:00:00+09:00"
   },
   {
-   "title": "政府調達情報",
-   "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-11-16T10:00:00+09:00"
-  },
-  {
    "title": "入札、落札結果情報（物品・役務）",
    "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
    "summary": "",
@@ -531,36 +733,12 @@
    "published": "2026-11-16T09:42:07+09:00"
   },
   {
-   "title": "実質GDP、1年ぶりマイナス　個人消費が不振、スーパーなど影響",
-   "link": "https://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-16T09:32:00+09:00"
-  },
-  {
    "title": "国債金利情報(令和8年11月13日)",
    "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-11-16T09:30:00+09:00"
-  },
-  {
-   "title": "7-9月期実質GDP 4期ぶりマイナス",
-   "link": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-16T09:24:20+09:00"
-  },
-  {
-   "title": "7-9月の実質GDP、年0.1%減　4期ぶりのマイナス成長",
-   "link": "https://www.asahi.com/articles/ASVCJ00NBVCJKJLA001M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-16T09:12:05+09:00"
   },
   {
    "title": "世界地理を学ぶきっかけは\"カーニバル\"!?　子どもも親も興味が湧くオドロキの東大式｢社会科の勉強法｣とは | キャリア・教育 | 東洋経済オンライン",
@@ -579,16 +757,6 @@
    "published": "2026-11-16T08:30:00+09:00"
   },
   {
-   "title": "「酸っぱい味がする」: 私の年老いた母は、いとこに車の修理代として 800 ドルを渡しました。心配する必要がありますか？",
-   "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-   "summary": "「年配の人が恩着せがましいと感じやすいことはわかっていますが、そうなってほしくないのです。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T08:30:00+09:00",
-   "lang": "en",
-   "title_orig": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
-  },
-  {
    "title": "存在感が薄い\"非モテ\"でも\"モテ系\"に変わる…コミュニケーション研究の第一人者が教える｢視線｣と｢観察力｣のコツ | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/963339?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "初対面で一気に距離を縮めるカギは､科学的に裏付けられた｢視線｣と｢観察力｣にあるようです。\"見つめすぎ\"も\"見なさすぎ\"もNGな日本人特有の視線術や､｢モテ系｣の観察ポイントを徹底解説します。",
@@ -603,16 +771,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-16T08:00:00+09:00"
-  },
-  {
-   "title": "未亡人は亡くなったパートナーの家を継子たちに任せるべきでしょうか、それとも継子たちとの連絡を絶つべきでしょうか?",
-   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-   "summary": "「今家を売って収益を分割するよりも、それほど抜本的な措置ではないでしょう。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T08:00:00+09:00",
-   "lang": "en",
-   "title_orig": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
   },
   {
    "title": "ジェンスン･フアン氏､エヌビディアCEOへの復帰を側近らと協議…後任の検討対象に｢復帰の可能性｣も含めるべきだと主張 | 政治・経済・投資 | 東洋経済オンライン",
@@ -639,80 +797,12 @@
    "published": "2026-11-16T07:28:14+09:00"
   },
   {
-   "title": "18歳になれば親は勝手に売却できない…ジュニアNISAのリベンジ｢こどもNISA｣を教育費に使いたい親の\"重大盲点\" | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/964254?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "2027年から始まる｢こどもNISA｣。教育費準備に最適だと思いきや､実は親が自由に引き出せず､子ども名義の資産となる落とし穴が。はたして本当に教育資金の王道なのか､それとも子どもの資産形成や投資教…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-16T07:15:00+09:00"
-  },
-  {
-   "title": "私は健康？歩行データをAI解析　豊田合成、足裏から挑む予防医療",
-   "link": "https://www.asahi.com/articles/ASVC60PSSVC6ULFA00FM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-16T07:00:00+09:00"
-  },
-  {
-   "title": "｢一緒にラオスに行きませんか｣…\"怪しい誘い\"にのった福岡の中小企業が国連と歩んだ｢途上国支援の軌跡｣ | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/963285?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "福岡にある中小企業の技術が､アジアやアフリカの国々の課題を解決しています。いったいどんな技術なのでしょうか。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-16T07:00:00+09:00"
-  },
-  {
    "title": "AI人材「85％不足」の時代　ゾーホーが「自前の学校」で技術者を育てる理由",
    "link": "https://www.itmedia.co.jp/business/articles/2611/16/news025.html",
    "summary": "巨大IT企業と同じレベルの採用競争に加われない企業は、AIを担う人材をどう育てるのか。短期的な利益や採用競争に巻き込まれず、10年単位で技術と人を磨き続ける独自の人材育成とは。インドに本社を置き、世界100万社以上にサービスを提供するゾーホーAI研究責任者のラムプラカーシュ・ラーマムールティー氏に聞いた。",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-16T07:00:00+09:00"
-  },
-  {
-   "title": "｢時給換算したらパートとほぼ同じ…｣昇給したのに4割超が不満を抱く\"割に合わない正社員\"の悲鳴 彼らの｢静かな離脱｣ | キャリア・教育 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/964433?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "昇給しても正社員の満足度が高まらない現実。その背景には､責任と給与のバランスが見えにくい問題が潜んでいます。職場に広がるモヤモヤの正体と､納得できる処遇設計のヒントを探ります。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-16T06:45:00+09:00"
-  },
-  {
-   "title": "Nvidia は、ここ数年でウォール街で最も期待されている決算発表に向けて準備を進めている",
-   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-   "summary": "ジェンセン・フアン氏の突然の辞任により、火曜日の決算会見は「同社の歴史の中で最も重要な」ものとなった。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T06:32:00+09:00",
-   "lang": "en",
-   "title_orig": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
-  },
-  {
-   "title": "格安航空会社はファーストクラスの座席と高速Wi-Fiを備えて高級化を進めている",
-   "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-   "summary": "飾り気のないことは忘れてください。フロンティアとジェットブルーは高級チラシを追い求めており、ウォール街はこれに賛同しています。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T06:31:00+09:00",
-   "lang": "en",
-   "title_orig": "Budget airlines are going upscale with first-class seats and faster wifi"
-  },
-  {
-   "title": "『コンビニ人間』世界300万部､『BUTTER』200万部ヒット…欧米人が日本の小説にハマる\"意外な理由\"を仕掛け人が明かす | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/964395?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "村田沙耶香『コンビニ人間』や柚木麻子『BUTTER』の世界的ヒットに象徴される日本文学の海外人気。その舞台裏には､長野の小さな町から作家と翻訳者を繋ぎ続ける翻訳出版プロデューサー･近谷浩二さんの存在…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-16T06:30:00+09:00"
-  },
-  {
-   "title": "｢ずっと誰かのせいにしてた｣空手も演技も恋愛も挫折した59歳元ハリウッド俳優が《日本文学を輸出する忍者》になったワケ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/964394?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "静かな長野の田舎町で､本屋と忍者の二つの顔を持って暮らしている近谷浩二さん。かつてはハリウッドで忍者役に挑み､今は世界に日本文学を届け続ける翻訳出版プロデューサーです。その\"規格外\"の人生と､独自の…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-11-16T06:30:00+09:00"
   },
   {
    "title": "なぜセカストは「国内ユニクロの店舗数」を超えられたのか？　急拡大する中古市場の深層",
@@ -731,128 +821,12 @@
    "published": "2026-11-16T05:30:00+09:00"
   },
   {
-   "title": "私は父から140万ドルを相続しました。 25年間連れ添った夫に結婚後の合意を求めるのは間違っているでしょうか?",
-   "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-   "summary": "「彼は娘に自分の財産の一部を相続させたいと常々言っていましたが、私はそれに反対したことは一度もありません。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T05:30:00+09:00",
-   "lang": "en",
-   "title_orig": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-  },
-  {
-   "title": "「彼は私の計画を幻想だと言います。」私の夫は、私たちには年間20万ドルの退職金を支払う余裕はないと言います。彼は安っぽいのでしょうか？",
-   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-   "summary": "「退職金口座には200万ドルの貯蓄があり、130万ドル相当の家もあります。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-16T05:00:00+09:00",
-   "lang": "en",
-   "title_orig": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
-  },
-  {
-   "title": "ラトニック氏は、NVIDIAのスパイスキャンダルをめぐって疑問に直面している。彼の息子の会社は半導体メーカーと深いつながりがある",
-   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-   "summary": "Nvidia CEOとしてのジェンスン・フアン氏の辞任により、ハワード・ラトニック商務長官とそのチップに対する彼の家族の経済的つながりに新たな厳しい目が向けられることになった",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-16T04:58:21+09:00",
-   "lang": "en",
-   "title_orig": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker"
-  },
-  {
-   "title": "ハンズ渋谷店、営業48年で閉店　客ら惜しむ「渋谷が変わる寂しさ」",
-   "link": "https://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-15T20:28:01+09:00"
-  },
-  {
-   "title": "遺産相続の主導権狙う、きょうだい間の「親の囲い込み」　使い込みも",
-   "link": "https://www.asahi.com/articles/ASVC411ZXVC4ULLI005M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-15T11:00:00+09:00"
-  },
-  {
-   "title": "マンション向け債券、金利上昇で応募2倍に　資金運用に動く管理組合",
-   "link": "https://www.asahi.com/articles/ASVCC2RW2VCCULFA004M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-15T08:00:00+09:00"
-  },
-  {
-   "title": "ETFの専門家が語る、NVIDIAの混乱と民主党議会はAI取引をどう再構築するのか",
-   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-   "summary": "ETFの専門家らは、エヌビディアの指導部の混乱と民主党の議会支配により、AI需要が他のビッグテック株やライバル会社の利益にシフトする可能性があると述べている。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-15T00:50:43+09:00",
-   "lang": "en",
-   "title_orig": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts"
-  },
-  {
-   "title": "エリック・トランプ支援のロボット兵士スタートアップ、創業者が自宅購入のために会社から460万ドルを借りて従業員に給料を支払えない",
-   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-   "summary": "エリック・トランプ氏が支援するロボット新興企業ファウンデーション・フューチャー・インダストリーズは資金が不足しており、最高経営責任者（CEO）のサンカエット・パタック氏が4.6ドルの報酬を巡って厳しい追及に直面しているため、給与が支払われていない。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-14T21:00:01+09:00",
-   "lang": "en",
-   "title_orig": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home"
-  },
-  {
    "title": "スパイ対策人材に年収6億円　NVIDIAトップ辞任で顕在化したAI企業「元諜報員」採用の過熱",
    "link": "https://www.itmedia.co.jp/business/articles/2611/14/news006.html",
    "summary": "急成長するAI企業で、元CIAやNSAなど政府情報機関出身者の採用が過熱している。年収は数億円規模に上るケースもある。背景にあるのは、NVIDIAのジェンスン・フアンCEOが中国スパイとの関係疑惑で辞任に追い込まれたような、国家機関による経営トップへの人的諜報活動（ヒューマンインテリジェンス）への危機感だ。サイバー対策に偏重しがちな企業防衛の死角と、過酷な「AI覇権・スパイ戦争」の裏側とは？",
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-11-14T07:00:00+09:00"
-  },
-  {
-   "title": "令和８年金融商品取引法等改正に係る政令・内閣府令案等（サステナビリティ情報の開示・保証、スタートアップ企業への資金供給の促進関係）について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/shouken/20261113/20261113.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-14T02:00:00+09:00"
-  },
-  {
-   "title": "「株式市場構造の在り方に関する有識者会議」（第１回）議事次第について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/kabushikishijoukouzou/shiryou/20261113.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-14T02:00:00+09:00"
-  },
-  {
-   "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
-   "link": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-14T01:00:00+09:00"
-  },
-  {
-   "title": "シカゴ連銀のグールズビー氏、中央銀行はインフレに関して「間違いなくやるべき仕事がある」と発言",
-   "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-   "summary": "同政策担当者は最新のインフレ統計について懸念を表明し、中央銀行はおそらく行動を起こす必要があるだろうとCNBCに語った。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-13T23:22:07+09:00",
-   "lang": "en",
-   "title_orig": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation"
-  },
-  {
-   "title": "片山大臣とシディ・ウルド・ターアフリカ開発銀行総裁の面会（令和8年11月13日）",
-   "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261113.html",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-11-13T19:50:00+09:00"
   }
  ]
 }
