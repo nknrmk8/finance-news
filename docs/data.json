@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:29:32.726538+09:00",
+ "generated_at": "2026-11-21T03:42:53.956575+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,340 @@
  "errors": [],
  "items": [
   {
+   "title": "AI急落で市場の2026年の株価見通しは暗くなる",
+   "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+   "summary": "かつては70％を超えていたS&P500指数が8,000を超える確率は、カルシのプラットフォームでは極めて低い。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-21T03:41:12+09:00",
+   "lang": "en",
+   "title_orig": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off"
+  },
+  {
+   "title": "「私は専業主婦です」: 私は 50 歳で、持病を持っています。夫が職を失いました。彼は401(k)を襲撃すべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "summary": "「私たちの財政と医療の状況はますます懸念されるようになりました。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T03:15:00+09:00",
+   "lang": "en",
+   "title_orig": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+  },
+  {
+   "title": "社会保障はネズミ講ですか?いいえ、1930 年代の破滅の予言に夢中にならないでください。",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "summary": "ウィスコンシン州の共和党上院議員ロン・ジョンソンは社会保障を「詐欺」と呼び、議員らに社会保障を閉鎖するよう訴えた。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T03:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom."
+  },
+  {
+   "title": "2027年に債券が株式を上回るという年末のポートフォリオのリバランスが危険な賭けである理由",
+   "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+   "summary": "ポートフォリオのリバランスには、投資家さえ気づいていない多くの暗黙の賭けが含まれます。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T02:49:00+09:00",
+   "lang": "en",
+   "title_orig": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027"
+  },
+  {
+   "title": "Anthropicの株価はIPO価格に近づき、AI取引の足を引っ張る",
+   "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+   "summary": "アンスロピックが初値を維持できないことは「他のテクノロジー企業にとって悪い」とみなされている。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T02:47:00+09:00",
+   "lang": "en",
+   "title_orig": "Anthropic’s stock slides closer to IPO price and drags down the AI trade"
+  },
+  {
+   "title": "AIの下落が激化する中、ナスダックは新たな下落に向かう",
+   "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
+   "summary": "AI取引に対する投資家の信頼感にひび割れの兆しが見られる中、世界株は売られ、米国債は上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-21T02:35:00+09:00",
+   "lang": "en",
+   "title_orig": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies"
+  },
+  {
+   "title": "プーチン大統領は三国首脳会談の真の勝者だった",
+   "link": "https://www.ft.com/content/8f24b313-1b9a-401d-88e6-089aedc72519",
+   "summary": "深センでの会談はロシア指導者を勇気づけただけだ。今、ヨーロッパは真剣な外交の基礎を築かなければなりません",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-21T02:33:46+09:00",
+   "lang": "en",
+   "title_orig": "Putin was the real winner at the trilateral summit"
+  },
+  {
+   "title": "ヘルスケアのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-37edbe6f?mod=rss_markets_main",
+   "summary": "ヘルスケア分野をカバーする最新のマーケットトークで、サノフィ、インスメッド、ノバルティスなどに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-21T02:26:00+09:00",
+   "lang": "en",
+   "title_orig": "Health Care Roundup: Market Talk"
+  },
+  {
+   "title": "金融サービスのまとめ: マーケットトーク",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-3af0bea5?mod=rss_markets_main",
+   "summary": "金融サービスをカバーする最新の Market Talks で、PayPal、Assicurazioni Generali などに関する洞察を見つけてください。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-21T02:24:00+09:00",
+   "lang": "en",
+   "title_orig": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "title": "新しい法案の下では、メディケアの受給者は老人ホームを利用せずに自宅でより安価なケアを受けることができる",
+   "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+   "summary": "この計画により、病院や介護施設のベッドが解放され、コストが削減されることになる。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T02:15:00+09:00",
+   "lang": "en",
+   "title_orig": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
+  },
+  {
+   "title": "夫はボートに8万ドルを費やしましたが、私の10万ドルの陶芸工房の計画は無責任だと言います。誰が正しいですか？",
+   "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+   "summary": "「私たちは290万ドルの退職金口座と90万ドル相当の完済済みの家を持っています。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T02:15:00+09:00",
+   "lang": "en",
+   "title_orig": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?"
+  },
+  {
+   "title": "ジェイミー・ダイモン氏、英国の「不公平な」銀行税を取り戻すと誓う",
+   "link": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
+   "summary": "米国の金融業者のボス、政府が先月発表した増額を相殺する方法を見つけると語る",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-21T02:08:46+09:00",
+   "lang": "en",
+   "title_orig": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax"
+  },
+  {
+   "title": "市場の暴落が怖いです。 100万ドルの退職貯蓄のうち40万ドルを年金に投資すべきでしょうか?",
+   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+   "summary": "「私たちは45万ドルの価値のある家を持っています。私たちの年間収入は合わせて12万5千ドルです。」",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T02:05:00+09:00",
+   "lang": "en",
+   "title_orig": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
+  },
+  {
+   "title": "金利期待により金は圧迫される",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
+   "summary": "金と銀はここ１年余りで最低水準に下落した。  FRBの利上げ期待と米ドル高が引き続き重し",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-21T02:05:00+09:00",
+   "lang": "en",
+   "title_orig": "Interest-Rate Expectations Keep Gold Under Pressure"
+  },
+  {
+   "title": "シティ、英国子会社の資産350億ドルを過少計上",
+   "link": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+   "summary": "リスク加重資産に関連したこの記録管理の失敗は、内部統制を強化しようとする最高経営責任者（CEO）のジェーン・フレイザー氏の取り組みにとって後退となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-21T01:59:00+09:00",
+   "lang": "en",
+   "title_orig": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary"
+  },
+  {
+   "title": "「買い手は血を求めている」: 住宅販売が記録的な低水準にある中、買い手が決定権を握っている",
+   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+   "summary": "不動産業者らによると、過去最高の住宅価格と７％の住宅ローン金利に耐えながら市場に残った少数の買い手が勝負を決め始めているという。",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-11-21T01:37:00+09:00",
+   "lang": "en",
+   "title_orig": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
+  },
+  {
+   "title": "トランプ大統領、1月までにウクライナ和平合意を目指す",
+   "link": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
+   "summary": "米当局者らは民主党が議会を掌握する前にウラジーミル・プーチン大統領とヴォロディミル・ゼレンスキー氏の合意を確保したいと考えている",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-21T01:17:15+09:00",
+   "lang": "en",
+   "title_orig": "Trump seeks Ukraine peace deal before January"
+  },
+  {
+   "title": "アンディ・バーナム、画期的なEU協定でBrexitの撤回に着手",
+   "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
+   "summary": "ブリュッセルの合意、大学学費をめぐる争いと関係の今後の行方に関する疑問が影を落とす",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-21T00:57:09+09:00",
+   "lang": "en",
+   "title_orig": "Andy Burnham begins to undo Brexit with landmark EU deal"
+  },
+  {
+   "title": "市場における AI 熱が高まりつつある",
+   "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+   "summary": "投資家にとって、米国株は過去20年間で最悪の年に突入しており、テクノロジーの魔法は消えつつあるのかもしれない",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-21T00:23:38+09:00",
+   "lang": "en",
+   "title_orig": "The AI fever in markets is breaking"
+  },
+  {
+   "title": "ウォーシュ氏はFRB当局者があまり発言しないことを望んでいる。代わりに、彼らはもっと話しています",
+   "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+   "summary": "FRB議長が傍観している間、FRB当局者らは最近、マイクの前に殺到している。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-21T00:20:54+09:00",
+   "lang": "en",
+   "title_orig": "Warsh wants Fed officials to talk less. Instead, they’re talking more"
+  },
+  {
+   "title": "原油先物は供給改善で下落幅拡大",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
+   "summary": "中東からの供給増加が政権内紛争への懸念を上回り、原油先物は３週間連続の下落に向かう",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-21T00:00:00+09:00",
+   "lang": "en",
+   "title_orig": "Oil Futures Extend Decline on Improving Supply"
+  },
+  {
+   "title": "EV補助金受け付け終了 予算枯渇",
+   "link": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-20T23:58:48+09:00"
+  },
+  {
+   "title": "AI株下落の影響でドルは小幅下落",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
+   "summary": "アンスロピックの記録的な新規株式公開（IPO）が一夜にして米国のAI関連株の売りを止めることができなかったことを受け、ドルは小幅下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-20T23:48:00+09:00",
+   "lang": "en",
+   "title_orig": "Dollar Falls Modestly as AI Stock Selloff Weighs"
+  },
+  {
+   "title": "米国の天然ガス先物は序盤の取引で小幅上昇",
+   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main",
+   "summary": "米国の天然ガス先物相場は昨日反落した後、カーブの先頭で小幅上昇した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-11-20T23:33:00+09:00",
+   "lang": "en",
+   "title_orig": "U.S. Natural Gas Futures Edge Up in Early Trading"
+  },
+  {
+   "title": "強気相場には新たな問題が生じている。 「賢いお金」が売れている",
+   "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+   "summary": "企業は自社株買いから株式発行に移行し、新たな供給を加えている。 Anthropic の 810 億ドルの IPO はその需要を試します。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-20T23:15:29+09:00",
+   "lang": "en",
+   "title_orig": "The bull market has a new problem. The 'smart money' is selling"
+  },
+  {
+   "title": "フランスのド・ヴィルパン氏、混み合う選挙戦で大統領選に立候補",
+   "link": "https://www.ft.com/content/71d49bc4-76df-4f0b-bb49-5db49b77aceb?syn-25a6b1a6=1",
+   "summary": "フランス政界の中心人物の立候補者が増え、ルペン氏が世論調査でリードする中、重要な2027年の選挙に不確実性が高まる",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-20T23:03:35+09:00",
+   "lang": "en",
+   "title_orig": "France’s de Villepin launches presidential bid in crowded race"
+  },
+  {
+   "title": "アンスロピック株下落で米国ハイテク株の敗退が深まる",
+   "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+   "summary": "AI関連株が激しい売り波に耐える中、投資家は避難先を急ぐ",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-20T23:01:58+09:00",
+   "lang": "en",
+   "title_orig": "US tech rout deepens as Anthropic shares tumble"
+  },
+  {
+   "title": "マガの合意形成は米国が仲介したバルカン半島の平和を脅かす",
+   "link": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
+   "summary": "デイトン和平合意から30年、米国はボスニアの民族的緊張を深める危険を伴う競合する利益を追求している",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-11-20T23:00:38+09:00",
+   "lang": "en",
+   "title_orig": "Maga dealmaking threatens US-brokered peace in the Balkans"
+  },
+  {
+   "title": "英ＥＵ、食品貿易などで関係強化　若者交流も拡大―首脳会議",
+   "link": "https://www.jiji.com/jc/article?k=2026112000876&g=int&m=rss",
+   "summary": "",
+   "source": "時事通信",
+   "category": "報道機関",
+   "published": "2026-11-20T22:45:00+09:00"
+  },
+  {
+   "title": "トランプ大統領がアジアから帰国しても、米中貿易、台湾、ハイテク分野の緊張は未解決のまま",
+   "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+   "summary": "アナリストらは、今週深センで開催される注目の三者会合やその他のAPEC会合から具体的な成果がほとんど出ていないことに注目している。",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-11-20T22:29:50+09:00",
+   "lang": "en",
+   "title_orig": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia"
+  },
+  {
+   "title": "サウジ原油 日本での備蓄3倍合意",
+   "link": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-20T21:32:05+09:00"
+  },
+  {
+   "title": "投資信託で75億円の売却損、組合員8万人の配当は見送り　JAさが",
+   "link": "https://www.asahi.com/articles/ASVCN3Q3YVCNTTHB002M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-20T20:50:00+09:00"
+  },
+  {
+   "title": "ココイチ売却 米KKRに優先交渉権",
+   "link": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-11-20T19:35:37+09:00"
+  },
+  {
    "title": "財務省再生プロジェクトについて",
    "link": "https://www.mof.go.jp/about_mof/saisei/index.html",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-11-20T19:24:00+09:00"
+  },
+  {
+   "title": "太平洋クロマグロ、大型魚の枠は25%増　やや手頃な値段に？",
+   "link": "https://www.asahi.com/articles/ASVCN3C5YVCNULFA01RM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-11-20T19:21:27+09:00"
   },
   {
    "title": "ハウス食品Gの「ココイチ」売却で、米ファンドのKKRに優先交渉権",
@@ -77,52 +405,12 @@
    "published": "2026-11-20T19:16:39+09:00"
   },
   {
-   "title": "夫はボートに8万ドルを費やしましたが、私の10万ドルの陶芸工房の計画は無責任だと言います。誰が正しいですか？",
-   "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-   "summary": "「私たちは290万ドルの退職金口座と90万ドル相当の完済済みの家を持っています。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T19:15:00+09:00",
-   "lang": "en",
-   "title_orig": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?"
-  },
-  {
-   "title": "麻生コンクリート　無届けで汚水処理変更、工場外に排出　県が調査",
+   "title": "麻生コンクリート　無届けで汚水処理変更、工場外排出　県が立ち入り",
    "link": "https://www.asahi.com/articles/ASVCN32W3VCNTIPE00WM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-11-20T19:10:00+09:00"
-  },
-  {
-   "title": "今日の株式市場: テクノロジーの敗退が激化する中、人類株は下落",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
-   "summary": "S&P500は2020年以来最長の連敗に向かう",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T19:08:25+09:00",
-   "lang": "en",
-   "title_orig": "Stock Market Today: Anthropic Stock Drops as Tech Rout Intensifies"
-  },
-  {
-   "title": "前回、S&P 500の連敗が6セッションに達した後に何が起こったかは次のとおりです",
-   "link": "https://www.marketwatch.com/story/heres-what-happened-next-after-previous-times-the-s-p-500-losing-streak-reached-six-sessions-13ff7704?mod=mw_rss_topstories",
-   "summary": "市場にとっては、地獄の1週間だった――より正確に言えば、2025年の「解放記念日」関税以来、S&P 500にとって最悪の状況だった――が、",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T19:08:00+09:00",
-   "lang": "en",
-   "title_orig": "Here’s what happened next after previous times the S&P 500 losing streak reached six sessions"
-  },
-  {
-   "title": "ベア・グリルスは「電気も水も屋根もない」放棄された島にある自宅でどのように過酷な環境で暮らしたか",
-   "link": "https://www.marketwatch.com/story/how-bear-grylls-lived-in-the-harsh-conditions-of-his-own-home-on-an-abandoned-island-with-no-power-no-water-no-roof-8c3e17c4?mod=mw_rss_topstories",
-   "summary": "ベア・グリルスさんは数十年前、妻のシャラ・グリルスさんとともに、ロンドンのアパートではなく放棄された島にスターター住宅を購入するという珍しい選択をした。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T19:01:00+09:00",
-   "lang": "en",
-   "title_orig": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with ‘no power, no water, no roof’"
   },
   {
    "title": "​​【業界再編】ANAがエア・ドゥ&ソラシド完全子会社化の意味／JALと連携で便数調整の可能性も？／半導体関連も運ぶ航空貨物を強化／国内線の値上げは今年一気に進捗／批判受けた“サービス劣化”業績影響は | ビジネス | 東洋経済オンライン",
@@ -149,24 +437,6 @@
    "published": "2026-11-20T18:55:00+09:00"
   },
   {
-   "title": "カット野菜が進化 選ばれる理由",
-   "link": "https://news.yahoo.co.jp/pickup/6603322?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-20T18:43:45+09:00"
-  },
-  {
-   "title": "AIの下落が激化する中、ナスダックは新たな下落に向かう",
-   "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
-   "summary": "AI取引に対する投資家の信頼感にひび割れの兆しが見られる中、世界株は売られ、米国債は上昇した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T18:41:00+09:00",
-   "lang": "en",
-   "title_orig": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies"
-  },
-  {
    "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
    "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
    "summary": "",
@@ -189,16 +459,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-20T18:30:00+09:00"
-  },
-  {
-   "title": "クシュナー氏の親和性が支援する英国の銀行が米国のライセンスを取得",
-   "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
-   "summary": "オークノースは大西洋の向こう側に目を向け、成長企業への融資拡大を目指している。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T18:18:00+09:00",
-   "lang": "en",
-   "title_orig": "British Bank Backed by Kushner’s Affinity Gets U.S. License"
   },
   {
    "title": "公認会計士、14歳が史上最年少で合格　1687人が「狭き門」突破",
@@ -225,16 +485,6 @@
    "published": "2026-11-20T18:13:59+09:00"
   },
   {
-   "title": "AIの下落が激化する中、欧州ハイテク株が下落",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
-   "summary": "世界的な株安が強まる中、欧州のＡＩ株は急落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T18:02:00+09:00",
-   "lang": "en",
-   "title_orig": "European Tech Stocks Tumble as AI Selloff Intensifies"
-  },
-  {
    "title": "【史上最大のIPO】アンソロピック｢13兆円調達｣でスペースX超えだが…時価総額280兆円が激減しうる\"三大リスク\"の正体 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/965461?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "人工知能（AI）開発大手･アンソロピックが11月19日､ナスダックに新規株式公開（IPO）を果たしました。調達額は約810億ドル（約13兆円）と､6月に上場したスペースXを超え､史上最大のIPOとな…",
@@ -257,26 +507,6 @@
    "source": "Yahoo!経済トピックス",
    "category": "編集部厳選",
    "published": "2026-11-20T17:40:19+09:00"
-  },
-  {
-   "title": "ホワイトハウスがサイバーセキュリティー高官を交代",
-   "link": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
-   "summary": "キルスティン・デイビス氏、一連のオンライン障害を受けてショーン・ケアンクロス氏の後任として国防総省から入社",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T17:33:59+09:00",
-   "lang": "en",
-   "title_orig": "White House replaces top cyber security official"
-  },
-  {
-   "title": "AI株下落の影響でドルは小幅下落",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
-   "summary": "アンスロピックの記録的な新規株式公開（IPO）が一夜にして米国のAI関連株の売りを止めることができなかったことを受け、ドルは小幅下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T17:32:00+09:00",
-   "lang": "en",
-   "title_orig": "Dollar Falls Modestly as AI Stock Selloff Weighs"
   },
   {
    "title": "【独自】生命保険各社もタマホームを通じた新規保険販売を停止へ､代理店廃業方針に立ちはだかる壁 | ビジネス | 東洋経済オンライン",
@@ -351,16 +581,6 @@
    "published": "2026-11-20T17:00:00+09:00"
   },
   {
-   "title": "バーナム、EU関係緊密化促進のためBrexit「リセット」協定に合意",
-   "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
-   "summary": "合意は緊密な関係につながるが、ブリュッセルは、英国がEUの学生の授業料削減に同意するかどうかに実施がかかっていると主張",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T16:49:41+09:00",
-   "lang": "en",
-   "title_orig": "Burnham to agree Brexit ‘reset’ deal in push for closer EU ties"
-  },
-  {
    "title": "明治、チーズなど65品目を1～2月に値上げ　消費減税前に「先手」",
    "link": "https://www.asahi.com/articles/ASVCN2F2CVCNULFA00HM.html?ref=rss",
    "summary": "",
@@ -369,30 +589,12 @@
    "published": "2026-11-20T16:45:00+09:00"
   },
   {
-   "title": "Anthropic IPOがAI取引の再活性化に失敗し、ハイテク株が下落",
-   "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
-   "summary": "クロード AI メーカーが記録的なリストに掲載されたにもかかわらず、ヨーロッパとアジアの市場はウォール街に続いて下落",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T16:29:48+09:00",
-   "lang": "en",
-   "title_orig": "Tech stocks fall as Anthropic IPO fails to reignite AI trade"
-  },
-  {
    "title": "東電、柏崎刈羽7号機のテロ対策施設完成延期へ　延長幅で稼働ゼロも",
    "link": "https://www.asahi.com/articles/ASVCM3DFCVCMULFA01DM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-11-20T16:29:23+09:00"
-  },
-  {
-   "title": "置き配は玄関前で配達完了 指針案",
-   "link": "https://news.yahoo.co.jp/pickup/6603298?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-20T16:20:05+09:00"
   },
   {
    "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
@@ -417,14 +619,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-11-20T16:00:00+09:00"
-  },
-  {
-   "title": "日経平均終値3007円安 AI巡り混乱",
-   "link": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-11-20T15:48:16+09:00"
   },
   {
    "title": "｢ナオキマンは岸田元首相と高市首相の隠し子｣説まで…陰謀論YouTuberを起用した政府広報が招いた\"悪夢のゲーム\" | ライフ | 東洋経済オンライン",
@@ -483,74 +677,6 @@
    "published": "2026-11-20T15:00:00+09:00"
   },
   {
-   "title": "決済アプリPayどん停止、情報25万件漏れた可能性　鹿児島銀など",
-   "link": "https://www.asahi.com/articles/ASVCN1JSLVCNTLTB005M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-20T14:50:00+09:00"
-  },
-  {
-   "title": "中国は習主席の「ヤルタ2.0」の瞬間に大喜び",
-   "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
-   "summary": "アナリストらによると、ドナルド・トランプ氏とウラジーミル・プーチン氏との三国首脳会談は中国政府の世界的な指導的役割を予感させるものだった",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T14:45:11+09:00",
-   "lang": "en",
-   "title_orig": "China revels in Xi’s ‘Yalta 2.0’ moment"
-  },
-  {
-   "title": "AI株の下落が深刻化、アジア株が下落",
-   "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
-   "summary": "アンスロピックの大ヒット新規株式公開が人工知能株の下落を抑えることができなかったため、金曜日朝のアジア株は下落した。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T14:40:00+09:00",
-   "lang": "en",
-   "title_orig": "Asian Equities Tumble as AI Stock Selloff Deepens"
-  },
-  {
-   "title": "つまり、Anthropic はついに上場企業となりました。今は何ですか？",
-   "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
-   "summary": "大ヒット IPO の事後分析",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T14:19:35+09:00",
-   "lang": "en",
-   "title_orig": "So, Anthropic is finally a public company. What now?"
-  },
-  {
-   "title": "インフレ「ウイルス」の蔓延により、石油が債券市場の支配力を失う",
-   "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
-   "summary": "原油価格と借入コストとの密接な相関関係は崩れた",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T14:00:26+09:00",
-   "lang": "en",
-   "title_orig": "Oil loses grip on bond markets as inflation ‘virus’ spreads"
-  },
-  {
-   "title": "AI の準中央銀行としての Nvidia の役割の危険性",
-   "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
-   "summary": "半導体大手のこの立場は、サブプライムローンバブル前の保険会社AIGを彷彿とさせる",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T14:00:17+09:00",
-   "lang": "en",
-   "title_orig": "The dangers of Nvidia’s role as AI’s quasi-central bank"
-  },
-  {
-   "title": "EUへの再加盟は英国経済をスイス型協定の2倍押し上げるだろう",
-   "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
-   "summary": "利益の多くは、Brexit関連の不確実性によって損なわれた企業投資の回復から得られるだろう",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-11-20T14:00:17+09:00",
-   "lang": "en",
-   "title_orig": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal"
-  },
-  {
    "title": "財政融資資金現在高（令和8年10月末）",
    "link": "https://www.mof.go.jp/policy/filp/reference/flf_balance/zaiyuu/zaiyuu0810.html",
    "summary": "",
@@ -591,16 +717,6 @@
    "published": "2026-11-20T13:30:00+09:00"
   },
   {
-   "title": "マーク・ウォルターが保険会社にインサイダー取引を持ち込んだとき、この元保安官は調子に乗っていました",
-   "link": "https://www.wsj.com/finance/regulation/this-ex-sheriff-was-on-the-beat-when-mark-walter-loaded-insurers-with-insider-deals-dbfd45d1?mod=rss_markets_main",
-   "summary": "デラウェア州の保険長官は、紛争に巻き込まれたウォルターの保険会社に、きれいな健康保険証書を渡した。現在、彼の部署はそれが「意図的な誤解だった」と発表している",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T13:09:00+09:00",
-   "lang": "en",
-   "title_orig": "This Ex-Sheriff Was on the Beat When Mark Walter Loaded Insurers With Insider Deals"
-  },
-  {
    "title": "日陰を集める遊びが､街を変える？　近視を抑えるために｢外で過ごす時間を増やす｣という新発想とは？ | キャリア・教育 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/962871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "猛暑の中､子どもに｢外で遊ぼう｣と促しても､なかなか行動にはつながりません。しかし､近視抑制には屋外で過ごす時間が大切。暑さと安全に配慮しつつ､子どもが自ら楽しみながら外に出たくなる仕掛けや遊びとは…",
@@ -617,30 +733,12 @@
    "published": "2026-11-20T13:00:00+09:00"
   },
   {
-   "title": "中小向けの二大租特「効果ない」　維新が廃止方針　自民と議論へ",
-   "link": "https://www.asahi.com/articles/ASVCN12KHVCNULFA006M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-11-20T12:35:00+09:00"
-  },
-  {
    "title": "流動性供給(第465回)入札結果",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261120.htm",
    "summary": "",
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-11-20T12:35:00+09:00"
-  },
-  {
-   "title": "「NVIDIA の混乱には恐怖を感じています」: 株を売って不動産を買うべきか、それとも嵐を乗り切るべきでしょうか?",
-   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-   "summary": "株を捨てて不動産やCDを買いたくなりませんか？急な動きをする前に深呼吸してください。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T12:31:00+09:00",
-   "lang": "en",
-   "title_orig": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
   },
   {
    "title": "国庫短期証券（第1421回）の入札結果",
@@ -699,42 +797,12 @@
    "published": "2026-11-20T11:00:00+09:00"
   },
   {
-   "title": "市場の暴落が怖いです。 100万ドルの退職貯蓄のうち40万ドルを年金に投資すべきでしょうか?",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "summary": "「私たちは45万ドルの価値のある家を持っています。私たちの年間収入は合わせて12万5千ドルです。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T10:30:00+09:00",
-   "lang": "en",
-   "title_orig": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
-  },
-  {
-   "title": "妻は家族のニューヨーク旅行に資金を提供しており、そのおかげで私たちの貯金は使い果たされています。彼女にやめてもらったほうがいいでしょうか？",
-   "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-   "summary": "「ホテルの宿泊費は1泊あたり400ドルもすることもあります。」",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T10:22:00+09:00",
-   "lang": "en",
-   "title_orig": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
-  },
-  {
    "title": "｢将来､何をしたいかわからない…｣ 精神科医が《自分探しで迷子になった人》に薦める\"本当の自分\"のあぶり出し方 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/963735?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "｢今後どうしたい？｣に答えられず悩む人は多いものですが､精神科医の志村祥瑚氏は｢やりたいこと｣は内面から無理に探すものではなく､日常の行動のなかにヒントがあると説きます。本当の自分を知る手がかりは､…",
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-11-20T10:00:00+09:00"
-  },
-  {
-   "title": "意見 |人間の驚くべき富",
-   "link": "https://www.wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746?mod=rss_markets_main",
-   "summary": "Nvidia の騒動の後、投資家は AI に対する疑念を抱くことはありませんでした。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-11-20T09:50:00+09:00",
-   "lang": "en",
-   "title_orig": "Opinion | The Astonishing Wealth of Anthropic"
   },
   {
    "title": "報告省令レート（12月分）",
@@ -751,26 +819,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-11-20T09:00:00+09:00"
-  },
-  {
-   "title": "Anthropic の「ほろ苦い」IPO の後に、これから何が待っているのか",
-   "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-   "summary": "個人投資家も参加したが、アンスロピックはこれまでのところテクノロジーセクターに広範な押し上げをもたらすことができていない。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T08:56:00+09:00",
-   "lang": "en",
-   "title_orig": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead"
-  },
-  {
-   "title": "木曜日の株式市場の大暴落の中で上昇したのはこれらの銘柄だけだった",
-   "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-   "summary": "S&P 500 の 11 セクターすべてが下落し、そのうち 10 セクターは 1% 以上下落しましたが、サイバーセキュリティ関連株がその低迷をカバーしました。",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-11-20T08:11:00+09:00",
-   "lang": "en",
-   "title_orig": "These were the only stocks that rose amid the stock market’s wipeout Thursday"
   },
   {
    "title": "かつての王者「かっぱ寿司」は、なぜ赤字に転落したのか　競合3社に差をつけられたワケ",
@@ -925,16 +973,6 @@
    "title_orig": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says"
   },
   {
-   "title": "FRBのウォラー氏、中央銀行は0.5ポイント利上げで「人々に衝撃を与える」必要があるかもしれないと語る",
-   "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-   "summary": "FRBの目標である2％を上回るインフレが続いているため、中銀当局者はより積極的な姿勢に迫られている。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-19T00:13:39+09:00",
-   "lang": "en",
-   "title_orig": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
-  },
-  {
    "title": "「銀行法施行規則」等、「自己資本比率規制（第１の柱・第３の柱）に関する告示」等及び「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
    "link": "https://www.fsa.go.jp/news/r8/ginkou/20261118.html",
    "summary": "",
@@ -959,42 +997,12 @@
    "published": "2026-11-18T22:03:00+09:00"
   },
   {
-   "title": "プーチン大統領、トランプ大統領と習主席との会談を前に、EUは産業を失い、競争に後れをとっていると発言",
-   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-   "summary": "プーチン大統領はこの演説を利用して、米国の制裁にも関わらずロシアの経済回復力を強調し、国内のAPEC加盟国に機会を与えようとした。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-18T17:29:35+09:00",
-   "lang": "en",
-   "title_orig": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi"
-  },
-  {
    "title": "金融安定理事会による本会合議事要旨の公表について",
    "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-11-18T17:00:00+09:00"
-  },
-  {
-   "title": "JPモルガンは人間を介さないAIエージェント取引に取り組んでいる",
-   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-   "summary": "JPモルガンと現代カードは金融取引におけるAIエージェントの利用拡大を目指している。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-18T15:18:11+09:00",
-   "lang": "en",
-   "title_orig": "JPMorgan is working on AI agent transactions that don’t involve humans"
-  },
-  {
-   "title": "トランプ、習、プーチンが中国で会談する際に注目すべき3つのこと",
-   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-   "summary": "ドナルド・トランプ米大統領、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領は、APEC首脳らとともに深センで会談する予定だ。",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-11-18T15:04:39+09:00",
-   "lang": "en",
-   "title_orig": "Three things to watch as Trump, Xi and Putin meet in China"
   },
   {
    "title": "なぜ今、ワタミは上場廃止するのか？　渡邉美樹社長「経営者人生、最大の挑戦」とは",
@@ -1019,62 +1027,6 @@
    "source": "日本銀行",
    "category": "公的機関",
    "published": "2026-11-18T10:00:00+09:00"
-  },
-  {
-   "title": "イベント,「Japan Fintech Week 2027」の開催について公表しました。",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20261113/japanfintechweek.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-18T02:00:00+09:00"
-  },
-  {
-   "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
-   "link": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-18T02:00:00+09:00"
-  },
-  {
-   "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第について公表しました。",
-   "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20261118.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-18T02:00:00+09:00"
-  },
-  {
-   "title": "国際関係,IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
-   "link": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-18T02:00:00+09:00"
-  },
-  {
-   "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
-   "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-17T23:00:00+09:00"
-  },
-  {
-   "title": "採用,職員を募集しています。（金融モニタリング業務（マネー・ローンダリング・テロ資金供与対策）に従事する職員）",
-   "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-12/ginnsyou-12.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-17T23:00:00+09:00"
-  },
-  {
-   "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月13日）について掲載しました。",
-   "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20261113-1.html",
-   "summary": "",
-   "source": "金融庁",
-   "category": "公的機関",
-   "published": "2026-11-17T23:00:00+09:00"
   }
  ]
 }
